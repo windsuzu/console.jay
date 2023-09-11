@@ -1,6 +1,6 @@
 ---
 title: Root
-aliases:
+tags: []
 ---
 
 Hello world!
