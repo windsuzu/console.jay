@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +150,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caf13bb3a9ba86c5",
-  "lastOpenFiles": [
-    "index.md",
-    "2023-09-06.md",
-    "Untitled.canvas"
-  ]
+  "active": "5142f5095a4e8c5f",
+  "lastOpenFiles": ["index.md", "2023-09-06.md", "Untitled.canvas"]
 }
