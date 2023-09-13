@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4e7511e06de6c58",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +42,7 @@
       {
         "id": "769a4256208b353a",
         "type": "tabs",
-        "dimension": 70.15810276679841,
+        "dimension": 70.15810276679842,
         "children": [
           {
             "id": "e4f857c12bc33e53",
@@ -71,7 +82,7 @@
       {
         "id": "91d8045f3deba083",
         "type": "tabs",
-        "dimension": 29.841897233201582,
+        "dimension": 29.841897233201585,
         "children": [
           {
             "id": "14e2e7cf933fa03a",
@@ -217,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -232,6 +243,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b559e6d5ccaf096",
-  "lastOpenFiles": ["templates", "index.md", "2023-09-06.md", "Untitled.canvas"]
+  "active": "f4e7511e06de6c58",
+  "lastOpenFiles": ["index.md", "templates", "2023-09-06.md", "Untitled.canvas"]
 }
