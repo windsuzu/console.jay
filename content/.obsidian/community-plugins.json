@@ -4,5 +4,10 @@
   "settings-search",
   "cmdr",
   "url-into-selection",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "templater-obsidian",
+  "obsidian-admonition",
+  "quickadd",
+  "obsidian-linter",
+  "easy-typing-obsidian"
 ]
