@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6b526f74500e5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,6 +246,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "caf13bb3a9ba86c5",
-  "lastOpenFiles": ["index.md", "templates", "2023-09-06.md", "Untitled.canvas"]
+  "active": "e4f857c12bc33e53",
+  "lastOpenFiles": ["Untitled.md", "index.md", "templates", "2023-09-06.md", "Untitled.canvas"]
 }
