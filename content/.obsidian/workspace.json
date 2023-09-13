@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f27fbb4399e33e8c",
+        "id": "2d1f22292ef6b19b",
         "type": "tabs",
         "children": [
           {
-            "id": "caf13bb3a9ba86c5",
+            "id": "7b89e2fa2024bd18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6b526f74500e5f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "pwa/PWA (Progressive Web Apps).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "pwa/PWA (Progressive Web Apps).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "pwa/PWA (Progressive Web Apps).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "pwa/PWA (Progressive Web Apps).md"
               }
             }
           },
@@ -213,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "pwa/PWA (Progressive Web Apps).md"
               }
             }
           },
@@ -223,14 +210,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "pwa/PWA (Progressive Web Apps).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,9 +231,25 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "copilot:Copilot Chat": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "cmdr:QuickAdd: Add new note ⚡": false
     }
   },
-  "active": "e6b526f74500e5f6",
-  "lastOpenFiles": ["Untitled.md", "index.md", "templates", "2023-09-06.md", "Untitled.canvas"]
+  "active": "7b89e2fa2024bd18",
+  "lastOpenFiles": [
+    "templates/default-note.md",
+    "pwa/PWA (Progressive Web Apps).md",
+    "pwa/Progressive Web Apps.md",
+    "pwa/Untitled.md",
+    "pwa",
+    "index.md",
+    "test.md",
+    "hey.md",
+    "Untitled.md",
+    "templates",
+    "templates",
+    "2023-09-06.md",
+    "Untitled.canvas"
+  ]
 }

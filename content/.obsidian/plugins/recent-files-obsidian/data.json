@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PWA (Progressive Web Apps)",
+      "path": "pwa/PWA (Progressive Web Apps).md"
+    },
+    {
+      "basename": "default-note",
+      "path": "templates/default-note.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     }

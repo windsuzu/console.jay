@@ -4,7 +4,14 @@
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:79f93145-03af-4a9f-93c3-d094b079f303",
+      "icon": "plus",
+      "name": "QuickAdd: Add new note ⚡",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
