@@ -94,7 +94,7 @@
       {
         "id": "4954756cba5b7ade",
         "type": "tabs",
-        "dimension": 50.59288537549407,
+        "dimension": 71.34387351778656,
         "children": [
           {
             "id": "3d50214808998e0a",
@@ -130,13 +130,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "031d4b605c2dd3b0",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "884ddd02c3319b96",
         "type": "tabs",
-        "dimension": 49.40711462450593,
+        "dimension": 28.65612648221344,
         "children": [
           {
             "id": "037f3688a94f0d49",
@@ -233,10 +242,11 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "cmdr:QuickAdd: Add new note ⚡": false
+      "cmdr:QuickAdd: Add new note ⚡": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "b3676b48cbe061dd",
+  "active": "031d4b605c2dd3b0",
   "lastOpenFiles": [
     "templates/default-note.md",
     "pwa/PWA (Progressive Web Apps).md",
