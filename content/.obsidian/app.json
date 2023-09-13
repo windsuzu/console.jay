@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "propertiesInDocument": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments"
 }

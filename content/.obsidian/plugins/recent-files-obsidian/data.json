@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "PWA (Progressive Web Apps)",
+      "path": "pwa/PWA (Progressive Web Apps).md"
+    },
+    {
       "basename": "Create a PWA",
       "path": "pwa/Create a PWA.md"
     },
     {
-      "basename": "PWA (Progressive Web Apps)",
-      "path": "pwa/PWA (Progressive Web Apps).md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "default-note",
       "path": "_templates/default-note.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "pwa-service-worker",
+      "path": "attachments/pwa-service-worker.png"
+    },
+    {
+      "basename": "pwa-passed",
+      "path": "attachments/pwa-passed.png"
     }
   ],
   "omittedPaths": [],

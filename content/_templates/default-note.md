@@ -1,13 +1,13 @@
 ---
 title: <% tp.file.title %>
 draft: false
-date: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
+date: 2023-09-13 18:23
 tags:
   - reading
   - learning
 ---
 
-> [!tldr]
+> [!tldr] TL;DR
 > Write some tldr
 
 write some details or insights
