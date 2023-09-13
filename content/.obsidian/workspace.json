@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d1f22292ef6b19b",
+        "id": "03ab178dd17b6c7a",
         "type": "tabs",
         "children": [
           {
-            "id": "7b89e2fa2024bd18",
+            "id": "b3676b48cbe061dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -236,7 +236,7 @@
       "cmdr:QuickAdd: Add new note ⚡": false
     }
   },
-  "active": "7b89e2fa2024bd18",
+  "active": "b3676b48cbe061dd",
   "lastOpenFiles": [
     "templates/default-note.md",
     "pwa/PWA (Progressive Web Apps).md",

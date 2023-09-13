@@ -11,3 +11,6 @@ tags:
 > Write some tldr
 
 write some details or insights
+
+> [!info] References
+> - put some references
