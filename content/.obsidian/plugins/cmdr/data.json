@@ -10,6 +10,13 @@
       "icon": "plus",
       "name": "QuickAdd: Add new note ⚡",
       "mode": "any"
+    },
+    {
+      "id": "templater-obsidian:_templates/default-note.md",
+      "icon": "flag-triangle-left",
+      "name": "Apply Default Note Templater ❤️",
+      "mode": "ed72b775363b0330",
+      "color": "#000000"
     }
   ],
   "rightRibbon": [],

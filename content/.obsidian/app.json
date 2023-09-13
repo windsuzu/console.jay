@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true
 }

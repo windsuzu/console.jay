@@ -5,7 +5,7 @@
       "name": "Add new note ⚡",
       "type": "Template",
       "command": true,
-      "templatePath": "templates/default-note.md",
+      "templatePath": "_templates/default-note.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:title}}"
