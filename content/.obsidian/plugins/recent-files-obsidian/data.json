@@ -9,12 +9,12 @@
       "path": "pwa/Create a PWA.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "default-note",
       "path": "_templates/default-note.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "pwa-service-worker",

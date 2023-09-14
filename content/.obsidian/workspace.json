@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e81cd0da54522ece",
+        "id": "cc98ab08b9aad91a",
         "type": "tabs",
         "children": [
           {
-            "id": "d189b390b435e8fd",
+            "id": "7059c0106fadb91c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pwa/PWA (Progressive Web Apps).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pwa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,6 +139,16 @@
         "dimension": 59.78260869565217,
         "children": [
           {
+            "id": "57f3938ebda4009b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pwa/PWA (Progressive Web Apps).md"
+              }
+            }
+          },
+          {
             "id": "037f3688a94f0d49",
             "type": "leaf",
             "state": {
@@ -163,16 +173,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "57f3938ebda4009b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md"
               }
             }
           },
@@ -235,13 +235,15 @@
       "cmdr:Apply Default Note Templater ❤️": false
     }
   },
-  "active": "d189b390b435e8fd",
+  "active": "7059c0106fadb91c",
   "lastOpenFiles": [
     "pwa/Create a PWA.md",
-    "index.md",
-    "_templates/default-note.md",
-    "attachments/pwa-service-worker.png",
     "pwa/PWA (Progressive Web Apps).md",
+    "Configure ServiceWorker.md",
+    "Untitled.md",
+    "_templates/default-note.md",
+    "index.md",
+    "attachments/pwa-service-worker.png",
     "attachments/pwa-passed.png",
     "attachments",
     "Pasted image 20230913181543.png",
@@ -252,7 +254,6 @@
     "pwa",
     "test.md",
     "hey.md",
-    "Untitled.md",
     "_templates",
     "_templates",
     "2023-09-06.md",

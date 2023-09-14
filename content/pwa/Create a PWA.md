@@ -1,7 +1,7 @@
 ---
 title: Create a PWA
 draft: false
-date: 2023-09-13 18:22
+date: 2023-09-14 10:35
 tags:
   - learning
   - pwa
@@ -119,7 +119,6 @@ workbox.routing.registerRoute(
     new workbox.strategies.CacheFirst()
 );
 ```
-
 ---
 ## Serve
 Finally, you can use `npx serve` to host your PWA web app on `localhost:3000`. And now, you can open Google DevTools to test if you have managed the manifest file and started the service worker successfully. 
