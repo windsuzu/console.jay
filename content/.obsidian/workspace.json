@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "pwa/Create a PWA with Next.js 13 App Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pwa",
+                "query": "```",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91d8045f3deba083",
@@ -115,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "pwa/Create a PWA with Next.js 13 App Router.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwa/Create a PWA.md"
+                "file": "pwa/Create a PWA with Next.js 13 App Router.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "pwa/Create a PWA with Next.js 13 App Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "pwa/Create a PWA.md"
+                "file": "pwa/Create a PWA with Next.js 13 App Router.md"
               }
             }
           },
@@ -223,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "pwa/Create a PWA with Next.js 13 App Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +250,8 @@
   },
   "active": "10bde959b39ce1b4",
   "lastOpenFiles": [
-    "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/Create a PWA.md",
+    "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/PWA (Progressive Web Apps).md",
     "index.md",
     "pwa/Untitled.md",

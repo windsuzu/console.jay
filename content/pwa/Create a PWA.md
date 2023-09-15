@@ -1,7 +1,7 @@
 ---
 title: Create a PWA
 draft: false
-date: 2023-09-14 10:35
+date: 2023-09-15 17:38
 tags:
   - learning
   - pwa

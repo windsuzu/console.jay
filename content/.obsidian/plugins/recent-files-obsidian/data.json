@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Create a PWA",
-      "path": "pwa/Create a PWA.md"
-    },
-    {
       "basename": "Create a PWA with Next.js 13 App Router",
       "path": "pwa/Create a PWA with Next.js 13 App Router.md"
+    },
+    {
+      "basename": "Create a PWA",
+      "path": "pwa/Create a PWA.md"
     },
     {
       "basename": "PWA (Progressive Web Apps)",
