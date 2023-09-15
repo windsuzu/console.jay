@@ -1,7 +1,7 @@
 ---
 title: Create a PWA with Next.js 13 App Router
 draft: false
-date: 2023-09-15 18:27
+date: 2023-09-15 18:56
 tags:
   - pwa
   - learning
@@ -71,6 +71,9 @@ npx pwa-asset-generator
 
 ---
 ## Step 4. Add `manifest.json` and metadata to `app/layout.tsx`
+After preparing the `manifest.json` and your icons, you can now add the required metadata to `app/layout.tsx`. You can add `favicon` and `apple-icons` as described in Next.js official 
+
+[Icons](https://nextjs.org/docs/app/api-reference/functions/generate-metadata#icons)
 
 ```tsx title="app/layout.tsx"
 const APP_NAME = "MyPWA";
@@ -87,7 +90,6 @@ export const metadata: Metadata = {
       icon: "/pwa-assets/favicon-196.png",
       apple: "/pwa-assets/apple-icon-180.png",
     },
-    // 
     manifest: "/manifest.json",
     themeColor: "#0369a1",
     appleWebApp: {
@@ -108,10 +110,27 @@ export const metadata: Metadata = {
 };
 ```
 
+```ts title="data/apple-startup-images.ts"
+import { AppleImage } from "next/dist/lib/metadata/types/extra-types";
+
+export const appleStartupImages: AppleImage[] = [
+	{
+    url: "/pwa-assets/apple-splash-2048-2732.jpg",
+    media:
+      "(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)",
+  },
+  {
+    url: "/pwa-assets/apple-splash-2732-2048.jpg",
+    media:
+      "(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)",
+  },
+  ...
+]
+```
 
 ---
 ## Step 5. Avoid committing worker, workbox files to the remote repo
-Lastly, we can prevent these automatically generated `sw.js` and `workbox-*.js` files to be committed to our repository by simply adding these lines to `.gitignore`:
+We can prevent these automatically generated `sw.js` and `workbox-*.js` files to be committed to our repository by simply adding these lines to `.gitignore`:
 
 ```title=".gitignore"
 # PWA assets and service workers
