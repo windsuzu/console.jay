@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md"
+                "file": "index.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md"
+                "file": "index.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwa/PWA (Progressive Web Apps).md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,18 +231,18 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "cmdr:QuickAdd: Add new note ⚡": false,
-      "cmdr:Apply Default Note Templater ❤️": false
+      "cmdr:QuickAdd: Add new note ⚡": false
     }
   },
-  "active": "7059c0106fadb91c",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
-    "pwa/Create a PWA.md",
+    "pwa/Untitled.md",
+    "index.md",
     "pwa/PWA (Progressive Web Apps).md",
+    "pwa/Create a PWA.md",
     "Configure ServiceWorker.md",
     "Untitled.md",
     "_templates/default-note.md",
-    "index.md",
     "attachments/pwa-service-worker.png",
     "attachments/pwa-passed.png",
     "attachments",
@@ -250,7 +250,6 @@
     "copilot-conversations/Chat-2023_09_13-16_25_43.md",
     "copilot-conversations",
     "pwa/Progressive Web Apps.md",
-    "pwa/Untitled.md",
     "pwa",
     "test.md",
     "hey.md",
