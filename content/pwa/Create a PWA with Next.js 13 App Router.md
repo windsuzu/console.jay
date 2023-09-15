@@ -1,7 +1,7 @@
 ---
 title: Create a PWA with Next.js 13 App Router
 draft: false
-date: 2023-09-15 16:30
+date: 2023-09-15 16:49
 tags:
   - pwa
   - learning
@@ -14,8 +14,9 @@ After learning about [[PWA (Progressive Web Apps)]] and [[Create a PWA]], I beli
 
 The problems you might encounter when implementing a PWA using outdated tutorials often revolve around service worker compatibility or requirements such as `pages` folder, as mentioned in [this Reddit post](https://www.reddit.com/r/nextjs/comments/16guio3/does_anyone_know_of_a_good_guide_to_setting_up_a/). However, comments in this post also suggest trying [`@ducanh2912/next-pwa`](https://github.com/DuCanhGH/next-pwa), a forked version of `next-pwa` that is compatible with App Router.
 
-
-
+1. follow docs install @ducanh2912/next-pwa and wrap config with `withPWA`
+2. generator PWA assets with [pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) as mentioned in [[Create a PWA#Generating Icons and Splash Screen]]
+3. 
 
 
 
