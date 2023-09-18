@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "pwa/Create a PWA with Next.js 13 App Router.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "increate the image quality to 80",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91d8045f3deba083",
@@ -252,7 +253,8 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "cmdr:QuickAdd: Add new note ⚡": false
+      "cmdr:QuickAdd: Add new note ⚡": false,
+      "cmdr:Obsidian Git: Create backup": false
     }
   },
   "active": "10bde959b39ce1b4",

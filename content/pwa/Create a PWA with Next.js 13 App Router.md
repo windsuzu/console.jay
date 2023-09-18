@@ -1,7 +1,7 @@
 ---
 title: Create a PWA with Next.js 13 App Router
 draft: false
-date: 2023-09-18 10:55
+date: 2023-09-18 15:55
 tags:
   - pwa
   - learning
@@ -15,7 +15,7 @@ tags:
 > 4. Add `manifest.json` and metadata to `app/layout.tsx`
 > 5. Exclude certain PWA files from your repo with `.gitignore.`
 
-After learning about [[PWA (Progressive Web Apps)]] and [[Create a PWA]], I believe it's a valuable skill to explore creating a PWA with Next.js 13 and the app router. However, the article is limited (Most online tutorials are outdated if you want to use the app router feature^[[How to Create a PWA With Next.js in 10 Minutes - YouTube](https://www.youtube.com/watch?v=ARNN_zmrwcw)], and it appears that the well-known library `next-pwa` is no longer actively maintained.
+After learning about [[PWA (Progressive Web Apps)]] and [[Create a PWA]], I believe it's a valuable skill to explore creating a PWA with Next.js 13 and the app router. However, the article is limited (Most online tutorials are outdated if you want to use the app router feature^[[How to Create a PWA With Next.js in 10 Minutes - YouTube](https://www.youtube.com/watch?v=ARNN_zmrwcw)], and it appears that the well-known library [`next-pwa`](https://github.com/shadowwalker/next-pwa) is no longer actively maintained.
 
 The problems you might encounter when implementing a PWA using outdated tutorials often revolve around service worker compatibility or requirements such as `pages` folder, as mentioned in [this Reddit post](https://www.reddit.com/r/nextjs/comments/16guio3/does_anyone_know_of_a_good_guide_to_setting_up_a/). However, comments in this post also suggest trying [`@ducanh2912/next-pwa`](https://github.com/DuCanhGH/next-pwa), a forked version of `next-pwa` that is compatible with App Router.
 
@@ -68,7 +68,7 @@ npx pwa-asset-generator
   --manifest ./public/manifest.json
   # also generate favicon image and its meta tag
   --favicon true
-  # increate the image quality to 80
+  # increase the image quality to 80
   --quality 80
   # make the icon transparent
   --opaque false
