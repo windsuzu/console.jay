@@ -17,6 +17,12 @@
       "name": "Apply Default Note Templater ❤️",
       "mode": "ed72b775363b0330",
       "color": "#000000"
+    },
+    {
+      "id": "obsidian-git:push",
+      "icon": "arrow-up-circle",
+      "name": "Obsidian Git: Create backup",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
