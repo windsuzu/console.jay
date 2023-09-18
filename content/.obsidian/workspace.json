@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "931aeec99be57485",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "884ddd02c3319b96",
@@ -238,17 +247,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "cmdr:QuickAdd: Add new note ⚡": false
     }
   },
-  "active": "10bde959b39ce1b4",
+  "active": "931aeec99be57485",
   "lastOpenFiles": [
     "pwa/Create a PWA.md",
     "pwa/Create a PWA with Next.js 13 App Router.md",
