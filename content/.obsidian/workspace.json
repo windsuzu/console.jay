@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "pwa/Create a PWA with Next.js 13 App Router.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91d8045f3deba083",
@@ -108,7 +107,7 @@
       {
         "id": "4954756cba5b7ade",
         "type": "tabs",
-        "dimension": 40.21739130434783,
+        "dimension": 46.12403100775194,
         "children": [
           {
             "id": "3d50214808998e0a",
@@ -139,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224425,
                   "close": true
                 }
               }
@@ -153,13 +152,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "884ddd02c3319b96",
         "type": "tabs",
-        "dimension": 59.78260869565217,
+        "dimension": 53.875968992248055,
         "children": [
           {
             "id": "57f3938ebda4009b",
@@ -243,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,7 +255,7 @@
       "cmdr:QuickAdd: Add new note ⚡": false
     }
   },
-  "active": "931aeec99be57485",
+  "active": "10bde959b39ce1b4",
   "lastOpenFiles": [
     "pwa/Create a PWA.md",
     "pwa/Create a PWA with Next.js 13 App Router.md",

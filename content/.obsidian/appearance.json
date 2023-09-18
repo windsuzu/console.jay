@@ -1,4 +1,5 @@
 {
   "accentColor": "#fde74c",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 17
 }
