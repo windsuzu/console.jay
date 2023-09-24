@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "console-jay.vercel.app",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {

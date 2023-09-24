@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Create a PWA",
       "path": "pwa/Create a PWA.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "PWA (Progressive Web Apps)",
       "path": "pwa/PWA (Progressive Web Apps).md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "default-note",
