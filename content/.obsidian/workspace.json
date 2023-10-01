@@ -8,25 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0ac59ee74337766",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "632a6f9d91110026",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91d8045f3deba083",
@@ -110,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pwa/Create a PWA.md"
+                "file": "index.md"
               }
             }
           },
@@ -170,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "pwa/Create a PWA.md"
+                "file": "index.md"
               }
             }
           },
@@ -226,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pwa/Create a PWA.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,8 +248,8 @@
   "lastOpenFiles": [
     "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/Create a PWA.md",
-    "pwa/PWA (Progressive Web Apps).md",
     "index.md",
+    "pwa/PWA (Progressive Web Apps).md",
     "pwa/Untitled.md",
     "Configure ServiceWorker.md",
     "Untitled.md",
