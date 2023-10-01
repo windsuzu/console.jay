@@ -11,12 +11,8 @@
             "id": "d0ac59ee74337766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +62,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91d8045f3deba083",
@@ -102,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "pwa/Create a PWA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +122,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8576332429902617,
+                  "scale": 0.7132754626224425,
                   "close": true
                 }
               }
@@ -152,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "pwa/Create a PWA.md"
               }
             }
           },
@@ -162,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "pwa/Create a PWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "pwa/Create a PWA.md"
               }
             }
           },
@@ -218,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "pwa/Create a PWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 444.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +241,7 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "d0ac59ee74337766",
+  "active": "b51f3d98911b7af6",
   "lastOpenFiles": [
     "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/Create a PWA.md",
