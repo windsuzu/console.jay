@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "632a6f9d91110026",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +252,7 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "b51f3d98911b7af6",
+  "active": "632a6f9d91110026",
   "lastOpenFiles": [
     "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/Create a PWA.md",
