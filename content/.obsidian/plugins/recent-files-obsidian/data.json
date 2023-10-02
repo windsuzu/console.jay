@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Getting Started with Chart.js",
+      "path": "chart-js/Getting Started with Chart.js.md"
+    },
+    {
+      "basename": "Chart.js",
+      "path": "chart-js/Chart.js.md"
+    },
+    {
+      "basename": "Create a PWA",
+      "path": "pwa/Create a PWA.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
     {
       "basename": "Create a PWA with Next.js 13 App Router",
       "path": "pwa/Create a PWA with Next.js 13 App Router.md"
-    },
-    {
-      "basename": "Create a PWA",
-      "path": "pwa/Create a PWA.md"
     },
     {
       "basename": "PWA (Progressive Web Apps)",

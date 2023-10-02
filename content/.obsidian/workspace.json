@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "433d31e68d31e2e3",
+        "id": "847ac7d36f0cdf2d",
         "type": "tabs",
         "children": [
           {
-            "id": "632a6f9d91110026",
+            "id": "f38ee323ff5949da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fee4288f56be25c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "chart-js/Getting Started with Chart.js.md"
               }
             }
           },
@@ -162,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "chart-js/Getting Started with Chart.js.md"
               }
             }
           },
@@ -218,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,11 +253,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "632a6f9d91110026",
+  "active": "fee4288f56be25c4",
   "lastOpenFiles": [
-    "pwa/Create a PWA with Next.js 13 App Router.md",
+    "chart-js/Chart.js.md",
+    "chart-js/Getting Started with Chart.js.md",
     "pwa/Create a PWA.md",
     "index.md",
+    "chart-js/f.md",
+    "chart-js",
+    "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/PWA (Progressive Web Apps).md",
     "pwa/Untitled.md",
     "Configure ServiceWorker.md",
