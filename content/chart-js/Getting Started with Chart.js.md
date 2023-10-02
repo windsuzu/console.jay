@@ -1,16 +1,21 @@
 ---
 title: Getting Started with Chart.js
 draft: false
-date: 2023-10-02 15:48
+date: 2023-10-02 17:35
 tags:
-  - chart-js
   - learning
+  - chart-js
 ---
 
 > [!tldr] TL;DR
-> Write some tldr
+> This article serves as a beginner's guide to Chart.js.
+> 1. **Project Setup**: Learn how to set up your project with the right folder structure and dependencies, including Chart.js and Parcel.
+> 2. **Drawing Charts**: Discover how to easily draw charts using Chart.js v4, including importing modules and initializing chart instances with data and options.
+> 3. **Customization**: Explore chart customization by adjusting aspects like aspect ratio, scaling, and custom tick formatting to suit your needs.
+> 4. **Plugins**: Learn about the power of plugins and how to create or use them to enhance your charts with custom features, such as borders or advanced styling.
+> 5. **Optimization**: Understand the concept of tree-shaking to reduce bundle size, ensuring your project remains efficient when moving to production.
 
-In this note, I'm going to follow the [Step-by-step guide from Chart.js](https://www.chartjs.org/docs/latest/getting-started/usage.html), where I'll learn how to create a chart from scratch and explore all the fundamental concepts of [[Chart.js]], including chart types, elements, datasets, customization, plugins, components, and tree shaking.
+In this note, we're going to follow the [Step-by-step guide from Chart.js](https://www.chartjs.org/docs/latest/getting-started/usage.html), where we'll learn how to create a chart from scratch and explore all the fundamental concepts of [[Chart.js]], including chart types, elements, datasets, customization, plugins, components, and tree-shaking.
 
 ## Create a new project
 The first step is to create a project with this folder structure:
@@ -91,8 +96,150 @@ import Chart from "chart.js/auto";
 })();
 ```
 Now, you can run the example by using `npm run dev` and view the result at `localhost:1234`, which should look something like this:
-![[chart-js-example.png]]
 
+![[chart-js-example.png|400]]
+
+---
+## Multiple datasets and more options
+Let's apply further customization to our bar chart. For instance, I want to categorize the dataset into three parts: values less than or equal to 15, values between 15 and 25, and values bigger than 25. Each part will be assigned a distinct color.
+```js title="src/draw.js"
+(async function () {
+  new Chart(document.getElementById("draw"), {
+    type: "bar",
+    options: {
+      aspectRatio: 1,
+      scales: { 
+        x: { stacked: true },
+        y: { max: 40, ticks: { callback: (value) => `${value} times` } },
+      },
+    },
+    data: {
+      labels: data.map((row) => row.year),
+      datasets: [
+        {
+          label: "Count <= 15",
+          data: data.map((row) => (row.count <= 15 ? row.count : 0)),
+        },
+        {
+          label: "15 < Count <= 25",
+          data: data.map((row) =>
+            15 < row.count && row.count <= 25 ? row.count : 0,
+          ),
+        },
+        {
+          label: "Count > 25",
+          data: data.map((row) =>
+            row.count > 25 ? row.count : 0,
+          ),
+        },
+      ],
+    },
+  });
+})();
+```
+You can discover other options that you can fine-tune in the options object, such as aspect ratio, maximum or minimum values for the x and y scales, and custom tick formatting.
+![[chart-js-example-2.png|400]]
+
+---
+## Plugins
+Another way to customize the chart is by using plugins. You can employ plugins [created by other developers](https://github.com/chartjs/awesome#plugins) or create your own. The tutorial demonstrates how to create an ad-hoc one that adds a border to the chart.
+```js title="src/draw.js" {1-18,24,31-38}
+const chartAreaBorder = {
+  id: "chartAreaBorder",
+
+  beforeDraw(chart, args, options) {
+    const {
+      ctx,
+      chartArea: { left, top, width, height },
+    } = chart;
+
+    ctx.save();
+    ctx.strokeStyle = options.borderColor;
+    ctx.lineWidth = options.borderWidth;
+    ctx.setLineDash(options.borderDash || []);
+    ctx.lineDashOffset = options.borderDashOffset;
+    ctx.strokeRect(left, top, width, height);
+    ctx.restore();
+  },
+};
+
+(async function () {
+  const data = [];
+  new Chart(document.getElementById("draw"), {
+    type: "bar",
+    plugins: [chartAreaBorder],
+    options: {
+      aspectRatio: 1,
+      scales: {
+        x: { stacked: true },
+        y: { max: 40, ticks: { callback: (value) => `${value} times` } },
+      },
+      plugins: {
+        chartAreaBorder: {
+          borderColor: "red",
+          borderWidth: 2,
+          borderDash: [5, 5],
+          borderDashOffset: 2,
+        },
+      },
+    },
+})();
+```
+
+---
+## Tree-shaking
+Finally, you can apply tree-shaking when you finish development and ready to push your project to production. Tree-shaking is a term for removing unused code from the JavaScript bundle.
+
+When we build the project without tree-shaking, which implies that we imported all available components from `"chart.js/auto"`, we receive the following bundle result:
+```bash
+> chartjs-example@1.0.0 build
+> parcel build src/index.html
+
+✨ Built in 7.05s
+
+dist\index.html              313 B    5.26s
+dist\index.7311b552.js    209.1 KB    964ms
+```
+
+To achieve tree-shaking is simple. We only need to replace `import Chart from "chart.js/auto";` with the following method of importing only the necessary components to create our chart.
+```js
+
+import {
+  Chart,
+  BarController,
+  CategoryScale,
+  LinearScale,
+  BarElement,
+  Colors,
+  Legend,
+} from "chart.js";
+
+Chart.register(
+  BarController,
+  CategoryScale,
+  LinearScale,
+  BarElement,
+  Colors,
+  Legend,
+);
+```
+And the result shows our bundle size is reduced.
+```bash
+> chartjs-example@1.0.0 build
+> parcel build src/index.html
+
+✨ Built in 2.58s
+
+dist\index.html               313 B    832ms
+dist\index.e65aa5c3.js    197.19 KB    634ms
+```
+
+> [!tip]
+> If you don't know which components you need for creating your chart, you can open the browser console and learn from the warning message, such as:
+> ```
+> Unhandled Promise Rejection: Error: "bar" is not a registered controller.
+> ```
 
 > [!info] References
 > - [Step-by-step guide | Chart.js (chartjs.org)](https://www.chartjs.org/docs/latest/getting-started/usage.html)
+

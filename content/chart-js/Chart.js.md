@@ -1,10 +1,10 @@
 ---
 title: Chart.js
 draft: false
-date: 2023-10-02 11:22
+date: 2023-10-02 17:03
 tags:
-  - chart-js
   - learning
+  - chart-js
 ---
 
 Chart.js is a widely-used charting library for JavaScript developers, boasting approximately 60,000 [GitHub stars](https://github.com/chartjs/Chart.js) and around 2,400,000 weekly [npm downloads](https://www.npmjs.com/package/chart.js) as of October 2023. It not only provides default [chart types](https://www.chartjs.org/docs/latest/charts/area.html) with a variety of [plugins](https://github.com/chartjs/awesome#plugins), configurations, and animations but also offers numerous additional [community-maintained chart types](https://github.com/chartjs/awesome#charts). Furthermore, it is possible to combine several chart types into a [mixed chart](https://www.chartjs.org/docs/latest/charts/mixed.html).

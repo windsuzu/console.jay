@@ -5,20 +5,8 @@
       "path": "chart-js/Getting Started with Chart.js.md"
     },
     {
-      "basename": "chart-js-example",
-      "path": "attachments/chart-js-example.png"
-    },
-    {
       "basename": "Chart.js",
       "path": "chart-js/Chart.js.md"
-    },
-    {
-      "basename": "Create a PWA",
-      "path": "pwa/Create a PWA.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Create a PWA with Next.js 13 App Router",
@@ -29,12 +17,28 @@
       "path": "pwa/PWA (Progressive Web Apps).md"
     },
     {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
+      "basename": "Create a PWA",
+      "path": "pwa/Create a PWA.md"
     },
     {
       "basename": "pwa-service-worker",
       "path": "attachments/pwa-service-worker.png"
+    },
+    {
+      "basename": "chart-js-example-2",
+      "path": "attachments/chart-js-example-2.png"
+    },
+    {
+      "basename": "chart-js-example",
+      "path": "attachments/chart-js-example.png"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "pwa-passed",

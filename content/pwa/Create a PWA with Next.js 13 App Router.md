@@ -1,10 +1,10 @@
 ---
 title: Create a PWA with Next.js 13 App Router
 draft: false
-date: 2023-10-01 16:17
+date: 2023-10-02 17:03
 tags:
-  - pwa
   - learning
+  - pwa
 ---
 
 > [!tldr] TL;DR
