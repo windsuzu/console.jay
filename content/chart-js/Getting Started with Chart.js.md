@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Chart.js
 draft: false
-date: 2023-10-02 17:35
+date: 2023-10-02 17:55
 tags:
   - learning
   - chart-js
@@ -203,7 +203,6 @@ dist\index.7311b552.js    209.1 KB    964ms
 
 To achieve tree-shaking is simple. We only need to replace `import Chart from "chart.js/auto";` with the following method of importing only the necessary components to create our chart.
 ```js
-
 import {
   Chart,
   BarController,
