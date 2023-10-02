@@ -5,6 +5,10 @@
       "path": "chart-js/Getting Started with Chart.js.md"
     },
     {
+      "basename": "chart-js-example",
+      "path": "attachments/chart-js-example.png"
+    },
+    {
       "basename": "Chart.js",
       "path": "chart-js/Chart.js.md"
     },

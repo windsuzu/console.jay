@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "847ac7d36f0cdf2d",
+        "id": "ccefd1ec911848b9",
         "type": "tabs",
         "children": [
           {
-            "id": "f38ee323ff5949da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fee4288f56be25c4",
+            "id": "b26f3425ec37c71d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,23 +157,6 @@
             }
           },
           {
-            "id": "037f3688a94f0d49",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "chart-js/Getting Started with Chart.js.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "9b559e6d5ccaf096",
             "type": "leaf",
             "state": {
@@ -222,6 +196,23 @@
             }
           },
           {
+            "id": "037f3688a94f0d49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chart-js/Getting Started with Chart.js.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
             "id": "df9b4c06e28df253",
             "type": "leaf",
             "state": {
@@ -229,12 +220,11 @@
               "state": {
                 "file": "chart-js/Getting Started with Chart.js.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,10 +243,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "fee4288f56be25c4",
+  "active": "b26f3425ec37c71d",
   "lastOpenFiles": [
-    "chart-js/Chart.js.md",
+    "attachments/chart-js-example.png",
     "chart-js/Getting Started with Chart.js.md",
+    "chart-js/Chart.js.md",
     "pwa/Create a PWA.md",
     "index.md",
     "chart-js/f.md",
