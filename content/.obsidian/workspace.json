@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e88682510221d146",
+        "id": "40a3cf1cc11e754b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf92c3a7a445be0f",
+            "id": "6826f27d9dc27c8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "chart-js/Getting Started with Chart.js.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "chart-js/Getting Started with Chart.js.md"
+              }
             }
           },
           {
@@ -183,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "chart-js/Getting Started with Chart.js.md"
+              }
             }
           },
           {
@@ -192,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "chart-js/Getting Started with Chart.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -232,13 +243,13 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "bf92c3a7a445be0f",
+  "active": "6826f27d9dc27c8d",
   "lastOpenFiles": [
-    "chart-js/Getting Started with Chart.js.md",
     "chart-js/Chart.js.md",
-    "pwa/Create a PWA with Next.js 13 App Router.md",
+    "chart-js/Getting Started with Chart.js.md",
     "pwa/PWA (Progressive Web Apps).md",
     "pwa/Create a PWA.md",
+    "pwa/Create a PWA with Next.js 13 App Router.md",
     "attachments/pwa-service-worker.png",
     "attachments/chart-js-example-2.png",
     "attachments/chart-js-example.png",

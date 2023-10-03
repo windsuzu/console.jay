@@ -1,21 +1,14 @@
 ---
 title: Getting Started with Chart.js
 draft: false
-date: 2023-10-02 17:55
+date: 2023-10-03 10:32
 tags:
   - learning
   - chart-js
 ---
 
-> [!tldr] TL;DR
-> This article serves as a beginner's guide to Chart.js.
-> 1. **Project Setup**: Learn how to set up your project with the right folder structure and dependencies, including Chart.js and Parcel.
-> 2. **Drawing Charts**: Discover how to easily draw charts using Chart.js v4, including importing modules and initializing chart instances with data and options.
-> 3. **Customization**: Explore chart customization by adjusting aspects like aspect ratio, scaling, and custom tick formatting to suit your needs.
-> 4. **Plugins**: Learn about the power of plugins and how to create or use them to enhance your charts with custom features, such as borders or advanced styling.
-> 5. **Optimization**: Understand the concept of tree-shaking to reduce bundle size, ensuring your project remains efficient when moving to production.
+You can follow the [Step-by-step guide from Chart.js](https://www.chartjs.org/docs/latest/getting-started/usage.html), learn how to create a chart from scratch, and explore all the fundamental concepts of [[Chart.js]], including chart types, elements, datasets, customization, plugins, components, and tree-shaking.
 
-In this note, we're going to follow the [Step-by-step guide from Chart.js](https://www.chartjs.org/docs/latest/getting-started/usage.html), where we'll learn how to create a chart from scratch and explore all the fundamental concepts of [[Chart.js]], including chart types, elements, datasets, customization, plugins, components, and tree-shaking.
 
 ## Create a new project
 The first step is to create a project with this folder structure:
