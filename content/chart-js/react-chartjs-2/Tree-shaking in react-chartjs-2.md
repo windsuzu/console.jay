@@ -1,5 +1,5 @@
 ---
-title: Tree-shaking with react-chartjs-2
+title: Tree-shaking in react-chartjs-2
 draft: false
 date: 2023-10-03 16:29
 tags:
