@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40a3cf1cc11e754b",
+        "id": "c1a750abe73de0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "6826f27d9dc27c8d",
+            "id": "d66aaaaefaa52e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chart-js/Getting Started with Chart.js.md",
+                "file": "chart-js/react-chartjs-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chart-js/Getting Started with Chart.js.md",
+                "file": "chart-js/react-chartjs-2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chart-js/Getting Started with Chart.js.md"
+                "file": "chart-js/react-chartjs-2.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "chart-js/Getting Started with Chart.js.md"
+                "file": "chart-js/react-chartjs-2.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chart-js/Getting Started with Chart.js.md",
+                "file": "chart-js/react-chartjs-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chart-js/Getting Started with Chart.js.md",
+                "file": "chart-js/react-chartjs-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -243,10 +243,17 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "6826f27d9dc27c8d",
+  "active": "d66aaaaefaa52e83",
   "lastOpenFiles": [
     "chart-js/Chart.js.md",
+    "chart-js/react-chartjs-2.md",
     "chart-js/Getting Started with Chart.js.md",
+    "chart-js/Plugins of Chart.js.md",
+    "attachments/chart-js-example-plugin.png",
+    "chart-js/Tree-shaking of Chart.js.md",
+    "tree-shaking.md",
+    "chart-js/Untitled.md",
+    "_templates/default-note.md",
     "pwa/PWA (Progressive Web Apps).md",
     "pwa/Create a PWA.md",
     "pwa/Create a PWA with Next.js 13 App Router.md",
@@ -259,7 +266,6 @@
     "pwa/Untitled.md",
     "Configure ServiceWorker.md",
     "Untitled.md",
-    "_templates/default-note.md",
     "attachments/pwa-passed.png",
     "attachments",
     "Pasted image 20230913181543.png",

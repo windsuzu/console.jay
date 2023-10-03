@@ -1,16 +1,13 @@
 ---
 title: <% tp.file.title %>
 draft: false
-date: 2023-09-13 18:23
+date: 2023-10-03 10:52
 tags:
   - reading
   - learning
 ---
 
-> [!tldr] TL;DR
-> Write some tldr
-
-write some details or insights
+write some quick thoughts
 
 > [!info] References
 > - put some references

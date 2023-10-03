@@ -1,7 +1,7 @@
 ---
 title: Chart.js
 draft: false
-date: 2023-10-02 17:03
+date: 2023-10-03 11:12
 tags:
   - learning
   - chart-js
@@ -11,7 +11,7 @@ Chart.js is a widely-used charting library for JavaScript developers, boasting a
 
 In addition to its well-maintained, easy-to-use, and out-of-the-box functionalities, Chart.js offers two compelling advantages that users appreciate: a developer-friendly experience and high performance.
 
-For developer experience, Chart.js includes built-in TypeScript typings and is compatible with [React](https://github.com/reactchartjs/react-chartjs-2), Vue, Svelte, and Angular. Furthermore, Chart.js offers comprehensive [documentation](https://www.chartjs.org/docs/latest/), an extensive [API reference](https://www.chartjs.org/docs/latest/api/), and a variety of [examples](https://www.chartjs.org/docs/latest/samples/information.html). Developers can also find numerous solved questions on Stack Overflow tagged with `chart.js`.
+For developer experience, Chart.js includes built-in TypeScript typings and is compatible with [[react-chartjs-2|React]], Vue, Svelte, and Angular. Furthermore, Chart.js offers comprehensive [documentation](https://www.chartjs.org/docs/latest/), an extensive [API reference](https://www.chartjs.org/docs/latest/api/), and a variety of [examples](https://www.chartjs.org/docs/latest/samples/information.html). Developers can also find numerous solved questions on Stack Overflow tagged with `chart.js`.
 
 For performance, Chart.js renders chart elements on an HTML5 canvas instead of as SVG, which can require managing thousands of SVG nodes in the DOM tree. This approach makes Chart.js well-suited for handling large datasets, even without the need for [data parsing and normalization](https://www.chartjs.org/docs/latest/general/performance.html). Additionally, developers have the option to implement [data decimation](https://www.chartjs.org/docs/latest/configuration/decimation.html) to sample the dataset and reduce the chart's size before rendering. Chart.js also supports tree-shaking, allowing you to further reduce the bundle size.
 

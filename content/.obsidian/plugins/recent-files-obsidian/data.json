@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Getting Started with Chart.js",
-      "path": "chart-js/Getting Started with Chart.js.md"
+      "basename": "react-chartjs-2",
+      "path": "chart-js/react-chartjs-2.md"
     },
     {
       "basename": "Chart.js",
       "path": "chart-js/Chart.js.md"
+    },
+    {
+      "basename": "Getting Started with Chart.js",
+      "path": "chart-js/Getting Started with Chart.js.md"
+    },
+    {
+      "basename": "Plugins of Chart.js",
+      "path": "chart-js/Plugins of Chart.js.md"
+    },
+    {
+      "basename": "chart-js-example-plugin",
+      "path": "attachments/chart-js-example-plugin.png"
+    },
+    {
+      "basename": "Tree-shaking of Chart.js",
+      "path": "chart-js/Tree-shaking of Chart.js.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "PWA (Progressive Web Apps)",
@@ -35,10 +55,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "pwa-passed",
