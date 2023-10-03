@@ -1,14 +1,14 @@
 ---
 title: Tree-shaking in react-chartjs-2
 draft: false
-date: 2023-10-03 16:29
+date: 2023-10-03 16:43
 tags:
   - learning
   - chart-js
   - react-chartjs-2
 ---
 
-There are three different ways to import dependencies before creating our chart:
+There are three different ways to import dependencies in [[react-chartjs-2]] before creating our chart:
 1. The laziest way - import all dependencies from [[Chart.js]].
 2. The tree-shakable way - import only what is needed for the specific chart.
 3. The tree-shakable typed chart components - no need for a controller.
