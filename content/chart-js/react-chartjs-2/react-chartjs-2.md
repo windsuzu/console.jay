@@ -82,8 +82,8 @@ const App = () => (
 
 You can achieve the following result. However, there are some issues and improvements to consider:
 
-1. [[Tree-shaking with react-chartjs-2|Implementing tree-shaking with react-chartjs-2.]]
-2. [[datasetIdKey in react-chartjs-2|Being cautious about the keys used in datasets.]]
+1. [[Tree-shaking in react-chartjs-2|Implementing tree-shaking with react-chartjs-2.]]
+2. [[Datasets in react-chartjs-2|Being cautious about the keys used in datasets.]]
 
 ![[react-chart-js-2.png]]
 

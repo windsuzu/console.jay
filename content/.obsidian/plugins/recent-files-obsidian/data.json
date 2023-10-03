@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "datasetIdKey in react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md"
+      "basename": "Tree-shaking in react-chartjs-2",
+      "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
     },
     {
       "basename": "react-chartjs-2",
       "path": "chart-js/react-chartjs-2/react-chartjs-2.md"
     },
     {
-      "basename": "Tree-shaking with react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/Tree-shaking with react-chartjs-2.md"
+      "basename": "Datasets in react-chartjs-2",
+      "path": "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md"
+    },
+    {
+      "basename": "Tree-shaking of Chart.js",
+      "path": "chart-js/Tree-shaking of Chart.js.md"
     },
     {
       "basename": "Chart.js",
@@ -23,10 +27,6 @@
     {
       "basename": "Plugins of Chart.js",
       "path": "chart-js/Plugins of Chart.js.md"
-    },
-    {
-      "basename": "Tree-shaking of Chart.js",
-      "path": "chart-js/Tree-shaking of Chart.js.md"
     },
     {
       "basename": "react-chart-js-2",
