@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d66aaaaefaa52e83",
+            "id": "20f2ca150c0cd224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chart-js/react-chartjs-2.md",
+                "file": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a675673e0ddd445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chart-js/react-chartjs-2/Tree-shaking with react-chartjs-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chart-js/react-chartjs-2.md",
+                "file": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +137,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.713275462622443,
                   "close": true
                 }
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chart-js/react-chartjs-2.md"
+                "file": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "chart-js/react-chartjs-2.md"
+                "file": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md"
               }
             }
           },
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chart-js/react-chartjs-2.md",
+                "file": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,13 +230,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chart-js/react-chartjs-2.md",
+                "file": "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -243,16 +256,20 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "d66aaaaefaa52e83",
+  "active": "20f2ca150c0cd224",
   "lastOpenFiles": [
+    "chart-js/react-chartjs-2/react-chartjs-2.md",
+    "chart-js/react-chartjs-2/Tree-shaking with react-chartjs-2.md",
+    "chart-js/react-chartjs-2/datasetIdKey in react-chartjs-2.md",
     "chart-js/Chart.js.md",
-    "chart-js/react-chartjs-2.md",
     "chart-js/Getting Started with Chart.js.md",
     "chart-js/Plugins of Chart.js.md",
-    "attachments/chart-js-example-plugin.png",
     "chart-js/Tree-shaking of Chart.js.md",
-    "tree-shaking.md",
+    "chart-js/react-chartjs-2",
     "chart-js/Untitled.md",
+    "attachments/react-chart-js-2.png",
+    "attachments/chart-js-example-plugin.png",
+    "tree-shaking.md",
     "_templates/default-note.md",
     "pwa/PWA (Progressive Web Apps).md",
     "pwa/Create a PWA.md",
