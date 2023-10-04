@@ -1,11 +1,13 @@
 ---
 title: English Pronunciation Exercises
 draft: false
-date: 2023-10-04 22:55
+date: 2023-10-04 23:31
 tags:
-  - reading
   - learning
+  - english
+  - pronunciation
 ---
+
 
 
 
