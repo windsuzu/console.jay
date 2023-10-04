@@ -146,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "english-pronunciation/Untitled.md"
+              }
             }
           },
           {
@@ -183,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "english-pronunciation/Untitled.md"
+              }
             }
           },
           {
@@ -233,8 +237,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "f22b19fcf5fa8905",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
+    "english-pronunciation/Untitled.md",
+    "english-pronunciation",
     "chart-js/Chart.js.md",
     "chart-js/react-chartjs-2/react-chartjs-2.md",
     "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md",
