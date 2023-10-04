@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Tree-shaking in react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
+      "basename": "Chart.js",
+      "path": "chart-js/Chart.js.md"
     },
     {
       "basename": "react-chartjs-2",
       "path": "chart-js/react-chartjs-2/react-chartjs-2.md"
+    },
+    {
+      "basename": "Tree-shaking in react-chartjs-2",
+      "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
     },
     {
       "basename": "Datasets in react-chartjs-2",
@@ -15,10 +19,6 @@
     {
       "basename": "Tree-shaking of Chart.js",
       "path": "chart-js/Tree-shaking of Chart.js.md"
-    },
-    {
-      "basename": "Chart.js",
-      "path": "chart-js/Chart.js.md"
     },
     {
       "basename": "Getting Started with Chart.js",
