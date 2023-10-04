@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "af757b64032cf644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-pronunciation/English Pronunciation Exercises.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "english-pronunciation/English Pronunciation Exercises.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-pronunciation/Untitled.md"
+                "file": "english-pronunciation/English Pronunciation Exercises.md"
               }
             }
           },
@@ -186,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-pronunciation/Untitled.md"
+                "file": "english-pronunciation/English Pronunciation Exercises.md"
               }
             }
           },
@@ -196,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "english-pronunciation/English Pronunciation Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "english-pronunciation/English Pronunciation Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,9 +253,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "e4f857c12bc33e53",
+  "active": "af757b64032cf644",
   "lastOpenFiles": [
     "english-pronunciation/Untitled.md",
+    "english-pronunciation/English Pronunciation Exercises.md",
     "english-pronunciation",
     "chart-js/Chart.js.md",
     "chart-js/react-chartjs-2/react-chartjs-2.md",
