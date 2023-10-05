@@ -1,11 +1,10 @@
 ---
 title: English Pronunciation Exercises
 draft: false
-date: 2023-10-05 23:57
+date: 2023-10-06 00:45
 tags:
   - learning
-  - english
-  - pronunciation
+  - english-pronunciation
 ---
 
 There are 5 steps provided by EngFluent to practice English pronunciation. They are:
