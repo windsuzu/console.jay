@@ -1,9 +1,8 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-06 01:01
+date: 2023-10-07 00:18
 tags:
-  - learning
   - english-pronunciation
 ---
 

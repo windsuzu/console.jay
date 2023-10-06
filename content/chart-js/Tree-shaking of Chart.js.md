@@ -1,9 +1,8 @@
 ---
 title: Tree-shaking of Chart.js
 draft: false
-date: 2023-10-03 10:56
+date: 2023-10-07 00:18
 tags:
-  - learning
   - chart-js
 ---
 

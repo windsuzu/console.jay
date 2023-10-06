@@ -1,9 +1,8 @@
 ---
 title: Chart.js
 draft: false
-date: 2023-10-03 11:12
+date: 2023-10-07 00:18
 tags:
-  - learning
   - chart-js
 ---
 

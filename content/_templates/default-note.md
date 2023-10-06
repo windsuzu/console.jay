@@ -1,10 +1,9 @@
 ---
 title: <% tp.file.title %>
 draft: false
-date: 2023-10-03 10:52
+date: 2023-10-07 00:18
 tags:
-  - reading
-  - learning
+  - 
 ---
 
 write some quick thoughts

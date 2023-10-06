@@ -21,18 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-pronunciation/English Pronunciation Exercises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179f081e2fa61dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "english-pronunciation/The Main Sounds of English.md",
                 "mode": "source",
                 "source": false
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "increate the image quality to 80",
+                "query": "tag:#english-pronunciation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91d8045f3deba083",
@@ -246,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,30 +254,30 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "179f081e2fa61dfb",
+  "active": "af757b64032cf644",
   "lastOpenFiles": [
     "english-pronunciation/English Pronunciation Exercises.md",
+    "chart-js/Chart.js.md",
+    "pwa/Create a PWA.md",
+    "pwa/Create a PWA with Next.js 13 App Router.md",
+    "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md",
+    "chart-js/Getting Started with Chart.js.md",
+    "chart-js/Plugins of Chart.js.md",
+    "pwa/PWA (Progressive Web Apps).md",
+    "chart-js/react-chartjs-2/react-chartjs-2.md",
     "english-pronunciation/The Main Sounds of English.md",
+    "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md",
+    "chart-js/Tree-shaking of Chart.js.md",
+    "_templates/default-note.md",
     "The Main Sounds of English.md",
     "english-pronunciation/Untitled.md",
     "english-pronunciation",
-    "chart-js/Chart.js.md",
-    "chart-js/react-chartjs-2/react-chartjs-2.md",
-    "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md",
-    "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md",
-    "chart-js/Tree-shaking of Chart.js.md",
     "react-chart-js-2.md",
-    "chart-js/Getting Started with Chart.js.md",
-    "chart-js/Plugins of Chart.js.md",
     "chart-js/react-chartjs-2",
     "chart-js/Untitled.md",
     "attachments/react-chart-js-2.png",
     "attachments/chart-js-example-plugin.png",
     "tree-shaking.md",
-    "_templates/default-note.md",
-    "pwa/PWA (Progressive Web Apps).md",
-    "pwa/Create a PWA.md",
-    "pwa/Create a PWA with Next.js 13 App Router.md",
     "attachments/pwa-service-worker.png",
     "attachments/chart-js-example-2.png",
     "attachments/chart-js-example.png",

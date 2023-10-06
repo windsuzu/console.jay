@@ -1,9 +1,8 @@
 ---
 title: react-chartjs-2
 draft: false
-date: 2023-10-03 15:26
+date: 2023-10-07 00:18
 tags:
-  - learning
   - chart-js
   - react-chartjs-2
 ---

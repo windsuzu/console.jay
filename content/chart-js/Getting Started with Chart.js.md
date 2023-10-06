@@ -1,9 +1,8 @@
 ---
 title: Getting Started with Chart.js
 draft: false
-date: 2023-10-03 10:57
+date: 2023-10-07 00:18
 tags:
-  - learning
   - chart-js
 ---
 

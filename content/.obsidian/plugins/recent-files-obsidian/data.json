@@ -13,20 +13,16 @@
       "path": "chart-js/Chart.js.md"
     },
     {
-      "basename": "react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/react-chartjs-2.md"
+      "basename": "Create a PWA",
+      "path": "pwa/Create a PWA.md"
     },
     {
-      "basename": "Tree-shaking in react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
+      "basename": "Create a PWA with Next.js 13 App Router",
+      "path": "pwa/Create a PWA with Next.js 13 App Router.md"
     },
     {
       "basename": "Datasets in react-chartjs-2",
       "path": "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md"
-    },
-    {
-      "basename": "Tree-shaking of Chart.js",
-      "path": "chart-js/Tree-shaking of Chart.js.md"
     },
     {
       "basename": "Getting Started with Chart.js",
@@ -37,28 +33,32 @@
       "path": "chart-js/Plugins of Chart.js.md"
     },
     {
-      "basename": "react-chart-js-2",
-      "path": "attachments/react-chart-js-2.png"
+      "basename": "PWA (Progressive Web Apps)",
+      "path": "pwa/PWA (Progressive Web Apps).md"
     },
     {
-      "basename": "chart-js-example-plugin",
-      "path": "attachments/chart-js-example-plugin.png"
+      "basename": "react-chartjs-2",
+      "path": "chart-js/react-chartjs-2/react-chartjs-2.md"
+    },
+    {
+      "basename": "Tree-shaking in react-chartjs-2",
+      "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
+    },
+    {
+      "basename": "Tree-shaking of Chart.js",
+      "path": "chart-js/Tree-shaking of Chart.js.md"
     },
     {
       "basename": "default-note",
       "path": "_templates/default-note.md"
     },
     {
-      "basename": "PWA (Progressive Web Apps)",
-      "path": "pwa/PWA (Progressive Web Apps).md"
+      "basename": "react-chart-js-2",
+      "path": "attachments/react-chart-js-2.png"
     },
     {
-      "basename": "Create a PWA",
-      "path": "pwa/Create a PWA.md"
-    },
-    {
-      "basename": "Create a PWA with Next.js 13 App Router",
-      "path": "pwa/Create a PWA with Next.js 13 App Router.md"
+      "basename": "chart-js-example-plugin",
+      "path": "attachments/chart-js-example-plugin.png"
     },
     {
       "basename": "pwa-service-worker",

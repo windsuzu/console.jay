@@ -1,9 +1,8 @@
 ---
 title: English Pronunciation Exercises
 draft: false
-date: 2023-10-06 00:45
+date: 2023-10-07 00:18
 tags:
-  - learning
   - english-pronunciation
 ---
 
