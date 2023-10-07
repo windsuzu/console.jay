@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 23:34
+date: 2023-10-08 00:00
 tags:
   - english-pronunciation
 ---
@@ -19,7 +19,8 @@ We learn that the sounds `/i/`, and `/ɪ/` differ not only in length but also in
 4. eat - it
 5. beach - bitch
 ---
-## /ɛ/ (sell) and /eɪ/ (sale) [tutorial](https://www.youtube.com/watch?v=SqN3kGMLwio)
+## /ɛ/ (sell) and /eɪ/ (sale) 
+[tutorial](https://www.youtube.com/watch?v=SqN3kGMLwio)
 We should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
 1. bed - bade
 2. tell - tale
@@ -28,7 +29,8 @@ We should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short 
 5. pen - pain
 6. sent - saint
 ---
-## /æ/ (bad) and /ɛ/ (bed) [tutorial1](https://www.youtube.com/watch?v=UM9gPzKs1Hg)   [tutorial2](https://www.youtube.com/watch?v=CNL5BmWQGiI)
+## /æ/ (bad) and /ɛ/ (bed) 
+[tutorial1](https://www.youtube.com/watch?v=UM9gPzKs1Hg)   [tutorial2](https://www.youtube.com/watch?v=CNL5BmWQGiI)
 We learn that `/æ/` involves the back part of the tongue towards the roof of the mouth, a more pronounced jaw drop, and a slight lift of the top lip. In contrast, `/ɛ/` uses the mid/front part of the tongue towards the roof of the mouth, with less jaw drop and relaxed lips.
 1. man - men
 2. sad - said
@@ -37,7 +39,8 @@ We learn that `/æ/` involves the back part of the tongue towards the roof of th
 5. land - lend
 6. band - bend
 ---
-## /æ/ (hat) and /ɑ/ (hot) [tutorial](https://www.youtube.com/watch?v=SMJrIzjnmDM)
+## /æ/ (hat) and /ɑ/ (hot) 
+[tutorial](https://www.youtube.com/watch?v=SMJrIzjnmDM)
 To pronounce `/æ/`, you should relax your mouth and open it slightly. On the other hand, to pronounce `/ɑ/`, your mouth should be quite open and loose.
 1. bag - bog
 2. Dan - Don
@@ -45,21 +48,24 @@ To pronounce `/æ/`, you should relax your mouth and open it slightly. On the ot
 4. cat - cot
 5. sack - sock
 ---
-## /ɑ/ (calm) and /ɘ/ (come) [tutorial](https://www.youtube.com/watch?v=f_7GJ34UYVE)
+## /ɑ/ (calm) and /ɘ/ (come) 
+[tutorial](https://www.youtube.com/watch?v=f_7GJ34UYVE)
 The `/ə/` sound is easily produced by initially closing the mouth and vibrating it, followed by opening the mouth without altering the shape of your mouth and tongue.
 1. sob - sub
 2. hot - hut
 3. got - gut
 4. rot - rut
 ---
-## **/æ/ (bat) and /ɘ (but)** [tutorial](https://www.youtube.com/watch?v=RtbewuEu9E4)
+## **/æ/ (bat) and /ɘ (but)** 
+[tutorial](https://www.youtube.com/watch?v=RtbewuEu9E4)
 1. cap - cup
 2. mad - mud
 3. ban - bun
 4. stack - stuck
 ---
-## /ɔ/ (law) and /oʊ/ (low) [tutorial1](https://www.youtube.com/watch?v=RRfAnwR1JaI) [tutorial2](https://clearpronunciation.com/law-low)
-
+## /ɔ/ (law) and /oʊ/ (low) 
+[tutorial1](https://www.youtube.com/watch?v=RRfAnwR1JaI) [tutorial2](https://clearpronunciation.com/law-low)
+To pronounce words like 'law' with the `/ɔ/` sound, open your mouth as wide as possible, round your lips, and pull your tongue slightly toward the back of your mouth. To pronounce words like 'low' with the `/oʊ/` sound, begin with a relaxed mouth, create protruding lips, and close the mouth into a u-type sound.
 1. bought - boat
 2. caught - coat
 3. lawn - loan
