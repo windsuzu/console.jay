@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 23:07
+date: 2023-10-07 23:34
 tags:
   - english-pronunciation
 ---
@@ -10,8 +10,8 @@ There are 15 main vowel sounds in English^[Ohata, K. (2004). Phonological differ
 
 This sometimes results in similar words being pronounced the same way. For example: "heel" and "hill", "sale" and "sell". But don't worry, this can be practiced by **listening to and speaking the two sounds simultaneously**.
 
-## /i/ (heat) and /ɪ/ (hit)
-Based on this [accent tutorial by Lisa Mojsin](https://www.youtube.com/watch?v=3dasuQ9u8i0), we learn that the sounds `/i/`, and `/ɪ/` differ not only in length but also in other aspects. ==When pronouncing `/i/`, we use more tension in our lips and tongue, whereas when pronouncing `/ɪ/`, it's relaxed and neutral with relaxed lips and tongue.== (You can place your fingers on your jaw and cheeks to feel the difference) After understanding the techniques, you can proceed to the practice below.
+## /i/ (heat) and /ɪ/ (hit) [tutorial](https://www.youtube.com/watch?v=3dasuQ9u8i0)
+We learn that the sounds `/i/`, and `/ɪ/` differ not only in length but also in other aspects. **When pronouncing `/i/`, we use more tension in our lips and tongue, whereas when pronouncing `/ɪ/`, it's relaxed and neutral with relaxed lips and tongue.** (You can place your fingers on your jaw and cheeks to feel the difference) After understanding the techniques, you can proceed to the practice below.
 1. heel - hill
 2. feel - fill
 6. sheet - shit
@@ -19,8 +19,8 @@ Based on this [accent tutorial by Lisa Mojsin](https://www.youtube.com/watch?v=3
 4. eat - it
 5. beach - bitch
 ---
-## /ɛ/ (sell) and /eɪ/ (sale)
-According to this [tutorial by Tarle](https://www.youtube.com/watch?v=SqN3kGMLwio), we should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
+## /ɛ/ (sell) and /eɪ/ (sale) [tutorial](https://www.youtube.com/watch?v=SqN3kGMLwio)
+We should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
 1. bed - bade
 2. tell - tale
 3. men - main
@@ -28,8 +28,8 @@ According to this [tutorial by Tarle](https://www.youtube.com/watch?v=SqN3kGMLwi
 5. pen - pain
 6. sent - saint
 ---
-## /æ/ (bad) and /ɛ/ (bed)
-Based on tutorials by [Rachel](https://www.youtube.com/watch?v=UM9gPzKs1Hg) and [Molly](https://www.youtube.com/watch?v=CNL5BmWQGiI), we learn that `/æ/` involves the back part of the tongue towards the roof of the mouth, a more pronounced jaw drop, and a slight lift of the top lip. In contrast, `/ɛ/` uses the mid/front part of the tongue towards the roof of the mouth, with less jaw drop and relaxed lips.
+## /æ/ (bad) and /ɛ/ (bed) [tutorial1](https://www.youtube.com/watch?v=UM9gPzKs1Hg)   [tutorial2](https://www.youtube.com/watch?v=CNL5BmWQGiI)
+We learn that `/æ/` involves the back part of the tongue towards the roof of the mouth, a more pronounced jaw drop, and a slight lift of the top lip. In contrast, `/ɛ/` uses the mid/front part of the tongue towards the roof of the mouth, with less jaw drop and relaxed lips.
 1. man - men
 2. sad - said
 3. sat - set
@@ -37,38 +37,38 @@ Based on tutorials by [Rachel](https://www.youtube.com/watch?v=UM9gPzKs1Hg) and 
 5. land - lend
 6. band - bend
 ---
-## /æ/ (hat) and /ɑ/ (hot)
-Taught by [Ronnie](https://www.youtube.com/watch?v=SMJrIzjnmDM), to pronounce `/æ/`, you should relax your mouth and open it slightly. On the other hand, to pronounce `/ɑ/`, your mouth should be quite open and loose.
+## /æ/ (hat) and /ɑ/ (hot) [tutorial](https://www.youtube.com/watch?v=SMJrIzjnmDM)
+To pronounce `/æ/`, you should relax your mouth and open it slightly. On the other hand, to pronounce `/ɑ/`, your mouth should be quite open and loose.
 1. bag - bog
 2. Dan - Don
 3. caps - cops
 4. cat - cot
 5. sack - sock
 ---
-## /ɑ/ (calm) and /ɘ/ (come)
-In [DVCESL72's video](https://www.youtube.com/watch?v=f_7GJ34UYVE), he teaches us that the `/ə/` sound is easily produced by initially closing the mouth and vibrating it, followed by opening the mouth without altering the shape of your mouth and tongue.
-
+## /ɑ/ (calm) and /ɘ/ (come) [tutorial](https://www.youtube.com/watch?v=f_7GJ34UYVE)
+The `/ə/` sound is easily produced by initially closing the mouth and vibrating it, followed by opening the mouth without altering the shape of your mouth and tongue.
 1. sob - sub
 2. hot - hut
 3. got - gut
 4. rot - rut
 ---
-## **/æ/ (bat) and /ɘ (but)**
-For more pairing examples, watch [English Pronunciation: Bat /æ/ vs But /Ʌ/](https://www.youtube.com/watch?v=RtbewuEu9E4).
+## **/æ/ (bat) and /ɘ (but)** [tutorial](https://www.youtube.com/watch?v=RtbewuEu9E4)
 1. cap - cup
 2. mad - mud
 3. ban - bun
 4. stack - stuck
 ---
-## /ɔ/ (law) and /oʊ/ (low)
+## /ɔ/ (law) and /oʊ/ (low) [tutorial1](https://www.youtube.com/watch?v=RRfAnwR1JaI) [tutorial2](https://clearpronunciation.com/law-low)
 
 1. bought - boat
 2. caught - coat
 3. lawn - loan
 
-
-
-
+There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www.youtube.com/watch?v=ntv-3fAlbyE))
+1. morning - moaning
+2. more - mow
+3. or - oh
+4. for - foe
 
 ---
 ## /ʊ/ (full) and /u/ (fool)
