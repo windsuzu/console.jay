@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 01:15
+date: 2023-10-07 01:32
 tags:
   - english-pronunciation
 ---
@@ -23,8 +23,12 @@ Based on this [accent tutorial by Lisa Mojsin](https://www.youtube.com/watch?v=3
 ## /eɪ/ (sale) and /ɛ/ (sell)
 
 
-
-
+1. bed - bade
+2. tell - tale
+3. men - main
+4. test - taste
+5. pen - pain
+6. sent - saint
 
 > [!info] References
 > - [English Pronunciation Exercises (Practice Them to Sound Like a Native Speaker) - EngFluent](https://engfluent.com/english-pronunciation-exercises)
