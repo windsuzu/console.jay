@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 17:38
+date: 2023-10-07 17:55
 tags:
   - english-pronunciation
 ---
@@ -60,7 +60,7 @@ For more pairing examples, watch [English Pronunciation: Bat /æ/ vs But /Ʌ/](h
 3. ban - bun
 4. stack - stuck
 ---
-## /ɔ/ (want) and /oʊ/ (won’t)
+## /ɔ/ (law) and /oʊ/ (low)
 
 
 ---
