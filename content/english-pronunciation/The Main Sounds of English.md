@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 13:02
+date: 2023-10-07 15:57
 tags:
   - english-pronunciation
 ---
@@ -29,13 +29,16 @@ According to this [tutorial by Tarle](https://www.youtube.com/watch?v=SqN3kGMLwi
 6. sent - saint
 ---
 ## /æ/ (bad) and /ɛ/ (bed)
-
+Based on tutorials by [Rachel](https://www.youtube.com/watch?v=UM9gPzKs1Hg) and [Molly](https://www.youtube.com/watch?v=CNL5BmWQGiI), we learn that `/æ/` involves the back part of the tongue towards the roof of the mouth, a more pronounced jaw drop, and a slight lift of the top lip. In contrast, `/ɛ/` uses the mid/front part of the tongue towards the roof of the mouth, with less jaw drop and relaxed lips.
 1. man - men
 2. sad - said
 3. sat - set
 4. dad - dead
 5. land - lend
 6. band - bend
+---
+## /æ/ (hat) and /ɑ/ (hot)
+
 
 
 
