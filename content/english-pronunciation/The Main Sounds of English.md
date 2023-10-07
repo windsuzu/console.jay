@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 17:55
+date: 2023-10-07 23:07
 tags:
   - english-pronunciation
 ---
@@ -61,6 +61,13 @@ For more pairing examples, watch [English Pronunciation: Bat /æ/ vs But /Ʌ/](h
 4. stack - stuck
 ---
 ## /ɔ/ (law) and /oʊ/ (low)
+
+1. bought - boat
+2. caught - coat
+3. lawn - loan
+
+
+
 
 
 ---
