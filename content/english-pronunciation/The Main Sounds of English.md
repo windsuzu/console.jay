@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 16:35
+date: 2023-10-07 17:38
 tags:
   - english-pronunciation
 ---
@@ -46,11 +46,52 @@ Taught by [Ronnie](https://www.youtube.com/watch?v=SMJrIzjnmDM), to pronounce `/
 5. sack - sock
 ---
 ## /ɑ/ (calm) and /ɘ/ (come)
+In [DVCESL72's video](https://www.youtube.com/watch?v=f_7GJ34UYVE), he teaches us that the `/ə/` sound is easily produced by initially closing the mouth and vibrating it, followed by opening the mouth without altering the shape of your mouth and tongue.
 
 1. sob - sub
 2. hot - hut
 3. got - gut
 4. rot - rut
+---
+## **/æ/ (bat) and /ɘ (but)**
+For more pairing examples, watch [English Pronunciation: Bat /æ/ vs But /Ʌ/](https://www.youtube.com/watch?v=RtbewuEu9E4).
+1. cap - cup
+2. mad - mud
+3. ban - bun
+4. stack - stuck
+---
+## /ɔ/ (want) and /oʊ/ (won’t)
+
+
+---
+## /ʊ/ (full) and /u/ (fool)
+
+---
+
+## /ɑ/ (lock) VS. /ɘ/ (luck) VS. /ʊ/ (look)
+
+---
+## /ɘr/ (heard) and /ɑ/ (hard)
+
+---
+
+## /ɘr/ (work) and /ɔ/ (walk)
+
+---
+
+## /aɪ/ (time, nine, dry, etc.)
+
+
+---
+
+## /aʊ/ (south, house, cow, etc.)
+
+
+---
+
+## /ɔɪ/ (oil, choice, voice, etc.)
+
+
 
 
 > [!info] References
