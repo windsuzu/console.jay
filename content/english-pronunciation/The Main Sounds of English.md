@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 16:14
+date: 2023-10-07 16:35
 tags:
   - english-pronunciation
 ---
@@ -45,7 +45,12 @@ Taught by [Ronnie](https://www.youtube.com/watch?v=SMJrIzjnmDM), to pronounce `/
 4. cat - cot
 5. sack - sock
 ---
+## /ɑ/ (calm) and /ɘ/ (come)
 
+1. sob - sub
+2. hot - hut
+3. got - gut
+4. rot - rut
 
 
 > [!info] References
