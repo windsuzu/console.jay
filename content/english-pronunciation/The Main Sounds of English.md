@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 01:32
+date: 2023-10-07 12:16
 tags:
   - english-pronunciation
 ---
@@ -18,17 +18,18 @@ Based on this [accent tutorial by Lisa Mojsin](https://www.youtube.com/watch?v=3
 3. seat - sit
 4. eat - it
 5. beach - bitch
-
 ---
 ## /eɪ/ (sale) and /ɛ/ (sell)
-
-
+According to this [tutorial by Tarle](https://www.youtube.com/watch?v=SqN3kGMLwio), we should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
 1. bed - bade
 2. tell - tale
 3. men - main
 4. test - taste
 5. pen - pain
 6. sent - saint
+---
+
+
 
 > [!info] References
 > - [English Pronunciation Exercises (Practice Them to Sound Like a Native Speaker) - EngFluent](https://engfluent.com/english-pronunciation-exercises)
