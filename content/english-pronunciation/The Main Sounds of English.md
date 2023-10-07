@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 15:57
+date: 2023-10-07 16:14
 tags:
   - english-pronunciation
 ---
@@ -38,7 +38,13 @@ Based on tutorials by [Rachel](https://www.youtube.com/watch?v=UM9gPzKs1Hg) and 
 6. band - bend
 ---
 ## /æ/ (hat) and /ɑ/ (hot)
-
+Taught by [Ronnie](https://www.youtube.com/watch?v=SMJrIzjnmDM), to pronounce `/æ/`, you should relax your mouth and open it slightly. On the other hand, to pronounce `/ɑ/`, your mouth should be quite open and loose.
+1. bag - bog
+2. Dan - Don
+3. caps - cops
+4. cat - cot
+5. sack - sock
+---
 
 
 
