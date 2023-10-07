@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-07 12:16
+date: 2023-10-07 13:02
 tags:
   - english-pronunciation
 ---
@@ -19,7 +19,7 @@ Based on this [accent tutorial by Lisa Mojsin](https://www.youtube.com/watch?v=3
 4. eat - it
 5. beach - bitch
 ---
-## /eɪ/ (sale) and /ɛ/ (sell)
+## /ɛ/ (sell) and /eɪ/ (sale)
 According to this [tutorial by Tarle](https://www.youtube.com/watch?v=SqN3kGMLwio), we should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
 1. bed - bade
 2. tell - tale
@@ -28,6 +28,14 @@ According to this [tutorial by Tarle](https://www.youtube.com/watch?v=SqN3kGMLwi
 5. pen - pain
 6. sent - saint
 ---
+## /æ/ (bad) and /ɛ/ (bed)
+
+1. man - men
+2. sad - said
+3. sat - set
+4. dad - dead
+5. land - lend
+6. band - bend
 
 
 
