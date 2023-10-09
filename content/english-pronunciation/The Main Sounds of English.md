@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-08 00:07
+date: 2023-10-09 18:19
 tags:
   - english-pronunciation
 ---
@@ -85,6 +85,12 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 
 ---
 ## /ʊ/ (full) and /u/ (fool)
+[tutorial1](https://www.youtube.com/watch?v=21b69Q-9S6c) [tutorial2](https://www.youtube.com/watch?v=55PmcYbDKZs) [tutorial3](https://www.youtube.com/watch?v=5Qms8b6vKBs)
+
+
+
+
+
 
 ---
 
