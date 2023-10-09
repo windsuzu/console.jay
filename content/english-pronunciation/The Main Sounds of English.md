@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-09 18:59
+date: 2023-10-09 19:21
 tags:
   - english-pronunciation
 ---
@@ -87,9 +87,7 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 ## /ʊ/ (full) and /u/ (fool)
 [tutorial1](https://www.youtube.com/watch?v=21b69Q-9S6c) [tutorial2](https://www.youtube.com/watch?v=55PmcYbDKZs) [tutorial3](https://www.youtube.com/watch?v=5Qms8b6vKBs)
 
-
-
-`/ʊ/` `/u/`
+`/ʊ/` is a short 'oo' sound and can be pronounced like 'uh.' When you pronounce `/ʊ/`, your mouth is very relaxed, and your throat is vibrating. By contrast, `/u/` is a long 'oo' sound and pronounced like 'oo'. When you pronounce `/u/`, round your lips, move your mouth a lot, and make the sound longer.
 
 1. soot - suit
 2. could - cooed
@@ -99,11 +97,13 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 6. look - Luke
 
 > [!tip] Tip for pronouncing the `L` sound
->  When transitioning to the `L` sound, make sure to touch the back of your top teeth.
+>  When transitioning to the `L` sound in words like `pull` or `full`, make sure to touch the back of your top teeth.
 
 ---
 
 ## /ɑ/ (lock) VS. /ɘ/ (luck) VS. /ʊ/ (look)
+
+
 
 ---
 ## /ɘr/ (heard) and /ɑ/ (hard)
