@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-09 19:21
+date: 2023-10-09 23:35
 tags:
   - english-pronunciation
 ---
@@ -98,12 +98,6 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 
 > [!tip] Tip for pronouncing the `L` sound
 >  When transitioning to the `L` sound in words like `pull` or `full`, make sure to touch the back of your top teeth.
-
----
-
-## /ɑ/ (lock) VS. /ɘ/ (luck) VS. /ʊ/ (look)
-
-
 
 ---
 ## /ɘr/ (heard) and /ɑ/ (hard)
