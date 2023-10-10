@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-09 23:35
+date: 2023-10-10 17:30
 tags:
   - english-pronunciation
 ---
@@ -100,7 +100,9 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 >  When transitioning to the `L` sound in words like `pull` or `full`, make sure to touch the back of your top teeth.
 
 ---
-## /ɘr/ (heard) and /ɑ/ (hard)
+## /ɘr/ (heard) and /ɑr/ (hard)
+
+When we say `/ɑr/`, our mouth is wider. But when we say `/ɘr/`, we make a deeper sound, and our mouth is smaller. 
 
 ---
 
