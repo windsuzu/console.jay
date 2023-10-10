@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-10 17:30
+date: 2023-10-10 17:52
 tags:
   - english-pronunciation
 ---
@@ -88,7 +88,6 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 [tutorial1](https://www.youtube.com/watch?v=21b69Q-9S6c) [tutorial2](https://www.youtube.com/watch?v=55PmcYbDKZs) [tutorial3](https://www.youtube.com/watch?v=5Qms8b6vKBs)
 
 `/ʊ/` is a short 'oo' sound and can be pronounced like 'uh.' When you pronounce `/ʊ/`, your mouth is very relaxed, and your throat is vibrating. By contrast, `/u/` is a long 'oo' sound and pronounced like 'oo'. When you pronounce `/u/`, round your lips, move your mouth a lot, and make the sound longer.
-
 1. soot - suit
 2. could - cooed
 3. foot - food
@@ -100,16 +99,23 @@ There are also some word pairs for `/ɔːr/` and `/oʊ/` ([tutorial](https://www
 >  When transitioning to the `L` sound in words like `pull` or `full`, make sure to touch the back of your top teeth.
 
 ---
-## /ɘr/ (heard) and /ɑr/ (hard)
+## /ɑr/ (hard) and /ɘr/ (heard)
+[tutorial1](https://www.youtube.com/watch?v=yH-EhIv4VbQ)  [tutorial2](https://www.youtube.com/watch?v=eMIML04NMMA)
 
-When we say `/ɑr/`, our mouth is wider. But when we say `/ɘr/`, we make a deeper sound, and our mouth is smaller. 
+When we say `/ɑr/`, making it sound like "ARE", and make your mouth wider. When we say `/ɘr/`, making it sound like "ER" by rounding lips slightly and pulling tounge toward the back of your mouth.
+1. star - stir
+2. bar - burr
+3. heart - hurt
+4. barn - burn
+5. farm - firm
+6. par - per
 
 ---
-
 ## /ɘr/ (work) and /ɔ/ (walk)
 
----
 
+
+---
 ## /aɪ/ (time, nine, dry, etc.)
 
 
