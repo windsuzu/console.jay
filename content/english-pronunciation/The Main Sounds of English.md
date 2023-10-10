@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-10-10 17:52
+date: 2023-10-10 19:23
 tags:
   - english-pronunciation
 ---
@@ -112,8 +112,9 @@ When we say `/ɑr/`, making it sound like "ARE", and make your mouth wider. When
 
 ---
 ## /ɘr/ (work) and /ɔ/ (walk)
+[tutorial](https://www.youtube.com/watch?v=E1W47j-zGw4)
 
-
+The "walk" sounds similar to the word "wok," like a frying pan, with an "aw" sound. In contrast, "work" requires the correct pronunciation of the "r" sound by pointing the tongue at the alveolar ridge behind the front teeth.
 
 ---
 ## /aɪ/ (time, nine, dry, etc.)
