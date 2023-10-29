@@ -84,7 +84,12 @@ export default ((userOpts?: Partial<Options>) => {
   }
 
   function Explorer({ allFiles, displayClass, fileData }: QuartzComponentProps) {
+    if (fileData.slug === "index") {
+      return <></>
+    }
+
     constructFileTree(allFiles)
+
     return (
       <div class={`explorer ${displayClass ?? ""}`}>
         <button
