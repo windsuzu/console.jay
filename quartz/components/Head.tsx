@@ -17,6 +17,10 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        <meta
+          name="google-site-verification"
+          content="Bsemh4xmqB8-HMgx8FPnXDa7LJxygt3hLSWaR5jffoY"
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
