@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "english-pronunciation/The Main Sounds of English.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#english-pronunciation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91d8045f3deba083",
