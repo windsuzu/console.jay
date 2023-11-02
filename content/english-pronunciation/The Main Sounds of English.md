@@ -1,7 +1,7 @@
 ---
 title: The Main Sounds of English
 draft: false
-date: 2023-11-02 19:43
+date: 2023-11-02 19:58
 tags:
   - english-pronunciation
 ---
@@ -14,10 +14,10 @@ This sometimes results in similar words being pronounced the same way. For examp
 > The pronunciation symbols below are all from the International Phonetic Alphabet (IPA), as used in the [Cambridge Dictionary](https://dictionary.cambridge.org/help/phonetics.html).
 
 
-## /i/ (heat) and /ɪ/ (hit) 
+## /i:/ (heat) and /ɪ/ (hit) 
 Tutorial [\[1\]](https://www.youtube.com/watch?v=3dasuQ9u8i0)
 
-We learn that the sounds `/i/`, and `/ɪ/` differ not only in length but also in other aspects. **When pronouncing `/i/`, we use more tension in our lips and tongue, whereas when pronouncing `/ɪ/`, it's relaxed and neutral with relaxed lips and tongue.** (You can place your fingers on your jaw and cheeks to feel the difference) After understanding the techniques, you can proceed to the practice below.
+We learn that the sounds `/i:/`, and `/ɪ/` differ not only in length but also in other aspects. **When pronouncing `/i:/`, we use more tension in our lips and tongue, whereas when pronouncing `/ɪ/`, it's relaxed and neutral with relaxed lips and tongue.** (You can place your fingers on your jaw and cheeks to feel the difference) After understanding the techniques, you can proceed to the practice below.
 1. heel - hill
 2. feel - fill
 6. sheet - shit
@@ -25,10 +25,10 @@ We learn that the sounds `/i/`, and `/ɪ/` differ not only in length but also in
 4. eat - it
 5. beach - bitch
 ---
-## /ɛ/ (sell) and /eɪ/ (sale) 
+## /e/ (sell) and /eɪ/ (sale) 
 Tutorial [\[1\]](https://www.youtube.com/watch?v=SqN3kGMLwio)
 
-We should pronounce `/ɛ/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
+We should pronounce `/e/` with tense lips, a narrow mouth opening, and a short vowel sound. For `/eɪ/`, use a more open mouth and a longer vowel sound.
 1. bed - bade
 2. tell - tale
 3. men - main
