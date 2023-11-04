@@ -11,14 +11,6 @@
             "id": "f22b19fcf5fa8905",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "af757b64032cf644",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "english-grammar/Grammar List.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,12 +244,12 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "af757b64032cf644",
+  "active": "f22b19fcf5fa8905",
   "lastOpenFiles": [
     "english-pronunciation/The Main Sounds of English.md",
+    "english-pronunciation/English Pronunciation Exercises.md",
     "english-grammar/Grammar List.md",
     "english-grammar",
-    "english-pronunciation/English Pronunciation Exercises.md",
     "chart-js/Chart.js.md",
     "pwa/Create a PWA.md",
     "pwa/Create a PWA with Next.js 13 App Router.md",
