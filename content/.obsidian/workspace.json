@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "english-grammar/When to use present simple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed793acefb33982b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "english-grammar/When to use present continuous.md",
                 "mode": "source",
                 "source": false
@@ -30,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75c7fd23edefa5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/When to use present continuous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,11 +257,12 @@
               "state": {
                 "file": "english-grammar/When to use present continuous.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -245,20 +271,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "cmdr:QuickAdd: Add new note ⚡": false,
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "f22b19fcf5fa8905",
+  "active": "75c7fd23edefa5dd",
   "lastOpenFiles": [
     "english-grammar/When to use present simple.md",
     "english-grammar/When to use present continuous.md",
+    "english-grammar/Stative or non-action verbs.md",
+    "english-grammar/Present simple or continuous.md",
     "english-grammar/English Grammar List.md",
     "[Test.md",
     "english-pronunciation/The Main Sounds of English.md",
@@ -290,8 +318,6 @@
     "index.md",
     "chart-js/f.md",
     "chart-js",
-    "pwa/Untitled.md",
-    "Configure ServiceWorker.md",
     "attachments/pwa-passed.png",
     "attachments",
     "Pasted image 20230913181543.png",
