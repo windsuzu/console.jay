@@ -1,14 +1,14 @@
 ---
 title: When to use present simple
 draft: false
-date: 2023-11-07 01:13
+date: 2023-11-07 02:07
 tags:
   - english
   - grammar
   - present-simple
 ---
 
-We use the present simple tense in the following situations:
+Distinguishing between the time to use the present simple tense and the [[When to use present continuous|present continuous tense]] can be difficult. We can use the present simple tense in the following situations:
 
 ## 1. Habits or actions that occur regularly and repeatedly
 - I **wash** my hair every day.

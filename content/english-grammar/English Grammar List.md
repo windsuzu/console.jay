@@ -1,7 +1,7 @@
 ---
 title: English Grammar List
 draft: false
-date: 2023-11-07 01:30
+date: 2023-11-07 02:06
 tags:
   - english
   - grammar
@@ -20,6 +20,4 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B1 - [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/) \[HARD\]
 	- 📝 [[When to use present simple|When to use present simple tense]]
 	- 📝 [[When to use present continuous|When to use present continuous tense]]
-	- 📝 [[Present simple or continuous]]
 	- 📝 [[Stative or non-action verbs]]
-- 
