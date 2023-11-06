@@ -1,7 +1,7 @@
 ---
 title: When to use present continuous
 draft: false
-date: 2023-11-06 18:10
+date: 2023-11-06 22:24
 tags:
   - english
   - grammar
@@ -16,6 +16,11 @@ The **"right now"** here means **"at the moment of speaking"**.
 - I **am watching** TV.
 ## 2. Actions that are happening around now
 The **"around now"** here means **"not at the moment of speaking"** but **"in recent days or weeks"**. 
+- I **am reading** a very good book at the moment.
+- What TV series **are** you **watching** these days?
+
+> [!note]
+> Here are some time expressions express **now** or **around now**: `now`, `at the moment`, `at present`, `today`, `these days`, `this week`, etc.
 
 
 > [!info] References
