@@ -1,7 +1,7 @@
 ---
 title: English Grammar List
 draft: false
-date: 2023-11-07 02:29
+date: 2023-11-07 16:22
 tags:
   - english
   - grammar
@@ -23,3 +23,6 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 	- 📝 [[Stative or non-action verbs]]
 - A1 - [Have got](https://test-english.com/grammar-points/a1/have-got/)
 - A2 - [Present perfect – form and use](https://test-english.com/grammar-points/a2/present-perfect/)
+- A2 - [Present perfect or past simple?](https://test-english.com/grammar-points/a2/present-perfect-or-past-simple/)
+- B1 - [Past simple or present perfect?](https://test-english.com/grammar-points/b1/past-simple-present-perfect/)
+- 
