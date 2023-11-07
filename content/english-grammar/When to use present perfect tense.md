@@ -1,7 +1,7 @@
 ---
 title: When to use present perfect tense
 draft: false
-date: 2023-11-08 00:03
+date: 2023-11-08 00:26
 tags:
   - english
   - grammar
@@ -25,6 +25,8 @@ The **present perfect tense** is occasionally mistaken for the [[past simple ten
 ## 4. When the time we mentioned has not yet finished
 - **I‘ve seen** John **today**. 
 - **Has** she **called** you **this week**?
+- **She’s been** with me all day. 
+- **I’ve been** very busy lately. 
 
 ## 5. When talking about the past experience with `ever`, `never` or `before`
 - **I‘ve never read** this book.
@@ -42,8 +44,11 @@ We use 'has gone to' when someone is still there, and we use 'has been to' when 
 - We **have been to** Ireland three times. We love it.
 
 ## 8. Ask or talk about situations that started in the past and have not finished
-
+Sentences in this category are usually accompanied by the words `for`, `since` and `how long`. We use `for` followed by a period of time, such as `two days` or `three weeks`. We use `since` followed by the moment in the past when something started.
+- **We've been married** for 25 years.
+- **I've had** this watch since I was a kid.
+- How long **have you been** friends?
 
 
 > [!info] References
-> - put some references
+> - [Past simple or present perfect? - Page 4 of 4 - Test-English](https://test-english.com/grammar-points/b1/past-simple-present-perfect/4/)
