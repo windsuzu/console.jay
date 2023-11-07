@@ -1,7 +1,7 @@
 ---
 title: When to use present perfect tense
 draft: false
-date: 2023-11-07 23:40
+date: 2023-11-08 00:03
 tags:
   - english
   - grammar
@@ -37,7 +37,12 @@ The **present perfect tense** is occasionally mistaken for the [[past simple ten
 - **We’ve been** to Paris **twice**. 
 
 ## 7. Have gone to or have been to
-We say someone has gone to when someone is still there, And we say someone has been to when someone has come back.
+We use 'has gone to' when someone is still there, and we use 'has been to' when someone has come back.
+- Tom **has gone to** Ireland. He’ll be there for a couple of weeks.
+- We **have been to** Ireland three times. We love it.
+
+## 8. Ask or talk about situations that started in the past and have not finished
+
 
 
 > [!info] References
