@@ -1,7 +1,7 @@
 ---
 title: When to use present perfect tense
 draft: false
-date: 2023-11-07 18:19
+date: 2023-11-07 23:40
 tags:
   - english
   - grammar
@@ -36,7 +36,8 @@ The **present perfect tense** is occasionally mistaken for the [[past simple ten
 - **I’ve watched** this film **three times**. 
 - **We’ve been** to Paris **twice**. 
 
-## 7. 
+## 7. Have gone to or have been to
+We say someone has gone to when someone is still there, And we say someone has been to when someone has come back.
 
 
 > [!info] References
