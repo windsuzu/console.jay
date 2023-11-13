@@ -1,7 +1,6 @@
 ---
-title: PWA (Progressive Web Apps)
 draft: false
-date: 2023-10-07 00:18
+date: 2023-11-13 18:27
 tags:
   - pwa
 ---

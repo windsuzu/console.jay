@@ -1,14 +1,13 @@
 ---
-title: When to use present continuous
 draft: false
-date: 2023-11-07 02:13
+date: 2023-11-13 18:26
 tags:
   - english
   - grammar
   - present-continuous
 ---
 
-Choosing between the [[When to use present simple|present simple]] and present continuous tenses in a sentence can be quite perplexing. However, we can navigate this by following the rules below for using the present continuous tense.
+Choosing between the [[Present Simple|present simple]] and present continuous tenses in a sentence can be quite perplexing. However, we can navigate this by following the rules below for using the present continuous tense.
 
 ## 1. When the action is in progress
 These actions can happen 'now' or 'around now'. (such as these days, weeks, or months).

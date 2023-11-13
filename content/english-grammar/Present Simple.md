@@ -1,14 +1,13 @@
 ---
-title: When to use present simple
 draft: false
-date: 2023-11-07 02:07
+date: 2023-11-13 18:26
 tags:
   - english
   - grammar
   - present-simple
 ---
 
-Distinguishing between the time to use the present simple tense and the [[When to use present continuous|present continuous tense]] can be difficult. We can use the present simple tense in the following situations:
+Distinguishing between the time to use the present simple tense and the [[Present Continuous|present continuous tense]] can be difficult. We can use the present simple tense in the following situations:
 
 ## 1. Habits or actions that occur regularly and repeatedly
 - I **wash** my hair every day.
@@ -23,7 +22,7 @@ Distinguishing between the time to use the present simple tense and the [[When t
 - We **usually** **order** a pizza on Fridays.
 - I **go** running **twice a week**.
 
-## 4. [[Stative or non-action verbs]]
+## 4. [[Stative or Non-action Verbs]]
 Some of these verbs are: **be**, **have** (=possess/own), **like**, **love**, **hate**, **prefer**, **need**, **want**, **know**, **seem**, etc.
 - They **have** a new car.
 - I **like** chocolate.

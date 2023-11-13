@@ -1,7 +1,6 @@
 ---
-title: Stative or non-action verbs
 draft: false
-date: 2023-11-07 01:29
+date: 2023-11-13 18:26
 tags:
   - english
   - grammar
