@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55d015e4d9d5d660",
+        "id": "52b7034a120d2d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "22792224b0588ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e39523443dae9fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/English MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd6d5817bacccbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/English MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbf2e2ddbbd9aae7",
+            "id": "5ee5ed894341869b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "title",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/English MOC.md",
+                "file": "english-grammar/Present Perfect Continuous.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/English MOC.md"
+                "file": "english-grammar/Present Perfect Continuous.md"
               }
             }
           },
@@ -200,7 +163,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": false
               }
             }
@@ -229,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/English MOC.md"
+                "file": "english-grammar/Present Perfect Continuous.md"
               }
             }
           },
@@ -239,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/English MOC.md",
+                "file": "english-grammar/Present Perfect Continuous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/English MOC.md",
+                "file": "english-grammar/Present Perfect Continuous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,30 +245,31 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "0e39523443dae9fa",
+  "active": "5ee5ed894341869b",
   "lastOpenFiles": [
     "index.md",
-    "mocs/CSS MOC.md",
-    "mocs/English MOC.md",
     "english-grammar/Present Perfect Continuous.md",
-    "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md",
-    "mocs/React MOC.md",
-    "mocs",
     "english-grammar/English Grammar List.md",
+    "mocs/CSS MOC.md",
+    "mocs/Web-Dev MOC.md",
+    "mocs/React MOC.md",
+    "mocs/English MOC.md",
+    "css/Mobile Viewport Units (svh, lvh, dvh).md",
+    "chart-js/Chart.js.md",
+    "english-pronunciation/English Pronunciation Exercises.md",
+    "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md",
+    "mocs",
     "english-grammar/Stative or Non-action Verbs.md",
     "english-grammar/Present Simple.md",
     "pwa/PWA (Progressive Web Apps).md",
     "pwa/Create a PWA with Next.js 13 App Router.md",
     "pwa/Create a PWA.md",
     "english-pronunciation/The Main Sounds of English.md",
-    "english-pronunciation/English Pronunciation Exercises.md",
     "english-grammar/Present Perfect.md",
     "english-grammar/Present Continuous.md",
-    "css/Mobile Viewport Units (svh, lvh, dvh).md",
     "chart-js/Tree-shaking of Chart.js.md",
     "chart-js/Plugins of Chart.js.md",
     "chart-js/Getting Started with Chart.js.md",
-    "chart-js/Chart.js.md",
     "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md",
     "chart-js/react-chartjs-2/react-chartjs-2.md",
     "attachments/chart-js-example.png",
@@ -320,7 +284,6 @@
     "_templates/default-note.md",
     "attachments/chart-js-example-plugin.png",
     "english-grammar/test.md",
-    "css/Untitled.md",
     "css",
     "english-grammar",
     "english-pronunciation",
