@@ -9,6 +9,10 @@ tags:
 ```js
 console.jay();
 ```
-Hello, world! I am Jay. This is my digital garden, which you can also consider as my second brain. The ultimate goal is to transform this site into a vector store that can be seamlessly integrated with LLM, allowing you to inquire about anything I know.
+Hello, there! I am Jay, a software engineer from Taiwan. 
 
-Currently I am working as a front-end engineer. 
+
+This is my digital garden and my second brain. 
+
+
+The ultimate goal is to transform this site into a vector store that can be seamlessly integrated with LLM, allowing you to inquire about anything I know.

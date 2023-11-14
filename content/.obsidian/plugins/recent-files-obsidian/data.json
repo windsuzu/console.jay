@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Present Simple",
       "path": "english-grammar/Present Simple.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "PWA (Progressive Web Apps)",
