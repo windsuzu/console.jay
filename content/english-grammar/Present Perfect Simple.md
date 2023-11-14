@@ -1,13 +1,13 @@
 ---
 draft: false
-date: 2023-11-13 18:24
+date: 2023-11-14 19:53
 tags:
   - english
   - grammar
   - present-perfect
 ---
 
-The **present perfect tense** is occasionally mistaken for the [[past simple tense]], but I've discovered a method to tell them apart. If you want to talk about an event that occurred at a specific moment or during a particular period in the past (and it didn't continue up to the present), you should employ the [[past simple tense]]. However, when you come across the situations listed below, it's appropriate to use the **present perfect tense**.
+The **present perfect simple** is occasionally mistaken for the [[Past Simple]], but I've discovered a method to tell them apart. If you want to talk about an event that occurred at a specific moment or during a particular period in the past (and it didn't continue up to the present), you should employ the [[Past Simple]]. However, when you come across the situations listed below, it's appropriate to use the **present perfect simple**.
 
 ## 1. When talking about a past event without a specific time
 - **I have (I've)** **broken** my arm.

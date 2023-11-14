@@ -10,7 +10,7 @@ tags:
 	- [[Present Simple]]
 	- [[Stative or Non-action Verbs]]
 	- [[Present Continuous]]
-	- [[Present Perfect]]
+	- [[Present Perfect Simple]]
 	- [[Present Perfect Continuous]]
 
 ## Pronunciation
