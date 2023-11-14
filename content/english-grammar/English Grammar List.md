@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-14 19:55
+date: 2023-11-14 20:54
 tags:
   - english
   - grammar
@@ -30,3 +30,6 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B1+ -  [Present perfect simple or continuous](https://test-english.com/grammar-points/b1-b2/present-perfect-simple-continuous/)
 	- 📝 [[Present Perfect Continuous]]
 
+## Past tenses
+-   A1 - [Was/were – past simple of ‘be’](https://test-english.com/grammar-points/a1/was-were/)
+- 

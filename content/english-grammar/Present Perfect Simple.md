@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-14 19:53
+date: 2023-11-14 20:44
 tags:
   - english
   - grammar
@@ -34,8 +34,8 @@ The **present perfect simple** is occasionally mistaken for the [[Past Simple]],
 - This is the **best** mea**l I’ve ever had**.
 
 ## 6. When you want to say how many times something has happened until now
-- **I’ve watched** this film **three times**. 
-- **We’ve been** to Paris **twice**. 
+- **I’ve watched** this film **three times**.
+- **We’ve been** to Paris **twice**.
 
 ## 7. Have gone to or have been to
 We use 'has gone to' when someone is still there, and we use 'has been to' when someone has come back.
@@ -48,6 +48,10 @@ Sentences in this category are usually accompanied by the words `for`, `since` a
 - **I've had** this watch since I was a kid.
 - How long **have you been** friends?
 
+## 9. With non-action verbs (stative verbs)
+we must use the **present perfect simple** with [[Stative or Non-action Verbs]],  and we normally use the [[present perfect continuous]] with dynamic verbs (although the present perfect simple is also possible.)
+- **We‘ve had** this car for years.
+- **We've known** Dave and Julia for years.
 
 > [!info] References
 > - [Past simple or present perfect? - Page 4 of 4 - Test-English](https://test-english.com/grammar-points/b1/past-simple-present-perfect/4/)
