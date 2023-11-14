@@ -17,5 +17,10 @@ So, welcome to my digital garden, a curated space where I nurture and cultivate 
 
 Ready to explore? Dive into my digital garden and join me on this dynamic journey of continuous learning and creative exploration.
 
-If you're interested in my language journey, please enter the following entries:
-- 
+If you're interested in software development and computer science, check out these MOCs:
+- [[CSS MOC]]
+- [[React MOC]]
+
+
+If you're curious about my language journey, step into the world of linguistics:
+- [[English MOC]]
