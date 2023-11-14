@@ -15,3 +15,7 @@ Greetings! I'm Jay, a passionate software engineer hailing from Taiwan. My journ
 
 So, welcome to my digital garden, a curated space where I nurture and cultivate my brainchildren, notes, and blogs. At its core, this garden abides by the principle of "imperfectism." While I once adhered to the pursuit of perfection in coding, article editing, and various endeavors, I've come to appreciate the beauty in embracing imperfection. Here, you'll find notes and blogs that may not always boast a flawless structure or impeccable rhetoric. Instead, the focus is on the journey of creation, the iterative process of building, and the acceptance of imperfections as integral to the creative journey. It's a testament to the belief that continuous creation and building, without the constraints of perfection, pave the way for remarkable results over time.
 
+Ready to explore? Dive into my digital garden and join me on this dynamic journey of continuous learning and creative exploration.
+
+If you're interested in my language journey, please enter the following entries:
+- 
