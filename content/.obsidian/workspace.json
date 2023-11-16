@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/CSS MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b352d5670a718dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "css/Min-height Container Issue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,11 +244,12 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "6b352d5670a718dc",
+  "active": "a30f4c09e0b1e6bf",
   "lastOpenFiles": [
     "mocs/CSS MOC.md",
-    "english-grammar/English Grammar List.md",
     "css/Min-height Container Issue.md",
+    "attachments/min-height-container-issue.png",
+    "english-grammar/English Grammar List.md",
     "english-grammar/Present Perfect Simple.md",
     "english-grammar/Present Perfect Continuous.md",
     "attachments/Present-perfect-continuous.webp",
@@ -287,7 +275,6 @@
     "chart-js/Plugins of Chart.js.md",
     "chart-js/Getting Started with Chart.js.md",
     "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md",
-    "chart-js/react-chartjs-2/react-chartjs-2.md",
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",
     "attachments/svh-lvh-dvh.png",
@@ -295,7 +282,6 @@
     "attachments/pwa-service-worker.png",
     "attachments/pwa-passed.png",
     "attachments/mobile-100vh.png",
-    "attachments/dvh-font-size.png",
     "css",
     "english-grammar",
     "english-pronunciation",
