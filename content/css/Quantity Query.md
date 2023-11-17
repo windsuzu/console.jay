@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2023-11-17 18:28
+date: 2023-11-17 18:45
 tags:
   - css
   - tbd
 ---
 
-
+The **quantity query** is a technique that utilizes `nth-last-child` and [subsequent-sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Subsequent-sibling_combinator) (the tilde symbol `~`) to apply styles to a group of elements when the number of elements in the group exceeds a certain threshold. 
 
 ```html
 <style>
