@@ -8,7 +8,7 @@ tags:
 ## Grammar
 - [[English Grammar List]]
 	- [[Present Simple]]
-	- [[Stative or Non-action Verbs]]
+	- [[Stative or non-action verbs]]
 	- [[Present Continuous]]
 	- [[Present Perfect Simple]]
 	- [[Present Perfect Continuous]]

@@ -22,7 +22,7 @@ Distinguishing between the time to use the present simple tense and the [[Presen
 - We **usually** **order** a pizza on Fridays.
 - I **go** running **twice a week**.
 
-## 4. [[Stative or Non-action Verbs]]
+## 4. [[Stative or non-action verbs]]
 Some of these verbs are: **be**, **have** (=possess/own), **like**, **love**, **hate**, **prefer**, **need**, **want**, **know**, **seem**, etc.
 - They **have** a new car.
 - I **like** chocolate.

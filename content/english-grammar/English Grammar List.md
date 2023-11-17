@@ -20,7 +20,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B1 - [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/) \[HARD\]
 	- 📝 [[Present Simple]]
 	- 📝 [[Present Continuous]]
-	- 📝 [[Stative or Non-action Verbs]]
+	- 📝 [[Stative or non-action verbs]]
 - A1 - [Have got](https://test-english.com/grammar-points/a1/have-got/)
 - A2 - [Present perfect – form and use](https://test-english.com/grammar-points/a2/present-perfect/)
 - A2 - [Present perfect or past simple?](https://test-english.com/grammar-points/a2/present-perfect-or-past-simple/)

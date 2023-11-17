@@ -49,7 +49,7 @@ Sentences in this category are usually accompanied by the words `for`, `since` a
 - How long **have you been** friends?
 
 ## 9. With non-action verbs (stative verbs)
-we must use the **present perfect simple** with [[Stative or Non-action Verbs]],  and we normally use the [[present perfect continuous]] with dynamic verbs (although the present perfect simple is also possible.)
+we must use the **present perfect simple** with [[Stative or non-action verbs]],  and we normally use the [[present perfect continuous]] with dynamic verbs (although the present perfect simple is also possible.)
 - **We‘ve had** this car for years.
 - **We've known** Dave and Julia for years.
 
