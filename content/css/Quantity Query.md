@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2023-11-17 18:45
+date: 2023-11-17 21:34
 tags:
   - css
   - tbd
 ---
 
-The **quantity query** is a technique that utilizes `nth-last-child` and [subsequent-sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Subsequent-sibling_combinator) (the tilde symbol `~`) to apply styles to a group of elements when the number of elements in the group exceeds a certain threshold. 
+The **quantity query** is a technique that utilizes the combination of [[nth-last-child]] and the [subsequent-sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Subsequent-sibling_combinator) (the tilde symbol `~`) to apply styles to a group of elements when the number of elements in the group exceeds a certain threshold.
 
 ```html
 <style>
@@ -15,14 +15,14 @@ The **quantity query** is a technique that utilizes `nth-last-child` and [subseq
 	li:nth-last-child(4) ~ li { ... }
 </style>
 
-All the li elements below will not be selected.
+(1) All the li elements below will not be selected.
 <ul>
 	<li>1</li>
 	<li>2</li>
 	<li>3</li>
 </ul>
 
-All the li elements below will be selected.
+(2) All the li elements below will be selected.
 <ul>
 	<li>1</li> (selected from n + 4)
 	<li>2</li> (selected from n + 4)
@@ -31,6 +31,8 @@ All the li elements below will be selected.
 	<li>5</li> (selected from 4 ~ li)
 </ul>
 ```
+
+## Quantity Query and `:has` Selector
 
 
 
