@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-17 22:13
+date: 2023-11-17 22:19
 tags:
   - css
 ---
@@ -63,9 +63,11 @@ When creating a modal or dialog, it's common to include one or multiple buttons 
 ```
 
 When there are two or more buttons, the `<div class="actions">` will position the buttons to the rightmost by changing the `justify-content` to `flex-end`.
+
 ![[Pasted image 20231117220117.png]]
 
 When there is only one button, the `:has` selector and quantity query will not trigger, so the button will be placed in the center by default.
+
 ![[Pasted image 20231117220134.png]]
 
 > [!info] References

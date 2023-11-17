@@ -5,6 +5,18 @@
       "path": "css/Quantity Query.md"
     },
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "English MOC",
+      "path": "mocs/English MOC.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Present Simple",
       "path": "english-grammar/Present Simple.md"
     },
@@ -13,20 +25,12 @@
       "path": "english-grammar/Present Perfect Simple.md"
     },
     {
-      "basename": "English MOC",
-      "path": "mocs/English MOC.md"
-    },
-    {
       "basename": "Stative or non-action verbs",
       "path": "english-grammar/Stative or non-action verbs.md"
     },
     {
       "basename": "nth-last-child",
       "path": "css/nth-last-child.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "CSS MOC",
@@ -47,10 +51,6 @@
     {
       "basename": "Present Perfect Continuous",
       "path": "english-grammar/Present Perfect Continuous.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Web-Dev MOC",
