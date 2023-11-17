@@ -1,9 +1,8 @@
 ---
 draft: false
-date: 2023-11-17 21:34
+date: 2023-11-17 22:13
 tags:
   - css
-  - tbd
 ---
 
 The **quantity query** is a technique that utilizes the combination of [[nth-last-child]] and the [subsequent-sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Subsequent-sibling_combinator) (the tilde symbol `~`) to apply styles to a group of elements when the number of elements in the group exceeds a certain threshold.
@@ -33,8 +32,41 @@ The **quantity query** is a technique that utilizes the combination of [[nth-las
 ```
 
 ## Quantity Query and `:has` Selector
+The **quantity query** can be incredibly powerful when used in conjunction with the `:has` selector! The article [Conditional CSS with :has and :nth-last-child written by Ahmad](https://ishadeed.com/article/conditional-css-has-nth-last-child) demonstrates 7 use cases of the **quantity query** combined with the `:has` selector. I chose one to showcase its power!
 
+```html
+<div class="modal">
+	<h1>Title</h1>
+	<p>...</p>
+	
+	<div class="actions">
+		<button class="cancel">Cancel</button>
+		<button class="ok">OK, I understand</button>
+	</div>
+</div>
+```
 
+When creating a modal or dialog, it's common to include one or multiple buttons at the bottom. By default, we can position the button in the center. Additionally, we can use a **quantity query and the :has selector** to place the buttons at the end of the block when there are two or more buttons.
+
+```css
+.actions {
+	display: flex;
+	/* Center the button by default */
+	justify-content: center;
+	gap: 1rem;
+}
+
+/* If there are 2 buttons or more */
+.actions:has(button:nth-last-child(n + 2)) {
+	justify-content: flex-end;
+}
+```
+
+When there are two or more buttons, the `<div class="actions">` will position the buttons to the rightmost by changing the `justify-content` to `flex-end`.
+![[Pasted image 20231117220117.png]]
+
+When there is only one button, the `:has` selector and quantity query will not trigger, so the button will be placed in the center by default.
+![[Pasted image 20231117220134.png]]
 
 > [!info] References
 > - [:nth-last-child() - CSS: Cascading Style Sheets | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-child#quantity_query)
