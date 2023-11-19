@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-17 22:19
+date: 2023-11-17 23:18
 tags:
   - css
 ---
@@ -64,11 +64,11 @@ When creating a modal or dialog, it's common to include one or multiple buttons 
 
 When there are two or more buttons, the `<div class="actions">` will position the buttons to the rightmost by changing the `justify-content` to `flex-end`.
 
-![[Pasted image 20231117220117.png]]
+![[quantity-query-1.png]]
 
 When there is only one button, the `:has` selector and quantity query will not trigger, so the button will be placed in the center by default.
 
-![[Pasted image 20231117220134.png]]
+![[quantity-query-2.png]]
 
 > [!info] References
 > - [:nth-last-child() - CSS: Cascading Style Sheets | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-last-child#quantity_query)

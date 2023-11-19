@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ba902b759182934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css/Quantity Query.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "css/Quantity Query.md",
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622445,
+                  "scale": 0.7132754626224453,
                   "close": true
                 }
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/Quantity Query.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -204,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "css/Quantity Query.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -214,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/Quantity Query.md",
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/Quantity Query.md",
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,20 +244,20 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "6ba902b759182934",
+  "active": "332b066ced33e030",
   "lastOpenFiles": [
-    "english-grammar/English Grammar List.md",
-    "Quantity-Query.md",
     "mocs/English MOC.md",
     "index.md",
+    "mocs/CSS MOC.md",
     "css/Quantity Query.md",
-    "attachments/Pasted image 20231117220134.png",
-    "attachments/Pasted image 20231117220117.png",
+    "attachments/quantity-query-2.png",
+    "attachments/quantity-query-1.png",
+    "english-grammar/English Grammar List.md",
+    "Quantity-Query.md",
     "english-grammar/Present Simple.md",
     "english-grammar/Present Perfect Simple.md",
     "english-grammar/Stative or non-action verbs.md",
     "css/nth-last-child.md",
-    "mocs/CSS MOC.md",
     "css/Mobile Viewport Units (svh, lvh, dvh).md",
     "css/Min-height Container Issue.md",
     "css/Untitled.md",
@@ -290,7 +277,6 @@
     "pwa/Create a PWA.md",
     "english-pronunciation/The Main Sounds of English.md",
     "english-grammar/Present Continuous.md",
-    "chart-js/Tree-shaking of Chart.js.md",
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",
     "attachments/svh-lvh-dvh.png",
