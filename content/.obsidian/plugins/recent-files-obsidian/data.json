@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
+    },
+    {
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
     },
     {
       "basename": "Quantity Query",
@@ -63,10 +67,6 @@
     {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
-    },
-    {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
     },
     {
       "basename": "Chart.js",
