@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Pattern Matching",
-      "path": "javascript/Pattern Matching.md"
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "Pattern Matching",
+      "path": "javascript/Pattern Matching.md"
     },
     {
       "basename": "English MOC",
@@ -19,18 +31,6 @@
     {
       "basename": "CSS MOC",
       "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Quantity Query",

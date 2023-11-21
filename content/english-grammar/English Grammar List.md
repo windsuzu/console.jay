@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-20 23:18
+date: 2023-11-21 21:59
 tags:
   - english
   - grammar
@@ -37,7 +37,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A2 - [Past simple – Form and use](https://test-english.com/grammar-points/a2/past-simple-form-use/)
 - A2 - [Past continuous and past simple](https://test-english.com/grammar-points/a2/past-continuous-past-simple/)
 - A2 - [Past perfect](https://test-english.com/grammar-points/a2/past-perfect/)
+- B1 - [Past simple, past continuous, past perfect](https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)
 	- 📝 [[Past Simple]]
 	- 📝 [[Past Simple Continuous]]
 	- 📝 [[Past Perfect]]
-- B1 - [Past simple, past continuous, past perfect](https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)
