@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-20 23:04
+date: 2023-11-20 23:18
 tags:
   - english
   - grammar
@@ -40,4 +40,4 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 	- 📝 [[Past Simple]]
 	- 📝 [[Past Simple Continuous]]
 	- 📝 [[Past Perfect]]
-- 
+- B1 - [Past simple, past continuous, past perfect](https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)
