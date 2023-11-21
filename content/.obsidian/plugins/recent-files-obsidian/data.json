@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
+      "basename": "Pattern Matching",
+      "path": "javascript/Pattern Matching.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "English MOC",
+      "path": "mocs/English MOC.md"
     },
     {
       "basename": "React MOC",
@@ -13,12 +21,16 @@
       "path": "mocs/CSS MOC.md"
     },
     {
-      "basename": "English MOC",
-      "path": "mocs/English MOC.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Quantity Query",
@@ -63,10 +75,6 @@
     {
       "basename": "Present Perfect Continuous",
       "path": "english-grammar/Present Perfect Continuous.md"
-    },
-    {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
     },
     {
       "basename": "Chart.js",

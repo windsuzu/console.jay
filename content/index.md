@@ -18,6 +18,7 @@ So, welcome to my **digital garden**, a curated space where I nurture and cultiv
 Ready to explore? Dive into my digital garden and join me on this dynamic journey of continuous learning and creative exploration.
 
 If you're interested in software development and computer science, check out these MOCs:
+- [[JavaScript MOC]]
 - [[CSS MOC]]
 - [[React MOC]]
 - [[Web-Dev MOC]]
