@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Past Continuous.md",
+                "file": "javascript/Imperative and Declarative Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d17005c5366c783a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/JavaScript MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Past Continuous.md",
+                "file": "javascript/Imperative and Declarative Programming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Past Continuous.md"
+                "file": "javascript/Imperative and Declarative Programming.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Past Continuous.md"
+                "file": "javascript/Imperative and Declarative Programming.md"
               }
             }
           },
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Past Continuous.md",
+                "file": "javascript/Imperative and Declarative Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Past Continuous.md",
+                "file": "javascript/Imperative and Declarative Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,16 +258,17 @@
   },
   "active": "aba749a7b1567245",
   "lastOpenFiles": [
-    "english-grammar/English Grammar List.md",
+    "javascript/Pattern Matching.md",
+    "javascript/Imperative and Declarative Programming.md",
+    "mocs/JavaScript MOC.md",
     "english-grammar/Past Continuous.md",
+    "english-grammar/English Grammar List.md",
     "english-grammar/Past Simple.md",
     "english-grammar/Present Perfect Simple.md",
     "english-grammar/Past Perfect.md",
     "_templates/default-note.md",
-    "mocs/JavaScript MOC.md",
     "index.md",
     "mocs/Web-Dev MOC.md",
-    "javascript/Pattern Matching.md",
     "javascript",
     "mocs/English MOC.md",
     "mocs/React MOC.md",
@@ -277,7 +290,6 @@
     "past simple tense.md",
     "chart-js/Chart.js.md",
     "english-pronunciation/English Pronunciation Exercises.md",
-    "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md",
     "mocs",
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",

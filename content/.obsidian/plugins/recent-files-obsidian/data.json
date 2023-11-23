@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Imperative and Declarative Programming",
+      "path": "javascript/Imperative and Declarative Programming.md"
+    },
+    {
+      "basename": "Pattern Matching",
+      "path": "javascript/Pattern Matching.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
       "basename": "Past Continuous",
       "path": "english-grammar/Past Continuous.md"
     },
@@ -25,20 +37,12 @@
       "path": "_templates/default-note.md"
     },
     {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
     },
     {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
-    },
-    {
-      "basename": "Pattern Matching",
-      "path": "javascript/Pattern Matching.md"
     },
     {
       "basename": "English MOC",
