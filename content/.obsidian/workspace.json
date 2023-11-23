@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Past Continuous.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91d8045f3deba083",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Past Continuous.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224453,
+                  "scale": 0.36288736930121407,
                   "close": true
                 }
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Past Continuous.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Past Continuous.md"
               }
             }
           },
@@ -202,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Past Continuous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Past Continuous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,6 +246,12 @@
   },
   "active": "aba749a7b1567245",
   "lastOpenFiles": [
+    "english-grammar/English Grammar List.md",
+    "english-grammar/Past Continuous.md",
+    "english-grammar/Past Simple.md",
+    "english-grammar/Present Perfect Simple.md",
+    "english-grammar/Past Perfect.md",
+    "_templates/default-note.md",
     "mocs/JavaScript MOC.md",
     "index.md",
     "mocs/Web-Dev MOC.md",
@@ -255,14 +260,11 @@
     "mocs/English MOC.md",
     "mocs/React MOC.md",
     "mocs/CSS MOC.md",
-    "english-grammar/English Grammar List.md",
-    "Past Perfect.md",
     "css/Quantity Query.md",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",
     "Quantity-Query.md",
     "english-grammar/Present Simple.md",
-    "english-grammar/Present Perfect Simple.md",
     "english-grammar/Stative or non-action verbs.md",
     "css/nth-last-child.md",
     "css/Mobile Viewport Units (svh, lvh, dvh).md",
@@ -277,9 +279,6 @@
     "english-pronunciation/English Pronunciation Exercises.md",
     "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md",
     "mocs",
-    "pwa/PWA (Progressive Web Apps).md",
-    "pwa/Create a PWA with Next.js 13 App Router.md",
-    "pwa/Create a PWA.md",
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",
     "attachments/svh-lvh-dvh.png",

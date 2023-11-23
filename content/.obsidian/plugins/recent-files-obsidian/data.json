@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Past Continuous",
+      "path": "english-grammar/Past Continuous.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Past Simple",
+      "path": "english-grammar/Past Simple.md"
+    },
+    {
+      "basename": "Present Perfect Simple",
+      "path": "english-grammar/Present Perfect Simple.md"
+    },
+    {
+      "basename": "Past Perfect",
+      "path": "english-grammar/Past Perfect.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "JavaScript MOC",
@@ -47,10 +67,6 @@
     {
       "basename": "Present Simple",
       "path": "english-grammar/Present Simple.md"
-    },
-    {
-      "basename": "Present Perfect Simple",
-      "path": "english-grammar/Present Perfect Simple.md"
     },
     {
       "basename": "Stative or non-action verbs",
@@ -159,10 +175,6 @@
     {
       "basename": "dvh-font-size",
       "path": "attachments/dvh-font-size.png"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "chart-js-example-plugin",
