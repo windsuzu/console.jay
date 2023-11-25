@@ -1,11 +1,14 @@
 ---
 draft: false
-date: 2023-11-23 10:58
+date: 2023-11-25 19:28
 tags:
   - javascript
   - tbd
 ---
 
+Pattern matching is a [[Imperative and Declarative Programming|declarative]] code-branching technique that manages multiple states without relying on [[Imperative and Declarative Programming|imperative constructs]] like `if`, `else`, or `switch`. While widely implemented in languages well-supported for [[functional programming]], such as Swift, Haskell, and Rust, it is still in the early stages of consideration for addition to EcmaScript (as of 2023). 
+
+Fortunately, the library [ts-pattern](https://github.com/gvergnaud/ts-pattern) provides a means to implement pattern matching with features like type-safety, exhaustiveness checking, and more.
 
 
 

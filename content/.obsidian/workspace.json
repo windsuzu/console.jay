@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aba749a7b1567245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/Imperative and Declarative Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d17005c5366c783a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/JavaScript MOC.md",
+                "file": "javascript/Pattern Matching.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "javascript/Imperative and Declarative Programming.md",
+                "file": "javascript/Pattern Matching.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Imperative and Declarative Programming.md"
+                "file": "javascript/Pattern Matching.md"
               }
             }
           },
@@ -203,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "javascript/Imperative and Declarative Programming.md"
+                "file": "javascript/Pattern Matching.md"
               }
             }
           },
@@ -213,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Imperative and Declarative Programming.md",
+                "file": "javascript/Pattern Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Imperative and Declarative Programming.md",
+                "file": "javascript/Pattern Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,11 +244,12 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "aba749a7b1567245",
+  "active": "d17005c5366c783a",
   "lastOpenFiles": [
-    "javascript/Pattern Matching.md",
     "javascript/Imperative and Declarative Programming.md",
+    "javascript/Pattern Matching.md",
     "mocs/JavaScript MOC.md",
+    "unctional programming.md",
     "english-grammar/Past Continuous.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Past Simple.md",
@@ -289,7 +278,6 @@
     "attachments/Present-perfect-continuous.jpg",
     "past simple tense.md",
     "chart-js/Chart.js.md",
-    "english-pronunciation/English Pronunciation Exercises.md",
     "mocs",
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",

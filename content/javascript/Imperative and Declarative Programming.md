@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-25 18:17
+date: 2023-11-25 19:13
 tags:
   - javascript
 ---
@@ -37,6 +37,9 @@ const result = sumArray(numbers);
 console.log(result); // Output: 15
 ```
 
+**More**
+Imperative programming often involves explicit control flow using constructs like loops and conditionals. In Imperative code, side effects are common, with functions modifying external state or having observable interactions with the outside world.
+
 ## Declarative Programming
 
 **HOW**
@@ -56,10 +59,12 @@ function App() {
 }
 ```
 
-**Example (Declarative Function)**
+**Example (Higher-Order Function)**
 ```js
 const numbers = [1, 2, 3, 4, 5];
 const result = numbers.reduce((sum, num) => sum + num, 0);
 console.log(result); // Output: 15
 ```
 
+**More**
+[[Functional programming]] is a type of declarative programming that emphasizes using functions to express computations and discourages changing the state or mutating data.
