@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-25 17:40
+date: 2023-11-25 18:17
 tags:
   - javascript
 ---
@@ -9,4 +9,57 @@ Imparative and declarative programming represent two distinct approaches to comp
 
 ## Imperative Programming
 
+**HOW**  
+In imperative programming, we articulate a step-by-step process to accomplish a task.
+
+**WHAT**
+We explicitly list each instruction, specifying the precise sequence of actions to be performed.
+
+**Example (JavaScript DOM)**
+```js
+var paragraph = document.createElement('p');
+paragraph.textContent = 'Hello, World!';
+document.body.appendChild(paragraph);
+```
+
+**Example (JavaScript Function)**
+```js
+function sumArray(arr) {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i];
+  }
+  return sum;
+}
+
+const numbers = [1, 2, 3, 4, 5];
+const result = sumArray(numbers);
+console.log(result); // Output: 15
+```
+
+## Declarative Programming
+
 **HOW**
+Declarative programming centers on describing the final result or outcome without specifying the process to achieve it.
+
+**WHAT**
+You declare what you want, leaving the underlying system to handle the execution. For instance, when using the React JSX function to render the UI, you don't need to delve into the details of the virtual DOM. Similarly, when employing `reduce` to sum an array, you can achieve the desired result without needing to understand the internal workings of the underlying system.
+
+**Example (React JSX)**
+```jsx
+function App() {
+  return (
+    <div>
+      <p>Hello, World!</p>
+    </div>
+  );
+}
+```
+
+**Example (Declarative Function)**
+```js
+const numbers = [1, 2, 3, 4, 5];
+const result = numbers.reduce((sum, num) => sum + num, 0);
+console.log(result); // Output: 15
+```
+
