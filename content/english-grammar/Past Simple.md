@@ -1,10 +1,10 @@
 ---
 draft: false
-date: 2023-11-21 23:51
+date: 2023-11-26 21:47
 tags:
   - english
   - grammar
-  - past-simple
+  - past-tense
 ---
 
 We use the **past simple** tense in the following situations, when we talk about:

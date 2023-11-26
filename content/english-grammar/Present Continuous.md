@@ -1,10 +1,10 @@
 ---
 draft: false
-date: 2023-11-13 18:26
+date: 2023-11-26 21:47
 tags:
   - english
   - grammar
-  - present-continuous
+  - present-tense
 ---
 
 Choosing between the [[Present Simple|present simple]] and present continuous tenses in a sentence can be quite perplexing. However, we can navigate this by following the rules below for using the present continuous tense.

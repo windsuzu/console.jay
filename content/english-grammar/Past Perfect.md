@@ -1,9 +1,12 @@
 ---
 draft: false
-date: 2023-11-21 23:19
+date: 2023-11-26 21:48
 tags:
-  - tbd
+  - english
+  - grammar
+  - past-tense
 ---
+
 
 
 
