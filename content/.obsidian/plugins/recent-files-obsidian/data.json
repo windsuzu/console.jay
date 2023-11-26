@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Pattern Matching (ts-pattern)",
-      "path": "javascript/Pattern Matching (ts-pattern).md"
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
     },
     {
-      "basename": "Imperative and Declarative Programming",
-      "path": "javascript/Imperative and Declarative Programming.md"
-    },
-    {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
+      "basename": "Present Simple",
+      "path": "english-grammar/Present Simple.md"
     },
     {
       "basename": "Past Continuous",
       "path": "english-grammar/Past Continuous.md"
     },
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
+      "basename": "Imperative and Declarative Programming",
+      "path": "javascript/Imperative and Declarative Programming.md"
+    },
+    {
+      "basename": "Pattern Matching (ts-pattern)",
+      "path": "javascript/Pattern Matching (ts-pattern).md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
     },
     {
       "basename": "Past Simple",
@@ -31,10 +39,6 @@
     {
       "basename": "Past Perfect",
       "path": "english-grammar/Past Perfect.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "index",
@@ -67,10 +71,6 @@
     {
       "basename": "quantity-query-1",
       "path": "attachments/quantity-query-1.png"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "english-grammar/Present Simple.md"
     },
     {
       "basename": "Stative or non-action verbs",

@@ -1,9 +1,8 @@
 ---
 draft: false
-date: 2023-11-26 15:40
+date: 2023-11-26 16:40
 tags:
   - javascript
-  - tbd
 ---
 
 Pattern matching is a [[Imperative and Declarative Programming|declarative]] code-branching technique that manages multiple states without relying on [[Imperative and Declarative Programming|imperative constructs]] like `if`, `else`, or `switch`. While widely implemented in languages well-supported for [[functional programming]], such as Swift, Haskell, and Rust, it is still in the early stages of consideration for addition to EcmaScript (as of 2023). 
@@ -68,7 +67,12 @@ const SomeComponent = ({ fetchState }: { fetchState: State }) => (
 ```
 
 ## 🟢 ts-pattern
+`ts-pattern` provides a `match` expression function to match all possibilities from the input without requiring an IIFE. It returns a [builder](https://en.wikipedia.org/wiki/Builder_pattern) for us to add our pattern matching cases.
+- `.with()` takes two arguments. The first one is the **expected pattern** for this branch, and the second one is a **handler function with parameters narrowed down** to what matches the specified pattern.
+- `.exhaustive()` is the final function in the builder that executes the `match` expression and returns the result from the matching branch. It also provides **exhaustiveness checking** to ensure that all cases from the input have been handled. 
 
+> [!important] The exhaustiveness checking of `.exhaustive()`
+> This checking occurs at compile time and comes with a **trade-off** in terms of performance, as the type checker needs to perform additional work.
 
 ```tsx
 import { match } from 'ts-pattern';
@@ -76,17 +80,21 @@ import { match } from 'ts-pattern';
 const SomeComponent = ({ fetchState }: { fetchState: State }) => (
 	<div>
 	  {match(fetchState)
-	    .with({ status: "loading" }, () => <p>Loading...</p>)
+	    .with({ status: "loading" }, ({ status }) => <p>{status}...</p>)
 	    .with({ status: "success" }, ({ data }) => <p>{data}</p>)
-	    .with({ status: "error" }, () => <p>Oops, an error occured</p>)
+	    .with({ status: "error" }, ({ error }) => <p>Error: {error}</p>)
 	    .exhaustive()}
 	</div>;
 );
 ```
 
-more info here
+> [!seealso] An alternative to `.exhaustive()`
+> You can use `.otherwise()` instead to execute the expression without **exhaustiveness checking**. It takes a handler function to return if none of the cases are matched.
+> ```tsx
+>  .otherwise(() => fetchState);
+> ```
 
-
+You can explore more details about `ts-pattern` [in the documentation](https://github.com/gvergnaud/ts-pattern#documentation), including information on different data structures for pattern matching, advanced methods for pattern matching with `.with()`, type inference, and more.
 
 > [!info] References
 > - [Unraveling the magic of Pattern Matching (swan.io)](https://www.swan.io/blog-posts/unraveling-the-magic-of-pattern-matching)
