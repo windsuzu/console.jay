@@ -1,12 +1,13 @@
 ---
 draft: false
-date: 2023-11-26 21:49
+date: 2023-11-26 22:35
 tags:
   - english
   - grammar
   - past-tense
 ---
 
+We use [[Past Simple]] for completed actions in the past, and we use **past continuous** for actions that were in progress and not yet finished in the past.
 
 
 ## 
