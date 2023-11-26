@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Past Continuous",
-      "path": "english-grammar/Past Continuous.md"
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Past Simple",
+      "path": "english-grammar/Past Simple.md"
     },
     {
       "basename": "Past Perfect",
       "path": "english-grammar/Past Perfect.md"
     },
     {
-      "basename": "Past Simple",
-      "path": "english-grammar/Past Simple.md"
+      "basename": "Past Continuous",
+      "path": "english-grammar/Past Continuous.md"
     },
     {
       "basename": "Present Continuous",
@@ -31,10 +35,6 @@
     {
       "basename": "Present Perfect Continuous",
       "path": "english-grammar/Present Perfect Continuous.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "default-note",
