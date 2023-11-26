@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Pattern Matching.md",
+                "file": "javascript/Pattern Matching (ts-pattern).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "javascript/Pattern Matching.md",
+                "file": "javascript/Pattern Matching (ts-pattern).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Pattern Matching.md"
+                "file": "javascript/Pattern Matching (ts-pattern).md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "javascript/Pattern Matching.md"
+                "file": "javascript/Pattern Matching (ts-pattern).md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Pattern Matching.md",
+                "file": "javascript/Pattern Matching (ts-pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Pattern Matching.md",
+                "file": "javascript/Pattern Matching (ts-pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
   "active": "65da8d8ba4aee8a1",
   "lastOpenFiles": [
     "javascript/Imperative and Declarative Programming.md",
-    "javascript/Pattern Matching.md",
+    "javascript/Pattern Matching (ts-pattern).md",
     "mocs/JavaScript MOC.md",
     "unctional programming.md",
     "english-grammar/Past Continuous.md",

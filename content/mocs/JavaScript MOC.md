@@ -6,4 +6,4 @@ tags:
 ---
 
 - [[Imperative and Declarative Programming]]
-- [[Pattern Matching]]
+- [[Pattern Matching (ts-pattern)]]
