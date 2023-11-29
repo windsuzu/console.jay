@@ -5,6 +5,10 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "Present Simple",
+      "path": "english-grammar/Present Simple.md"
+    },
+    {
       "basename": "Present Perfect Simple",
       "path": "english-grammar/Present Perfect Simple.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Stative or non-action verbs",
       "path": "english-grammar/Stative or non-action verbs.md"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "english-grammar/Present Simple.md"
     },
     {
       "basename": "Present Perfect Continuous",
