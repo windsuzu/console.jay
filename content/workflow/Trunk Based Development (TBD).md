@@ -1,22 +1,27 @@
 ---
 draft: false
-date: 2023-11-29 14:10
+date: 2023-11-29 15:10
 tags:
   - tbd
   - workflow
 ---
 
-**Trunk-based development (TBD)** is a source control branching model that involves creating only one healthy branch, typically named `trunk`, `main`, or `master`. In this approach, developers all work on the same branch without creating any long-lived branches. **TBD** differs from other [feature branching models](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), such as [[GitFlow]], which may contain multiple long-lived feature branches.
+**Trunk-based development (TBD)** is a source control branching model that involves creating only one healthy branch, typically named `trunk`, `main`, or `master`. In this approach, developers all work on the same branch without creating any long-lived branches. 
 
-## Illustration of TBD
-
+> [!note]
+> **TBD** differs from other [feature branching models](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), such as [[GitFlow]], which may contain multiple long-lived feature branches.
 
 ![[trunk-based-development.png]]
+> Image source: [Git Flow vs. Trunk Based Development | Toptal®](https://www.toptal.com/software/trunk-based-development-git-flow)
 
+![[trunk-based-development2.png]]
+> Image source: [How to Select a Git Branch Mode? - Alibaba Cloud Community](https://www.alibabacloud.com/blog/how-to-select-a-git-branch-mode_597255)
 
-## Caveats
-These are the caveats you need to be aware of before you and your team integrate TBD into your workflow. 
+Here are the caveats you need to be aware of before you and your team integrate TBD into your workflow:
 
+1. A small team can [commit directly to the trunk branch](https://trunkbaseddevelopment.com/committing-straight-to-the-trunk/), whereas a larger team may create [short-lived branches](https://trunkbaseddevelopment.com/short-lived-feature-branches/) and [pull requests](https://trunkbaseddevelopment.com/continuous-review/) for team review and CI checks.
+2. The team can choose to create a [release branch](https://trunkbaseddevelopment.com/branch-for-release/) to enable deployment to production.
+3. 
 
 
 

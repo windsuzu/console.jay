@@ -5,6 +5,10 @@
       "path": "workflow/Trunk Based Development (TBD).md"
     },
     {
+      "basename": "trunk-based-development2",
+      "path": "attachments/trunk-based-development2.png"
+    },
+    {
       "basename": "GitFlow",
       "path": "workflow/GitFlow.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "dvh-font-size",
       "path": "attachments/dvh-font-size.png"
-    },
-    {
-      "basename": "chart-js-example-plugin",
-      "path": "attachments/chart-js-example-plugin.png"
     }
   ],
   "omittedPaths": [],

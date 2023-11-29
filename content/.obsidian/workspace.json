@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#web-dev",
+                "query": "tag:#pwa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91d8045f3deba083",
@@ -271,8 +272,9 @@
   },
   "active": "5fe929b96be6561b",
   "lastOpenFiles": [
-    "workflow/GitFlow.md",
+    "attachments/trunk-based-development2.png",
     "workflow/Trunk Based Development (TBD).md",
+    "workflow/GitFlow.md",
     "attachments/trunk-based-development.png",
     "attachments/gitflow.png",
     "mocs/Web-Dev MOC.md",
@@ -308,7 +310,6 @@
     "mocs",
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",
-    "attachments/svh-lvh-dvh.png",
     "css",
     "english-grammar",
     "english-pronunciation",
