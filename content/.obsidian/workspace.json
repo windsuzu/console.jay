@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/Web-Dev MOC.md",
+                "file": "workflow/Trunk Based Development (TBD).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md",
+                "file": "workflow/GitFlow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,11 +269,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "ab84bd4157a02f68",
+  "active": "5fe929b96be6561b",
   "lastOpenFiles": [
+    "workflow/GitFlow.md",
+    "workflow/Trunk Based Development (TBD).md",
+    "attachments/trunk-based-development.png",
+    "attachments/gitflow.png",
     "mocs/Web-Dev MOC.md",
     "english-grammar/English Grammar List.md",
-    "workflow/Trunk Based Development (TBD).md",
     "workflow",
     "english-grammar/Past Simple.md",
     "english-grammar/Past Perfect.md",
@@ -299,7 +302,6 @@
     "Quantity-Query.md",
     "css/nth-last-child.md",
     "css/Mobile Viewport Units (svh, lvh, dvh).md",
-    "css/Min-height Container Issue.md",
     "attachments/min-height-container-issue.png",
     "attachments/Present-perfect-continuous.webp",
     "attachments/Present-perfect-continuous.jpg",
@@ -307,8 +309,6 @@
     "attachments/chart-js-example.png",
     "attachments/web-browsers-diff-bottom-ios.png",
     "attachments/svh-lvh-dvh.png",
-    "attachments/react-chart-js-2.png",
-    "attachments/pwa-service-worker.png",
     "css",
     "english-grammar",
     "english-pronunciation",

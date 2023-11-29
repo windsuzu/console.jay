@@ -5,6 +5,18 @@
       "path": "workflow/Trunk Based Development (TBD).md"
     },
     {
+      "basename": "GitFlow",
+      "path": "workflow/GitFlow.md"
+    },
+    {
+      "basename": "trunk-based-development",
+      "path": "attachments/trunk-based-development.png"
+    },
+    {
+      "basename": "gitflow",
+      "path": "attachments/gitflow.png"
+    },
+    {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "chart-js-example-plugin",
       "path": "attachments/chart-js-example-plugin.png"
-    },
-    {
-      "basename": "chart-js-example-2",
-      "path": "attachments/chart-js-example-2.png"
     }
   ],
   "omittedPaths": [],
