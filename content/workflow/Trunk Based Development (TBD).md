@@ -1,14 +1,19 @@
 ---
 draft: false
-date: 2023-11-29 11:07
+date: 2023-11-29 11:19
 tags:
   - tbd
   - workflow
 ---
 
-**Trunk-based development (TBD)** is a source control model that involves creating only one healthy branch, typically named `trunk`, `main`, or `master`. In this approach, developers all work on the same branch without creating any long-lived branches. **TBD** differs from other [feature branching models](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), such as GitFlow, which may contain multiple long-lived feature branches.
+**Trunk-based development (TBD)** is a source control branching model that involves creating only one healthy branch, typically named `trunk`, `main`, or `master`. In this approach, developers all work on the same branch without creating any long-lived branches. **TBD** differs from other [feature branching models](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), such as GitFlow, which may contain multiple long-lived feature branches.
+
+## Illustration of TBD
 
 
+
+## Caveats
+These are the caveats you need to be aware of before you and your team integrate TBD into your workflow. 
 
 
 
