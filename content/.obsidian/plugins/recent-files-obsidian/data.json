@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "GitFlow",
+      "path": "workflow/GitFlow.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
       "basename": "Trunk Based Development (TBD)",
       "path": "workflow/Trunk Based Development (TBD).md"
     },
     {
-      "basename": "trunk-based-development2",
-      "path": "attachments/trunk-based-development2.png"
+      "basename": "gitflow2",
+      "path": "attachments/gitflow2.png"
     },
     {
-      "basename": "GitFlow",
-      "path": "workflow/GitFlow.md"
+      "basename": "trunk-based-development2",
+      "path": "attachments/trunk-based-development2.png"
     },
     {
       "basename": "trunk-based-development",
@@ -19,10 +27,6 @@
     {
       "basename": "gitflow",
       "path": "attachments/gitflow.png"
-    },
-    {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
     },
     {
       "basename": "English Grammar List",
@@ -195,10 +199,6 @@
     {
       "basename": "mobile-100vh",
       "path": "attachments/mobile-100vh.png"
-    },
-    {
-      "basename": "dvh-font-size",
-      "path": "attachments/dvh-font-size.png"
     }
   ],
   "omittedPaths": [],

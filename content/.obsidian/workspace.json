@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md",
-                "mode": "source",
+                "file": "mocs/Web-Dev MOC.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md",
+                "file": "workflow/GitFlow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,7 +151,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224473,
+                  "scale": 1.000000000000008,
                   "close": true
                 }
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md"
+                "file": "workflow/GitFlow.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md"
+                "file": "workflow/GitFlow.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md",
+                "file": "workflow/GitFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/Trunk Based Development (TBD).md",
+                "file": "workflow/GitFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,14 +270,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "5fe929b96be6561b",
+  "active": "ab84bd4157a02f68",
   "lastOpenFiles": [
-    "attachments/trunk-based-development2.png",
+    "mocs/Web-Dev MOC.md",
     "workflow/Trunk Based Development (TBD).md",
     "workflow/GitFlow.md",
+    "attachments/gitflow2.png",
+    "attachments/trunk-based-development2.png",
     "attachments/trunk-based-development.png",
     "attachments/gitflow.png",
-    "mocs/Web-Dev MOC.md",
     "english-grammar/English Grammar List.md",
     "workflow",
     "english-grammar/Past Simple.md",
@@ -309,7 +310,6 @@
     "attachments/Present-perfect-continuous.jpg",
     "mocs",
     "attachments/chart-js-example.png",
-    "attachments/web-browsers-diff-bottom-ios.png",
     "css",
     "english-grammar",
     "english-pronunciation",

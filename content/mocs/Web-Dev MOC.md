@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-27 17:29
+date: 2023-11-29 15:41
 tags:
   - web-dev
 ---
@@ -12,3 +12,4 @@ tags:
 
 ## Workflow
 - [[Trunk Based Development (TBD)]]
+- [[GitFlow]]

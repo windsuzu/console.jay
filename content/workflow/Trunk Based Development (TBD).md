@@ -1,8 +1,7 @@
 ---
 draft: false
-date: 2023-11-29 15:10
+date: 2023-11-29 15:38
 tags:
-  - tbd
   - workflow
 ---
 
@@ -11,20 +10,22 @@ tags:
 > [!note]
 > **TBD** differs from other [feature branching models](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), such as [[GitFlow]], which may contain multiple long-lived feature branches.
 
+> [!info]
+> [Google follows Trunk-Based Development](https://trunkbaseddevelopment.com/game-changers/#google-revealing-their-monorepo-trunk-2016) and **has ten of thousands of developers and QA automators** working in a single [monorepo](https://trunkbaseddevelopment.com/monorepos/) trunk.
+
+The main goal of TBD is to ensure that every developer contributes to the trunk branch by creating pull requests on a daily basis. This practice helps maintain the health of the trunk branch and avoids dealing with a large chunk of changes from a branch during review.
+
 ![[trunk-based-development.png]]
 > Image source: [Git Flow vs. Trunk Based Development | Toptal®](https://www.toptal.com/software/trunk-based-development-git-flow)
 
 ![[trunk-based-development2.png]]
 > Image source: [How to Select a Git Branch Mode? - Alibaba Cloud Community](https://www.alibabacloud.com/blog/how-to-select-a-git-branch-mode_597255)
 
-Here are the caveats you need to be aware of before you and your team integrate TBD into your workflow:
+There are some caveats you need to be aware of before you and your team integrate TBD into your workflow:
 
 1. A small team can [commit directly to the trunk branch](https://trunkbaseddevelopment.com/committing-straight-to-the-trunk/), whereas a larger team may create [short-lived branches](https://trunkbaseddevelopment.com/short-lived-feature-branches/) and [pull requests](https://trunkbaseddevelopment.com/continuous-review/) for team review and CI checks.
 2. The team can choose to create a [release branch](https://trunkbaseddevelopment.com/branch-for-release/) to enable deployment to production.
-3. 
-
-
-
+3. If there is a feature that cannot be completed in a single commit or a short-lived branch, you should create [feature flags](https://trunkbaseddevelopment.com/feature-flags/) to control the display or functionality of the feature.
 
 > [!info] References
 > - [What is the "best way" to develop software applications? - YouTube](https://www.youtube.com/watch?v=oNmcX6Gozg0)
