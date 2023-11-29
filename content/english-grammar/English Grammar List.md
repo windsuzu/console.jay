@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-29 10:46
+date: 2023-11-29 23:14
 tags:
   - english
   - grammar
@@ -17,7 +17,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A1 - [Present continuous – I’m doing, I’m not doing, Are you doing?](https://test-english.com/grammar-points/a1/present-continuous/)
 - A1 - [Present simple or present continuous?](https://test-english.com/grammar-points/a1/present-simple-present-continuous/)
 - A2 - [Present simple vs present continuous](https://test-english.com/grammar-points/a2/present-simple-continuous/)
-- B1 - [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/) \[HARD\]
+- B1 - [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/) ⭐
 	- 📝 [[Present Simple]]
 	- 📝 [[Present Continuous]]
 	- 📝 [[Stative or non-action verbs]]
@@ -41,6 +41,6 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 	- 📝 [[Past Simple]]
 	- 📝 [[Past Continuous]]
 	- 📝 [[Past Perfect]]
-- B1+ - [Narrative tenses – all past tenses](https://test-english.com/grammar-points/b1-b2/narrative-tenses/) 
-- B2 - [Narrative tenses, used to, would](https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/)
+- B1+ - [Narrative tenses – all past tenses](https://test-english.com/grammar-points/b1-b2/narrative-tenses/) ⭐
+- B2 - [Narrative tenses, used to, would](https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/) ⭐
 

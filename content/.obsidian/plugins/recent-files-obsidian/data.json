@@ -5,6 +5,14 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "Present Perfect Simple",
+      "path": "english-grammar/Present Perfect Simple.md"
+    },
+    {
+      "basename": "Past Perfect",
+      "path": "english-grammar/Past Perfect.md"
+    },
+    {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
     },
@@ -37,10 +45,6 @@
       "path": "english-grammar/Past Simple.md"
     },
     {
-      "basename": "Past Perfect",
-      "path": "english-grammar/Past Perfect.md"
-    },
-    {
       "basename": "Past Continuous",
       "path": "english-grammar/Past Continuous.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Present Simple",
       "path": "english-grammar/Present Simple.md"
-    },
-    {
-      "basename": "Present Perfect Simple",
-      "path": "english-grammar/Present Perfect Simple.md"
     },
     {
       "basename": "Present Perfect Continuous",
