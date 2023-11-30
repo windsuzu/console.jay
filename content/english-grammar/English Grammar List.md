@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-29 23:33
+date: 2023-11-30 16:15
 tags:
   - english
   - grammar
@@ -45,3 +45,8 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B2 - [Narrative tenses, used to, would](https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/) ⭐
 
 ## Future
+- A1 - [‘Will’ and ‘shall’ – Future](https://test-english.com/grammar-points/a1/will-and-shall/)
+- A1 - [Be going to – plans and predictions](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/)
+- A2 - [Will vs be going to – future](https://test-english.com/grammar-points/a2/will-vs-be-going-to/)
+	- 📝 [[Will or Be going to]]
+- 
