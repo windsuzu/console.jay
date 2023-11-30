@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-30 16:15
+date: 2023-11-30 18:55
 tags:
   - english
   - grammar
@@ -49,4 +49,5 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A1 - [Be going to – plans and predictions](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/)
 - A2 - [Will vs be going to – future](https://test-english.com/grammar-points/a2/will-vs-be-going-to/)
 	- 📝 [[Will or Be going to]]
+- A2 - [Present continuous for future arrangements](https://test-english.com/grammar-points/a2/present-continuous-future-arrangements/)
 - 
