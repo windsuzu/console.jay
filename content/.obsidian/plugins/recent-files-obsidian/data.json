@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
+    },
+    {
       "basename": "Tailwind Custom Plugin",
       "path": "css/Tailwind Custom Plugin.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "tailwind-custom-plugin-intellisense",
       "path": "attachments/tailwind-custom-plugin-intellisense.png"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
     },
     {
       "basename": "index",
