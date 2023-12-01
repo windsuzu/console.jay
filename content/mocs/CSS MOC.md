@@ -1,10 +1,12 @@
 ---
 draft: false
-date: 2023-11-17 18:12
+date: 2023-12-01 15:54
 tags:
   - css
 ---
 
+## Tailwind
+- [[Tailwind Plugin]]
 ## Pseudo-Classes
 - [[nth-last-child]]
 ## Viewports

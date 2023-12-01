@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Tailwind Plugin",
+      "path": "css/Tailwind Plugin.md"
+    },
+    {
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Quantity Query",
+      "path": "css/Quantity Query.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
     },
@@ -89,24 +105,12 @@
       "path": "mocs/JavaScript MOC.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "English MOC",
       "path": "mocs/English MOC.md"
     },
     {
       "basename": "React MOC",
       "path": "mocs/React MOC.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "Quantity Query",
-      "path": "css/Quantity Query.md"
     },
     {
       "basename": "quantity-query-2",
@@ -195,10 +199,6 @@
     {
       "basename": "react-chart-js-2",
       "path": "attachments/react-chart-js-2.png"
-    },
-    {
-      "basename": "pwa-service-worker",
-      "path": "attachments/pwa-service-worker.png"
     }
   ],
   "omittedPaths": [],
