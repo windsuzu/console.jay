@@ -5,8 +5,12 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
-      "basename": "Will or Be going to",
-      "path": "Will or Be going to.md"
+      "basename": "Future Forms",
+      "path": "Future Forms.md"
+    },
+    {
+      "basename": "future-forms",
+      "path": "attachments/future-forms.png"
     },
     {
       "basename": "Present Simple",
@@ -195,10 +199,6 @@
     {
       "basename": "pwa-service-worker",
       "path": "attachments/pwa-service-worker.png"
-    },
-    {
-      "basename": "pwa-passed",
-      "path": "attachments/pwa-passed.png"
     }
   ],
   "omittedPaths": [],

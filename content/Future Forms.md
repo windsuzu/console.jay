@@ -1,13 +1,14 @@
 ---
 draft: false
-date: 2023-11-30 17:07
+date: 2023-11-30 23:24
 tags:
   - english
   - grammar
   - future-tense
 ---
 
-## Predictions
+## Will or Be going to?
+### Predictions
 We use **"will"** to make a prediction with little evidence; for instance, when we **think** something **will** happen. On the other hand, we use **"be going to"** to make a prediction when we have seen some evidence, such as when we **see** something **is going to** happen.
 
 For example:
@@ -16,7 +17,7 @@ For example:
 - The conference starts in 10 minutes. We **are going to be** late. 
 	- (=I can **see** that we cannot be at the conference in 10 minutes)
 
-## Intetions or Decisions
+### Intetions or Decisions
 We use **"will"** for immediate intentions or decisions, typically in the moment of speaking without prior planning. On the other hand, we use **"be going to"** when we've already made a decision in our mind or when there is a pre-existing plan or intention.
 
 For example:
@@ -25,6 +26,11 @@ For example:
 - ‘Sarah said she needs to talk to you.’ ‘Yes, I know. I’**m going to call her** in a minute.‘
 	- (=The decision was taken **before** having this conversation)
 
+## Other Future Forms
+![[future-forms.png]]
+> Image source: [Future forms – will, be going to, present continuous - Test-English](https://test-english.com/grammar-points/b1/future-forms/3/)
+
 > [!info] References
 > - ['Will' vs 'be going to' – Future forms - Test-English](https://test-english.com/grammar-points/a2/will-vs-be-going-to/)
+> - [Future forms – will, be going to, present continuous - Test-English](https://test-english.com/grammar-points/b1/future-forms/3/)
 > - [Will - Grammar - Cambridge Dictionary](https://dictionary.cambridge.org/grammar/british-grammar/will)

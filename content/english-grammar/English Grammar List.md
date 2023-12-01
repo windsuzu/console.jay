@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-30 18:55
+date: 2023-11-30 23:25
 tags:
   - english
   - grammar
@@ -17,7 +17,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A1 - [Present continuous – I’m doing, I’m not doing, Are you doing?](https://test-english.com/grammar-points/a1/present-continuous/)
 - A1 - [Present simple or present continuous?](https://test-english.com/grammar-points/a1/present-simple-present-continuous/)
 - A2 - [Present simple vs present continuous](https://test-english.com/grammar-points/a2/present-simple-continuous/)
-- B1 - [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/) ⭐
+- ⭐ B1 - [Present simple or present continuous](https://test-english.com/grammar-points/b1/present-simple-present-continuous/)
 	- 📝 [[Present Simple]]
 	- 📝 [[Present Continuous]]
 	- 📝 [[Stative or non-action verbs]]
@@ -37,17 +37,18 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A2 - [Past simple – Form and use](https://test-english.com/grammar-points/a2/past-simple-form-use/)
 - A2 - [Past continuous and past simple](https://test-english.com/grammar-points/a2/past-continuous-past-simple/)
 - A2 - [Past perfect](https://test-english.com/grammar-points/a2/past-perfect/)
-- B1 - [Past simple, past continuous, past perfect](https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/) ⭐
+- ⭐ B1 - [Past simple, past continuous, past perfect](https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/)
 	- 📝 [[Past Simple]]
 	- 📝 [[Past Continuous]]
 	- 📝 [[Past Perfect]]
-- B1+ - [Narrative tenses – all past tenses](https://test-english.com/grammar-points/b1-b2/narrative-tenses/) ⭐
-- B2 - [Narrative tenses, used to, would](https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/) ⭐
+- ⭐ B1+ - [Narrative tenses – all past tenses](https://test-english.com/grammar-points/b1-b2/narrative-tenses/)
+- ⭐ B2 - [Narrative tenses, used to, would](https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/)
 
 ## Future
 - A1 - [‘Will’ and ‘shall’ – Future](https://test-english.com/grammar-points/a1/will-and-shall/)
 - A1 - [Be going to – plans and predictions](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/)
 - A2 - [Will vs be going to – future](https://test-english.com/grammar-points/a2/will-vs-be-going-to/)
-	- 📝 [[Will or Be going to]]
+	- 📝 [[Future Forms]]
 - A2 - [Present continuous for future arrangements](https://test-english.com/grammar-points/a2/present-continuous-future-arrangements/)
-- 
+- ⭐ B1 - [Future forms – will, be going to, present continuous](https://test-english.com/grammar-points/b1/future-forms/)
+- B1+ - [Future continuous and future perfect](https://test-english.com/grammar-points/b1-b2/future-continuous-and-future-perfect/)
