@@ -11,15 +11,24 @@
             "id": "8ce6efaf74a69b5f",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "42d5d6b861286c61",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "css/Tailwind Plugin.md",
+                "file": "css/Tailwind Custom Plugin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "css/Tailwind Plugin.md",
+                "file": "css/Tailwind Custom Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css/Tailwind Plugin.md"
+                "file": "css/Tailwind Custom Plugin.md"
               }
             }
           },
@@ -191,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "css/Tailwind Plugin.md"
+                "file": "css/Tailwind Custom Plugin.md"
               }
             }
           },
@@ -201,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css/Tailwind Plugin.md",
+                "file": "css/Tailwind Custom Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css/Tailwind Plugin.md",
+                "file": "css/Tailwind Custom Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,11 +253,13 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "8ce6efaf74a69b5f",
+  "active": "42d5d6b861286c61",
   "lastOpenFiles": [
+    "attachments/tailwind-custom-plugin-result.png",
+    "css/Tailwind Custom Plugin.md",
+    "attachments/tailwind-custom-plugin-intellisense.png",
     "mocs/CSS MOC.md",
     "index.md",
-    "css/Tailwind Plugin.md",
     "css/Quantity Query.md",
     "english-grammar/English Grammar List.md",
     "Future Forms.md",
@@ -280,10 +291,7 @@
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",
     "Quantity-Query.md",
-    "css/nth-last-child.md",
     "attachments/min-height-container-issue.png",
-    "attachments/Present-perfect-continuous.webp",
-    "attachments/Present-perfect-continuous.jpg",
     "mocs",
     "css",
     "english-grammar",

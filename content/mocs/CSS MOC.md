@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Tailwind
-- [[Tailwind Plugin]]
+- [[Tailwind Custom Plugin]]
 ## Pseudo-Classes
 - [[nth-last-child]]
 ## Viewports

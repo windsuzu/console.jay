@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Tailwind Plugin",
-      "path": "css/Tailwind Plugin.md"
+      "basename": "Tailwind Custom Plugin",
+      "path": "css/Tailwind Custom Plugin.md"
+    },
+    {
+      "basename": "tailwind-custom-plugin-result",
+      "path": "attachments/tailwind-custom-plugin-result.png"
+    },
+    {
+      "basename": "tailwind-custom-plugin-intellisense",
+      "path": "attachments/tailwind-custom-plugin-intellisense.png"
     },
     {
       "basename": "CSS MOC",
@@ -191,14 +199,6 @@
     {
       "basename": "web-browsers-diff-bottom-ios",
       "path": "attachments/web-browsers-diff-bottom-ios.png"
-    },
-    {
-      "basename": "svh-lvh-dvh",
-      "path": "attachments/svh-lvh-dvh.png"
-    },
-    {
-      "basename": "react-chart-js-2",
-      "path": "attachments/react-chart-js-2.png"
     }
   ],
   "omittedPaths": [],
