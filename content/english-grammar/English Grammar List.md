@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-01 18:30
+date: 2023-12-01 19:45
 tags:
   - english
   - grammar
@@ -11,7 +11,7 @@ I found a useful English learning website called [test-english.com](https://test
 
 I found that taking cloze tests is a great way to improve grammar. So, I will go through the tests on the list and take notes on the ones I'm not familiar with.
 
-## Present Tenses
+## Present Tense
 - A1 - [Present simple forms of ‘to be’ – am/is/are](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/)
 - A1 - [Present simple – I do, I don’t, Do I?](https://test-english.com/grammar-points/a1/present-simple/)
 - A1 - [Present continuous – I’m doing, I’m not doing, Are you doing?](https://test-english.com/grammar-points/a1/present-continuous/)
@@ -30,7 +30,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B1+ -  [Present perfect simple or continuous](https://test-english.com/grammar-points/b1-b2/present-perfect-simple-continuous/)
 	- 📝 [[Present Perfect Continuous]]
 
-## Past tenses
+## Past Tense
 - A1 - [Was/were – past simple of ‘be’](https://test-english.com/grammar-points/a1/was-were/)
 - A1 - [Past simple – regular/irregular verbs](https://test-english.com/grammar-points/a1/past-simple-regular-irregular/)
 - A1 - [Past simple – negatives and questions](https://test-english.com/grammar-points/a1/past-simple-negatives-questions/)
@@ -44,7 +44,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - ⭐ B1+ - [Narrative tenses – all past tenses](https://test-english.com/grammar-points/b1-b2/narrative-tenses/)
 - ⭐ B2 - [Narrative tenses, used to, would](https://test-english.com/grammar-points/b2/narrative-tenses-used-to-would/)
 
-## Future
+## Future Tense
 - A1 - [‘Will’ and ‘shall’ – Future](https://test-english.com/grammar-points/a1/will-and-shall/)
 - A1 - [Be going to – plans and predictions](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/)
 - A2 - [Will vs be going to – future](https://test-english.com/grammar-points/a2/will-vs-be-going-to/)
@@ -53,4 +53,7 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - ⭐ B1 - [Future forms – will, be going to, present continuous](https://test-english.com/grammar-points/b1/future-forms/)
 - B1+ - [Future continuous and future perfect](https://test-english.com/grammar-points/b1-b2/future-continuous-and-future-perfect/)
 - B2 - [Future forms – expressing future time](https://test-english.com/grammar-points/b2/future-forms-expressing-future-time/)
+- B2 - [Other ways to express future – be about to, be due to, etc.](https://test-english.com/grammar-points/b2/ways-express-future/)
+- B2 - [Future in the past](https://test-english.com/grammar-points/b2/future-in-the-past/)
 - 📝 [[Future Tense Common Mistakes]]
+
