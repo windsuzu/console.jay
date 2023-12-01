@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-30 23:25
+date: 2023-12-01 18:30
 tags:
   - english
   - grammar
@@ -52,3 +52,5 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A2 - [Present continuous for future arrangements](https://test-english.com/grammar-points/a2/present-continuous-future-arrangements/)
 - ⭐ B1 - [Future forms – will, be going to, present continuous](https://test-english.com/grammar-points/b1/future-forms/)
 - B1+ - [Future continuous and future perfect](https://test-english.com/grammar-points/b1-b2/future-continuous-and-future-perfect/)
+- B2 - [Future forms – expressing future time](https://test-english.com/grammar-points/b2/future-forms-expressing-future-time/)
+- 📝 [[Future Tense Common Mistakes]]
