@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-20 15:08
+date: 2023-12-02 10:59
 tags:
   - react
 ---
@@ -14,6 +14,8 @@ tags:
 	- [[Datasets in react-chartjs-2]]
 	- [[Tree-shaking in react-chartjs-2]]
 
+## Component Design
+- [[Controlled Components]]
 
 ---
 

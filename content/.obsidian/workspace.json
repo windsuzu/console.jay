@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "98c5df815cc98cdd",
+        "id": "6b88f7a390891b8f",
         "type": "tabs",
         "children": [
           {
-            "id": "befeb82c86394f29",
+            "id": "a3b1622a7f4d3a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "mocs/React MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a9c90339d21d1e7",
+            "id": "24239b4d6479143f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c126217cb97124d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Future Forms.md",
+                "file": "react/Controlled Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md",
+                "file": "react/Controlled Components.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md"
+                "file": "react/Controlled Components.md"
               }
             }
           },
@@ -216,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md"
+                "file": "react/Controlled Components.md"
               }
             }
           },
@@ -226,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md",
+                "file": "react/Controlled Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md",
+                "file": "react/Controlled Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,16 +258,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2a9c90339d21d1e7",
+  "active": "24239b4d6479143f",
   "lastOpenFiles": [
+    "mocs/React MOC.md",
+    "react/Controlled Components.md",
+    "react",
+    "index.md",
     "english-grammar/English Grammar List.md",
-    "english-grammar/Future Forms.md",
     "english-grammar/Future Tense Common Mistakes.md",
+    "english-grammar/Future Forms.md",
     "mocs/CSS MOC.md",
     "css/Tailwind Custom Plugin.md",
     "attachments/tailwind-custom-plugin-result.png",
     "attachments/tailwind-custom-plugin-intellisense.png",
-    "index.md",
     "css/Quantity Query.md",
     "attachments/future-forms.png",
     "english-grammar/Present Simple.md",
@@ -305,10 +296,8 @@
     "unctional programming.md",
     "javascript",
     "mocs/English MOC.md",
-    "mocs/React MOC.md",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",
-    "Quantity-Query.md",
     "attachments/min-height-container-issue.png",
     "mocs",
     "css",
@@ -317,7 +306,6 @@
     "chart-js/react-chartjs-2",
     "chart-js",
     "attachments",
-    "copilot-conversations",
     "Untitled.canvas"
   ]
 }
