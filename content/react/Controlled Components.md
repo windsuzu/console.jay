@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-02 11:21
+date: 2023-12-02 11:50
 tags:
   - tbd
   - react
@@ -33,9 +33,10 @@ The key distinction between controlled and uncontrolled components lies in how t
 | **Predictability**     | More predictable behavior since the parent component is in control.                   | May have less predictable behavior due to internal state management.         |
 
 ## Imperative / Declarative Control
-If you're already familiar with [[Imperative and Declarative Programming]], 
+If you're already acquainted with [[Imperative and Declarative Programming]], there's just a slight difference between these two methods of controlling components. 
 
-
+- In a imperative way, we will use a `ref` to control the component
+- In a declarative way, we will 
 
 
 
