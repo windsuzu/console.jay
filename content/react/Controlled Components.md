@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-02 11:02
+date: 2023-12-02 11:21
 tags:
   - tbd
   - react
@@ -33,7 +33,7 @@ The key distinction between controlled and uncontrolled components lies in how t
 | **Predictability**     | More predictable behavior since the parent component is in control.                   | May have less predictable behavior due to internal state management.         |
 
 ## Imperative / Declarative Control
-
+If you're already familiar with [[Imperative and Declarative Programming]], 
 
 
 
