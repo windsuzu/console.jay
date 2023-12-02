@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Future Tense Common Mistakes",
+      "path": "english-grammar/Future Tense Common Mistakes.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
       "basename": "Controlled Components",
       "path": "react/Controlled Components.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
-    },
-    {
-      "basename": "Future Tense Common Mistakes",
-      "path": "english-grammar/Future Tense Common Mistakes.md"
     },
     {
       "basename": "Future Forms",
@@ -107,10 +111,6 @@
     {
       "basename": "Present Perfect Continuous",
       "path": "english-grammar/Present Perfect Continuous.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "Imperative and Declarative Programming",

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-02 12:09
+date: 2023-12-02 17:29
 tags:
   - react
 ---
@@ -73,7 +73,18 @@ const DeclarativeComponent = () => {
 ```
 
 ## Partially Controlled Components
+In this article, [Partially Controlled Components: A Declarative Design Pattern in React](https://www.jameskerr.blog/posts/partially-controlled-react-components/), James Kerr introduces a novel approach to creating components, allowing consumers to progressively implement the component from an uncontrolled to a controlled fashion. This approach draws inspiration from the API of the `React Input Element`.
 
+```tsx
+// uncontrolled
+<input />
+
+// uncontrolled with an initial value
+<input initialValue="Default" />
+
+// controlled
+<input value={value} onChange={(e) => setValue(e.target.value)} />
+```
 
 
 > [!info] References
