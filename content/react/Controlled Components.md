@@ -1,8 +1,7 @@
 ---
 draft: false
-date: 2023-12-02 11:50
+date: 2023-12-02 12:09
 tags:
-  - tbd
   - react
 ---
 
@@ -33,10 +32,47 @@ The key distinction between controlled and uncontrolled components lies in how t
 | **Predictability**     | More predictable behavior since the parent component is in control.                   | May have less predictable behavior due to internal state management.         |
 
 ## Imperative / Declarative Control
-If you're already acquainted with [[Imperative and Declarative Programming]], there's just a slight difference between these two methods of controlling components. 
+If you're already acquainted with [[Imperative and Declarative Programming]], there's just a slight difference between these two methods of controlling components.
 
-- In a imperative way, we will use a `ref` to control the component
-- In a declarative way, we will 
+In an imperative approach, we utilize a `ref` to control the component, while in a declarative approach, we pass `props` for control. React also promotes the declarative style of programming.
+
+### Example of imperative control
+
+```tsx title='Imperative control using refs'
+const ImperativeComponent = () => {
+  const inputRef = useRef(null);
+
+  const handleButtonClick = () => {
+    // Imperative DOM manipulation
+    inputRef.current.focus();
+  };
+
+  return (
+    <div>
+      <input type="text" ref={inputRef} />
+      <button onClick={handleButtonClick}>Focus Input</button>
+    </div>
+  );
+};
+```
+
+### Example of declarative control
+```tsx title="Declarative control using props"
+const DeclarativeComponent = () => {
+  const [inputValue, setInputValue] = useState("");
+
+  const handleInputChange = (e) => {
+    // Declarative state update
+    setInputValue(e.target.value);
+  };
+
+  return (
+    <input type="text" value={inputValue} onChange={handleInputChange} />
+  );
+};
+```
+
+## Partially Controlled Components
 
 
 
