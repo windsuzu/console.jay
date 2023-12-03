@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "English MOC",
+      "path": "mocs/English MOC.md"
+    },
+    {
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
     },
@@ -17,20 +37,12 @@
       "path": "react/Controlled Components.md"
     },
     {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
-    },
-    {
       "basename": "index",
       "path": "index.md"
     },
     {
       "basename": "Future Forms",
       "path": "english-grammar/Future Forms.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
     },
     {
       "basename": "Tailwind Custom Plugin",
@@ -63,10 +75,6 @@
     {
       "basename": "Past Perfect",
       "path": "english-grammar/Past Perfect.md"
-    },
-    {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
     },
     {
       "basename": "GitFlow",
@@ -119,14 +127,6 @@
     {
       "basename": "Pattern Matching (ts-pattern)",
       "path": "javascript/Pattern Matching (ts-pattern).md"
-    },
-    {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
-    },
-    {
-      "basename": "English MOC",
-      "path": "mocs/English MOC.md"
     },
     {
       "basename": "quantity-query-2",
