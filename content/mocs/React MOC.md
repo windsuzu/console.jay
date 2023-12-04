@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-03 12:39
+date: 2023-12-04 11:12
 tags:
   - react
 ---
@@ -13,6 +13,9 @@ tags:
 - [[react-chartjs-2]]
 	- [[Datasets in react-chartjs-2]]
 	- [[Tree-shaking in react-chartjs-2]]
+
+## Rendering
+- RSC, SSR, Hydration
 
 ## Component Design
 - [[Controlled Components]]

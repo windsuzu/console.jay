@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "8c2f65afcf80cba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/React MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "mocs/React MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mocs/React MOC.md"
+              }
             }
           },
           {
@@ -183,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "mocs/React MOC.md"
+              }
             }
           },
           {
@@ -192,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mocs/React MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mocs/React MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +254,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e4f857c12bc33e53",
+  "active": "8c2f65afcf80cba2",
   "lastOpenFiles": [
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
