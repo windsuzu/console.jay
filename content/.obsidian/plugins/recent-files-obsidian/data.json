@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
       "basename": "React MOC",
       "path": "mocs/React MOC.md"
     },
@@ -9,16 +13,12 @@
       "path": "mocs/Web-Dev MOC.md"
     },
     {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
     },
     {
       "basename": "English MOC",
       "path": "mocs/English MOC.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
     },
     {
       "basename": "English Grammar List",

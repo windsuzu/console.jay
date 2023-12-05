@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/React MOC.md",
+                "file": "mocs/JavaScript MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/React MOC.md",
+                "file": "mocs/JavaScript MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/React MOC.md"
+                "file": "mocs/JavaScript MOC.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/React MOC.md"
+                "file": "mocs/JavaScript MOC.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/React MOC.md",
+                "file": "mocs/JavaScript MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/React MOC.md",
+                "file": "mocs/JavaScript MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,8 +259,8 @@
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
     "mocs/JavaScript MOC.md",
-    "mocs/English MOC.md",
     "mocs/CSS MOC.md",
+    "mocs/English MOC.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Future Tense Common Mistakes.md",
     "_templates/default-note.md",
