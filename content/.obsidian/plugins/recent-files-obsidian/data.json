@@ -5,6 +5,10 @@
       "path": "mocs/JavaScript MOC.md"
     },
     {
+      "basename": "Functional Instantiation",
+      "path": "javascript/Functional Instantiation.md"
+    },
+    {
       "basename": "React MOC",
       "path": "mocs/React MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tree-shaking in react-chartjs-2",
       "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
-    },
-    {
-      "basename": "react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/react-chartjs-2.md"
     }
   ],
   "omittedPaths": [],

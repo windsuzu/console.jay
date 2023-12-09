@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "057514dc3cf8e04c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8c2f65afcf80cba2",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,9 +247,10 @@
   },
   "active": "8c2f65afcf80cba2",
   "lastOpenFiles": [
+    "javascript/Functional Instantiation.md",
+    "mocs/JavaScript MOC.md",
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
-    "mocs/JavaScript MOC.md",
     "mocs/CSS MOC.md",
     "mocs/English MOC.md",
     "english-grammar/English Grammar List.md",
@@ -290,7 +282,6 @@
     "english-grammar/Present Perfect Continuous.md",
     "javascript/Imperative and Declarative Programming.md",
     "javascript/Pattern Matching (ts-pattern).md",
-    "unctional programming.md",
     "javascript",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",

@@ -1,13 +1,17 @@
 ---
 draft: false
-date: 2023-12-05 15:42
+date: 2023-12-05 17:46
 tags:
   - javascript
 ---
 
 ## JavaScript Basics
-- 
-
+- [[Functional Instantiation]]
+- [[Prototypal instantiation]]
+- [[Object.create]]
+- [[Pseudoclassical Instantiation (new keyword)]]
+- [[ES6 Classes]]
+- [[Static Methods]]
 ## Programming Paradigm
 - [[Imperative and Declarative Programming]]
 - [[Pattern Matching (ts-pattern)]]
