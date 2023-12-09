@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-05 17:40
+date: 2023-12-09 11:14
 tags:
   - javascript
 ---
@@ -22,7 +22,7 @@ animal.eat = function (amount) {
 
 To implement **functional instantiation**, we can simply incorporate the code used to create a basic object into a **constructor function**. In our example, this is the `Animal` function that accepts two arguments: `name` and `energy`.
 
-```js title='functional instantiation'
+```js title='functional instantiation' {2-9}
 function Animal (name, energy) {
   let animal = {}
   animal.name = name
@@ -48,7 +48,7 @@ You may observe that the `eat` function in our `Animal` constructor is repea
 
 To address this issue and minimize memory usage, we could extract all functions from the constructor function and **place them in a separate object**. Then, when we instantiate an object from the constructor, we can **reference the function from the newly created object**.
 
-```js
+```js {1-6,12}
 const animalMethods = {
   eat(amount) {
 	console.log(`${this.name} is eating.`)

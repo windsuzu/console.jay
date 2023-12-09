@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
+      "basename": "Prototypal instantiation",
+      "path": "javascript/Prototypal instantiation.md"
     },
     {
       "basename": "Functional Instantiation",
       "path": "javascript/Functional Instantiation.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
     },
     {
       "basename": "React MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Getting Started with Chart.js",
       "path": "chart-js/Getting Started with Chart.js.md"
-    },
-    {
-      "basename": "Tree-shaking in react-chartjs-2",
-      "path": "chart-js/react-chartjs-2/Tree-shaking in react-chartjs-2.md"
     }
   ],
   "omittedPaths": [],
