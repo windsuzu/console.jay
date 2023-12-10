@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Prototype",
-      "path": "javascript/Prototype.md"
-    },
-    {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
+      "basename": "Prototypal instantiation",
+      "path": "javascript/Prototypal instantiation.md"
     },
     {
       "basename": "Functional Instantiation",
       "path": "javascript/Functional Instantiation.md"
     },
     {
-      "basename": "Prototypal instantiation",
-      "path": "javascript/Prototypal instantiation.md"
+      "basename": "Prototype",
+      "path": "javascript/Prototype.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
     },
     {
       "basename": "React MOC",

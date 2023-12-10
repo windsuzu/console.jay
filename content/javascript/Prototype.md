@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-10 11:11
+date: 2023-12-10 11:26
 tags:
   - javascript
 ---
@@ -18,23 +18,30 @@ function Person(name) {
   this.name = name;
 }
 
-// Adding a method to the prototype before any instances are initailized.
+// Adding a method to the prototype before initializing any instances
 Person.prototype.greet = function() {
   console.log(`Hello, my name is ${this.name}`);
 };
 
+// Creating instances and accessing prototype properties and methods
 const person1 = new Person('John');
 const person2 = new Person('Jane');
 
 person1.greet(); // Output: Hello, my name is John
 person2.greet(); // Output: Hello, my name is Jane
-
-console.log(person1.name); // Output: John
-console.log(person2.name); // Output: Jane
 ```
 
+The prototype can be modified even after instances are already initialized. Any changes made to the prototype will be reflected in all existing instances.
 
+```js
+// Adding another method to the prototype
+Person.prototype.shock = function() {
+  console.log(this.name + " says: Oh my god!");
+}
 
+person1.shock(); // Output: John says: Oh my god!
+person2.shock(); // Output: Jane says: Oh my god!
+```
 
 > [!info] References
 > - [A Beginner's Guide to JavaScript's Prototype](https://ui.dev/beginners-guide-to-javascript-prototype)
