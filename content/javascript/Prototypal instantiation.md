@@ -1,15 +1,15 @@
 ---
 draft: false
-date: 2023-12-10 11:36
+date: 2023-12-10 16:24
 tags:
   - javascript
 ---
 
-Prototypal instantiation utilizes the [[Prototype]] to create constructor functions used to generate object instances. It eliminates the need for [[Functional Instantiation#Shared Methods|creating shared methods in functional instantiation]].
+Prototypal instantiation utilizes [[Object.create]] and [[Prototype]] to create constructor functions used to generate object instances. It eliminates the need for [[Functional Instantiation#Shared Methods|creating shared methods in functional instantiation]].
 
 ```js
 function Animal (name, energy) {
-  let animal = {}
+  let animal = Object.create(Animal.prototype)
   animal.name = name
   animal.energy = energy
   return animal
@@ -27,4 +27,4 @@ console.log(leo.energy); // 12
 ```
 
 > [!info] References
-> - 
+> - [A Beginner's Guide to JavaScript's Prototype](https://ui.dev/beginners-guide-to-javascript-prototype)

@@ -1,15 +1,14 @@
 ---
 draft: false
-date: 2023-12-10 11:15
+date: 2023-12-10 16:25
 tags:
   - javascript
 ---
-
 ## JavaScript Basics
 - [[Functional Instantiation]]
 - [[Prototype]]
-- [[Prototypal instantiation]]
 - [[Object.create]]
+- [[Prototypal instantiation]]
 - [[Pseudoclassical Instantiation (new keyword)]]
 - [[ES6 Classes]]
 - [[Static Methods]]
