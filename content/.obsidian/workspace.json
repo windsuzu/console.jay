@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Prototypal instantiation.md",
+                "file": "javascript/Functional Instantiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Functional Instantiation.md",
+                "file": "javascript/Prototypal instantiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +258,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8c2f65afcf80cba2",
+  "active": "05745631f961cc49",
   "lastOpenFiles": [
     "javascript/Functional Instantiation.md",
     "javascript/Prototypal instantiation.md",
