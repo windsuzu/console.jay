@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Functional Instantiation",
+      "path": "javascript/Functional Instantiation.md"
+    },
+    {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "Object.create",
+      "path": "javascript/Object.create.md"
+    },
+    {
+      "basename": "Getting Started with Chart.js",
+      "path": "chart-js/Getting Started with Chart.js.md"
+    },
+    {
+      "basename": "Chart.js",
+      "path": "chart-js/Chart.js.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Prototypal instantiation",
@@ -11,14 +31,6 @@
     {
       "basename": "Prototype",
       "path": "javascript/Prototype.md"
-    },
-    {
-      "basename": "Functional Instantiation",
-      "path": "javascript/Functional Instantiation.md"
-    },
-    {
-      "basename": "Object.create",
-      "path": "javascript/Object.create.md"
     },
     {
       "basename": "React MOC",
@@ -51,10 +63,6 @@
     {
       "basename": "Controlled Components",
       "path": "react/Controlled Components.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Future Forms",
@@ -169,10 +177,6 @@
       "path": "attachments/min-height-container-issue.png"
     },
     {
-      "basename": "Chart.js",
-      "path": "chart-js/Chart.js.md"
-    },
-    {
       "basename": "English Pronunciation Exercises",
       "path": "english-pronunciation/English Pronunciation Exercises.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Main Sounds of English",
       "path": "english-pronunciation/The Main Sounds of English.md"
-    },
-    {
-      "basename": "Tree-shaking of Chart.js",
-      "path": "chart-js/Tree-shaking of Chart.js.md"
     }
   ],
   "omittedPaths": [],
