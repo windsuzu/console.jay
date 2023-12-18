@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2005bef46769d04",
+            "id": "352f6c92c3446eb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "javascript/Pseudoclassical Instantiation (new keyword).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1724687b9a43880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/Prototypal instantiation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02790131a75abcbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/Object.create.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4018018334069715,
+                  "scale": 0.713275462622448,
                   "close": true
                 }
               }
@@ -249,36 +225,34 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 448.5
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "cmdr:QuickAdd: Add new note ⚡": false,
       "cmdr:Obsidian Git: Create backup": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "c2005bef46769d04",
+  "active": "352f6c92c3446eb8",
   "lastOpenFiles": [
-    "javascript/Prototypal instantiation.md",
-    "javascript/Pseudoclassical Instantiation (new keyword).md",
-    "javascript/Object.create.md",
     "mocs/JavaScript MOC.md",
+    "javascript/Pseudoclassical Instantiation (new keyword).md",
+    "javascript/Prototypal instantiation.md",
     "javascript/Prototype.md",
     "javascript/Functional Instantiation.md",
-    "chart-js/Getting Started with Chart.js.md",
-    "chart-js/Chart.js.md",
-    "index.md",
+    "javascript/Object.create.md",
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
     "mocs/CSS MOC.md",
@@ -288,6 +262,7 @@
     "_templates/default-note.md",
     "react/Controlled Components.md",
     "react",
+    "index.md",
     "english-grammar/Future Forms.md",
     "css/Tailwind Custom Plugin.md",
     "attachments/tailwind-custom-plugin-result.png",
@@ -305,6 +280,8 @@
     "attachments/gitflow.png",
     "workflow",
     "english-grammar/Past Simple.md",
+    "english-grammar/Past Continuous.md",
+    "english-grammar/Present Continuous.md",
     "javascript",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",

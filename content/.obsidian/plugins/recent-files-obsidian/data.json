@@ -5,16 +5,12 @@
       "path": "javascript/Pseudoclassical Instantiation (new keyword).md"
     },
     {
-      "basename": "Prototypal instantiation",
-      "path": "javascript/Prototypal instantiation.md"
-    },
-    {
-      "basename": "Object.create",
-      "path": "javascript/Object.create.md"
-    },
-    {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "Prototypal instantiation",
+      "path": "javascript/Prototypal instantiation.md"
     },
     {
       "basename": "Prototype",
@@ -25,16 +21,8 @@
       "path": "javascript/Functional Instantiation.md"
     },
     {
-      "basename": "Getting Started with Chart.js",
-      "path": "chart-js/Getting Started with Chart.js.md"
-    },
-    {
-      "basename": "Chart.js",
-      "path": "chart-js/Chart.js.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Object.create",
+      "path": "javascript/Object.create.md"
     },
     {
       "basename": "React MOC",
@@ -67,6 +55,10 @@
     {
       "basename": "Controlled Components",
       "path": "react/Controlled Components.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Future Forms",
@@ -181,6 +173,10 @@
       "path": "attachments/min-height-container-issue.png"
     },
     {
+      "basename": "Chart.js",
+      "path": "chart-js/Chart.js.md"
+    },
+    {
       "basename": "English Pronunciation Exercises",
       "path": "english-pronunciation/English Pronunciation Exercises.md"
     },
@@ -199,6 +195,10 @@
     {
       "basename": "Create a PWA",
       "path": "pwa/Create a PWA.md"
+    },
+    {
+      "basename": "The Main Sounds of English",
+      "path": "english-pronunciation/The Main Sounds of English.md"
     }
   ],
   "omittedPaths": [],
