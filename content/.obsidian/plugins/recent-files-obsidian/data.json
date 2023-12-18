@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Functional Instantiation",
-      "path": "javascript/Functional Instantiation.md"
+      "basename": "Pseudoclassical Instantiation (new keyword)",
+      "path": "javascript/Pseudoclassical Instantiation (new keyword).md"
+    },
+    {
+      "basename": "Prototypal instantiation",
+      "path": "javascript/Prototypal instantiation.md"
+    },
+    {
+      "basename": "Object.create",
+      "path": "javascript/Object.create.md"
     },
     {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
     },
     {
-      "basename": "Object.create",
-      "path": "javascript/Object.create.md"
+      "basename": "Prototype",
+      "path": "javascript/Prototype.md"
+    },
+    {
+      "basename": "Functional Instantiation",
+      "path": "javascript/Functional Instantiation.md"
     },
     {
       "basename": "Getting Started with Chart.js",
@@ -23,14 +35,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "Prototypal instantiation",
-      "path": "javascript/Prototypal instantiation.md"
-    },
-    {
-      "basename": "Prototype",
-      "path": "javascript/Prototype.md"
     },
     {
       "basename": "React MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Create a PWA",
       "path": "pwa/Create a PWA.md"
-    },
-    {
-      "basename": "The Main Sounds of English",
-      "path": "english-pronunciation/The Main Sounds of English.md"
     }
   ],
   "omittedPaths": [],

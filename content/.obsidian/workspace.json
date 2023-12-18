@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "352f6c92c3446eb8",
+            "id": "c2005bef46769d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/Functional Instantiation.md",
+                "file": "javascript/Pseudoclassical Instantiation (new keyword).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1724687b9a43880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/Prototypal instantiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02790131a75abcbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/Object.create.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "javascript/Functional Instantiation.md",
+                "file": "javascript/Pseudoclassical Instantiation (new keyword).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +149,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1475005887603527,
+                  "scale": 1.4018018334069715,
                   "close": true
                 }
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/Functional Instantiation.md"
+                "file": "javascript/Pseudoclassical Instantiation (new keyword).md"
               }
             }
           },
@@ -191,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "javascript/Functional Instantiation.md"
+                "file": "javascript/Pseudoclassical Instantiation (new keyword).md"
               }
             }
           },
@@ -201,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/Functional Instantiation.md",
+                "file": "javascript/Pseudoclassical Instantiation (new keyword).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/Functional Instantiation.md",
+                "file": "javascript/Pseudoclassical Instantiation (new keyword).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,16 +268,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "352f6c92c3446eb8",
+  "active": "c2005bef46769d04",
   "lastOpenFiles": [
-    "mocs/JavaScript MOC.md",
+    "javascript/Prototypal instantiation.md",
+    "javascript/Pseudoclassical Instantiation (new keyword).md",
     "javascript/Object.create.md",
+    "mocs/JavaScript MOC.md",
+    "javascript/Prototype.md",
+    "javascript/Functional Instantiation.md",
     "chart-js/Getting Started with Chart.js.md",
     "chart-js/Chart.js.md",
     "index.md",
-    "javascript/Prototypal instantiation.md",
-    "javascript/Prototype.md",
-    "javascript/Functional Instantiation.md",
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
     "mocs/CSS MOC.md",
@@ -280,7 +305,6 @@
     "attachments/gitflow.png",
     "workflow",
     "english-grammar/Past Simple.md",
-    "english-grammar/Past Continuous.md",
     "javascript",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",

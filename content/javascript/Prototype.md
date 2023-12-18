@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-10 11:26
+date: 2023-12-18 13:18
 tags:
   - javascript
 ---
@@ -10,7 +10,7 @@ Every function in JavaScript has a property called `prototype` that references a
 > [!note]
 > The prototype chain is a fundamental concept in JavaScript inheritance.
   
-The code below demonstrates how to create instances by calling a constructor function and shares a prototype that can be modified in the constructor.
+The code below demonstrates how to create instances by calling a constructor function with [[Pseudoclassical Instantiation (new keyword)]] and shares a prototype that can be modified in the constructor.
 
 ```js
 // Creating a constructor function

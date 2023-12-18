@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-09 11:14
+date: 2023-12-18 13:12
 tags:
   - javascript
 ---
@@ -22,12 +22,13 @@ animal.eat = function (amount) {
 
 To implement **functional instantiation**, we can simply incorporate the code used to create a basic object into a **constructor function**. In our example, this is the `Animal` function that accepts two arguments: `name` and `energy`.
 
-```js title='functional instantiation' {2-9}
+```js title='functional instantiation' {2-10}
 function Animal (name, energy) {
   let animal = {}
   animal.name = name
   animal.energy = energy
 
+  // overallocating the memory when creating multiple instances
   animal.eat = function (amount) {
     console.log(`${this.name} is eating.`)
     this.energy += amount
