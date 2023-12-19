@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ES6 Classes",
+      "path": "javascript/ES6 Classes.md"
+    },
+    {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Create a PWA",
       "path": "pwa/Create a PWA.md"
-    },
-    {
-      "basename": "The Main Sounds of English",
-      "path": "english-pronunciation/The Main Sounds of English.md"
     }
   ],
   "omittedPaths": [],

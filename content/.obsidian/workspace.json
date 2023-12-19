@@ -11,8 +11,12 @@
             "id": "548576385fa02a6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "javascript/ES6 Classes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "javascript/ES6 Classes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622448,
+                  "scale": 0.5087618855792632,
                   "close": true
                 }
               }
@@ -146,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "javascript/ES6 Classes.md"
+              }
             }
           },
           {
@@ -183,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "javascript/ES6 Classes.md"
+              }
             }
           },
           {
@@ -192,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "javascript/ES6 Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "javascript/ES6 Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,9 +245,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "548576385fa02a6e",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
     "mocs/JavaScript MOC.md",
+    "javascript/ES6 Classes.md",
     "javascript/Pseudoclassical Instantiation (new keyword).md",
     "javascript/Prototypal instantiation.md",
     "javascript/Prototype.md",
@@ -270,7 +282,6 @@
     "workflow",
     "english-grammar/Past Simple.md",
     "english-grammar/Past Continuous.md",
-    "english-grammar/Present Continuous.md",
     "javascript",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",
