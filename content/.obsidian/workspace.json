@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc834dc1b3cac9cf",
+        "id": "a27cbfba18a4220c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f55186e1d764107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Past Tense Common Mistakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01137dbd1cd2fd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Future Tense Common Mistakes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5b34249a7032f4e",
+            "id": "67148cf6811cf316",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +31,7 @@
       {
         "id": "769a4256208b353a",
         "type": "tabs",
-        "dimension": 70.15810276679842,
+        "dimension": 62.5968992248062,
         "children": [
           {
             "id": "e4f857c12bc33e53",
@@ -96,7 +71,7 @@
       {
         "id": "91d8045f3deba083",
         "type": "tabs",
-        "dimension": 29.841897233201585,
+        "dimension": 37.4031007751938,
         "children": [
           {
             "id": "14e2e7cf933fa03a",
@@ -270,13 +245,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "01137dbd1cd2fd7d",
+  "active": "67148cf6811cf316",
   "lastOpenFiles": [
     "english-grammar/English Grammar List.md",
-    "english-grammar/Future Tense Common Mistakes.md",
-    "english-grammar/Future Forms.md",
     "english-grammar/Past Tense Common Mistakes.md",
     "english-grammar/Present Tense Common Mistakes.md",
+    "english-grammar/Future Tense Common Mistakes.md",
+    "english-grammar/Future Forms.md",
     "english-grammar/Present Perfect Continuous.md",
     "english-grammar/Present Perfect Simple.md",
     "english-grammar/Present Continuous.md",

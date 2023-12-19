@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 22:18
+date: 2023-12-19 22:38
 tags:
   - english
   - grammar
@@ -56,4 +56,9 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B2 - [Other ways to express future – be about to, be due to, etc.](https://test-english.com/grammar-points/b2/ways-express-future/)
 - B2 - [Future in the past](https://test-english.com/grammar-points/b2/future-in-the-past/
 - 🤔 [[Future Tense Common Mistakes]]
+
+## Verb tense reviews
+- A2 - [Review of all verb tenses A2](https://test-english.com/grammar-points/a2/review-verb-tenses-a2/)  
+- B1 - [Review of all verb tenses B1](https://test-english.com/grammar-points/b1/review-verb-tenses-b1/)  
+- B1+ - [Review of all verb tenses B1-B2](https://test-english.com/grammar-points/b1-b2/review-verb-tenses-b1-b2/)
 
