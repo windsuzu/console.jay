@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
       "basename": "Static Methods",
       "path": "javascript/Static Methods.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "English MOC",
       "path": "mocs/English MOC.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Future Tense Common Mistakes",
