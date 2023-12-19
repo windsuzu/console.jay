@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "ES6 Classes",
-      "path": "javascript/ES6 Classes.md"
-    },
-    {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
     },
     {
-      "basename": "Pseudoclassical Instantiation (new keyword)",
-      "path": "javascript/Pseudoclassical Instantiation (new keyword).md"
+      "basename": "ES6 Classes",
+      "path": "javascript/ES6 Classes.md"
     },
     {
       "basename": "Prototypal instantiation",
       "path": "javascript/Prototypal instantiation.md"
     },
     {
-      "basename": "Prototype",
-      "path": "javascript/Prototype.md"
-    },
-    {
       "basename": "Functional Instantiation",
       "path": "javascript/Functional Instantiation.md"
+    },
+    {
+      "basename": "Pseudoclassical Instantiation (new keyword)",
+      "path": "javascript/Pseudoclassical Instantiation (new keyword).md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "javascript/Prototype.md"
     },
     {
       "basename": "Object.create",

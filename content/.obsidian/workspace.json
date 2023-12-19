@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/ES6 Classes.md",
+                "file": "mocs/JavaScript MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "javascript/ES6 Classes.md",
+                "file": "mocs/JavaScript MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792632,
+                  "scale": 0.7132754626224485,
                   "close": true
                 }
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/ES6 Classes.md"
+                "file": "mocs/JavaScript MOC.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "javascript/ES6 Classes.md"
+                "file": "mocs/JavaScript MOC.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/ES6 Classes.md",
+                "file": "mocs/JavaScript MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/ES6 Classes.md",
+                "file": "mocs/JavaScript MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,14 +245,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e4f857c12bc33e53",
+  "active": "548576385fa02a6e",
   "lastOpenFiles": [
-    "mocs/JavaScript MOC.md",
     "javascript/ES6 Classes.md",
-    "javascript/Pseudoclassical Instantiation (new keyword).md",
     "javascript/Prototypal instantiation.md",
-    "javascript/Prototype.md",
     "javascript/Functional Instantiation.md",
+    "mocs/JavaScript MOC.md",
+    "javascript/Pseudoclassical Instantiation (new keyword).md",
+    "javascript/Prototype.md",
     "javascript/Object.create.md",
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
