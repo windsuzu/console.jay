@@ -5,6 +5,34 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "Past Tense Common Mistakes",
+      "path": "english-grammar/Past Tense Common Mistakes.md"
+    },
+    {
+      "basename": "Present Tense Common Mistakes",
+      "path": "english-grammar/Present Tense Common Mistakes.md"
+    },
+    {
+      "basename": "Future Tense Common Mistakes",
+      "path": "english-grammar/Future Tense Common Mistakes.md"
+    },
+    {
+      "basename": "Present Perfect Continuous",
+      "path": "english-grammar/Present Perfect Continuous.md"
+    },
+    {
+      "basename": "Present Perfect Simple",
+      "path": "english-grammar/Present Perfect Simple.md"
+    },
+    {
+      "basename": "Present Continuous",
+      "path": "english-grammar/Present Continuous.md"
+    },
+    {
+      "basename": "Present Simple",
+      "path": "english-grammar/Present Simple.md"
+    },
+    {
       "basename": "Static Methods",
       "path": "javascript/Static Methods.md"
     },
@@ -61,10 +89,6 @@
       "path": "mocs/English MOC.md"
     },
     {
-      "basename": "Future Tense Common Mistakes",
-      "path": "english-grammar/Future Tense Common Mistakes.md"
-    },
-    {
       "basename": "default-note",
       "path": "_templates/default-note.md"
     },
@@ -99,14 +123,6 @@
     {
       "basename": "future-forms",
       "path": "attachments/future-forms.png"
-    },
-    {
-      "basename": "Present Simple",
-      "path": "english-grammar/Present Simple.md"
-    },
-    {
-      "basename": "Present Perfect Simple",
-      "path": "english-grammar/Present Perfect Simple.md"
     },
     {
       "basename": "Past Perfect",
@@ -145,16 +161,8 @@
       "path": "english-grammar/Past Continuous.md"
     },
     {
-      "basename": "Present Continuous",
-      "path": "english-grammar/Present Continuous.md"
-    },
-    {
       "basename": "Stative or non-action verbs",
       "path": "english-grammar/Stative or non-action verbs.md"
-    },
-    {
-      "basename": "Present Perfect Continuous",
-      "path": "english-grammar/Present Perfect Continuous.md"
     },
     {
       "basename": "quantity-query-2",
@@ -191,14 +199,6 @@
     {
       "basename": "Datasets in react-chartjs-2",
       "path": "chart-js/react-chartjs-2/Datasets in react-chartjs-2.md"
-    },
-    {
-      "basename": "PWA (Progressive Web Apps)",
-      "path": "pwa/PWA (Progressive Web Apps).md"
-    },
-    {
-      "basename": "Create a PWA with Next.js 13 App Router",
-      "path": "pwa/Create a PWA with Next.js 13 App Router.md"
     }
   ],
   "omittedPaths": [],
