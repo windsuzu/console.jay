@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 22:53
+date: 2023-12-19 23:22
 tags:
   - grammar
   - english
@@ -13,5 +13,3 @@ tags:
 >[!question]- John \____ very strangely these days. (behave)
 >✅ **is behaving** ❌ has behaved
 > we use the **present continuous** to talk about **temporary situations** or actions in progress now.
-
-

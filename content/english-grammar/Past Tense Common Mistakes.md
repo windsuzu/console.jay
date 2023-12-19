@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 22:58
+date: 2023-12-19 23:22
 tags:
   - english
   - grammar
@@ -28,3 +28,6 @@ tags:
 >- In the first gap, we use the past perfect continuous because are describing a continuous action that had started earlier in the past and had not finished, or had just finished.
 >- In the second gap, we use the past perfect simple because this event had happened earlier in the past.
 
+>[!question]- I \____ to the West End a long time ago. (move)
+>✅ moved ❌ have moved
+> - We use the **past simple** to talk about **past finished actions** (usually with a past time expression like ‘a long time ago’).
