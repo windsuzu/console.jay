@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/JavaScript MOC.md",
+                "file": "javascript/Static Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/JavaScript MOC.md",
+                "file": "javascript/Static Methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/JavaScript MOC.md"
+                "file": "javascript/Static Methods.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/JavaScript MOC.md"
+                "file": "javascript/Static Methods.md"
               }
             }
           },
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/JavaScript MOC.md",
+                "file": "javascript/Static Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/JavaScript MOC.md",
+                "file": "javascript/Static Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,13 +247,16 @@
   },
   "active": "548576385fa02a6e",
   "lastOpenFiles": [
-    "javascript/ES6 Classes.md",
-    "javascript/Prototypal instantiation.md",
-    "javascript/Functional Instantiation.md",
-    "mocs/JavaScript MOC.md",
     "javascript/Pseudoclassical Instantiation (new keyword).md",
+    "javascript/Prototypal instantiation.md",
     "javascript/Prototype.md",
+    "javascript/Pattern Matching (ts-pattern).md",
     "javascript/Object.create.md",
+    "javascript/Imperative and Declarative Programming.md",
+    "javascript/Functional Instantiation.md",
+    "javascript/ES6 Classes.md",
+    "javascript/Static Methods.md",
+    "mocs/JavaScript MOC.md",
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
     "mocs/CSS MOC.md",
@@ -275,13 +278,10 @@
     "english-grammar/Past Perfect.md",
     "workflow/GitFlow.md",
     "attachments/gitflow2.png",
-    "workflow/Trunk Based Development (TBD).md",
     "attachments/trunk-based-development2.png",
     "attachments/trunk-based-development.png",
     "attachments/gitflow.png",
     "workflow",
-    "english-grammar/Past Simple.md",
-    "english-grammar/Past Continuous.md",
     "javascript",
     "attachments/quantity-query-2.png",
     "attachments/quantity-query-1.png",

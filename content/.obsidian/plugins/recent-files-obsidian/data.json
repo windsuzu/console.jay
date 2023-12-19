@@ -1,32 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
-    },
-    {
-      "basename": "ES6 Classes",
-      "path": "javascript/ES6 Classes.md"
-    },
-    {
-      "basename": "Prototypal instantiation",
-      "path": "javascript/Prototypal instantiation.md"
-    },
-    {
-      "basename": "Functional Instantiation",
-      "path": "javascript/Functional Instantiation.md"
+      "basename": "Static Methods",
+      "path": "javascript/Static Methods.md"
     },
     {
       "basename": "Pseudoclassical Instantiation (new keyword)",
       "path": "javascript/Pseudoclassical Instantiation (new keyword).md"
     },
     {
+      "basename": "Prototypal instantiation",
+      "path": "javascript/Prototypal instantiation.md"
+    },
+    {
       "basename": "Prototype",
       "path": "javascript/Prototype.md"
     },
     {
+      "basename": "Pattern Matching (ts-pattern)",
+      "path": "javascript/Pattern Matching (ts-pattern).md"
+    },
+    {
       "basename": "Object.create",
       "path": "javascript/Object.create.md"
+    },
+    {
+      "basename": "Imperative and Declarative Programming",
+      "path": "javascript/Imperative and Declarative Programming.md"
+    },
+    {
+      "basename": "Functional Instantiation",
+      "path": "javascript/Functional Instantiation.md"
+    },
+    {
+      "basename": "ES6 Classes",
+      "path": "javascript/ES6 Classes.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
     },
     {
       "basename": "React MOC",
@@ -145,14 +157,6 @@
       "path": "english-grammar/Present Perfect Continuous.md"
     },
     {
-      "basename": "Imperative and Declarative Programming",
-      "path": "javascript/Imperative and Declarative Programming.md"
-    },
-    {
-      "basename": "Pattern Matching (ts-pattern)",
-      "path": "javascript/Pattern Matching (ts-pattern).md"
-    },
-    {
       "basename": "quantity-query-2",
       "path": "attachments/quantity-query-2.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Create a PWA with Next.js 13 App Router",
       "path": "pwa/Create a PWA with Next.js 13 App Router.md"
-    },
-    {
-      "basename": "Create a PWA",
-      "path": "pwa/Create a PWA.md"
     }
   ],
   "omittedPaths": [],
