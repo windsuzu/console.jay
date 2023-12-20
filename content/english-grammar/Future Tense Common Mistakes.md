@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 23:00
+date: 2023-12-20 16:46
 tags:
   - english
   - grammar
@@ -19,3 +19,9 @@ tags:
 > [!question]- She is \____ to give birth to their second child in a few weeks. (on the verge / about / due)
 > ✅ due ❌ about
 > - The word **"due"** in this context means that the expected time for giving birth is approaching.
+
+> [!question]- If they keep playing like this, how many matches do you think they \____ (win) by the end of the season?
+> ✅ will have won ❌ will win
+> we use the **future perfect** to talk about an action that will be **finished or completed** at a certain time in the future.
+
+
