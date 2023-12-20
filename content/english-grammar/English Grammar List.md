@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 22:38
+date: 2023-12-20 18:01
 tags:
   - english
   - grammar
@@ -61,3 +61,9 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A2 - [Review of all verb tenses A2](https://test-english.com/grammar-points/a2/review-verb-tenses-a2/)  
 - B1 - [Review of all verb tenses B1](https://test-english.com/grammar-points/b1/review-verb-tenses-b1/)  
 - B1+ - [Review of all verb tenses B1-B2](https://test-english.com/grammar-points/b1-b2/review-verb-tenses-b1-b2/)
+
+## Modals, the imperative, phrasal verbs, etc.
+- A1 - [Can, can’t – ability, possibility, permission](https://test-english.com/grammar-points/a1/can-cant/)
+- A1 - [The imperative – Sit down! Don’t talk!](https://test-english.com/grammar-points/a1/imperative-sit-dont-talk/)
+- A1 - [Would you like…? I’d like…](https://test-english.com/grammar-points/a1/would-like/)
+- 
