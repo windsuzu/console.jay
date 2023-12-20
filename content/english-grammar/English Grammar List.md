@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-20 20:37
+date: 2023-12-20 22:15
 tags:
   - english
   - grammar
@@ -68,4 +68,5 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A1 - [Would you like…? I’d like…](https://test-english.com/grammar-points/a1/would-like/)
 - A2 - [Have to, don’t have to, must, mustn’t](https://test-english.com/grammar-points/a2/have-to-dont-have-to-must-mustnt/)
 - A2 - [Should, shouldn’t](https://test-english.com/grammar-points/a2/should-shouldnt/)
+- A2 - [Might, might not – possibility](https://test-english.com/grammar-points/a2/might-might-not/)
 - 
