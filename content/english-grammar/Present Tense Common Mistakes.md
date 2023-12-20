@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 23:22
+date: 2023-12-20 15:59
 tags:
   - grammar
   - english
@@ -13,3 +13,10 @@ tags:
 >[!question]- John \____ very strangely these days. (behave)
 >✅ **is behaving** ❌ has behaved
 > we use the **present continuous** to talk about **temporary situations** or actions in progress now.
+
+>[!question]- Why \____ (drink) tea today? You \____ (never/drink) tea.
+>✅ are you drinking / never drink ❌ did you drink / have never drunk
+>- In the first gap, we use the **present continuous** to talk about a **temporary** action (NOT a habit), which is happening **now** or **'around now'**.
+>- In the second gap, we use the **present simple** to talk about a **habit**.
+
+
