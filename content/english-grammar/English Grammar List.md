@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-20 18:01
+date: 2023-12-20 18:20
 tags:
   - english
   - grammar
@@ -66,4 +66,5 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A1 - [Can, can’t – ability, possibility, permission](https://test-english.com/grammar-points/a1/can-cant/)
 - A1 - [The imperative – Sit down! Don’t talk!](https://test-english.com/grammar-points/a1/imperative-sit-dont-talk/)
 - A1 - [Would you like…? I’d like…](https://test-english.com/grammar-points/a1/would-like/)
+- A2 - [Have to, don’t have to, must, mustn’t](https://test-english.com/grammar-points/a2/have-to-dont-have-to-must-mustnt/)
 - 
