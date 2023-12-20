@@ -10,9 +10,15 @@
           {
             "id": "b084623c561ff250",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/English Grammar List.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -98,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "english-grammar/English Grammar List.md"
+              }
             }
           },
           {
@@ -183,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "english-grammar/English Grammar List.md"
+              }
             }
           },
           {
@@ -192,6 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,10 +249,10 @@
   },
   "active": "b084623c561ff250",
   "lastOpenFiles": [
-    "english-grammar/Past Tense Common Mistakes.md",
-    "english-grammar/Present Tense Common Mistakes.md",
     "english-grammar/Future Tense Common Mistakes.md",
     "english-grammar/English Grammar List.md",
+    "english-grammar/Past Tense Common Mistakes.md",
+    "english-grammar/Present Tense Common Mistakes.md",
     "english-grammar/Future Forms.md",
     "english-grammar/Present Perfect Continuous.md",
     "english-grammar/Present Perfect Simple.md",

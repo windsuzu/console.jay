@@ -61,4 +61,3 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A2 - [Review of all verb tenses A2](https://test-english.com/grammar-points/a2/review-verb-tenses-a2/)  
 - B1 - [Review of all verb tenses B1](https://test-english.com/grammar-points/b1/review-verb-tenses-b1/)  
 - B1+ - [Review of all verb tenses B1-B2](https://test-english.com/grammar-points/b1-b2/review-verb-tenses-b1-b2/)
-
