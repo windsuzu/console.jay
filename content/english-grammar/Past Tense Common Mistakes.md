@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-19 23:22
+date: 2023-12-20 16:22
 tags:
   - english
   - grammar
@@ -31,3 +31,9 @@ tags:
 >[!question]- I \____ to the West End a long time ago. (move)
 >✅ moved ❌ have moved
 > - We use the **past simple** to talk about **past finished actions** (usually with a past time expression like ‘a long time ago’).
+
+> [!question]- When I turned around, the bike \____ (disappear).
+> ✅ had disappeared ❌ disappeared
+> we use the **past perfect** to talk about events that happened **earlier in the past**.
+
+
