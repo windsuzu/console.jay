@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-20 16:21
+date: 2023-12-21 10:52
 tags:
   - grammar
   - english
@@ -19,6 +19,6 @@ tags:
 >- In the first gap, we use the **present continuous** to talk about a **temporary** action (NOT a habit), which is happening **now** or **'around now'**.
 >- In the second gap, we use the **present simple** to talk about a **habit**.
 
->[!question]- "Patrick! Hi! What are you doing Correct in York?" "Hi! I \____ (just arrive)."
+>[!question]- "Patrick! Hi! What are you doing in York?" "Hi! I \____ (just arrive)."
 > ✅ have just arrived ❌ just arrived
 > - we use the **present perfect** to talk about **recent events** when we don’t say when they happened. (Common with **already, yet, just, recently, today, this week, etc.**)
