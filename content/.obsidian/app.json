@@ -2,5 +2,6 @@
   "promptDelete": false,
   "propertiesInDocument": "source",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "newFileLocation": "current"
 }
