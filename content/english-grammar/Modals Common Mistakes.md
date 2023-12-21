@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-21 14:57
+date: 2023-12-21 16:08
 tags:
   - english
   - grammar
@@ -17,4 +17,9 @@ tags:
 > [!question]- We \____ (get) London at 5 in the evening.
 > ✅ got to ❌ got
 > - **get to** + place = 'arrive'
+
+> [!question]- I \____ (do/make) my hair every morning.
+> ✅ do ❌ make
+> - We use **do** in collocations referring to self-care.
+
 
