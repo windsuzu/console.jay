@@ -9,6 +9,14 @@
       "path": "english-grammar/Modals Common Mistakes.md"
     },
     {
+      "basename": "Phrasal Verbs",
+      "path": "english-grammar/Phrasal Verbs.md"
+    },
+    {
+      "basename": "Transitive and Intransitive Phrasal Verbs",
+      "path": "english-grammar/Transitive and Intransitive Phrasal Verbs.md"
+    },
+    {
       "basename": "Verbs with two objects (To or For)",
       "path": "english-grammar/Verbs with two objects (To or For).md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "nth-last-child",
       "path": "css/nth-last-child.md"
-    },
-    {
-      "basename": "Mobile Viewport Units (svh, lvh, dvh)",
-      "path": "css/Mobile Viewport Units (svh, lvh, dvh).md"
-    },
-    {
-      "basename": "Min-height Container Issue",
-      "path": "css/Min-height Container Issue.md"
-    },
-    {
-      "basename": "min-height-container-issue",
-      "path": "attachments/min-height-container-issue.png"
     }
   ],
   "omittedPaths": [],
