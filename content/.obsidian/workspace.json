@@ -127,7 +127,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224488,
+                  "scale": 0.5087618855792645,
                   "close": true
                 }
               }
@@ -249,9 +249,11 @@
   },
   "active": "b084623c561ff250",
   "lastOpenFiles": [
+    "english-grammar/It's time.md",
+    "english-grammar/English Grammar List.md",
+    "english-grammar/Had Better.md",
     "english-grammar/Modals Common Mistakes.md",
     "english-grammar/Phrasal Verbs.md",
-    "english-grammar/English Grammar List.md",
     "english-grammar/Transitive and Intransitive Phrasal Verbs.md",
     "english-grammar/Separable and Inseparable Verbs.md",
     "english-grammar/Separable Transitive Phrasal Verbs.md",
@@ -273,8 +275,6 @@
     "javascript/Pattern Matching (ts-pattern).md",
     "javascript/Object.create.md",
     "javascript/Imperative and Declarative Programming.md",
-    "javascript/Functional Instantiation.md",
-    "javascript/ES6 Classes.md",
     "react",
     "attachments/tailwind-custom-plugin-result.png",
     "attachments/tailwind-custom-plugin-intellisense.png",

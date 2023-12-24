@@ -5,6 +5,14 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "It's time",
+      "path": "english-grammar/It's time.md"
+    },
+    {
+      "basename": "Had Better",
+      "path": "english-grammar/Had Better.md"
+    },
+    {
       "basename": "Modals Common Mistakes",
       "path": "english-grammar/Modals Common Mistakes.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "quantity-query-1",
       "path": "attachments/quantity-query-1.png"
-    },
-    {
-      "basename": "nth-last-child",
-      "path": "css/nth-last-child.md"
     }
   ],
   "omittedPaths": [],
