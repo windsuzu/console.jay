@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-24 15:48
+date: 2023-12-24 17:10
 tags:
   - english
   - grammar
@@ -77,4 +77,5 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 	- 📝 [[Direct and Indirect Object]]
 	- 📝 [[Verbs with two objects (To or For)]]
 - A2 - [Stative vs dynamic verbs (or non-action vs action verbs)](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/)
+- A2 - [Phrasal verbs: transitive and intransitive, separable and inseparable](https://test-english.com/grammar-points/a2/phrasal-verbs-transitive-and-intransitive-separable-and-inseparable/)
 - 🤔 [[Modals Common Mistakes]]
