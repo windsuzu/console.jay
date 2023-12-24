@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-21 16:08
+date: 2023-12-24 16:51
 tags:
   - english
   - grammar
@@ -22,4 +22,6 @@ tags:
 > ✅ do ❌ make
 > - We use **do** in collocations referring to self-care.
 
-
+> [!question]- The chef \____ (taste) the sauce to see if it needs more salt.
+> ✅ is tasting ❌ tastes
+> - Although some verbs of the senses are usually classified as **stative** (e.g. **taste, see, smell, feel**), they can also be **dynamic** when they refer to voluntary actions and not perceptions.
