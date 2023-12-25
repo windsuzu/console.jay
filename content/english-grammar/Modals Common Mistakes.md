@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-25 16:55
+date: 2023-12-25 20:30
 tags:
   - english
   - grammar
@@ -30,4 +30,10 @@ tags:
 > ✅ can't ❌ must not
 > - When we are sure something is not true, we use can’t (NOT mustn’t).
 > - He can't be very proud of you = 'I'm (quite) sure he is not very proud of you'
+
+> [!question]- You \____ (couldn't have / mustn't have) been ill yesterday. Jessie saw you at the bowling alley.
+> ✅ couldn't have ❌ mustn't have
+> - We can use **can’t/couldn’t have + past participle** to say that we are **quite sure that something did NOT happen or was NOT true in the past**.
+> - _You couldn't have been ill.=_ I'm quite sure you weren't ill.
+> - We can use **must** but not **mustn't** as a modal verb of deduction.
 
