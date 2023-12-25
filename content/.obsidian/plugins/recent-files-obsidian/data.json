@@ -9,6 +9,10 @@
       "path": "english-grammar/Modals Common Mistakes.md"
     },
     {
+      "basename": "Used to, be used to, get used to",
+      "path": "english-grammar/Used to, be used to, get used to.md"
+    },
+    {
       "basename": "Can vs Could",
       "path": "english-grammar/Can vs Could.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Stative or non-action verbs",
       "path": "english-grammar/Stative or non-action verbs.md"
-    },
-    {
-      "basename": "quantity-query-2",
-      "path": "attachments/quantity-query-2.png"
     }
   ],
   "omittedPaths": [],
