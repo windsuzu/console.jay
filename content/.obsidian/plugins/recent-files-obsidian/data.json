@@ -5,6 +5,14 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "Direct and Indirect Object",
+      "path": "english-grammar/Direct and Indirect Object.md"
+    },
+    {
+      "basename": "Can vs Could",
+      "path": "english-grammar/Can vs Could.md"
+    },
+    {
       "basename": "It's time",
       "path": "english-grammar/It's time.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Verbs with two objects (To or For)",
       "path": "english-grammar/Verbs with two objects (To or For).md"
-    },
-    {
-      "basename": "Direct and Indirect Object",
-      "path": "english-grammar/Direct and Indirect Object.md"
     },
     {
       "basename": "Future Tense Common Mistakes",
@@ -195,10 +199,6 @@
     {
       "basename": "quantity-query-2",
       "path": "attachments/quantity-query-2.png"
-    },
-    {
-      "basename": "quantity-query-1",
-      "path": "attachments/quantity-query-1.png"
     }
   ],
   "omittedPaths": [],
