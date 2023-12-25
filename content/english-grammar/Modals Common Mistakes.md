@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-25 20:30
+date: 2023-12-25 21:06
 tags:
   - english
   - grammar
@@ -36,4 +36,14 @@ tags:
 > - We can use **can’t/couldn’t have + past participle** to say that we are **quite sure that something did NOT happen or was NOT true in the past**.
 > - _You couldn't have been ill.=_ I'm quite sure you weren't ill.
 > - We can use **must** but not **mustn't** as a modal verb of deduction.
+
+> [!question]- In this economy, \____ (we're unlikely / it's unlikely) to find a buyer for the house.
+> ✅ we're unlikely ❌ it's unlikely ✅ it's unlikely that we'll find
+> - If something is is **unlikely to happen** or if **it’s unlikely that something will happen**, it means that it probably won’t happen.
+> - We could also say: _... it’s unlikely that we will find a buyer._
+
+> [!question]- This \____ (definitely won't / definitely will not) be his last mistake.
+> ✅ definitely won't ❌ definitely will not
+> - **Definitely** and **probably** go before **won't, isn't, shouldn't, etc.** But if we don’t use short forms, **definitely** and **probably** go after the auxiliary verb and before **not**. 
+> - We can say: _This definitely won't be his last mistake_, or _This will definitely not be his last mistake_.
 
