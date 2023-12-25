@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-24 16:51
+date: 2023-12-25 16:55
 tags:
   - english
   - grammar
@@ -25,3 +25,9 @@ tags:
 > [!question]- The chef \____ (taste) the sauce to see if it needs more salt.
 > ✅ is tasting ❌ tastes
 > - Although some verbs of the senses are usually classified as **stative** (e.g. **taste, see, smell, feel**), they can also be **dynamic** when they refer to voluntary actions and not perceptions.
+
+> [!question]- He \____ (can't/ must not) be very proud of you right now. You disappointed him.
+> ✅ can't ❌ must not
+> - When we are sure something is not true, we use can’t (NOT mustn’t).
+> - He can't be very proud of you = 'I'm (quite) sure he is not very proud of you'
+

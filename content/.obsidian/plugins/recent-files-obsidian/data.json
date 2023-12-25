@@ -5,6 +5,10 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "Modals Common Mistakes",
+      "path": "english-grammar/Modals Common Mistakes.md"
+    },
+    {
       "basename": "Can vs Could",
       "path": "english-grammar/Can vs Could.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Had Better",
       "path": "english-grammar/Had Better.md"
-    },
-    {
-      "basename": "Modals Common Mistakes",
-      "path": "english-grammar/Modals Common Mistakes.md"
     },
     {
       "basename": "Phrasal Verbs",
