@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "hasOwnProperty",
+      "path": "mocs/hasOwnProperty.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "Static Methods",
+      "path": "javascript/Static Methods.md"
+    },
+    {
+      "basename": "ES6 Classes",
+      "path": "javascript/ES6 Classes.md"
+    },
+    {
+      "basename": "Object.create",
+      "path": "javascript/Object.create.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "javascript/Prototype.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Functional Instantiation",
+      "path": "javascript/Functional Instantiation.md"
     },
     {
       "basename": "Modals Common Mistakes",
@@ -73,10 +101,6 @@
       "path": "english-grammar/Present Simple.md"
     },
     {
-      "basename": "Static Methods",
-      "path": "javascript/Static Methods.md"
-    },
-    {
       "basename": "Pseudoclassical Instantiation (new keyword)",
       "path": "javascript/Pseudoclassical Instantiation (new keyword).md"
     },
@@ -85,32 +109,12 @@
       "path": "javascript/Prototypal instantiation.md"
     },
     {
-      "basename": "Prototype",
-      "path": "javascript/Prototype.md"
-    },
-    {
       "basename": "Pattern Matching (ts-pattern)",
       "path": "javascript/Pattern Matching (ts-pattern).md"
     },
     {
-      "basename": "Object.create",
-      "path": "javascript/Object.create.md"
-    },
-    {
       "basename": "Imperative and Declarative Programming",
       "path": "javascript/Imperative and Declarative Programming.md"
-    },
-    {
-      "basename": "Functional Instantiation",
-      "path": "javascript/Functional Instantiation.md"
-    },
-    {
-      "basename": "ES6 Classes",
-      "path": "javascript/ES6 Classes.md"
-    },
-    {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
     },
     {
       "basename": "React MOC",
@@ -195,10 +199,6 @@
     {
       "basename": "Past Continuous",
       "path": "english-grammar/Past Continuous.md"
-    },
-    {
-      "basename": "Stative or non-action verbs",
-      "path": "english-grammar/Stative or non-action verbs.md"
     }
   ],
   "omittedPaths": [],

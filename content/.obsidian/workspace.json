@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "db5127860f358599",
+            "id": "5580bbe5e84ce0fb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "mocs/JavaScript MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85be2c3699ee21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/hasOwnProperty.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "mocs/hasOwnProperty.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "mocs/hasOwnProperty.md"
               }
             }
           },
@@ -206,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "mocs/hasOwnProperty.md"
               }
             }
           },
@@ -216,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "mocs/hasOwnProperty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "mocs/hasOwnProperty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,10 +274,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "db5127860f358599",
+  "active": "a85be2c3699ee21a",
   "lastOpenFiles": [
-    "english-grammar/Modals Common Mistakes.md",
+    "mocs/JavaScript MOC.md",
+    "mocs/hasOwnProperty.md",
+    "javascript/Static Methods.md",
+    "javascript/ES6 Classes.md",
+    "javascript/Object.create.md",
+    "javascript/Prototype.md",
     "english-grammar/English Grammar List.md",
+    "javascript/Functional Instantiation.md",
+    "english-grammar/Modals Common Mistakes.md",
     "english-grammar/Used to, be used to, get used to.md",
     "english-grammar/Can vs Could.md",
     "english-grammar/Direct and Indirect Object.md",
@@ -281,13 +302,6 @@
     "english-grammar/Future Forms.md",
     "english-grammar/Present Perfect Continuous.md",
     "english-grammar/Present Perfect Simple.md",
-    "english-grammar/Present Continuous.md",
-    "english-grammar/Present Simple.md",
-    "javascript/Static Methods.md",
-    "javascript/Pseudoclassical Instantiation (new keyword).md",
-    "javascript/Prototypal instantiation.md",
-    "javascript/Prototype.md",
-    "javascript/Pattern Matching (ts-pattern).md",
     "react",
     "attachments/tailwind-custom-plugin-result.png",
     "attachments/tailwind-custom-plugin-intellisense.png",

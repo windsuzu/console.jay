@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-10 16:25
+date: 2023-12-31 18:56
 tags:
   - javascript
 ---
@@ -12,6 +12,7 @@ tags:
 - [[Pseudoclassical Instantiation (new keyword)]]
 - [[ES6 Classes]]
 - [[Static Methods]]
+- [[hasOwnProperty]]
 ## Programming Paradigm
 - [[Imperative and Declarative Programming]]
 - [[Pattern Matching (ts-pattern)]]
