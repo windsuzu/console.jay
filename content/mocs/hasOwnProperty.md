@@ -1,11 +1,11 @@
 ---
 draft: false
-date: 2023-12-31 18:57
+date: 2023-12-31 19:19
 tags:
   - javascript
 ---
 
-
+Sometimes when you want to get all the properties
 
 
 
