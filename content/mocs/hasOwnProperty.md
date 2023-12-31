@@ -1,11 +1,11 @@
 ---
 draft: false
-date: 2023-12-31 19:19
+date: 2023-12-31 19:42
 tags:
   - javascript
 ---
 
-Sometimes when you want to get all the properties
+Sometimes when you want to get all the properties from an object  
 
 
 
