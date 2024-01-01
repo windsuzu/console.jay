@@ -1,11 +1,11 @@
 ---
 draft: false
-date: 2023-12-31 21:57
+date: 2024-01-01 01:19
 tags:
   - javascript
 ---
 
-In JavaScript, while the `for...in` loop is often used to iterate over an object's properties, it's important to note that it includes those inherited from its prototype chain. For example, 
+While the `for...in` loop in JavaScript offers a convenient way to iterate over an object's properties, it's crucial to remember that it encompasses properties inherited from the prototype chain. This means you'll also encounter properties defined in parent objects or prototypes. Here's an example:
 
 ```js
 function Animal (name, energy) {
@@ -33,7 +33,7 @@ for (let key in leo) {
 //}
 ```
 
-
+**To specifically target properties directly owned by the `Animal` instance, we leverage the `hasOwnProperty()` method.** This method determines whether a property is directly defined on the object itself, as opposed to being inherited through the prototype chain.
 
 ```js
 for (let key in leo) {
@@ -45,8 +45,6 @@ for (let key in leo) {
 // Key: name. Value: Leo
 // Key: energy. Value: 7
 ```
-
-
 
 > [!info] References
 > - [A Beginner's Guide to JavaScript's Prototype](https://ui.dev/beginners-guide-to-javascript-prototype) 
