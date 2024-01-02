@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-31 19:59
+date: 2024-01-02 23:51
 tags:
   - english
   - grammar
@@ -93,4 +93,8 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B1 - [B1 Phrasal verbs 3 – Exercises and explanation](https://test-english.com/grammar-points/b1/b1-phrasal-verbs-3-exercises-and-explanation/)
 - B1+ - [Past modal verbs of deduction](https://test-english.com/grammar-points/b1-b2/past-modal-verbs/)
 - B1+ - [Likely, unlikely, bound, definitely, probably – probability](https://test-english.com/grammar-points/b1-b2/likely-unlikely-bound-definitely-probably/)
+- B1+ - [Used to, be used to, get used to](https://test-english.com/grammar-points/b1-b2/used-to/)
+- B1+ - [Would and used to – past habits and repeated actions](https://test-english.com/grammar-points/b1-b2/would-and-used-to/)
+	- 📝 [[Would do - Past repeated action]]
+- B1+ - [Verbs of the senses: look, sound, feel, etc.](https://test-english.com/grammar-points/b1-b2/verbs-of-the-senses/)
 - 🤔 [[Modals Common Mistakes]]

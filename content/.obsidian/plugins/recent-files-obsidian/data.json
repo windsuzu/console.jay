@@ -5,6 +5,10 @@
       "path": "english-grammar/English Grammar List.md"
     },
     {
+      "basename": "Would do - Past repeated action",
+      "path": "english-grammar/Would do - Past repeated action.md"
+    },
+    {
       "basename": "Modals Common Mistakes",
       "path": "english-grammar/Modals Common Mistakes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Past Simple",
       "path": "english-grammar/Past Simple.md"
-    },
-    {
-      "basename": "Past Continuous",
-      "path": "english-grammar/Past Continuous.md"
     }
   ],
   "omittedPaths": [],
