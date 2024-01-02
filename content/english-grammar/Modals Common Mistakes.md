@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-25 21:06
+date: 2024-01-02 18:52
 tags:
   - english
   - grammar
@@ -11,7 +11,7 @@ tags:
 > We use **go on a** before nouns related to holidays, trips or similar, such as **holiday, trip, journey, excursion, tour, cruise, etc**.
 
 > [!question]- After trying to rob a bank, he went \____ (prison) for 5 years.
-> ✅ went to prison ❌ went prison
+> ✅ to prison ❌ prison
 > We say **go to prison** (WITHOUT **the**) when someone is taken there as a prisoner.
 
 > [!question]- We \____ (get) London at 5 in the evening.
@@ -43,7 +43,7 @@ tags:
 > - We could also say: _... it’s unlikely that we will find a buyer._
 
 > [!question]- This \____ (definitely won't / definitely will not) be his last mistake.
-> ✅ definitely won't ❌ definitely will not
+> ✅ definitely won't ❌ definitely will not ✅ will definitely not
 > - **Definitely** and **probably** go before **won't, isn't, shouldn't, etc.** But if we don’t use short forms, **definitely** and **probably** go after the auxiliary verb and before **not**. 
 > - We can say: _This definitely won't be his last mistake_, or _This will definitely not be his last mistake_.
 
