@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-02 18:52
+date: 2024-01-04 23:19
 tags:
   - english
   - grammar
@@ -46,4 +46,13 @@ tags:
 > ✅ definitely won't ❌ definitely will not ✅ will definitely not
 > - **Definitely** and **probably** go before **won't, isn't, shouldn't, etc.** But if we don’t use short forms, **definitely** and **probably** go after the auxiliary verb and before **not**. 
 > - We can say: _This definitely won't be his last mistake_, or _This will definitely not be his last mistake_.
+
+> [!question]- I can’t get \____ (make my child sit) still at the dinner table.
+> ✅ my child to sit ❌ my child sit
+> - We can use **get + someone** **+ to do something** to mean ‘make or persuade someone to do something’.
+
+> [!question]- We heard the neighbours \____ (fight) and we called the police.
+> ✅ fight ✅ fighting ❌ fought
+> - After **feel,** **hear, listen, notice, see, watch** we can use a gerund or an infinitive. We use a gerund to express an incomplete action, an action in progress, or a repeated action, and we use an infinitive to talk about an action we heard or saw from beginning to end; usually a short action, and not a repeated action.
+> - In this sentence we can use **fighting** to mean that it went on for a long time, and we can use **fight** to mean that it was a short action and we heard it from beginning to end.
 
