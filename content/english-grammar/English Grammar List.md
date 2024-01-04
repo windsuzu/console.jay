@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-02 23:51
+date: 2024-01-04 21:43
 tags:
   - english
   - grammar
@@ -97,4 +97,5 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - B1+ - [Would and used to – past habits and repeated actions](https://test-english.com/grammar-points/b1-b2/would-and-used-to/)
 	- 📝 [[Would do - Past repeated action]]
 - B1+ - [Verbs of the senses: look, sound, feel, etc.](https://test-english.com/grammar-points/b1-b2/verbs-of-the-senses/)
+- B2 - [Modal verbs – permission, obligation, prohibition, necessity](https://test-english.com/grammar-points/b2/modal-verbs-permission-obligation-prohibition-necessity/)
 - 🤔 [[Modals Common Mistakes]]
