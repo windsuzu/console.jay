@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 22:34
+date: 2024-01-05 23:25
 tags:
   - english
   - grammar
@@ -107,5 +107,6 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - A2 - [First conditional and future time clauses](https://test-english.com/grammar-points/a2/first-conditional-future-time-clauses/)  
 - B1 - [First conditional, future time clauses](https://test-english.com/grammar-points/b1/first-conditional-future-time-clauses/)  
 - B1+ - [Zero and first conditional and future time clauses](https://test-english.com/grammar-points/b1-b2/zero-first-conditional-future-time-clauses/)
+	- 📝 [[Zero Conditional]]
 	- 📝 [[First Conditional]]
 	- 📝 [[Future Time Clauses]]

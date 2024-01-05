@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
-    },
-    {
       "basename": "First Conditional",
       "path": "english-grammar/First Conditional.md"
     },
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
       "basename": "Future Time Clauses",
       "path": "english-grammar/Future Time Clauses.md"
+    },
+    {
+      "basename": "Zero Conditional",
+      "path": "english-grammar/Zero Conditional.md"
     },
     {
       "basename": "Modals Common Mistakes",
@@ -195,10 +199,6 @@
     {
       "basename": "GitFlow",
       "path": "workflow/GitFlow.md"
-    },
-    {
-      "basename": "gitflow2",
-      "path": "attachments/gitflow2.png"
     }
   ],
   "omittedPaths": [],
