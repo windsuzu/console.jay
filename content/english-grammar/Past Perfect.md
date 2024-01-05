@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-26 23:22
+date: 2024-01-05 21:33
 tags:
   - english
   - grammar
-  - past-tense
 ---
 
 When there is a main event and events before it, we use the **past perfect** to describe the earlier events and the [[Past Simple]] to describe the main event.

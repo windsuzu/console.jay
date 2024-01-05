@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-26 21:47
+date: 2024-01-05 21:26
 tags:
   - english
   - grammar
-  - present-tense
 ---
 
 Distinguishing between the time to use the present simple tense and the [[Present Continuous|present continuous tense]] can be difficult. We can use the present simple tense in the following situations:

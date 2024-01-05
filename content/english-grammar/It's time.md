@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2023-12-24 22:59
+date: 2024-01-05 21:42
 tags:
   - english
   - grammar
 ---
 
-The expression “It’s time” can be followed by either a to-infinitive or a past simple verb, depending on the meaning and the subject.
+The expression “It’s time” can be followed by either a to-infinitive or a [[past simple]] verb, depending on the meaning and the subject.
 ## It's time + to + present simple
 When we use a to-infinitive, **we are talking about the right time to do something**, either for ourselves or for someone else.
 - It’s time to go to bed. (This is the right time for me to go to bed.)

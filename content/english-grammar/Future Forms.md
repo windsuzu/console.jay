@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-30 23:24
+date: 2024-01-05 21:33
 tags:
   - english
   - grammar
-  - future-tense
 ---
 
 ## Will or Be going to?

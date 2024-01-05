@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-26 23:03
+date: 2024-01-05 21:33
 tags:
   - english
   - grammar
-  - past-tense
 ---
 
 We use [[Past Simple]] for completed actions in the past, and we use **past continuous** for actions that were in progress and not yet finished at a certain point in the past. In addition, a short action in the past simple often interrupts a long action in the past continuous.

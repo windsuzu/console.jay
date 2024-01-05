@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-26 21:47
+date: 2024-01-05 21:26
 tags:
   - english
   - grammar
-  - present-tense
 ---
 
 The **present perfect simple** is occasionally mistaken for the [[Past Simple]], but I've discovered a method to tell them apart. If you want to talk about an event that occurred at a specific moment or during a particular period in the past (and it didn't continue up to the present), you should employ the [[Past Simple]]. However, when you come across the situations listed below, it's appropriate to use the **present perfect simple**.

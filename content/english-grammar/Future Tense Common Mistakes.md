@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-12-20 16:46
+date: 2024-01-05 21:33
 tags:
   - english
   - grammar
-  - future-tense
 ---
 
 

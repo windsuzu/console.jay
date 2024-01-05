@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-26 21:47
+date: 2024-01-05 21:30
 tags:
   - english
   - grammar
-  - present-tense
 ---
 
 Different from the [[Present Perfect Simple]], the **present perfect continuous** is employed when past actions are ongoing or have just concluded in relation to the present. The image below summarizes the two scenarios for using the **present perfect continuous** tense.

@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-26 21:47
+date: 2024-01-05 21:32
 tags:
   - english
   - grammar
-  - past-tense
 ---
 
 We use the **past simple** tense in the following situations, when we talk about:
@@ -32,7 +31,7 @@ We use the **past simple** tense in the following situations, when we talk about
 ## 4. Past events in chronological order
 - When I **arrived** home, I **took off** my shoes and then I **relaxed** on the sofa.
 - When she **opened** the door, she **pretended** that we weren’t there and she **went** to her room.
-- He **called** me and told **me** to go, but when I **arrived** he wasn’t there. 
+- He **called** me and **told** me to go, but when I **arrived** he wasn’t there. 
 
 
 > [!info] References

@@ -1,10 +1,9 @@
 ---
 draft: false
-date: 2023-11-13 18:26
+date: 2024-01-05 21:26
 tags:
   - english
   - grammar
-  - stative-verbs
 ---
 
 **Stative verbs**, also known as **non-action verbs**, cannot be used in the present continuous tense; they can only be used in present simple sentences. There are four categories of stative verbs:
