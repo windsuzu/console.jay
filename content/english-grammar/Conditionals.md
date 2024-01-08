@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-08 16:21
+date: 2024-01-08 17:35
 tags:
   - english
   - grammar
@@ -9,6 +9,7 @@ tags:
 - 📝 [[Zero Conditional]]
 - 📝 [[First Conditional]]
 - 📝 [[Future Time Clauses]]
+- 📝 [[Second Conditional]]
 ## Practices
 - A2 - [First conditional and future time clauses](https://test-english.com/grammar-points/a2/first-conditional-future-time-clauses/)  
 - B1 - [First conditional, future time clauses](https://test-english.com/grammar-points/b1/first-conditional-future-time-clauses/)  

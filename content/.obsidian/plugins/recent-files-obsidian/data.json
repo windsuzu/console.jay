@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Conditionals",
-      "path": "english-grammar/Conditionals.md"
+      "basename": "Second Conditional",
+      "path": "english-grammar/Second Conditional.md"
     },
     {
       "basename": "First Conditional",
       "path": "english-grammar/First Conditional.md"
     },
     {
-      "basename": "Zero Conditional",
-      "path": "english-grammar/Zero Conditional.md"
+      "basename": "Conditionals",
+      "path": "english-grammar/Conditionals.md"
     },
     {
       "basename": "Future Time Clauses",
       "path": "english-grammar/Future Time Clauses.md"
+    },
+    {
+      "basename": "Zero Conditional",
+      "path": "english-grammar/Zero Conditional.md"
     },
     {
       "basename": "English Grammar List",
@@ -195,10 +199,6 @@
     {
       "basename": "Controlled Components",
       "path": "react/Controlled Components.md"
-    },
-    {
-      "basename": "Tailwind Custom Plugin",
-      "path": "css/Tailwind Custom Plugin.md"
     }
   ],
   "omittedPaths": [],
