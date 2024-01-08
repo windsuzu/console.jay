@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-08 16:37
+date: 2024-01-08 19:28
 tags:
   - english
   - grammar
@@ -9,8 +9,10 @@ tags:
 The zero conditional describes things that are always true, like scientific facts or general truths about the world. **It expresses what always happens when one thing happens.**
 
 ## Structure
-- If + condition ([[present tense]]) + comma + result ([[present tense]])
-- Result ([[present tense]]) + if + condition ([[present tense]])
+- Condition ([[present tense]])
+- Result ([[present tense]])
+- If + condition + , + result
+- Result + if + condition
 - You can also replace **"if"** with **"when"** without changing the meaning.
 
 ## Examples

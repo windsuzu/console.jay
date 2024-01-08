@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-08 17:10
+date: 2024-01-08 19:27
 tags:
   - english
   - grammar
@@ -9,8 +9,10 @@ tags:
 
 The first conditional describes possible future situations and what you would do if those situations happened. **It expresses a kind of prediction based on a hypothetical possibility.**
 ## Structure
-- If + condition ([[present tense]]) + comma + result ([[future tense]], [[Modals, the imperative, phrasal verbs|modal, imperative]])
-- Result ([[future tense]], [[Modals, the imperative, phrasal verbs|modal, imperative]]) + if + condition ([[present tense]])
+- Condition ([[present tense]])
+- Result ([[future tense]], [[Modals, the imperative, phrasal verbs|modal, imperative]])
+- If + condition + comma + result 
+- Result + if + condition
 - We can also use **unless** in conditional sentences to mean **if** … (**not**)
 ## Examples
 - If you **study**, you **will pass the exam**. (future tense)
