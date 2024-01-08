@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Zero Conditional",
-      "path": "english-grammar/Zero Conditional.md"
+      "basename": "Future Time Clauses",
+      "path": "english-grammar/Future Time Clauses.md"
     },
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
+      "basename": "Conditionals",
+      "path": "english-grammar/Conditionals.md"
+    },
+    {
+      "basename": "Zero Conditional",
+      "path": "english-grammar/Zero Conditional.md"
     },
     {
       "basename": "First Conditional",
       "path": "english-grammar/First Conditional.md"
     },
     {
-      "basename": "Future Time Clauses",
-      "path": "english-grammar/Future Time Clauses.md"
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Present Tense",
+      "path": "english-grammar/Present Tense.md"
+    },
+    {
+      "basename": "English MOC",
+      "path": "mocs/English MOC.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Verbs with two objects (To or For)",
+      "path": "english-grammar/Verbs with two objects (To or For).md"
+    },
+    {
+      "basename": "Modals, the imperative, phrasal verbs",
+      "path": "english-grammar/Modals, the imperative, phrasal verbs.md"
+    },
+    {
+      "basename": "Future Tense",
+      "path": "english-grammar/Future Tense.md"
+    },
+    {
+      "basename": "Past Tense",
+      "path": "english-grammar/Past Tense.md"
     },
     {
       "basename": "Modals Common Mistakes",
@@ -55,10 +87,6 @@
     {
       "basename": "Phrasal Verbs",
       "path": "english-grammar/Phrasal Verbs.md"
-    },
-    {
-      "basename": "Verbs with two objects (To or For)",
-      "path": "english-grammar/Verbs with two objects (To or For).md"
     },
     {
       "basename": "Direct and Indirect Object",
@@ -161,10 +189,6 @@
       "path": "mocs/CSS MOC.md"
     },
     {
-      "basename": "English MOC",
-      "path": "mocs/English MOC.md"
-    },
-    {
       "basename": "default-note",
       "path": "_templates/default-note.md"
     },
@@ -173,32 +197,8 @@
       "path": "react/Controlled Components.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Tailwind Custom Plugin",
       "path": "css/Tailwind Custom Plugin.md"
-    },
-    {
-      "basename": "tailwind-custom-plugin-result",
-      "path": "attachments/tailwind-custom-plugin-result.png"
-    },
-    {
-      "basename": "tailwind-custom-plugin-intellisense",
-      "path": "attachments/tailwind-custom-plugin-intellisense.png"
-    },
-    {
-      "basename": "Quantity Query",
-      "path": "css/Quantity Query.md"
-    },
-    {
-      "basename": "future-forms",
-      "path": "attachments/future-forms.png"
-    },
-    {
-      "basename": "GitFlow",
-      "path": "workflow/GitFlow.md"
     }
   ],
   "omittedPaths": [],
