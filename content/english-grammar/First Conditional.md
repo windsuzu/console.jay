@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-08 16:42
+date: 2024-01-08 17:10
 tags:
   - english
   - grammar
@@ -18,6 +18,9 @@ The first conditional describes possible future situations and what you would do
 - If you **arrive** after midnight, **ring** me on my mobile. (imperative)
 - I **will** help you if you **need** me.
 - I **won’t** go on holiday **unless** I (=if I don't) save some money.
+## Caveats
+The condition **(if clause)** may have a present or a future meaning, but the **verb** is **always** **in present** (NOT future).
+- **If** you **are** a good boy tomorrow, mummy will buy you a present.
 
 
 > [!info] References
