@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Second Conditional",
-      "path": "english-grammar/Second Conditional.md"
+      "basename": "Third Conditional",
+      "path": "english-grammar/Third Conditional.md"
     },
     {
       "basename": "Conditionals",
       "path": "english-grammar/Conditionals.md"
-    },
-    {
-      "basename": "Future Time Clauses",
-      "path": "english-grammar/Future Time Clauses.md"
     },
     {
       "basename": "First Conditional",
@@ -19,6 +15,18 @@
     {
       "basename": "Zero Conditional",
       "path": "english-grammar/Zero Conditional.md"
+    },
+    {
+      "basename": "Past Perfect",
+      "path": "english-grammar/Past Perfect.md"
+    },
+    {
+      "basename": "Second Conditional",
+      "path": "english-grammar/Second Conditional.md"
+    },
+    {
+      "basename": "Future Time Clauses",
+      "path": "english-grammar/Future Time Clauses.md"
     },
     {
       "basename": "English Grammar List",
@@ -103,10 +111,6 @@
     {
       "basename": "Past Tense Common Mistakes",
       "path": "english-grammar/Past Tense Common Mistakes.md"
-    },
-    {
-      "basename": "Past Perfect",
-      "path": "english-grammar/Past Perfect.md"
     },
     {
       "basename": "Past Continuous",
@@ -195,10 +199,6 @@
     {
       "basename": "default-note",
       "path": "_templates/default-note.md"
-    },
-    {
-      "basename": "Controlled Components",
-      "path": "react/Controlled Components.md"
     }
   ],
   "omittedPaths": [],

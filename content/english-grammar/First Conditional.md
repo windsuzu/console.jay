@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-08 19:27
+date: 2024-01-08 23:32
 tags:
   - english
   - grammar
@@ -11,7 +11,7 @@ The first conditional describes possible future situations and what you would do
 ## Structure
 - Condition ([[present tense]])
 - Result ([[future tense]], [[Modals, the imperative, phrasal verbs|modal, imperative]])
-- If + condition + comma + result 
+- If + condition + , + result 
 - Result + if + condition
 - We can also use **unless** in conditional sentences to mean **if** … (**not**)
 ## Examples
