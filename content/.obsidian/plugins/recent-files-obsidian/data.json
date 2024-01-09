@@ -5,6 +5,10 @@
       "path": "english-grammar/Conditionals.md"
     },
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
       "basename": "Third Conditional",
       "path": "english-grammar/Third Conditional.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Future Time Clauses",
       "path": "english-grammar/Future Time Clauses.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Present Tense",
