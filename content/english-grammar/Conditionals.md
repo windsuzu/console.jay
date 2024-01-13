@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-09 01:09
+date: 2024-01-14 00:31
 tags:
   - english
   - grammar
@@ -11,6 +11,7 @@ tags:
 - 📝 [[Future Time Clauses]]
 - 📝 [[Second Conditional]]
 - 📝 [[Third Conditional]]
+- 📝 [[Mixed Conditional]]
 ## Practices
 - A2 - [First conditional and future time clauses](https://test-english.com/grammar-points/a2/first-conditional-future-time-clauses/)  
 - B1 - [First conditional, future time clauses](https://test-english.com/grammar-points/b1/first-conditional-future-time-clauses/)  

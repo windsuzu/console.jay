@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Conditionals",
-      "path": "english-grammar/Conditionals.md"
+      "basename": "Mixed Conditional",
+      "path": "english-grammar/Mixed Conditional.md"
     },
     {
-      "basename": "Third Conditional",
-      "path": "english-grammar/Third Conditional.md"
+      "basename": "Conditionals",
+      "path": "english-grammar/Conditionals.md"
     },
     {
       "basename": "Second Conditional",
       "path": "english-grammar/Second Conditional.md"
     },
     {
-      "basename": "Future Time Clauses",
-      "path": "english-grammar/Future Time Clauses.md"
+      "basename": "Third Conditional",
+      "path": "english-grammar/Third Conditional.md"
     },
     {
       "basename": "First Conditional",
       "path": "english-grammar/First Conditional.md"
+    },
+    {
+      "basename": "Future Time Clauses",
+      "path": "english-grammar/Future Time Clauses.md"
     },
     {
       "basename": "Zero Conditional",
@@ -195,10 +199,6 @@
     {
       "basename": "CSS MOC",
       "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     }
   ],
   "omittedPaths": [],
