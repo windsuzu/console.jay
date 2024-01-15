@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-15 16:38
+date: 2024-01-15 17:12
 tags:
   - english
   - grammar
@@ -22,3 +22,5 @@ tags:
 - B1 - [Third conditional – past unreal situations](https://test-english.com/grammar-points/b1/third-conditional-past-unreal-situations/)  
 - B1+ - [Second and third conditionals – unreal conditionals](https://test-english.com/grammar-points/b1-b2/second-third-conditionals/)
 - B2 - [Unless, even if, provided, as long as, etc. – other expressions in conditionals](https://test-english.com/grammar-points/b2/unless-even-if-provided-as-long-conditionals/)
+- B2 - [Mixed conditionals – If I were you, I wouldn’t have done it](https://test-english.com/grammar-points/b2/mixed-conditionals/)
+- 

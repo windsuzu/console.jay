@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2e46bdcf71c96122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Mixed Conditional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Mixed Conditional.md",
+                "file": "english-grammar/Conditionals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Mixed Conditional.md"
+                "file": "english-grammar/Conditionals.md"
               }
             }
           },
@@ -222,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Mixed Conditional.md"
+                "file": "english-grammar/Conditionals.md"
               }
             }
           },
@@ -232,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Mixed Conditional.md",
+                "file": "english-grammar/Conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Mixed Conditional.md",
+                "file": "english-grammar/Conditionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,10 +264,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2e46bdcf71c96122",
+  "active": "c2c45becf74889c5",
   "lastOpenFiles": [
-    "english-grammar/Conditionals.md",
     "english-grammar/Mixed Conditional.md",
+    "english-grammar/Conditionals.md",
     "english-grammar/Second Conditional.md",
     "english-grammar/Third Conditional.md",
     "english-grammar/First Conditional.md",
