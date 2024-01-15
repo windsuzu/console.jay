@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "I wish",
+      "path": "english-grammar/I wish.md"
+    },
+    {
       "basename": "Conditionals",
       "path": "english-grammar/Conditionals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
     }
   ],
   "omittedPaths": [],
