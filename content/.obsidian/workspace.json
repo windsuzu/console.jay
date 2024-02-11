@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Would rather and would sooner.md",
+                "file": "english-grammar/Would rather or would sooner.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Would rather and would sooner.md",
+                "file": "english-grammar/Would rather or would sooner.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Would rather and would sooner.md"
+                "file": "english-grammar/Would rather or would sooner.md"
               }
             }
           },
@@ -222,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Would rather and would sooner.md"
+                "file": "english-grammar/Would rather or would sooner.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Would rather and would sooner.md",
+                "file": "english-grammar/Would rather or would sooner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Would rather and would sooner.md",
+                "file": "english-grammar/Would rather or would sooner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -279,7 +279,7 @@
   "active": "f7290366b33f546f",
   "lastOpenFiles": [
     "english-grammar/Conditionals.md",
-    "english-grammar/Would rather and would sooner.md",
+    "english-grammar/Would rather or would sooner.md",
     "english-grammar/I wish and If only.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Future Tense.md",

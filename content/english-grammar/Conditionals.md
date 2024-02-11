@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-11 22:23
+date: 2024-02-11 22:34
 tags:
   - english
   - grammar
@@ -13,7 +13,7 @@ tags:
 - 📝 [[Third Conditional]]
 - 📝 [[Mixed Conditional]]
 - 📝 [[I wish and If only]]
-- 📝 [[Would rather and would sooner]]
+- 📝 [[Would rather or would sooner]]
 
 ## Practices
 | Level | Topic                                                                                                                                                                       |
