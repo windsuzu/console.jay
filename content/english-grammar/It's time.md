@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:42
+date: 2024-02-11 16:35
 tags:
   - english
   - grammar
@@ -17,7 +17,7 @@ When we use a past simple verb, **we are talking about something that should be 
 - It’s high time you cleaned your room. (You should clean your room now, or you should have cleaned it earlier.)
 
 > [!note] 
-> The reason why we use a past simple verb in this case is because we are expressing an unreal or hypothetical situation, similar to the second conditional. We are imagining that the action has already been done, but in reality it hasn’t.
+> The reason why we use a past simple verb in this case is because we are expressing an unreal or hypothetical situation, similar to the [[second conditional]]. We are imagining that the action has already been done, but in reality it hasn’t.
 
 
 > [!info] References
