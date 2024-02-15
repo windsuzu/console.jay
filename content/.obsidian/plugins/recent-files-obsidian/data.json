@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Passive",
+      "path": "english-grammar/Passive.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Conditionals",
       "path": "english-grammar/Conditionals.md"
+    },
+    {
+      "basename": "Conditionals Common Mistakes",
+      "path": "english-grammar/Conditionals Common Mistakes.md"
+    },
+    {
+      "basename": "Modals Common Mistakes",
+      "path": "english-grammar/Modals Common Mistakes.md"
+    },
+    {
+      "basename": "Modals, the imperative, phrasal verbs",
+      "path": "english-grammar/Modals, the imperative, phrasal verbs.md"
     },
     {
       "basename": "Would rather or would sooner",
@@ -19,10 +35,6 @@
     {
       "basename": "It's time",
       "path": "english-grammar/It's time.md"
-    },
-    {
-      "basename": "Modals, the imperative, phrasal verbs",
-      "path": "english-grammar/Modals, the imperative, phrasal verbs.md"
     },
     {
       "basename": "Suppose, Supposing, Imagine, What if",
@@ -59,10 +71,6 @@
     {
       "basename": "Zero Conditional",
       "path": "english-grammar/Zero Conditional.md"
-    },
-    {
-      "basename": "Modals Common Mistakes",
-      "path": "english-grammar/Modals Common Mistakes.md"
     },
     {
       "basename": "Would do - Past repeated action",
@@ -191,14 +199,6 @@
     {
       "basename": "Prototypal instantiation",
       "path": "javascript/Prototypal instantiation.md"
-    },
-    {
-      "basename": "Pattern Matching (ts-pattern)",
-      "path": "javascript/Pattern Matching (ts-pattern).md"
-    },
-    {
-      "basename": "Imperative and Declarative Programming",
-      "path": "javascript/Imperative and Declarative Programming.md"
     }
   ],
   "omittedPaths": [],
