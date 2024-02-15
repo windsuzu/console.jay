@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Suppose, Supposing, Imagine, What if",
+      "path": "english-grammar/Suppose, Supposing, Imagine, What if.md"
+    },
+    {
       "basename": "Conditionals",
       "path": "english-grammar/Conditionals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Imperative and Declarative Programming",
       "path": "javascript/Imperative and Declarative Programming.md"
-    },
-    {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
     }
   ],
   "omittedPaths": [],

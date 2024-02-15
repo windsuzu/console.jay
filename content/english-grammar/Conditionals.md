@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-11 22:34
+date: 2024-02-15 18:49
 tags:
   - english
   - grammar
@@ -12,6 +12,7 @@ tags:
 - 📝 [[Second Conditional]]
 - 📝 [[Third Conditional]]
 - 📝 [[Mixed Conditional]]
+- 📝 [[Suppose, Supposing, Imagine, What if]]
 - 📝 [[I wish and If only]]
 - 📝 [[Would rather or would sooner]]
 
