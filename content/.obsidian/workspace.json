@@ -272,8 +272,7 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "cmdr:QuickAdd: Add new note ⚡": false,
-      "cmdr:Obsidian Git: Create backup": false,
-      "terminal:Open terminal": false
+      "cmdr:Obsidian Git: Create backup": false
     }
   },
   "active": "4601d17e5c0d02aa",
