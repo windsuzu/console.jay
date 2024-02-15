@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Suppose, Supposing, Imagine, What if",
-      "path": "english-grammar/Suppose, Supposing, Imagine, What if.md"
-    },
-    {
       "basename": "Conditionals",
       "path": "english-grammar/Conditionals.md"
+    },
+    {
+      "basename": "Suppose, Supposing, Imagine, What if",
+      "path": "english-grammar/Suppose, Supposing, Imagine, What if.md"
     },
     {
       "basename": "Would rather or would sooner",
@@ -151,10 +151,6 @@
     {
       "basename": "English MOC",
       "path": "mocs/English MOC.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "JavaScript MOC",

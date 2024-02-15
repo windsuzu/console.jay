@@ -34,21 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "4601d17e5c0d02aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Suppose, Supposing, Imagine, What if.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Suppose, Supposing, Imagine, What if.md",
+                "file": "english-grammar/Conditionals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Suppose, Supposing, Imagine, What if.md"
+                "file": "english-grammar/Conditionals.md"
               }
             }
           },
@@ -222,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Suppose, Supposing, Imagine, What if.md"
+                "file": "english-grammar/Conditionals.md"
               }
             }
           },
@@ -232,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Suppose, Supposing, Imagine, What if.md",
+                "file": "english-grammar/Conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Suppose, Supposing, Imagine, What if.md",
+                "file": "english-grammar/Conditionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -276,10 +264,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4601d17e5c0d02aa",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
-    "english-grammar/Conditionals.md",
     "english-grammar/Suppose, Supposing, Imagine, What if.md",
+    "english-grammar/Conditionals.md",
     "english-grammar/Would rather or would sooner.md",
     "english-grammar/I wish and If only.md",
     "english-grammar/English Grammar List.md",
