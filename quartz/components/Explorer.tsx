@@ -75,13 +75,16 @@ export default ((userOpts?: Partial<Options>) => {
     jsonTree = JSON.stringify(folders)
   }
 
-  function Explorer({ allFiles, displayClass, fileData }: QuartzComponentProps) {
-    if (fileData.slug === "index") {
-      return <></>
-    }
+  const Explorer: QuartzComponent = ({
+    cfg,
+    allFiles,
+    displayClass,
+    fileData,
+  }: QuartzComponentProps) => {
+    // NOTE: Don't render Explorer in the homepage
+    if (fileData.slug === "index") return <></>
 
     constructFileTree(allFiles)
-
     return (
       <div class={classNames(displayClass, "explorer")}>
         <button
