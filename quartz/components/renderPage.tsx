@@ -7,6 +7,8 @@ import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../ut
 import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { QuartzPluginData } from "../plugins/vfile"
+import { GlobalConfiguration } from "../cfg"
+import { i18n } from "../i18n"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -23,7 +25,7 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
-  const contentIndexScript = `const fetchData = fetch(\`${contentIndexPath}\`).then(data => data.json())`
+  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
   return {
     css: [joinSegments(baseDir, "index.css"), ...staticResources.css],
@@ -63,6 +65,7 @@ function getOrComputeFileIndex(allFiles: QuartzPluginData[]): Map<FullSlug, Quar
 }
 
 export function renderPage(
+  cfg: GlobalConfiguration,
   slug: FullSlug,
   componentData: QuartzComponentProps,
   components: RenderComponents,
@@ -74,13 +77,13 @@ export function renderPage(
       const classNames = (node.properties?.className ?? []) as string[]
       if (classNames.includes("transclude")) {
         const inner = node.children[0] as Element
-        const transcludeTarget = inner.properties?.["data-slug"] as FullSlug
+        const transcludeTarget = inner.properties["data-slug"] as FullSlug
         const page = getOrComputeFileIndex(componentData.allFiles).get(transcludeTarget)
         if (!page) {
           return
         }
 
-        let blockRef = node.properties?.dataBlock as string | undefined
+        let blockRef = node.properties.dataBlock as string | undefined
         if (blockRef?.startsWith("#^")) {
           // block transclude
           blockRef = blockRef.slice("#^".length)
@@ -90,6 +93,7 @@ export function renderPage(
               blockNode = {
                 type: "element",
                 tagName: "ul",
+                properties: {},
                 children: [blockNode],
               }
             }
@@ -99,8 +103,10 @@ export function renderPage(
               {
                 type: "element",
                 tagName: "a",
-                properties: { href: inner.properties?.href, class: ["internal"] },
-                children: [{ type: "text", value: `Link to original` }],
+                properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+                children: [
+                  { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+                ],
               },
             ]
           }
@@ -134,8 +140,10 @@ export function renderPage(
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal"] },
-              children: [{ type: "text", value: `Link to original` }],
+              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              children: [
+                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+              ],
             },
           ]
         } else if (page.htmlAst) {
@@ -144,8 +152,16 @@ export function renderPage(
             {
               type: "element",
               tagName: "h1",
+              properties: {},
               children: [
-                { type: "text", value: page.frontmatter?.title ?? `Transclude of ${page.slug}` },
+                {
+                  type: "text",
+                  value:
+                    page.frontmatter?.title ??
+                    i18n(cfg.locale).components.transcludes.transcludeOf({
+                      targetSlug: page.slug!,
+                    }),
+                },
               ],
             },
             ...(page.htmlAst.children as ElementContent[]).map((child) =>
@@ -154,8 +170,10 @@ export function renderPage(
             {
               type: "element",
               tagName: "a",
-              properties: { href: inner.properties?.href, class: ["internal"] },
-              children: [{ type: "text", value: `Link to original` }],
+              properties: { href: inner.properties?.href, class: ["internal", "transclude-src"] },
+              children: [
+                { type: "text", value: i18n(cfg.locale).components.transcludes.linkToOriginal },
+              ],
             },
           ]
         }
@@ -191,8 +209,9 @@ export function renderPage(
     </div>
   )
 
+  const lang = componentData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const doc = (
-    <html>
+    <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
