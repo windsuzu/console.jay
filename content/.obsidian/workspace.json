@@ -20,23 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2e93b19507f7e857",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Conditionals.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Conditionals.md",
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Conditionals.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -210,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Conditionals.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -220,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Conditionals.md",
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Conditionals.md",
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -263,10 +248,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "2e93b19507f7e857",
+  "active": "b084623c561ff250",
   "lastOpenFiles": [
-    "english-grammar/Would rather or would sooner.md",
     "english-grammar/Conditionals.md",
+    "english-grammar/Would rather or would sooner.md",
     "english-grammar/I wish and If only.md",
     "english-grammar/It's time.md",
     "english-grammar/Modals, the imperative, phrasal verbs.md",
