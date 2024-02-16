@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-16 01:15
+date: 2024-02-16 02:46
 tags:
   - english
   - grammar
@@ -14,6 +14,6 @@ tags:
 > ✅ had chosen ❌ chose
 > - When we use a different subject after **would rather** or **would sooner**, we use past perfect to refer to the past.
 
-> [!question] I would like you to stop calling me. It's annoying. \____ (if only)
+> [!question]- I would like you to stop calling me. It's annoying. \____ (if only)
 > ✅ If only you would stop calling me ❌ If only you stopped calling me
 > - We use **wish/if only** + subject + **would** to talk about situations or people that annoy us, and we would like them to stop.
