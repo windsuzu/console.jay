@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-20 16:22
+date: 2024-02-17 00:28
 tags:
   - english
   - grammar
@@ -36,4 +36,8 @@ tags:
 > ✅ had disappeared ❌ disappeared
 > we use the **past perfect** to talk about events that happened **earlier in the past**.
 
+>[!question]- The two robbers \____ (leave) the building quickly yesterday.
+>✅ left ❌ leaved
+>- We normally use past simple when we describe a sequence of past events in chronological order.
+>- It's active because we are saying what the subject (the two robbers) did.
 

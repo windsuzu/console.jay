@@ -5,12 +5,12 @@
       "path": "english-grammar/Passive Common Mistakes.md"
     },
     {
-      "basename": "Conditionals Common Mistakes",
-      "path": "english-grammar/Conditionals Common Mistakes.md"
+      "basename": "Past Tense Common Mistakes",
+      "path": "english-grammar/Past Tense Common Mistakes.md"
     },
     {
-      "basename": "Conditionals",
-      "path": "english-grammar/Conditionals.md"
+      "basename": "Past Tense",
+      "path": "english-grammar/Past Tense.md"
     },
     {
       "basename": "English Grammar List",
@@ -19,6 +19,14 @@
     {
       "basename": "Passive",
       "path": "english-grammar/Passive.md"
+    },
+    {
+      "basename": "Conditionals Common Mistakes",
+      "path": "english-grammar/Conditionals Common Mistakes.md"
+    },
+    {
+      "basename": "Conditionals",
+      "path": "english-grammar/Conditionals.md"
     },
     {
       "basename": "Modals Common Mistakes",
@@ -47,10 +55,6 @@
     {
       "basename": "Future Tense",
       "path": "english-grammar/Future Tense.md"
-    },
-    {
-      "basename": "Past Tense",
-      "path": "english-grammar/Past Tense.md"
     },
     {
       "basename": "Present Tense",
@@ -115,10 +119,6 @@
     {
       "basename": "Future Forms",
       "path": "english-grammar/Future Forms.md"
-    },
-    {
-      "basename": "Past Tense Common Mistakes",
-      "path": "english-grammar/Past Tense Common Mistakes.md"
     },
     {
       "basename": "Past Perfect",
