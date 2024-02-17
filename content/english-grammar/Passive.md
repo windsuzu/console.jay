@@ -1,13 +1,14 @@
 ---
 draft: false
-date: 2024-02-16 02:44
+date: 2024-02-18 00:01
 tags:
   - english
   - grammar
 ---
 
 ## Notes
-- [[Passive Common Mistakes]]
+- 📝 [[Passive with Reporting Verbs]]
+- 🤔 [[Passive Common Mistakes]]
 
 
 ## Practices
