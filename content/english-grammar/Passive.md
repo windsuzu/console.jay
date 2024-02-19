@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-18 00:01
+date: 2024-02-19 22:32
 tags:
   - english
   - grammar
@@ -10,7 +10,6 @@ tags:
 - 📝 [[Passive with Reporting Verbs]]
 - 🤔 [[Passive Common Mistakes]]
 
-
 ## Practices
 | Level | Topic |
 | ---- | ---- |
@@ -18,7 +17,7 @@ tags:
 | B1 | [Passive verb forms](https://test-english.com/grammar-points/b1/passive-verb-forms/) |
 | B1 | [Active and passive voice](https://test-english.com/grammar-points/b1/active-passive-voice/) |
 | B1+ | [The passive voice – all tenses](https://test-english.com/grammar-points/b1-b2/passive-voice-all-tenses/) |
-| B1+ | [The passive with reporting verbs – It is said that …](https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs/) |
+| B1+ ⭐ | [The passive with reporting verbs – It is said that …](https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs/) |
 | B1+ | [Have something done](https://test-english.com/grammar-points/b1-b2/have-something-done/) |
 | B2 | [Distancing – expressions and passive of reporting verbs](https://test-english.com/grammar-points/b2/distancing/) |
 | B2 | [Passive verbs with two objects](https://test-english.com/grammar-points/b2/passive-verbs-with-two-objects/) |

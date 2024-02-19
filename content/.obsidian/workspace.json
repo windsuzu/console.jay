@@ -22,30 +22,21 @@
             }
           },
           {
-            "id": "034f26efc4c008eb",
+            "id": "ae4812d3a39679fa",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Passive Common Mistakes.md",
+                "file": "english-grammar/Passive.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6399f668f633b360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Conditionals.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Passive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Passive.md"
               }
             }
           },
@@ -219,7 +210,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Passive.md"
               }
             }
           },
@@ -229,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Passive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,13 +263,13 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "b084623c561ff250",
+  "active": "ae4812d3a39679fa",
   "lastOpenFiles": [
     "english-grammar/Passive with Reporting Verbs.md",
     "english-grammar/Passive.md",
+    "english-grammar/English Grammar List.md",
     "english-grammar/Passive Common Mistakes.md",
     "english-grammar/Conditionals.md",
-    "english-grammar/English Grammar List.md",
     "english-grammar/Past Tense Common Mistakes.md",
     "english-grammar/Past Tense.md",
     "english-grammar/Conditionals Common Mistakes.md",
