@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-17 00:40
+date: 2024-02-19 23:15
 tags:
   - english
   - grammar
@@ -23,4 +23,13 @@ tags:
 > ✅ had reached ❌ reached
 > - We can use the past perfect with **by + time expression** (=before) to talk about events that had happened before that moment in the past.
 > - It's in the active voice because we are saying what the subject (wine) had done (had reached).
+
+>[!question]- We could \____ no-one to fix it.
+> ✅ get ❌ have
+> We can use the structures **get + someone + to do something** or **have + someone + do something** to talk about someone doing something for us.
+
+>[!question]- You should have \____ (your car repaired) a long time ago.
+>✅ had your car repaired ❌your car repaired
+>- We can use **have something done** in any verb tense or form. Here we need a [past modal](https://test-english.com/grammar-points/b1-b2/past-modal-verbs/) because the meaning is past.
+>- The form of the past modal is **should have + past participle**. In this case we need the past participle of **have**: **should have had something done**.
 

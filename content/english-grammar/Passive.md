@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-19 22:32
+date: 2024-02-19 23:16
 tags:
   - english
   - grammar
@@ -8,6 +8,7 @@ tags:
 
 ## Notes
 - 📝 [[Passive with Reporting Verbs]]
+- 📝 [[Have or Get Something Done]]
 - 🤔 [[Passive Common Mistakes]]
 
 ## Practices
@@ -18,6 +19,6 @@ tags:
 | B1 | [Active and passive voice](https://test-english.com/grammar-points/b1/active-passive-voice/) |
 | B1+ | [The passive voice – all tenses](https://test-english.com/grammar-points/b1-b2/passive-voice-all-tenses/) |
 | B1+ ⭐ | [The passive with reporting verbs – It is said that …](https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs/) |
-| B1+ | [Have something done](https://test-english.com/grammar-points/b1-b2/have-something-done/) |
+| B1+ ⭐ | [Have something done](https://test-english.com/grammar-points/b1-b2/have-something-done/) |
 | B2 | [Distancing – expressions and passive of reporting verbs](https://test-english.com/grammar-points/b2/distancing/) |
 | B2 | [Passive verbs with two objects](https://test-english.com/grammar-points/b2/passive-verbs-with-two-objects/) |

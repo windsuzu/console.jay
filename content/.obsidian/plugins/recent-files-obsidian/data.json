@@ -5,16 +5,20 @@
       "path": "english-grammar/Passive.md"
     },
     {
+      "basename": "Passive Common Mistakes",
+      "path": "english-grammar/Passive Common Mistakes.md"
+    },
+    {
+      "basename": "Have or Get Something Done",
+      "path": "english-grammar/Have or Get Something Done.md"
+    },
+    {
       "basename": "Passive with Reporting Verbs",
       "path": "english-grammar/Passive with Reporting Verbs.md"
     },
     {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
-    },
-    {
-      "basename": "Passive Common Mistakes",
-      "path": "english-grammar/Passive Common Mistakes.md"
     },
     {
       "basename": "Conditionals",
@@ -195,10 +199,6 @@
     {
       "basename": "Prototype",
       "path": "javascript/Prototype.md"
-    },
-    {
-      "basename": "Functional Instantiation",
-      "path": "javascript/Functional Instantiation.md"
     }
   ],
   "omittedPaths": [],
