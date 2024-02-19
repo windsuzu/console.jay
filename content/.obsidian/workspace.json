@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "b375172db7902675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Passive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc2febcfbe1f8b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Passive with Reporting Verbs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "034f26efc4c008eb",
             "type": "leaf",
             "state": {
@@ -69,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Passive with Reporting Verbs.md",
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Passive with Reporting Verbs.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -244,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Passive with Reporting Verbs.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -254,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Passive with Reporting Verbs.md",
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Passive with Reporting Verbs.md",
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -297,10 +272,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "fcc2febcfbe1f8b9",
+  "active": "b084623c561ff250",
   "lastOpenFiles": [
-    "english-grammar/Passive.md",
     "english-grammar/Passive with Reporting Verbs.md",
+    "english-grammar/Passive.md",
     "english-grammar/Passive Common Mistakes.md",
     "english-grammar/Conditionals.md",
     "english-grammar/English Grammar List.md",
