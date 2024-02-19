@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-19 23:16
+date: 2024-02-19 23:46
 tags:
   - english
   - grammar
@@ -21,4 +21,4 @@ tags:
 | B1+ ⭐ | [The passive with reporting verbs – It is said that …](https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs/) |
 | B1+ ⭐ | [Have something done](https://test-english.com/grammar-points/b1-b2/have-something-done/) |
 | B2 | [Distancing – expressions and passive of reporting verbs](https://test-english.com/grammar-points/b2/distancing/) |
-| B2 | [Passive verbs with two objects](https://test-english.com/grammar-points/b2/passive-verbs-with-two-objects/) |
+| B2 ⭐ | [Passive verbs with two objects](https://test-english.com/grammar-points/b2/passive-verbs-with-two-objects/) |
