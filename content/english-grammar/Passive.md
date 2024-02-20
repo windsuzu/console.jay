@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-19 23:46
+date: 2024-02-20 00:01
 tags:
   - english
   - grammar
@@ -9,6 +9,7 @@ tags:
 ## Notes
 - 📝 [[Passive with Reporting Verbs]]
 - 📝 [[Have or Get Something Done]]
+- 📝 [[Passive Verbs with Two Objects]]
 - 🤔 [[Passive Common Mistakes]]
 
 ## Practices

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Passive",
-      "path": "english-grammar/Passive.md"
+      "basename": "Passive Verbs with Two Objects",
+      "path": "english-grammar/Passive Verbs with Two Objects.md"
     },
     {
       "basename": "Passive Common Mistakes",
       "path": "english-grammar/Passive Common Mistakes.md"
+    },
+    {
+      "basename": "Passive",
+      "path": "english-grammar/Passive.md"
     },
     {
       "basename": "Have or Get Something Done",
@@ -195,10 +199,6 @@
     {
       "basename": "Object.create",
       "path": "javascript/Object.create.md"
-    },
-    {
-      "basename": "Prototype",
-      "path": "javascript/Prototype.md"
     }
   ],
   "omittedPaths": [],

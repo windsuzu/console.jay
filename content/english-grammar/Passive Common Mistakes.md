@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-19 23:15
+date: 2024-02-20 00:02
 tags:
   - english
   - grammar
@@ -32,4 +32,9 @@ tags:
 >✅ had your car repaired ❌your car repaired
 >- We can use **have something done** in any verb tense or form. Here we need a [past modal](https://test-english.com/grammar-points/b1-b2/past-modal-verbs/) because the meaning is past.
 >- The form of the past modal is **should have + past participle**. In this case we need the past participle of **have**: **should have had something done**.
+
+> [!question]- They bought him a jacket. ⇒ A jacket \____
+> ✅ was bought for him ❌ was bought to him
+> - In this case, we used the structure: Subject (=active direct object) + passive verb + **for** + indirect object.
+> - Some common verbs that are used with **for** + indirect object are: bring, **buy**, cook, find, get, make.
 
