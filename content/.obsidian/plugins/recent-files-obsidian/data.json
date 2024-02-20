@@ -5,12 +5,28 @@
       "path": "english-grammar/Passive Verbs with Two Objects.md"
     },
     {
-      "basename": "Passive Common Mistakes",
-      "path": "english-grammar/Passive Common Mistakes.md"
+      "basename": "Verbs with two objects (To or For)",
+      "path": "english-grammar/Verbs with two objects (To or For).md"
+    },
+    {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Passive",
       "path": "english-grammar/Passive.md"
+    },
+    {
+      "basename": "Passive Common Mistakes",
+      "path": "english-grammar/Passive Common Mistakes.md"
+    },
+    {
+      "basename": "Modals, the imperative, phrasal verbs",
+      "path": "english-grammar/Modals, the imperative, phrasal verbs.md"
+    },
+    {
+      "basename": "Direct and Indirect Object",
+      "path": "english-grammar/Direct and Indirect Object.md"
     },
     {
       "basename": "Have or Get Something Done",
@@ -19,10 +35,6 @@
     {
       "basename": "Passive with Reporting Verbs",
       "path": "english-grammar/Passive with Reporting Verbs.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Conditionals",
@@ -43,10 +55,6 @@
     {
       "basename": "Modals Common Mistakes",
       "path": "english-grammar/Modals Common Mistakes.md"
-    },
-    {
-      "basename": "Modals, the imperative, phrasal verbs",
-      "path": "english-grammar/Modals, the imperative, phrasal verbs.md"
     },
     {
       "basename": "Would rather or would sooner",
@@ -115,14 +123,6 @@
     {
       "basename": "Phrasal Verbs",
       "path": "english-grammar/Phrasal Verbs.md"
-    },
-    {
-      "basename": "Verbs with two objects (To or For)",
-      "path": "english-grammar/Verbs with two objects (To or For).md"
-    },
-    {
-      "basename": "Direct and Indirect Object",
-      "path": "english-grammar/Direct and Indirect Object.md"
     },
     {
       "basename": "Future Tense Common Mistakes",

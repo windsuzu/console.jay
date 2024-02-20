@@ -1,12 +1,21 @@
 ---
 draft: false
-date: 2023-12-24 15:46
+date: 2024-02-20 19:27
 tags:
   - english
   - grammar
 ---
 
-**Verbs with two objects** are verbs that can take both a [[Direct and Indirect Object|direct object and an indirect object]] in the same sentence. The direct object is the thing that is acted upon by the verb, and the indirect object is the person or thing that benefits from the action or receives something. For example, in the sentence “She gave him a book”, the direct object is “a book” and the indirect object is “him”.
+**Verbs with two objects** are verbs that can take both a [[Direct and Indirect Object|direct object and an indirect object]] in the same sentence. 
+
+In a sentence, **the direct object** bears the brunt of the verb's action, while **the indirect object** reaps the benefit or receives the direct object. For example:
+
+```
+She gave him a book
+
+a book = direct object
+   him = indirect object
+```
 
 There are **two types of structures** when using verbs with two objects:
 - She gave him a book. (verb + indirect object + direct object)
