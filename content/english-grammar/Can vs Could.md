@@ -1,20 +1,27 @@
 ---
 draft: false
-date: 2023-12-24 23:43
+date: 2024-02-21 17:26
 tags:
   - english
   - grammar
 ---
 
-We can use both "can" and "could" to ask for a request, but they have different levels of politeness and formality. "Can" is more casual and direct, while "could" is more polite and indirect.
+Both "can" and "could" can be used for requests, but "could" adds a layer of politeness and indirectness, making it more appropriate in formal or sensitive situations.
 
-When you use "could", you are implying that you are not sure if the person is able or willing to help you, so you are giving them a choice to refuse. When you use "can", you are assuming that the person is able and willing to help you, so you are making a direct request.
+Think of "could" as ==testing the waters – you're open to their answer==, maybe even expecting they might be busy. "Can" jumps right in, assuming they're ready to lend a hand.
 
-- Could you help me with this problem, please? (This is more polite because you are not sure if the person can or wants to help you, and you are saying please.)
-- Can you help me with this problem? (This is less polite because you are expecting the person to help you, and you are not saying please.)
+```py
+Can you help me with this problem?
+= less polite, 
+= because you are expecting the person to help you
+
+Could you help me with this problem? 
+= more polite, 
+= because you are not sure if the person wants to help you
+```
 
 > [!tip]
-> The connection between politeness and the past simple is that the past simple is often used to express hypothetical or unreal situations, which are more polite than real or certain situations.
+> The past simple tense can sometimes be used to **soften** or **indirectly** express requests or suggestions, making them sound more **polite** than using the present tense. This is because the past simple can create a sense of **hypotheticality** or **uncertainty**, even if the situation being referred to is actually real or certain.
 
 
 > [!info] References

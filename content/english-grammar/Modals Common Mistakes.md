@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-04 23:19
+date: 2024-02-21 17:37
 tags:
   - english
   - grammar
@@ -47,7 +47,7 @@ tags:
 > - **Definitely** and **probably** go before **won't, isn't, shouldn't, etc.** But if we don’t use short forms, **definitely** and **probably** go after the auxiliary verb and before **not**. 
 > - We can say: _This definitely won't be his last mistake_, or _This will definitely not be his last mistake_.
 
-> [!question]- I can’t get \____ (make my child sit) still at the dinner table.
+> [!question]- I can’t get \____ (my child / sit) still at the dinner table.
 > ✅ my child to sit ❌ my child sit
 > - We can use **get + someone** **+ to do something** to mean ‘make or persuade someone to do something’.
 

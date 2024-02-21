@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-11 21:23
+date: 2024-02-21 17:05
 tags:
   - english
   - grammar
@@ -8,7 +8,7 @@ tags:
 ## Notes
 
 - 📝 [[Direct and Indirect Object]]
-- 📝 [[Verbs with two objects (To or For)]]
+- 📝 [[Verbs with two objects]]
 - 📝 [[Phrasal Verbs]]
 - 📝 [[Had Better]]
 - 📝 [[It's time]]

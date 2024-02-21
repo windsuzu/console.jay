@@ -6,7 +6,7 @@ tags:
   - grammar
 ---
 
-Some verbs can function as **[[Verbs with two objects (To or For)|verbs with two object]]**, meaning they take two objects. Common examples include **bring, get, give, make, offer, promise, send, and show**.
+Some verbs can function as **[[Verbs with two objects|verbs with two object]]**, meaning they take two objects. Common examples include **bring, get, give, make, offer, promise, send, and show**.
 
 With these verbs, you can **transform either the direct object or the indirect object into the subject** of the sentence. For example, active sentences can be rephrased into passive sentences as shown below:
 

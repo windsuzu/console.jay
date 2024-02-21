@@ -1,25 +1,33 @@
 ---
 draft: false
-date: 2024-01-08 23:39
+date: 2024-02-21 18:30
 tags:
   - english
   - grammar
 ---
+  
+Ever wonder "what if" about the past? The third conditional lets you do just that! It's like rewinding time and imagining how things could have been totally different if something else had happened.
 
-The third conditional focuses on situations that are **completely unrealistic or impossible in the past**. It talks about how things **would have been different if something else had happened in the past**.
+The third conditional employs `had + past participle` ([[Past Perfect]]) in the if-clause and `subject would/could/might have + past participle` in the result clause, expressing hypothetical past situations and their outcomes.
 
-## Structure
-- Condition ([[Past Perfect]])
-- Result (would/could/might have + past participle)
-- If + condition + , + result
-- Result + if + condition
-- We can also use **unless** in conditional sentences to mean **if** … (**not**)
-## Examples
-- If you **had come** to class more often, you **would have passed** the test.
-- If he **hadn’t taken** his helmet, he **could have died**.
-- If the jacket **had been** a bit cheaper, I **might have bought** it.
-- I **wouldn’t have been** late if I **hadn’t overslept**.
-- I **wouldn’t have arrived** on time **unless I had taken** (=if I hadn't taken) a taxi.
+```py
+If you had come to class more often, you would have passed the test.
+   ^condition                        ^result
+
+If he hadn't taken his helmet, he could have died.
+   ^condition                  ^result
+
+If the jacket had been a bit cheaper, I might have bought it.
+   ^condition                         ^result
+
+I wouldn't have been late if I had not overslept.
+^result                      ^condition
+
+I wouldn't have arrived on time unless I had taken a taxi.
+^result                                ^condition
+```
+
+
 
 
 > [!info] References
