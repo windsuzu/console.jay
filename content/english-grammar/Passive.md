@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-20 19:37
+date: 2024-02-21 22:54
 tags:
   - english
   - grammar
@@ -8,7 +8,9 @@ tags:
 
 ## Notes
 - 📝 [[Reporting Verbs]]
-- 📝 [[Have or Get Something Done]]
+- 📝 [[Have something done, Have someone do]]
+- 📝 [[Get something done, Get someone to do]]
+- 📝 [[Seem, Appear]]
 - 📝 [[Passive Verbs with Two Objects]]
 - 🤔 [[Passive Common Mistakes]]
 

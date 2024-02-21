@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 00:08
+date: 2024-02-21 23:21
 tags:
   - english
   - grammar
@@ -16,8 +16,11 @@ I sent my friends a picture.
 = I sent a picture to my friends.
 
 # Passive sentence
-(Indirect) My friends were sent a picture.
-(Direct)   A picture were sent to my friends.
+(Start with indirect object) 
+My friends were sent a picture.
+
+(Start with direct object)
+A picture were sent to my friends.
 ```
 
 > [!tip]

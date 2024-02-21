@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 19:57
+date: 2024-02-21 23:20
 tags:
   - english
   - grammar
@@ -17,16 +17,18 @@ tags:
 
 **With impersonal "it"**, it becomes formal. **The clause** following "that" can be in any tense to reflect the reported time frame.
 
-- **It is said that they are** in Las Vegas.
-- **It is believed that** the murderer is no longer in the country.
-- **It has been announced that** they are going to cancel the tour.
-- **It has been suggested that** the team can’t be trusted defensively.
+>[!example] 
+> - **It is said that they are** in Las Vegas.
+>- **It is believed that** the murderer is no longer in the country.
+>- **It has been announced that** they are going to cancel the tour.
+>- **It has been suggested that** the team can’t be trusted defensively.
 
 **With the subject**, it becomes less formal. Using reporting verbs with the subject allows for three distinct ways to express information across different tenses:
 
-- They are said to **be** in Las Vegas. (to + infinitive)
-- They are said to **be playing** in Las Vegas. (to + be -ing)
-- They are said to **have been** in Las Vegas. (to + have participle)
+>[!example] 
+>- They are said to **be** in Las Vegas. (to + infinitive)
+>- They are said to **be playing** in Las Vegas. (to + be -ing)
+>- They are said to **have been** in Las Vegas. (to + have participle)
 
 Find more details about [[Reporting Verbs with Subject|reporting verbs with subject here]].
 

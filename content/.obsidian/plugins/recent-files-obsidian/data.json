@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Have or Get Something Done",
-      "path": "english-grammar/Have or Get Something Done.md"
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Passive Common Mistakes",
+      "path": "english-grammar/Passive Common Mistakes.md"
     },
     {
       "basename": "Passive",
       "path": "english-grammar/Passive.md"
     },
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
+      "basename": "Passive Verbs with Two Objects",
+      "path": "english-grammar/Passive Verbs with Two Objects.md"
+    },
+    {
+      "basename": "Seem, Appear",
+      "path": "english-grammar/Seem, Appear.md"
     },
     {
       "basename": "Reporting Verbs",
       "path": "english-grammar/Reporting Verbs.md"
+    },
+    {
+      "basename": "Get something done, Get someone to do",
+      "path": "english-grammar/Get something done, Get someone to do.md"
+    },
+    {
+      "basename": "Have something done, Have someone do",
+      "path": "english-grammar/Have something done, Have someone do.md"
     },
     {
       "basename": "Reporting Verbs with Subject",
@@ -117,14 +133,6 @@
       "path": "english-grammar/Direct and Indirect Object.md"
     },
     {
-      "basename": "Passive Common Mistakes",
-      "path": "english-grammar/Passive Common Mistakes.md"
-    },
-    {
-      "basename": "Passive Verbs with Two Objects",
-      "path": "english-grammar/Passive Verbs with Two Objects.md"
-    },
-    {
       "basename": "Past Tense Common Mistakes",
       "path": "english-grammar/Past Tense Common Mistakes.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "hasOwnProperty",
       "path": "mocs/hasOwnProperty.md"
-    },
-    {
-      "basename": "Static Methods",
-      "path": "javascript/Static Methods.md"
-    },
-    {
-      "basename": "ES6 Classes",
-      "path": "javascript/ES6 Classes.md"
     }
   ],
   "omittedPaths": [],
