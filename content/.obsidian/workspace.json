@@ -20,8 +20,45 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3a3be9306deb75f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Passive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e739aca3f86d088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Reported Speech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e666e2edbf845cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Indirect Speech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Indirect Speech.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Indirect Speech.md"
               }
             }
           },
@@ -195,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Indirect Speech.md"
               }
             }
           },
@@ -205,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Indirect Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Indirect Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -248,11 +285,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "b084623c561ff250",
+  "active": "5e666e2edbf845cc",
   "lastOpenFiles": [
-    "english-grammar/Passive Common Mistakes.md",
+    "english-grammar/Reported Speech.md",
+    "english-grammar/Indirect Speech.md",
     "english-grammar/Passive.md",
     "english-grammar/English Grammar List.md",
+    "english-grammar/Future Tense.md",
+    "english-grammar/Passive Common Mistakes.md",
     "english-grammar/Passive Verbs with Two Objects.md",
     "english-grammar/Seem, Appear.md",
     "english-grammar/Reporting Verbs.md",
@@ -272,10 +312,7 @@
     "english-grammar/Future Time Clauses.md",
     "english-grammar/Zero Conditional.md",
     "english-grammar/Modals, the imperative, phrasal verbs.md",
-    "english-grammar/Future Tense.md",
     "english-grammar/Modals Common Mistakes.md",
-    "english-grammar/Would do - Past repeated action.md",
-    "english-grammar/Used to, be used to, get used to.md",
     "react",
     "attachments/tailwind-custom-plugin-result.png",
     "attachments/tailwind-custom-plugin-intellisense.png",
