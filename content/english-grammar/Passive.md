@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Notes
-- 📝 [[Passive with Reporting Verbs]]
+- 📝 [[Reporting Verbs]]
 - 📝 [[Have or Get Something Done]]
 - 📝 [[Passive Verbs with Two Objects]]
 - 🤔 [[Passive Common Mistakes]]

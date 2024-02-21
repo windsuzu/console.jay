@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2024-02-11 22:49
+date: 2024-02-21 19:42
 tags:
   - english
   - grammar
 ---
 
-To express a clear preference, we can use 'would rather' or 'would sooner' followed by an infinitive. These phrases can also be combined with 'than' to compare options or 'or' to list alternatives.
+"Would rather" and "would sooner," **followed by an infinitive**, express clear preferences. Combine with "than" to compare options or "or" to list alternatives.
 
 - **I'd rather/sooner have** tea, please. 
 - **I'd rather/sooner have** tea **than** coffee.
