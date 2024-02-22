@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-22 19:03
+date: 2024-02-22 21:28
 tags:
   - english
   - grammar
@@ -15,19 +15,24 @@ Me: John asked me if (whether) I was going to the beach that day.
                   ^question      ^tense                 ^time
 ```
 
-When you report speech from someone said before, you have to change verb tenses, expressions, word order, pronoun, since the time and place is different.
-
-## Tense conversion
+When you're telling someone what someone else said earlier, it's essential to **adjust the verb tenses, expressions, word order, and pronouns** to represent the changed context and timeline compared to the original conversation.
 
 
-## Expression conversion
+
+![[reported-speech-verb-forms.png]]
+> Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
 
-## Question conversion
+![[reported-speech-expressions.png]]
+> Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
 
-## Imperatives conversion
+![[reported-speech-questions.png]]
+> Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
+
+![[reported-speech-imperatives.png]]
+> Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
 
 
