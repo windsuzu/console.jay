@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9430fc2792092424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Indirect Speech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Indirect Speech.md",
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Indirect Speech.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -209,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Indirect Speech.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -219,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Indirect Speech.md",
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Indirect Speech.md",
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -262,10 +249,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "9430fc2792092424",
+  "active": "b084623c561ff250",
   "lastOpenFiles": [
-    "english-grammar/Present Perfect.md",
     "english-grammar/Indirect Speech.md",
+    "english-grammar/Present Perfect.md",
     "english-grammar/Past Perfect.md",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",

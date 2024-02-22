@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
       "basename": "Indirect Speech",
       "path": "english-grammar/Indirect Speech.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Reported Speech",
       "path": "english-grammar/Reported Speech.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Trunk Based Development (TBD)",

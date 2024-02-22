@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-22 23:05
+date: 2024-02-22 23:20
 tags:
   - english
   - grammar
@@ -34,7 +34,7 @@ When you're telling someone what someone else said earlier, it's essential to **
 > Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
 >[!tip]
->When reporting questions, 
+>For reporting questions, switch clauses to regular order with new verb forms. 
 
 ![[reported-speech-imperatives.png]]
 > Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
