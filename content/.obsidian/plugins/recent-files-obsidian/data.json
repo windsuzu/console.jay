@@ -195,10 +195,6 @@
     {
       "basename": "English MOC",
       "path": "mocs/English MOC.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     }
   ],
   "omittedPaths": [],
