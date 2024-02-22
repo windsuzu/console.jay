@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-22 14:05
+date: 2024-02-22 18:29
 tags:
   - english
   - grammar
@@ -15,7 +15,7 @@ Me: John asked me if (whether) I was going to the beach that day.
                   ^question      ^tense                 ^time
 ```
 
-
+When you report speech from someone said before, you have to change verb tenses, since the time and place is different.
 
 ## Tense conversion
 
