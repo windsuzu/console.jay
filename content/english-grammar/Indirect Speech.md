@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-22 01:31
+date: 2024-02-22 14:05
 tags:
   - english
   - grammar
@@ -12,8 +12,11 @@ Reported speech, or indirect speech, tells what someone said or thought. **It re
 John: Are you going to the beach today?
 
 Me: John asked me if (whether) I was going to the beach that day.
-                  ^question       ^tense                 ^time
+                  ^question      ^tense                 ^time
 ```
+
+
+
 ## Tense conversion
 
 
