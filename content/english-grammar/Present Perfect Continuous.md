@@ -6,7 +6,7 @@ tags:
   - grammar
 ---
 
-Different from the [[Present Perfect Simple]], the **present perfect continuous** is employed when past actions are ongoing or have just concluded in relation to the present. The image below summarizes the two scenarios for using the **present perfect continuous** tense.
+Different from the [[Present Perfect]], the **present perfect continuous** is employed when past actions are ongoing or have just concluded in relation to the present. The image below summarizes the two scenarios for using the **present perfect continuous** tense.
 
 ![[Present-perfect-continuous.jpg]]
 > Image source: [Present perfect simple and present perfect continuous - Test-English](https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous)

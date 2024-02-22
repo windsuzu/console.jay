@@ -5,6 +5,14 @@
       "path": "english-grammar/Indirect Speech.md"
     },
     {
+      "basename": "Present Perfect",
+      "path": "english-grammar/Present Perfect.md"
+    },
+    {
+      "basename": "Past Perfect",
+      "path": "english-grammar/Past Perfect.md"
+    },
+    {
       "basename": "reported-speech-imperatives",
       "path": "attachments/reported-speech-imperatives.png"
     },
@@ -125,10 +133,6 @@
       "path": "english-grammar/Third Conditional.md"
     },
     {
-      "basename": "Past Perfect",
-      "path": "english-grammar/Past Perfect.md"
-    },
-    {
       "basename": "Second Conditional",
       "path": "english-grammar/Second Conditional.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Future Tense Common Mistakes",
       "path": "english-grammar/Future Tense Common Mistakes.md"
-    },
-    {
-      "basename": "Future Forms",
-      "path": "english-grammar/Future Forms.md"
     }
   ],
   "omittedPaths": [],

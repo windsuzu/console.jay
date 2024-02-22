@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-22 21:28
+date: 2024-02-22 23:05
 tags:
   - english
   - grammar
@@ -17,19 +17,24 @@ Me: John asked me if (whether) I was going to the beach that day.
 
 When you're telling someone what someone else said earlier, it's essential to **adjust the verb tenses, expressions, word order, and pronouns** to represent the changed context and timeline compared to the original conversation.
 
-
+---
 
 ![[reported-speech-verb-forms.png]]
 > Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
+>[!tip] 
+>Beware of these quirks when changing verb tenses:
+>1. [[Past simple]] and [[present perfect]] both become [[past perfect]].
+>2. `must` becomes `had to`
 
 ![[reported-speech-expressions.png]]
 > Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
-
 ![[reported-speech-questions.png]]
 > Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)
 
+>[!tip]
+>When reporting questions, 
 
 ![[reported-speech-imperatives.png]]
 > Image source: [test-english](https://test-english.com/grammar-points/b1/reported-speech-indirect-speech)

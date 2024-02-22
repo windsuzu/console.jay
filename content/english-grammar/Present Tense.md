@@ -9,7 +9,7 @@ tags:
 - 📝 [[Present Simple]]
 - 📝 [[Present Continuous]]
 - 📝 [[Stative or non-action verbs]]
-- 📝 [[Present Perfect Simple]]
+- 📝 [[Present Perfect]]
 - 📝 [[Present Perfect Continuous]]
 - 🤔 [[Present Tense Common Mistakes]]
 ## Practices
