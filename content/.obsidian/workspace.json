@@ -20,8 +20,31 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ee0d97aa8d99e643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Indirect Speech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b4f33028c5c6bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Indirect Speech.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Indirect Speech.md"
               }
             }
           },
@@ -196,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/English Grammar List.md"
+                "file": "english-grammar/Indirect Speech.md"
               }
             }
           },
@@ -206,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Indirect Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/English Grammar List.md",
+                "file": "english-grammar/Indirect Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,8 +272,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "b084623c561ff250",
+  "active": "b5b4f33028c5c6bc",
   "lastOpenFiles": [
+    "english-grammar/Reported Speech.md",
+    "english-grammar/English Grammar List.md",
+    "english-grammar/[Indirect.md",
     "english-grammar/Indirect Speech.md",
     "english-grammar/Present Perfect.md",
     "english-grammar/Past Perfect.md",
@@ -258,11 +284,8 @@
     "attachments/reported-speech-questions.png",
     "attachments/reported-speech-expressions.png",
     "attachments/reported-speech-verb-forms.png",
-    "english-grammar/Reported Speech.md",
-    "english-grammar/English Grammar List.md",
     "workflow/Trunk Based Development (TBD).md",
     "english-grammar/Passive.md",
-    "english-grammar/[Indirect.md",
     "attachments/trunk-based-development2.png",
     "english-grammar/Can vs Could.md",
     "attachments/quantity-query-1.png",

@@ -9,6 +9,10 @@
       "path": "english-grammar/Indirect Speech.md"
     },
     {
+      "basename": "Reported Speech",
+      "path": "english-grammar/Reported Speech.md"
+    },
+    {
       "basename": "Present Perfect",
       "path": "english-grammar/Present Perfect.md"
     },
@@ -33,20 +37,12 @@
       "path": "attachments/reported-speech-verb-forms.png"
     },
     {
-      "basename": "Reported Speech",
-      "path": "english-grammar/Reported Speech.md"
-    },
-    {
       "basename": "Trunk Based Development (TBD)",
       "path": "workflow/Trunk Based Development (TBD).md"
     },
     {
       "basename": "Passive",
       "path": "english-grammar/Passive.md"
-    },
-    {
-      "basename": "[Indirect",
-      "path": "english-grammar/[Indirect.md"
     },
     {
       "basename": "trunk-based-development2",
