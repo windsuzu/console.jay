@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-23 16:01
+date: 2024-02-24 16:06
 tags:
   - english
   - grammar
@@ -18,3 +18,4 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - [[Conditionals]]
 - [[Passive]]
 - [[Reported Speech]]
+- [[-ing and the infinitive]]
