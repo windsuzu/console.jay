@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-16 01:18
+date: 2024-02-24 18:47
 tags:
   - english
   - grammar
@@ -14,7 +14,8 @@ tags:
 - 📝 [[Mixed Conditional]]
 - 📝 [[Suppose, Supposing, Imagine, What if]]
 - 📝 [[I wish and If only]]
-- 📝 [[Would rather or would sooner]]
+- 📝 [[Would rather]]
+- 📝 [[Would prefer to]]
 - 🤔 [[Conditionals Common Mistakes]]
 
 ## Practices
