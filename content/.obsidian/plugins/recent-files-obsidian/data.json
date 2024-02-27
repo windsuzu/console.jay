@@ -5,8 +5,16 @@
       "path": "english-grammar/-ing and the infinitive.md"
     },
     {
+      "basename": "Verbs that take gerund or infinitive",
+      "path": "english-grammar/Verbs that take gerund or infinitive.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Present Tense",
+      "path": "english-grammar/Present Tense.md"
     },
     {
       "basename": "Would prefer to",
@@ -35,10 +43,6 @@
     {
       "basename": "Ing and infinitive common mistakes",
       "path": "english-grammar/Ing and infinitive common mistakes.md"
-    },
-    {
-      "basename": "Verbs that take gerund or infinitive",
-      "path": "english-grammar/Verbs that take gerund or infinitive.md"
     },
     {
       "basename": "Gerund",
@@ -195,10 +199,6 @@
     {
       "basename": "Transitive and Intransitive Phrasal Verbs",
       "path": "english-grammar/Transitive and Intransitive Phrasal Verbs.md"
-    },
-    {
-      "basename": "Verbs with two objects",
-      "path": "english-grammar/Verbs with two objects.md"
     }
   ],
   "omittedPaths": [],
