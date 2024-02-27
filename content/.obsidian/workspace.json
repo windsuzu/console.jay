@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "8c1fa375332d674e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
             "id": "ccc4f2a1f378de05",
             "type": "leaf",
             "state": {
@@ -118,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -197,7 +207,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -207,7 +219,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -217,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,10 +272,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "ccc4f2a1f378de05",
+  "active": "8c1fa375332d674e",
   "lastOpenFiles": [
-    "english-grammar/Verbs that take gerund or infinitive.md",
     "english-grammar/-ing and the infinitive.md",
+    "english-grammar/Verbs that take gerund or infinitive.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Present Tense.md",
     "english-grammar/Would prefer to.md",
