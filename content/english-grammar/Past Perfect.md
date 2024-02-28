@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:33
+date: 2024-02-28 10:27
 tags:
   - english
   - grammar
@@ -9,7 +9,7 @@ tags:
 When there is a main event and events before it, we use the **past perfect** to describe the earlier events and the [[Past Simple]] to describe the main event.
 ## Earlier events
 - When she opened the door, he **had already left**.  
-- I realised that I **had been there before**. 
+- I realized that I **had been there before**. 
 - When I met her, I **had never been** in a serious relationship.
 - He noticed I **had cleaned** the car. 
 
@@ -18,7 +18,7 @@ When there is a main event and events before it, we use the **past perfect** to 
 - How many hours **had he slept** when you woke him up?
 
 ## Stative verbs
-We use **past perfect** with [[Stative or non-action verbs]] to describe events that had started earlier in the past with a "duration" (e.g., how long, for, since, always, etc)
+We use **past perfect** with [[Stative or non-action verbs]] to describe events that had started earlier in the past with a "duration" (e.g., how long, for, since, always, etc.)
 - The day Anne died, they **had been** married **for 48 years**. 
 - The day I left, I **had been** in England **for exactly 4 years**.
 - She told me she **had always hated** her sister. 

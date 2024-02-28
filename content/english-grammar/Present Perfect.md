@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:26
+date: 2024-02-28 10:17
 tags:
   - english
   - grammar
@@ -30,7 +30,7 @@ The **present perfect simple** is occasionally mistaken for the [[Past Simple]],
 - **I‘ve never read** this book.
 - **Have** you **ever** **seen** a John Wayne film.
 - I **haven’t experienced** anything like this **before**.
-- This is the **best** mea**l I’ve ever had**.
+- This is the **best** meal **I’ve ever had**.
 
 ## 6. When you want to say how many times something has happened until now
 - **I’ve watched** this film **three times**.
