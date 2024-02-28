@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-24 20:05
+date: 2024-02-28 11:22
 tags:
   - english
   - grammar
@@ -10,7 +10,6 @@ tags:
 - 📝 [[Gerund]]
 - 📝 [[Verbs that take gerund or infinitive]]
 - 🤔 [[Ing and infinitive common mistakes]]
-
 
 ## Practices
 
