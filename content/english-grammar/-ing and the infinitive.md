@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-28 11:22
+date: 2024-02-28 22:15
 tags:
   - english
   - grammar
@@ -9,6 +9,7 @@ tags:
 - 📝 [[Expressing purpose with to and for]]
 - 📝 [[Gerund]]
 - 📝 [[Verbs that take gerund or infinitive]]
+- 📝 [[Recommend, Advise]]
 - 🤔 [[Ing and infinitive common mistakes]]
 
 ## Practices
