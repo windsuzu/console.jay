@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-28 18:28
+date: 2024-02-28 20:44
 tags:
   - english
   - grammar
@@ -75,4 +75,7 @@ tags:
 >- We can use **recommend** + someone + **to** infinitive, or **recommend** + **that** clause (without object).
 >- We could also say: _I truly recommend **that you should go** to the police immediately. / I truly recommend **going** to the police immediately._
 
+>[!question]- I always begged \____ (them/let) me go out.
+>✅ them to let ❌ for them to let
+>- We say **beg** + object + **to** + infinitive.
 
