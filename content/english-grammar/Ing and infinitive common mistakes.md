@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-28 20:44
+date: 2024-02-29 10:24
 tags:
   - english
   - grammar
@@ -52,8 +52,8 @@ tags:
 >✅ for wanting ❌ that you want ❌ to want
 >- Use **blame** + someone + **for + -ing** verb.
 
->[!question]- I suggest \____ (call) the police right now.
->✅ you call ❌ you to call
+>[!question]- I suggest you \____ (call) the police right now.
+>✅ call ❌ to call
 >- We can use **suggest** + **-ing**, or also **suggest + (that)** clause.
 
 >[!question]- Rachel admitted \____ (break) the window.
@@ -71,11 +71,26 @@ tags:
 > - Sometimes we can use the gerund (**doing**) or the perfect gerund (**having done**) with little difference in meaning. With the perfect gerund we emphasise that the action was completed in the past.
 
 >[!question]- I truly recommend \____ (go) to the police immediately.
->✅ going ✅ that you go ✅ you to go ❌ you going
+>✅ going ✅ (that) you go ✅ you to go ❌ you going
 >- We can use **recommend** + someone + **to** infinitive, or **recommend** + **that** clause (without object).
 >- We could also say: _I truly recommend **that you should go** to the police immediately. / I truly recommend **going** to the police immediately._
 
 >[!question]- I always begged \____ (them/let) me go out.
 >✅ them to let ❌ for them to let
 >- We say **beg** + object + **to** + infinitive.
+
+>[!question]- The portrait is thought to \____ (paint) in 1595.
+>✅ have been painted ❌ be painted
+>- After passive reporting verbs, we use the simple or continuous infinitive to refer to the present or future, and the perfect infinitives to refer to the past. (⇒ See B1+ Grammar » [The passive with reporting verbs](https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs/)).  
+> - In this sentence, the infinitive refers to a past event.
+
+>[!question]- She was the first woman \____ (elect) president.
+>✅ to be elected ❌ being elected
+>- We use **to** + infinitive after superlative adjectives or after **first, second, third, etc.**
+>- We need a passive infinitive because we are talking about an action which is done to the subject, i.e. the subject is not the 'doer' of the action.
+
+>[!question]- The delegate refused \____ (interview).
+>✅ to be interviewed ❌ being interviewed
+>- We use **to** + infinitive after certain verbs such as **refuse**.
+>- In this sentence we need a passive infinitive, because are describing an action that is done to the subject, not an action that the subject does.
 
