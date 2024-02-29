@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
-                "mode": "source",
+                "file": "english-grammar/Ing and infinitive common mistakes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
+                "file": "english-grammar/Ing and infinitive common mistakes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md"
+                "file": "english-grammar/Ing and infinitive common mistakes.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md"
+                "file": "english-grammar/Ing and infinitive common mistakes.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
+                "file": "english-grammar/Ing and infinitive common mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/-ing and the infinitive.md",
+                "file": "english-grammar/Ing and infinitive common mistakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,8 +276,8 @@
   },
   "active": "8b1ca056bc30fc75",
   "lastOpenFiles": [
-    "english-grammar/Ing and infinitive common mistakes.md",
     "english-grammar/-ing and the infinitive.md",
+    "english-grammar/Ing and infinitive common mistakes.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Verbs that take gerund or infinitive.md",
     "english-grammar/Gerund.md",
