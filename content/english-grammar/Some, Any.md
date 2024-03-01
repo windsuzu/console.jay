@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-29 16:24
+date: 2024-03-01 11:17
 tags:
   - english
   - grammar
@@ -27,6 +27,11 @@ We can use `some` or `any` with both `countable plural nouns` or `uncountable si
 >- **Can** you give me **any** advice (unusual)
 >- **Can** you give me **some** advice ✅
 
+If we use `some` or `any` before a countable noun, the noun must be in the **plural form**.
+
+>[!example]
+>- ~~Is~~ there any ~~student~~ in the classroom? ❌
+> - **Are** there **any students** in the classroom? ✅
 
 > [!info] References
 > - [A, some, any – countable and uncountable nouns - Page 2 of 3 - Test-English](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable/2/)
