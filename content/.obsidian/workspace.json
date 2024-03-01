@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "f80ef08a034af98b",
+            "id": "1ea42c7fee31e602",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Some, Any.md",
+                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Some, Any.md",
+                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Some, Any.md"
+                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Some, Any.md"
+                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Some, Any.md",
+                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Some, Any.md",
+                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,8 +274,9 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "f80ef08a034af98b",
+  "active": "1ea42c7fee31e602",
   "lastOpenFiles": [
+    "english-grammar/'s and of.md",
     "english-grammar/Articles, nouns, pronouns, and determiners.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
@@ -302,7 +303,6 @@
     "english-grammar/Conditionals.md",
     "english-grammar/Would prefer to.md",
     "english-grammar/Would rather.md",
-    "english-grammar/I wish and If only.md",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
     "attachments/reported-speech-expressions.png",

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Some, Any",
-      "path": "english-grammar/Some, Any.md"
-    },
-    {
       "basename": "Articles, nouns, pronouns, and determiners",
       "path": "english-grammar/Articles, nouns, pronouns, and determiners.md"
+    },
+    {
+      "basename": "'s and of",
+      "path": "english-grammar/'s and of.md"
     },
     {
       "basename": "English Grammar List",
@@ -15,6 +15,10 @@
     {
       "basename": "Article, Nouns, Pronouns, Determiners Common Mistakes",
       "path": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
+    },
+    {
+      "basename": "Some, Any",
+      "path": "english-grammar/Some, Any.md"
     },
     {
       "basename": "-ing and the infinitive",
@@ -195,10 +199,6 @@
     {
       "basename": "Past Perfect",
       "path": "english-grammar/Past Perfect.md"
-    },
-    {
-      "basename": "Past Continuous",
-      "path": "english-grammar/Past Continuous.md"
     }
   ],
   "omittedPaths": [],
