@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-29 16:09
+date: 2024-03-01 16:01
 tags:
   - english
   - grammar
@@ -26,4 +26,20 @@ tags:
 > ✅ any French ❌ French ❌ some French
 > - You can't use **an** because **French** is uncountable (names of languages are uncountable).
 > - We use **any** and not **~~some~~** because the sentence is a question, and we use **any** in negatives and questions.
+
+>[!question]- I'd like to cross \____ Atlantic on a cruise.
+>✅ the ❌ -
+>- We use **the** with the names of oceans, seas, rivers and canals (_the Mediterranean, the Amazon, the Panama canal_, etc.).
+
+>[!question]- Please, read the text on \____ page 15.
+>✅ - ❌ the
+>- We do not use **the** or **a(n)** before noun + number: (_room 25, platform 3, page 50, question 4_, etc.).
+
+>[!question]- There was very \____ space left to park. 
+> ✅ little ❌ few
+> - We use (**a**) **little** before uncountable nouns and (**a**) **few** before countable nouns.
+
+>[!question]- A: Have you got anything to read?   B: Yes, I have \____ magazines.
+>✅ a few ❌ a bit of
+>-  We use (**a**) **little** or **a bit of** before uncountable nouns and (**a**) **few** before countable nouns.
 

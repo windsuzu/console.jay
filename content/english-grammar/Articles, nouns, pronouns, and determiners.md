@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-29 17:49
+date: 2024-03-01 15:08
 tags:
   - english
   - grammar
@@ -9,6 +9,8 @@ tags:
 ## Notes
 - 📝 [[Some, Any]]
 - 📝 [['s and of]]
+- 📝 [[The]]
+- 📝 [[Use no article]]
 - 🤔 [[Article, Nouns, Pronouns, Determiners Common Mistakes]]
 
 ## Practices
