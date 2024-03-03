@@ -9,6 +9,14 @@
       "path": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
     },
     {
+      "basename": "Another vs Other",
+      "path": "english-grammar/Another vs Other.md"
+    },
+    {
+      "basename": "All and both in mid position",
+      "path": "english-grammar/All and both in mid position.md"
+    },
+    {
       "basename": "Use no article",
       "path": "english-grammar/Use no article.md"
     },
@@ -17,16 +25,16 @@
       "path": "english-grammar/The.md"
     },
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
+      "basename": "'s and of",
+      "path": "english-grammar/'s and of.md"
     },
     {
       "basename": "Some, Any",
       "path": "english-grammar/Some, Any.md"
     },
     {
-      "basename": "'s and of",
-      "path": "english-grammar/'s and of.md"
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "-ing and the infinitive",
@@ -191,14 +199,6 @@
     {
       "basename": "Future Tense",
       "path": "english-grammar/Future Tense.md"
-    },
-    {
-      "basename": "Future Forms",
-      "path": "english-grammar/Future Forms.md"
-    },
-    {
-      "basename": "Past Tense Common Mistakes",
-      "path": "english-grammar/Past Tense Common Mistakes.md"
     }
   ],
   "omittedPaths": [],

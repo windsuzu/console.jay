@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-29 18:00
+date: 2024-03-02 15:41
 tags:
   - english
   - grammar
@@ -19,7 +19,7 @@ However, for inanimate objects (not people or pets), use `of` instead of `'s`.
 >[!example]
 >- The **end of the street** ✅
 >- The street‘s end ❌
->- A picture of the eclipse ✅
+>- A **picture of the eclipse** ✅
 >- The eclipse‘s picture ❌ 
 
 > [!info] References

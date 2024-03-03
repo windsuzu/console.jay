@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-01 16:01
+date: 2024-03-02 15:46
 tags:
   - english
   - grammar
@@ -39,7 +39,25 @@ tags:
 > ✅ little ❌ few
 > - We use (**a**) **little** before uncountable nouns and (**a**) **few** before countable nouns.
 
->[!question]- A: Have you got anything to read?   B: Yes, I have \____ magazines.
->✅ a few ❌ a bit of
+>[!question]- A: Have you got anything to read?   B: Yes, I have a \____ magazines.
+>✅ few ❌ bit of
 >-  We use (**a**) **little** or **a bit of** before uncountable nouns and (**a**) **few** before countable nouns.
+
+>[!question]- You can't wear \____ of those dresses. They don't suit you.
+>✅ either ❌ neither
+>- We cannot use **both** or **neither** with a negative verb. We have to use **either**.
+>- _You can't wear either of those dresses= You can wear neither of those dresses._
+
+>[!question]- When I get home I like to relax \____ .
+>✅ - ❌ myself
+>- We don't use **myself**, **yourself**, etc. after the verbs **concentrate**, **dress** (or **get dressed**), **feel**, **relax**, **shave**, **wash**.
+
+>[!question]- Did you enjoy \____ at the party last night?
+>✅ yourself ❌ -
+>- We use **myself**, **yourself**, etc. when the object and the subject are the same person.
+>- The verb **enjoy** in English requires an object. We can say _I enjoyed myself_ or _I enjoyed the party_, but we cannot say ~~_I enjoyed_~~.
+
+>[!question]- It's hard to explain why some people fail and \____ succeed.
+>✅ others ❌ the others
+>- We use **others** as a pronoun (not followed by a noun) to mean ‘different’ (people or things). In this sentence, **others** mean 'other people'.
 

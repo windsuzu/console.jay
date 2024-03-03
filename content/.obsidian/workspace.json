@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b084623c561ff250",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/English Grammar List.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "1ff217af4565502d",
             "type": "leaf",
             "pinned": true,
@@ -36,19 +22,18 @@
             }
           },
           {
-            "id": "6b28bc46c1bb6b21",
+            "id": "57445adcfe04bdc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,11 +265,13 @@
   "lastOpenFiles": [
     "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
     "english-grammar/Articles, nouns, pronouns, and determiners.md",
+    "english-grammar/Another vs Other.md",
+    "english-grammar/All and both in mid position.md",
     "english-grammar/Use no article.md",
     "english-grammar/The.md",
-    "english-grammar/English Grammar List.md",
-    "english-grammar/Some, Any.md",
     "english-grammar/'s and of.md",
+    "english-grammar/Some, Any.md",
+    "english-grammar/English Grammar List.md",
     "english-grammar/-ing and the infinitive.md",
     "english-grammar/Reported Speech.md",
     "Some/Any.md",
@@ -303,8 +290,6 @@
     "english-grammar/Passive Common Mistakes.md",
     "english-grammar/Reporting Verbs.md",
     "english-grammar/Reporting Verbs with Subject.md",
-    "english-grammar/Conditionals Common Mistakes.md",
-    "english-grammar/Conditionals.md",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
     "attachments/reported-speech-expressions.png",
