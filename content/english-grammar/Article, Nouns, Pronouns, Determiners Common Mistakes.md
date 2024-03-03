@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-02 15:46
+date: 2024-03-02 17:30
 tags:
   - english
   - grammar
@@ -60,4 +60,14 @@ tags:
 >[!question]- It's hard to explain why some people fail and \____ succeed.
 >✅ others ❌ the others
 >- We use **others** as a pronoun (not followed by a noun) to mean ‘different’ (people or things). In this sentence, **others** mean 'other people'.
+
+>[!question]- \____ students I know passed the exam.
+>✅ Most of the ❌ Most
+>- We can use **most** + noun to talk about all people or things in general or **most of the** + noun to talk about specific things or people.
+>- In this case we are talking about some specific students.
+
+>[!question]- We spent \____ day outdoors.
+>✅ all ❌ all the day
+>- We say **all day, all night, all month, all year, etc.** to mean ‘the entire day/night/month/etc.’
+>- We don’t use an article or a preposition when we use **all** + time expression.
 
