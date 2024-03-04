@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-02 15:03
+date: 2024-03-03 15:40
 tags:
   - english
   - grammar
@@ -13,6 +13,7 @@ tags:
 - 📝 [[Use no article]]
 - 📝 [[All and both in mid position]]
 - 📝 [[Another vs Other]]
+- 📝 [[Compound Nouns]]
 - 🤔 [[Article, Nouns, Pronouns, Determiners Common Mistakes]]
 
 ## Practices

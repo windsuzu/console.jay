@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-02 17:30
+date: 2024-03-03 16:21
 tags:
   - english
   - grammar
@@ -71,3 +71,11 @@ tags:
 >- We say **all day, all night, all month, all year, etc.** to mean ‘the entire day/night/month/etc.’
 >- We don’t use an article or a preposition when we use **all** + time expression.
 
+>[!question]- He's one of \____ (Britain's best chef / the best chef of Britain).
+>✅ Britain's best chefs ✅ the best chef in Britain ❌ the best chef of Britain
+>- We normally use **‘s** with people or animals, although we can also use it with places (cities, countries, etc.) and organizations.
+>- We could also say 'one of the best chefs in Britain'. Remember that after the superlative, we use **in** + names of **places** (⇒ See B1 » grammar » [Comparative and superlative adjectives and adverbs](https://test-english.com/grammar-points/b1/comparative-superlative-adjectives-adverbs/).)
+
+>[!question]- Some experts say that \____ (cow milk / cow's milk) isn't healthy for babies and toddlers.
+>✅ cow's milk ❌ cow milk
+>- We normally use the possessive **‘s** with animals to talk about products that are produced by them, e.g. cow’s milk, chicken’s eggs, etc.
