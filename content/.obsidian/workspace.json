@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Articles, nouns, pronouns, and determiners.md",
+                "file": "english-grammar/Another vs Other.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fd2e1e4f9a7bc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Non-defining relative clauses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d318ab5dccc433a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Defining relative clauses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
+                "file": "english-grammar/Non-defining relative clauses.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md"
+                "file": "english-grammar/Non-defining relative clauses.md"
               }
             }
           },
@@ -206,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md"
+                "file": "english-grammar/Non-defining relative clauses.md"
               }
             }
           },
@@ -216,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
+                "file": "english-grammar/Non-defining relative clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
+                "file": "english-grammar/Non-defining relative clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,15 +283,17 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "bc102c521cd7fecb",
+  "active": "8fd2e1e4f9a7bc34",
   "lastOpenFiles": [
+    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
+    "english-grammar/Non-defining relative clauses.md",
+    "english-grammar/Defining relative clauses.md",
+    "english-grammar/Another vs Other.md",
     "english-grammar/Articles, nouns, pronouns, and determiners.md",
     "english-grammar/English Grammar List.md",
-    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
     "english-grammar/'s and of.md",
     "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
     "english-grammar/Compound Nouns.md",
-    "english-grammar/Another vs Other.md",
     "english-grammar/All and both in mid position.md",
     "english-grammar/Use no article.md",
     "english-grammar/The.md",
@@ -286,8 +312,6 @@
     "english-grammar/Seem, Appear.md",
     "english-grammar/Get something done, Get someone to do.md",
     "english-grammar/Have something done, Have someone do.md",
-    "english-grammar/Indirect Speech.md",
-    "english-grammar/Passive Common Mistakes.md",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
     "attachments/reported-speech-expressions.png",

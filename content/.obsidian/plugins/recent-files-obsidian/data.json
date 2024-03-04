@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Non-defining relative clauses",
+      "path": "english-grammar/Non-defining relative clauses.md"
+    },
+    {
       "basename": "Relative clauses, relative pronouns and adverbs",
       "path": "english-grammar/Relative clauses, relative pronouns and adverbs.md"
+    },
+    {
+      "basename": "Defining relative clauses",
+      "path": "english-grammar/Defining relative clauses.md"
+    },
+    {
+      "basename": "Another vs Other",
+      "path": "english-grammar/Another vs Other.md"
     },
     {
       "basename": "Articles, nouns, pronouns, and determiners",
@@ -23,10 +35,6 @@
     {
       "basename": "Compound Nouns",
       "path": "english-grammar/Compound Nouns.md"
-    },
-    {
-      "basename": "Another vs Other",
-      "path": "english-grammar/Another vs Other.md"
     },
     {
       "basename": "All and both in mid position",
@@ -191,14 +199,6 @@
     {
       "basename": "Transitive and Intransitive Phrasal Verbs",
       "path": "english-grammar/Transitive and Intransitive Phrasal Verbs.md"
-    },
-    {
-      "basename": "Verbs with two objects",
-      "path": "english-grammar/Verbs with two objects.md"
-    },
-    {
-      "basename": "Direct and Indirect Object",
-      "path": "english-grammar/Direct and Indirect Object.md"
     }
   ],
   "omittedPaths": [],
