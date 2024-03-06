@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Another vs Other.md",
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7741eda60ac2844e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Another vs Other.md",
+                "file": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224511,
+                  "scale": 1.0534979423868314,
                   "close": true
                 }
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Another vs Other.md"
+                "file": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Another vs Other.md"
+                "file": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md"
               }
             }
           },
@@ -203,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Another vs Other.md",
+                "file": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Another vs Other.md",
+                "file": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,14 +259,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "71b631915324cadb",
+  "active": "7741eda60ac2844e",
   "lastOpenFiles": [
     "english-grammar/Relative clauses, relative pronouns and adverbs.md",
-    "english-grammar/Defining relative clauses.md",
+    "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
     "english-grammar/Non-defining relative clauses.md",
-    "english-grammar/Another vs Other.md",
-    "english-grammar/Articles, nouns, pronouns, and determiners.md",
+    "english-grammar/Defining relative clauses.md",
     "english-grammar/English Grammar List.md",
+    "english-grammar/Articles, nouns, pronouns, and determiners.md",
+    "english-grammar/Another vs Other.md",
     "english-grammar/'s and of.md",
     "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
     "english-grammar/Compound Nouns.md",
@@ -274,7 +288,6 @@
     "english-grammar/Passive Verbs with Two Objects.md",
     "english-grammar/Seem, Appear.md",
     "english-grammar/Get something done, Get someone to do.md",
-    "english-grammar/Have something done, Have someone do.md",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
     "attachments/reported-speech-expressions.png",
