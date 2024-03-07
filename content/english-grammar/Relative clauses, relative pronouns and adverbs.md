@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-05 22:55
+date: 2024-03-06 19:38
 tags:
   - english
   - grammar
@@ -8,6 +8,7 @@ tags:
 ## Notes
 - 📝 [[Defining relative clauses]]
 - 📝 [[Non-defining relative clauses]]
+- 📝 [[Prepositions in relative clauses]]
 - 🤔 [[Relative Clauses and Pronouns Common Mistakes]]
 
 ## Practices
