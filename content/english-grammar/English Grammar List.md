@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-06 20:50
+date: 2024-03-08 10:20
 tags:
   - english
   - grammar
@@ -23,3 +23,8 @@ I found that taking cloze tests is a great way to improve grammar. So, I will go
 - [[Relative clauses, relative pronouns and adverbs]]
 - [[There and it]]
 - [[Auxiliary verbs]]
+- [[Adjectives and adverbs]]
+- [[Conjunctions and clauses]]
+- [[Prepositions]]
+- [[Questions]]
+- [[Word order]]
