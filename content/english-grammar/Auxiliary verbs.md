@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-06 22:48
+date: 2024-03-08 08:24
 tags:
   - english
   - grammar
@@ -8,6 +8,8 @@ tags:
 
 ## Notes
 
+- 📝 [[Ellipsis]]
+- 📝 [[Substitution]]
 - 🤔 [[Auxiliary verbs Common Mistakes]]
 
 ## Practices

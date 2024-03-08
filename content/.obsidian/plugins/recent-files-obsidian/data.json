@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Ellipsis",
+      "path": "english-grammar/Ellipsis.md"
+    },
+    {
       "basename": "Auxiliary verbs Common Mistakes",
       "path": "english-grammar/Auxiliary verbs Common Mistakes.md"
+    },
+    {
+      "basename": "Substitution",
+      "path": "english-grammar/Substitution.md"
     },
     {
       "basename": "Auxiliary verbs",
@@ -191,14 +199,6 @@
     {
       "basename": "Modals Common Mistakes",
       "path": "english-grammar/Modals Common Mistakes.md"
-    },
-    {
-      "basename": "Modals, the imperative, phrasal verbs",
-      "path": "english-grammar/Modals, the imperative, phrasal verbs.md"
-    },
-    {
-      "basename": "Used to, be used to, get used to",
-      "path": "english-grammar/Used to, be used to, get used to.md"
     }
   ],
   "omittedPaths": [],

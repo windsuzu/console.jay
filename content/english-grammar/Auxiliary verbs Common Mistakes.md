@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-07 23:41
+date: 2024-03-08 08:17
 tags:
   - english
   - grammar
@@ -17,4 +17,10 @@ tags:
 >[!question]- I'm glad \____ (meet) you last night.
 >✅ that I met ✅ to have met
 >- When an infinitive refers to a past situation, we can use the **perfect infinitive**: (**to**) + **have** + past participle
+
+>[!question]- She was supposed to visit them, but she \____ .
+>✅ didn't ❌ wasn't
+>- We can avoid repeating an adjective, a verb or verb phrase and repeat only the auxiliary or modal verb. Use **do/does/did** in the second clause or sentence when the verb is present or past simple.
+>- She was supposed to visit them, but she didn't (visit them).
+
 
