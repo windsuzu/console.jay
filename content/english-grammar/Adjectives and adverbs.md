@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-08 17:51
+date: 2024-03-09 11:56
 tags:
   - english
   - grammar
@@ -10,6 +10,8 @@ tags:
 
 - 📝 [[Anymore vs Any more]]
 - 📝 [[The most ... in or of]]
+- 📝 [[Well-known groups of people]]
+- 📝 [[Nationalities]]
 - 🤔 [[Adjectives and adverbs Common Mistakes]]
 
 ## Practices
@@ -29,7 +31,7 @@ tags:
 | B1+   | [Participles as adjectives (-ed / -ing adjectives)](https://test-english.com/grammar-points/b1-b2/participle-adjectives/)                         |
 | B1    | [So, such, such a, so much, so many](https://test-english.com/grammar-points/b1/so-such-such-a-so-much-so-many/)                                  |
 | B1+   | [So, such (a), so much, so many](https://test-english.com/grammar-points/b1-b2/so-such-a-so-much-so-many/)                                        |
-| B1+   | [Adjectives without noun](https://test-english.com/grammar-points/b1-b2/adjectives-without-noun/)                                                 |
+| B1+ ⭐ | [Adjectives without noun](https://test-english.com/grammar-points/b1-b2/adjectives-without-noun/)                                                 |
 | B1+   | [Adjective order](https://test-english.com/grammar-points/b1-b2/adjective-order/)                                                                 |
 | B1+   | [Already, still, yet – What’s the difference?](https://test-english.com/grammar-points/b1-b2/already-still-yet-whats-the-difference/)             |
 | B1+   | [Pretty, rather, quite, fairly](https://test-english.com/grammar-points/b1-b2/pretty-rather-quite-fairly-intensifiers/)                           |

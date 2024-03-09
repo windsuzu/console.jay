@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-08 23:03
+date: 2024-03-09 11:55
 tags:
   - english
   - grammar
@@ -29,4 +29,8 @@ tags:
 >[!question]- I've got so \____ (work) to do that I don't know where to start.
 >✅ much work ❌ many works 
 >- Use **so much** + uncountable noun + **(that)**…
+
+>[!question]- They are organizing a Christmas party for \____ .
+>✅ the elderly ✅ old people ❌ the old people
+>- We can use **the + adjective** (without noun) when we a referring to certain groups of people in general. For example, when we want to talk about people who are deaf, we can say **the deaf**, as an alternative to **deaf people**.
 

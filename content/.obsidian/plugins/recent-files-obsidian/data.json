@@ -5,8 +5,20 @@
       "path": "english-grammar/Adjectives and adverbs.md"
     },
     {
+      "basename": "English Grammar List",
+      "path": "english-grammar/English Grammar List.md"
+    },
+    {
       "basename": "Adjectives and adverbs Common Mistakes",
       "path": "english-grammar/Adjectives and adverbs Common Mistakes.md"
+    },
+    {
+      "basename": "Nationalities",
+      "path": "english-grammar/Nationalities.md"
+    },
+    {
+      "basename": "Well-known groups of people",
+      "path": "english-grammar/Well-known groups of people.md"
     },
     {
       "basename": "The most ... in or of",
@@ -27,10 +39,6 @@
     {
       "basename": "Word order",
       "path": "english-grammar/Word order.md"
-    },
-    {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
     },
     {
       "basename": "Questions",
@@ -191,14 +199,6 @@
     {
       "basename": "Conditionals Common Mistakes",
       "path": "english-grammar/Conditionals Common Mistakes.md"
-    },
-    {
-      "basename": "Conditionals",
-      "path": "english-grammar/Conditionals.md"
-    },
-    {
-      "basename": "Would prefer to",
-      "path": "english-grammar/Would prefer to.md"
     }
   ],
   "omittedPaths": [],
