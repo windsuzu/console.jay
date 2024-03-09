@@ -5,20 +5,20 @@
       "path": "english-grammar/Adjectives and adverbs.md"
     },
     {
-      "basename": "question",
-      "path": "_templates/question.md"
+      "basename": "Adjectives and adverbs Common Mistakes",
+      "path": "english-grammar/Adjectives and adverbs Common Mistakes.md"
     },
     {
       "basename": "The most ... in or of",
       "path": "english-grammar/The most ... in or of.md"
     },
     {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
+      "basename": "question",
+      "path": "_templates/question.md"
     },
     {
-      "basename": "Adjectives and adverbs Common Mistakes",
-      "path": "english-grammar/Adjectives and adverbs Common Mistakes.md"
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "Anymore vs Any more",

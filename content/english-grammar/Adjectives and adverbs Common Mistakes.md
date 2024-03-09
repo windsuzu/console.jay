@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-08 18:02
+date: 2024-03-08 23:03
 tags:
   - english
   - grammar
@@ -17,4 +17,16 @@ tags:
 >[!question]- You look much \____ (thin) than the last time I saw you.
 >✅ thinner ❌ thiner
 >- We add -_**er**_ and -**est** to make the comparative form of one-syllable adjectives or adverbs. We double the last consonant if the adjectives or adverbs end in consonant-vowel-consonant (**hotter, thinner, fatter, etc**.).
+
+>[!question]- We had a really good time. It was \____ pity that you couldn't come.
+>✅ such a ❌ such 
+>- Use **such a** + countable singular noun + **(that)**
+
+>[!question]- Why is heroin \____ hard drug to fight?
+>✅ such a ❌ such 
+>- We use **such a** + (adjective) + countable singular noun + **(that)**...
+
+>[!question]- I've got so \____ (work) to do that I don't know where to start.
+>✅ much work ❌ many works 
+>- Use **so much** + uncountable noun + **(that)**…
 
