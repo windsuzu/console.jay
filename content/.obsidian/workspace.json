@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "ff2f2bbdbbf8f20f",
+            "id": "6f8fd2b2e18b576f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/The most ... in.md",
+                "file": "english-grammar/The most ... in or of.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/The most ... in.md",
+                "file": "english-grammar/Adjectives and adverbs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/The most ... in.md"
+                "file": "english-grammar/Adjectives and adverbs.md"
               }
             }
           },
@@ -206,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/The most ... in.md"
+                "file": "english-grammar/Adjectives and adverbs.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/The most ... in.md",
+                "file": "english-grammar/Adjectives and adverbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/The most ... in.md",
+                "file": "english-grammar/Adjectives and adverbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,10 +258,13 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "ff2f2bbdbbf8f20f",
+  "active": "71b631915324cadb",
   "lastOpenFiles": [
+    "_templates/question.md",
+    "english-grammar/The most ... in or of.md",
     "english-grammar/Adjectives and adverbs.md",
-    "english-grammar/The most ... in.md",
+    "_templates/default-note.md",
+    "english-grammar/Adjectives and adverbs Common Mistakes.md",
     "english-grammar/Anymore vs Any more.md",
     "english-grammar/Word order.md",
     "english-grammar/English Grammar List.md",
@@ -284,9 +286,6 @@
     "english-grammar/Another vs Other.md",
     "english-grammar/'s and of.md",
     "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
-    "english-grammar/Compound Nouns.md",
-    "english-grammar/All and both in mid position.md",
-    "english-grammar/Use no article.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "The most ... in",
-      "path": "english-grammar/The most ... in.md"
-    },
-    {
       "basename": "Adjectives and adverbs",
       "path": "english-grammar/Adjectives and adverbs.md"
+    },
+    {
+      "basename": "question",
+      "path": "_templates/question.md"
+    },
+    {
+      "basename": "The most ... in or of",
+      "path": "english-grammar/The most ... in or of.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
+      "basename": "Adjectives and adverbs Common Mistakes",
+      "path": "english-grammar/Adjectives and adverbs Common Mistakes.md"
     },
     {
       "basename": "Anymore vs Any more",
@@ -187,18 +199,6 @@
     {
       "basename": "Would prefer to",
       "path": "english-grammar/Would prefer to.md"
-    },
-    {
-      "basename": "Would rather",
-      "path": "english-grammar/Would rather.md"
-    },
-    {
-      "basename": "I wish and If only",
-      "path": "english-grammar/I wish and If only.md"
-    },
-    {
-      "basename": "Suppose, Supposing, Imagine, What if",
-      "path": "english-grammar/Suppose, Supposing, Imagine, What if.md"
     }
   ],
   "omittedPaths": [],
