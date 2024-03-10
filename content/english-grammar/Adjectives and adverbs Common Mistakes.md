@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-09 11:55
+date: 2024-03-09 15:03
 tags:
   - english
   - grammar
@@ -33,4 +33,10 @@ tags:
 >[!question]- They are organizing a Christmas party for \____ .
 >✅ the elderly ✅ old people ❌ the old people
 >- We can use **the + adjective** (without noun) when we a referring to certain groups of people in general. For example, when we want to talk about people who are deaf, we can say **the deaf**, as an alternative to **deaf people**.
+
+>[!question]- These shoes are \____ uncomfortable. I can't wait to take them off.
+>✅ rather ❌ pretty 
+>- **Rather** is often used to add intensity to a negative idea.  
+>- **Pretty** is not suitable because it is rarely used in negative contexts.  
+>- The meaning of **fairly** is too weak for this context; it adds little intensity to the adjective.
 
