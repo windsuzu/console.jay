@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Adjectives and adverbs",
-      "path": "english-grammar/Adjectives and adverbs.md"
+      "basename": "Conjunctions and clauses",
+      "path": "english-grammar/Conjunctions and clauses.md"
+    },
+    {
+      "basename": "Clauses of purpose",
+      "path": "english-grammar/Clauses of purpose.md"
+    },
+    {
+      "basename": "Clauses of contrast",
+      "path": "english-grammar/Clauses of contrast.md"
+    },
+    {
+      "basename": "Gerund",
+      "path": "english-grammar/Gerund.md"
     },
     {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "Adjectives and adverbs",
+      "path": "english-grammar/Adjectives and adverbs.md"
     },
     {
       "basename": "Adjectives and adverbs Common Mistakes",
@@ -47,10 +63,6 @@
     {
       "basename": "Prepositions",
       "path": "english-grammar/Prepositions.md"
-    },
-    {
-      "basename": "Conjunctions and clauses",
-      "path": "english-grammar/Conjunctions and clauses.md"
     },
     {
       "basename": "Auxiliary verbs",
@@ -149,10 +161,6 @@
       "path": "english-grammar/Expressing purpose with to and for.md"
     },
     {
-      "basename": "Gerund",
-      "path": "english-grammar/Gerund.md"
-    },
-    {
       "basename": "Verbs that take gerund or infinitive",
       "path": "english-grammar/Verbs that take gerund or infinitive.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Reporting Verbs",
       "path": "english-grammar/Reporting Verbs.md"
-    },
-    {
-      "basename": "Reporting Verbs with Subject",
-      "path": "english-grammar/Reporting Verbs with Subject.md"
-    },
-    {
-      "basename": "Conditionals Common Mistakes",
-      "path": "english-grammar/Conditionals Common Mistakes.md"
     }
   ],
   "omittedPaths": [],

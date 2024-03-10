@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Adjectives and adverbs.md",
+                "file": "english-grammar/Conjunctions and clauses.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Adjectives and adverbs.md",
+                "file": "english-grammar/Conjunctions and clauses.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Adjectives and adverbs.md"
+                "file": "english-grammar/Conjunctions and clauses.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Adjectives and adverbs.md"
+                "file": "english-grammar/Conjunctions and clauses.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Adjectives and adverbs.md",
+                "file": "english-grammar/Conjunctions and clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Adjectives and adverbs.md",
+                "file": "english-grammar/Conjunctions and clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +248,14 @@
   },
   "active": "71b631915324cadb",
   "lastOpenFiles": [
+    "english-grammar/Clauses of purpose.md",
+    "english-grammar/Conjunctions and clauses.md",
+    "english-grammar/Clauses of contrast.md",
+    "english-grammar/Gerund.md",
     "english-grammar/English Grammar List.md",
+    "english-grammar/Adjectives and adverbs.md",
     "english-grammar/Adjectives and adverbs Common Mistakes.md",
     "english-grammar/Nationalities.md",
-    "english-grammar/Adjectives and adverbs.md",
     "english-grammar/Well-known groups of people.md",
     "english-grammar/The most ... in or of.md",
     "_templates/question.md",
@@ -260,7 +264,6 @@
     "english-grammar/Word order.md",
     "english-grammar/Questions.md",
     "english-grammar/Prepositions.md",
-    "english-grammar/Conjunctions and clauses.md",
     "english-grammar/Auxiliary verbs.md",
     "english-grammar/Substitution.md",
     "english-grammar/Ellipsis.md",
@@ -271,9 +274,6 @@
     "english-grammar/Prepositions in relative clauses.md",
     "english-grammar/Defining relative clauses.md",
     "english-grammar/Non-defining relative clauses.md",
-    "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
-    "english-grammar/Articles, nouns, pronouns, and determiners.md",
-    "english-grammar/Another vs Other.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",

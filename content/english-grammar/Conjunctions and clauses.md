@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-08 10:18
+date: 2024-03-09 18:11
 tags:
   - english
   - grammar
@@ -8,7 +8,8 @@ tags:
 
 ## Notes
 
-- 
+- 📝 [[Clauses of contrast]]
+- 📝 [[Clauses of purpose]]
 
 ## Practices
 
