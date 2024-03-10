@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-09 18:10
+date: 2024-03-09 20:59
 tags:
   - english
   - grammar
@@ -14,7 +14,7 @@ At the beginning or in the middle of a sentence, we can use `although` or `even 
 >- We won, **even though** we had a bad game.
 
 ### Despite, In spite of
-`Despite` and `In spite of` function mostly like `although`. However, Both can only be followed by a noun or a [[gerund]].
+`Despite` and `In spite of` function mostly like `although`. However, both can only be followed by a noun or a [[gerund]].
 
 >[!example]
 >- **Despite** the rain, we went to the concert.

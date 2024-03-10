@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Clauses of contrast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3fdadce259d651f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Clauses of reason.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499a3361d0570fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Clauses of result.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Clauses of contrast.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md"
+                "file": "english-grammar/Clauses of contrast.md"
               }
             }
           },
@@ -193,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md"
+                "file": "english-grammar/Clauses of contrast.md"
               }
             }
           },
@@ -203,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Clauses of contrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Clauses of contrast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +272,10 @@
   },
   "active": "71b631915324cadb",
   "lastOpenFiles": [
-    "english-grammar/Clauses of purpose.md",
     "english-grammar/Conjunctions and clauses.md",
+    "english-grammar/Clauses of result.md",
+    "english-grammar/Clauses of reason.md",
+    "english-grammar/Clauses of purpose.md",
     "english-grammar/Clauses of contrast.md",
     "english-grammar/Gerund.md",
     "english-grammar/English Grammar List.md",
@@ -272,8 +298,6 @@
     "english-grammar/There and It Common Mistakes.md",
     "english-grammar/Relative clauses, relative pronouns and adverbs.md",
     "english-grammar/Prepositions in relative clauses.md",
-    "english-grammar/Defining relative clauses.md",
-    "english-grammar/Non-defining relative clauses.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",

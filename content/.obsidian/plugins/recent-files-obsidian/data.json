@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Clauses of contrast",
+      "path": "english-grammar/Clauses of contrast.md"
+    },
+    {
       "basename": "Conjunctions and clauses",
       "path": "english-grammar/Conjunctions and clauses.md"
     },
     {
-      "basename": "Clauses of purpose",
-      "path": "english-grammar/Clauses of purpose.md"
+      "basename": "Clauses of result",
+      "path": "english-grammar/Clauses of result.md"
     },
     {
-      "basename": "Clauses of contrast",
-      "path": "english-grammar/Clauses of contrast.md"
+      "basename": "Clauses of reason",
+      "path": "english-grammar/Clauses of reason.md"
+    },
+    {
+      "basename": "Clauses of purpose",
+      "path": "english-grammar/Clauses of purpose.md"
     },
     {
       "basename": "Gerund",
@@ -191,14 +199,6 @@
     {
       "basename": "Indirect Speech",
       "path": "english-grammar/Indirect Speech.md"
-    },
-    {
-      "basename": "Passive Common Mistakes",
-      "path": "english-grammar/Passive Common Mistakes.md"
-    },
-    {
-      "basename": "Reporting Verbs",
-      "path": "english-grammar/Reporting Verbs.md"
     }
   ],
   "omittedPaths": [],

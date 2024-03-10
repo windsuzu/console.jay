@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-09 18:11
+date: 2024-03-09 20:41
 tags:
   - english
   - grammar
@@ -10,6 +10,8 @@ tags:
 
 - 📝 [[Clauses of contrast]]
 - 📝 [[Clauses of purpose]]
+- 📝 [[Clauses of reason]]
+- 📝 [[Clauses of result]]
 
 ## Practices
 
