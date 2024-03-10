@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-09 20:41
+date: 2024-03-10 15:21
 tags:
   - english
   - grammar
@@ -8,10 +8,13 @@ tags:
 
 ## Notes
 
-- 📝 [[Clauses of contrast]]
-- 📝 [[Clauses of purpose]]
-- 📝 [[Clauses of reason]]
-- 📝 [[Clauses of result]]
+- Adverbial Clauses
+	- 📝 [[Clauses of contrast]]
+	- 📝 [[Clauses of purpose]]
+	- 📝 [[Clauses of reason]]
+	- 📝 [[Clauses of result]]
+- 📝 [[Discourse markers]]
+- 📝 [[Participle Clauses]]
 
 ## Practices
 

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Participle Clauses",
+      "path": "english-grammar/Participle Clauses.md"
+    },
+    {
       "basename": "Conjunctions and clauses",
       "path": "english-grammar/Conjunctions and clauses.md"
+    },
+    {
+      "basename": "Discourse markers",
+      "path": "english-grammar/Discourse markers.md"
     },
     {
       "basename": "English Grammar List",
@@ -191,14 +199,6 @@
     {
       "basename": "Get something done, Get someone to do",
       "path": "english-grammar/Get something done, Get someone to do.md"
-    },
-    {
-      "basename": "Have something done, Have someone do",
-      "path": "english-grammar/Have something done, Have someone do.md"
-    },
-    {
-      "basename": "Indirect Speech",
-      "path": "english-grammar/Indirect Speech.md"
     }
   ],
   "omittedPaths": [],

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f473e9586f9e229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Participle Clauses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Participle Clauses.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md"
+                "file": "english-grammar/Participle Clauses.md"
               }
             }
           },
@@ -206,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md"
+                "file": "english-grammar/Participle Clauses.md"
               }
             }
           },
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Participle Clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Conjunctions and clauses.md",
+                "file": "english-grammar/Participle Clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,8 +271,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "39065f0c4566c27d",
+  "active": "0f473e9586f9e229",
   "lastOpenFiles": [
+    "english-grammar/Conjunctions and clauses.md",
+    "english-grammar/Participle Clauses.md",
+    "english-grammar/Discourse markers.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Auxiliary verbs Common Mistakes.md",
     "english-grammar/Auxiliary verbs.md",
@@ -269,7 +284,6 @@
     "english-grammar/Word order.md",
     "english-grammar/Questions.md",
     "english-grammar/Prepositions.md",
-    "english-grammar/Conjunctions and clauses.md",
     "english-grammar/Clauses of result.md",
     "english-grammar/Clauses of reason.md",
     "english-grammar/Clauses of contrast.md",
@@ -285,8 +299,6 @@
     "english-grammar/Substitution.md",
     "english-grammar/There and it.md",
     "english-grammar/There and It Common Mistakes.md",
-    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
-    "english-grammar/Prepositions in relative clauses.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
