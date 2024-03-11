@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-10 15:21
+date: 2024-03-10 16:54
 tags:
   - english
   - grammar
@@ -26,4 +26,4 @@ tags:
 | B1+   | [Clauses of contrast and purpose](https://test-english.com/grammar-points/b1-b2/clauses-contrast-purpose/)                            |
 | B2    | [Clauses of contrast, purpose, reason and result](https://test-english.com/grammar-points/b2/clauses-contrast-purpose-reason-result/) |
 | B2    | [Discourse markers – linking words](https://test-english.com/grammar-points/b2/discourse-markers/)                                    |
-| B2    | [Participle clauses](https://test-english.com/grammar-points/b2/participle-clauses/)                                                  |
+| B2 ⭐  | [Participle clauses](https://test-english.com/grammar-points/b2/participle-clauses/)                                                  |
