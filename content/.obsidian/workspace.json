@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d4613904c9a327e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english-grammar/Prepositions of place.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91d8045f3deba083",
@@ -103,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Prepositions.md",
+                "file": "english-grammar/Prepositions of place.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Prepositions.md"
+                "file": "english-grammar/Prepositions of place.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Prepositions.md"
+                "file": "english-grammar/Prepositions of place.md"
               }
             }
           },
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Prepositions.md",
+                "file": "english-grammar/Prepositions of place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Prepositions.md",
+                "file": "english-grammar/Prepositions of place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,11 +259,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "9695eb27c8e1c12c",
+  "active": "9d4613904c9a327e",
   "lastOpenFiles": [
+    "attachments/prepositions-of-place.png",
+    "english-grammar/Prepositions of place.md",
+    "english-grammar/Prepositions.md",
+    "english-grammar/Prepositions of time.md",
+    "attachments/prepositions-of-time.png",
     "english-grammar/English Grammar List.md",
     "english-grammar/Conjunctions and clauses.md",
-    "english-grammar/Prepositions.md",
     "english-grammar/Questions.md",
     "english-grammar/Adjectives and adverbs.md",
     "mocs/English MOC.md",
@@ -272,9 +288,6 @@
     "english-grammar/The most ... in or of.md",
     "_templates/question.md",
     "_templates/default-note.md",
-    "english-grammar/Anymore vs Any more.md",
-    "english-grammar/Substitution.md",
-    "english-grammar/There and it.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
@@ -285,8 +298,6 @@
     "attachments/min-height-container-issue.png",
     "attachments/chart-js-example.png",
     "react",
-    "attachments/tailwind-custom-plugin-result.png",
-    "attachments/tailwind-custom-plugin-intellisense.png",
     "workflow",
     "javascript",
     "mocs",
