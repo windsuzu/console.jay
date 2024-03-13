@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Prepositions of place",
       "path": "english-grammar/Prepositions of place.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Expressing purpose with to and for",
       "path": "english-grammar/Expressing purpose with to and for.md"
-    },
-    {
-      "basename": "Verbs that take gerund or infinitive",
-      "path": "english-grammar/Verbs that take gerund or infinitive.md"
     }
   ],
   "omittedPaths": [],
