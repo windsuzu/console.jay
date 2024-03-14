@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2024-03-03 18:06
+date: 2024-03-13 00:04
 tags:
   - english
   - grammar
 ---
 
-Defining relative clauses ==**provide essential information**== about the person or thing we are discussing. They **don't require commas**.
+Defining relative clauses ==provide essential information== about the person or thing we are discussing. They **don't require commas**.
 
 >[!example]
 >- This is the music **which was used at the show**. 

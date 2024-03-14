@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2024-03-03 18:12
+date: 2024-03-13 00:04
 tags:
   - english
   - grammar
 ---
 
-Non-defining relative clauses ==**add details, not essential,**== about the person or thing we are discussing. They are **usually set off by commas**.
+Non-defining relative clauses ==add details, not essential,== about the person or thing we are discussing. They are **usually set off by commas**.
 
 >[!example]
 >- This music, **which I really like**, was used at the show.

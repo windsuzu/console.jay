@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Prepositions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d4613904c9a327e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Prepositions of place.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c93f8217bb3d403b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "english-grammar/English Grammar List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "english-grammar/English Grammar List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -218,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "english-grammar/English Grammar List.md"
               }
             }
           },
@@ -228,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "english-grammar/English Grammar List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "english-grammar/English Grammar List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,19 +246,25 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "c93f8217bb3d403b",
+  "active": "9695eb27c8e1c12c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "english-grammar/Prepositions of place.md",
-    "attachments/prepositions-of-place.png",
+    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
+    "english-grammar/Prepositions in relative clauses.md",
+    "english-grammar/Non-defining relative clauses.md",
+    "english-grammar/Defining relative clauses.md",
+    "english-grammar/English Grammar List.md",
     "english-grammar/Prepositions.md",
+    "english-grammar/Prepositions of place.md",
+    "mocs/English MOC.md",
+    "index.md",
+    "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
+    "Untitled.md",
+    "attachments/prepositions-of-place.png",
     "english-grammar/Prepositions of time.md",
     "attachments/prepositions-of-time.png",
-    "english-grammar/English Grammar List.md",
     "english-grammar/Conjunctions and clauses.md",
     "english-grammar/Questions.md",
     "english-grammar/Adjectives and adverbs.md",
-    "mocs/English MOC.md",
     "english-grammar/Participle Clauses.md",
     "english-grammar/Discourse markers.md",
     "english-grammar/Auxiliary verbs Common Mistakes.md",
@@ -295,12 +276,6 @@
     "english-grammar/Clauses of contrast.md",
     "english-grammar/Clauses of purpose.md",
     "english-grammar/Gerund.md",
-    "english-grammar/Adjectives and adverbs Common Mistakes.md",
-    "english-grammar/Nationalities.md",
-    "english-grammar/Well-known groups of people.md",
-    "english-grammar/The most ... in or of.md",
-    "_templates/question.md",
-    "_templates/default-note.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
