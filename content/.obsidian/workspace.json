@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Prepositions of time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9177939118c7253a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "english-grammar/Prepositions of place.md",
+                "file": "english-grammar/Prepositions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Prepositions of place.md",
+                "file": "english-grammar/Prepositions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868314,
+                  "scale": 2.0707092497453012,
                   "close": true
                 }
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Prepositions of place.md"
+                "file": "english-grammar/Prepositions.md"
               }
             }
           },
@@ -206,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Prepositions of place.md"
+                "file": "english-grammar/Prepositions.md"
               }
             }
           },
@@ -216,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Prepositions of place.md",
+                "file": "english-grammar/Prepositions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Prepositions of place.md",
+                "file": "english-grammar/Prepositions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,11 +246,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "9177939118c7253a",
+  "active": "9695eb27c8e1c12c",
   "lastOpenFiles": [
-    "english-grammar/Prepositions of time.md",
     "english-grammar/Prepositions of place.md",
     "english-grammar/Prepositions.md",
+    "english-grammar/Prepositions of time.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Relative clauses, relative pronouns and adverbs.md",
     "english-grammar/Prepositions in relative clauses.md",
