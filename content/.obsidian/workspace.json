@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9695eb27c8e1c12c",
+            "id": "eedc478408a931db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,10 +246,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "9695eb27c8e1c12c",
+  "active": "eedc478408a931db",
   "lastOpenFiles": [
-    "english-grammar/Prepositions of place.md",
+    "english-grammar/Prepositions Common Mistakes.md",
+    "english-grammar/On time vs In time.md",
+    "_templates/example callout.md",
+    "_templates/question callout.md",
     "english-grammar/Prepositions.md",
+    "english-grammar/Prepositions of place.md",
     "english-grammar/Prepositions of time.md",
     "english-grammar/English Grammar List.md",
     "english-grammar/Relative clauses, relative pronouns and adverbs.md",
@@ -272,10 +276,6 @@
     "english-grammar/Ellipsis.md",
     "english-grammar/Word order.md",
     "english-grammar/Clauses of result.md",
-    "english-grammar/Clauses of reason.md",
-    "english-grammar/Clauses of contrast.md",
-    "english-grammar/Clauses of purpose.md",
-    "english-grammar/Gerund.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",

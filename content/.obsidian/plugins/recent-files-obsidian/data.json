@@ -5,6 +5,22 @@
       "path": "english-grammar/Prepositions.md"
     },
     {
+      "basename": "Prepositions Common Mistakes",
+      "path": "english-grammar/Prepositions Common Mistakes.md"
+    },
+    {
+      "basename": "On time vs In time",
+      "path": "english-grammar/On time vs In time.md"
+    },
+    {
+      "basename": "example callout",
+      "path": "_templates/example callout.md"
+    },
+    {
+      "basename": "question callout",
+      "path": "_templates/question callout.md"
+    },
+    {
       "basename": "Prepositions of place",
       "path": "english-grammar/Prepositions of place.md"
     },
@@ -125,10 +141,6 @@
       "path": "english-grammar/The most ... in or of.md"
     },
     {
-      "basename": "question",
-      "path": "_templates/question.md"
-    },
-    {
       "basename": "default-note",
       "path": "_templates/default-note.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "-ing and the infinitive",
       "path": "english-grammar/-ing and the infinitive.md"
-    },
-    {
-      "basename": "Reported Speech",
-      "path": "english-grammar/Reported Speech.md"
-    },
-    {
-      "basename": "Ing and infinitive common mistakes",
-      "path": "english-grammar/Ing and infinitive common mistakes.md"
-    },
-    {
-      "basename": "Expressing purpose with to and for",
-      "path": "english-grammar/Expressing purpose with to and for.md"
     }
   ],
   "omittedPaths": [],
