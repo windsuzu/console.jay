@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-17 18:42
+date: 2024-03-17 22:45
 tags:
   - english
   - grammar
@@ -69,4 +69,8 @@ tags:
 >✅ of ❌ with 
 > - If a place or a container is **full of** things or people it means that there are a lot of things or people.
 
+>[!question]- Dr Karl was offended and he was quiet \____ the rest of the evening.
+>✅ for ❌ during 
+> - We use **for** + length of time to say **how long**  something happens. With **for**, we answer the question **how long**.
+> - How long was Dr Karl quiet?
 
