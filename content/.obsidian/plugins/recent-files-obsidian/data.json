@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Prepositions",
-      "path": "english-grammar/Prepositions.md"
-    },
-    {
       "basename": "Prepositions Common Mistakes",
       "path": "english-grammar/Prepositions Common Mistakes.md"
+    },
+    {
+      "basename": "Since vs From",
+      "path": "english-grammar/Since vs From.md"
+    },
+    {
+      "basename": "Prepositions",
+      "path": "english-grammar/Prepositions.md"
     },
     {
       "basename": "default-note",
@@ -195,10 +199,6 @@
     {
       "basename": "Some, Any",
       "path": "english-grammar/Some, Any.md"
-    },
-    {
-      "basename": "-ing and the infinitive",
-      "path": "english-grammar/-ing and the infinitive.md"
     }
   ],
   "omittedPaths": [],

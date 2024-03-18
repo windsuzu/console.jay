@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-17 22:45
+date: 2024-03-18 00:28
 tags:
   - english
   - grammar
@@ -73,4 +73,9 @@ tags:
 >✅ for ❌ during 
 > - We use **for** + length of time to say **how long**  something happens. With **for**, we answer the question **how long**.
 > - How long was Dr Karl quiet?
+
+>[!question]- He did yoga with her \____ the start of their relationship.
+>✅ from ❌ since
+> - We use **since** and **from** + starting point. They are used to mark the beginning of something: an action, a state or an event.
+> - The difference is that we normally use **since** with present or past perfect tenses and **from** in other cases.
 
