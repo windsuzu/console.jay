@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-17 00:32
+date: 2024-03-17 18:42
 tags:
   - english
   - grammar
@@ -27,4 +27,46 @@ tags:
 >[!question]- Students who fail to arrive \____ time will not be allowed into class. 
 >✅ on ❌ in 
 >- **On time** means 'punctually' or 'according to schedule'. This sentence means that the students who don't arrive punctually will not be allowed into class.
+
+>[!question]- He got married \____ his boss.
+>✅ to ❌ with 
+>- Say **get married to** someone.
+
+>[!question]- I spent all my money \____ clothes.
+>✅ on ❌ in 
+>- We say **spend money on** something, or **invest money in** something.
+
+>[!question]- We want to invest the money \____ a big house.
+>✅ in ❌ on 
+>- We say **spend money on** something, but **invest money in** something.
+
+>[!question]- She smiled \____ him, and he blushed.
+>✅ at ❌ to 
+>- Say **laugh, shout** or **smile at** someone.
+
+>[!question]- She reminds me \____ her mother.
+>✅ of ❌ about 
+>- Something or someone may **remind you of** another thing or person.
+
+>[!question]- They succeeded \____ forcing the company to accept the deal.
+>✅ in ❌ on
+>- Say **succeed in** something or doing something.
+
+>[!question]- You're always arguing \____ your dad.
+>✅ with ❌ about 
+> - Say **argue with** someone (**about** something).
+
+>[!question]- I'm fed up \____ my new boss. I hate him.
+>✅ with ❌ of
+> - If you are **fed up with** something or someone it means that you are annoyed, disappointed or angry, usually because you have had to tolerate this person or thing for a long time.
+
+>[!question]- He's very kind \____ the children.
+>✅ to ❌ of
+> - Say **be kind to** someone.
+> - We can also use **kind** in the expression: 'It's very kind of you (to do this).' We can say this when we are grateful to someone for something they have done.
+
+>[!question]- The place was full \____ people and energy.
+>✅ of ❌ with 
+> - If a place or a container is **full of** things or people it means that there are a lot of things or people.
+
 

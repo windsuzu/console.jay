@@ -9,8 +9,8 @@
       "path": "english-grammar/Prepositions Common Mistakes.md"
     },
     {
-      "basename": "On time vs In time",
-      "path": "english-grammar/On time vs In time.md"
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "example callout",
@@ -19,6 +19,10 @@
     {
       "basename": "question callout",
       "path": "_templates/question callout.md"
+    },
+    {
+      "basename": "On time vs In time",
+      "path": "english-grammar/On time vs In time.md"
     },
     {
       "basename": "Prepositions of place",
@@ -139,10 +143,6 @@
     {
       "basename": "The most ... in or of",
       "path": "english-grammar/The most ... in or of.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "Anymore vs Any more",
