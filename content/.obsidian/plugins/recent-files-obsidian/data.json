@@ -1,28 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Prepositions Common Mistakes",
-      "path": "english-grammar/Prepositions Common Mistakes.md"
+      "basename": "Questions",
+      "path": "english-grammar/Questions.md"
     },
     {
-      "basename": "Since vs From",
-      "path": "english-grammar/Since vs From.md"
+      "basename": "Prepositions Common Mistakes",
+      "path": "english-grammar/Prepositions Common Mistakes.md"
     },
     {
       "basename": "Prepositions",
       "path": "english-grammar/Prepositions.md"
     },
     {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
-    },
-    {
-      "basename": "example callout",
-      "path": "_templates/example callout.md"
-    },
-    {
-      "basename": "question callout",
-      "path": "_templates/question callout.md"
+      "basename": "Since vs From",
+      "path": "english-grammar/Since vs From.md"
     },
     {
       "basename": "On time vs In time",
@@ -39,6 +31,18 @@
     {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
+      "basename": "example callout",
+      "path": "_templates/example callout.md"
+    },
+    {
+      "basename": "question callout",
+      "path": "_templates/question callout.md"
     },
     {
       "basename": "Relative clauses, relative pronouns and adverbs",
@@ -79,10 +83,6 @@
     {
       "basename": "Conjunctions and clauses",
       "path": "english-grammar/Conjunctions and clauses.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "english-grammar/Questions.md"
     },
     {
       "basename": "Adjectives and adverbs",

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-18 00:28
+date: 2024-03-19 00:13
 tags:
   - english
   - grammar
@@ -42,7 +42,7 @@ tags:
 
 >[!question]- She smiled \____ him, and he blushed.
 >✅ at ❌ to 
->- Say **laugh, shout** or **smile at** someone.
+>- Say **laugh, shout** or **smile at** someone.
 
 >[!question]- She reminds me \____ her mother.
 >✅ of ❌ about 
