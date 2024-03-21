@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86a9fdff0afdddd7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,7 +246,7 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "86a9fdff0afdddd7",
+  "active": "194657a6c8d78da6",
   "lastOpenFiles": [
     "english-grammar/Prepositions Common Mistakes.md",
     "english-grammar/Prepositions.md",
