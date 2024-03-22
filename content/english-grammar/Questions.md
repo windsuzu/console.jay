@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-19 19:29
+date: 2024-03-21 17:25
 tags:
   - english
   - grammar
@@ -9,7 +9,7 @@ tags:
 
 ## Notes
 
-
+- 📝 [[Indirect questions]]
 
 ## Practices
 
