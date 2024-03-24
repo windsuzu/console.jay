@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "English Grammar List",
       "path": "english-grammar/English Grammar List.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "English MOC",
       "path": "mocs/English MOC.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Relative Clauses and Pronouns Common Mistakes",
