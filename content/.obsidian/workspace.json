@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "194657a6c8d78da6",
+            "id": "076735c26d771707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87f3bc682732fe51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/Resume, Cover Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,9 +258,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "194657a6c8d78da6",
+  "active": "076735c26d771707",
   "lastOpenFiles": [
-    "english-grammar/English Grammar List.md",
+    "mocs/Resume, Cover Letter.md",
+    "english-grammar/English Grammar.md",
+    "index.md",
+    "english-pronunciation/English Pronunciation.md",
+    "javascript/hasOwnProperty.md",
+    "mocs/JavaScript MOC.md",
+    "mocs/English MOC.md",
     "english-grammar/Word order.md",
     "english-grammar/Word order Common Mistakes.md",
     "english-grammar/Prepositions.md",
@@ -266,16 +284,10 @@
     "english-grammar/Prepositions in relative clauses.md",
     "english-grammar/Non-defining relative clauses.md",
     "english-grammar/Defining relative clauses.md",
-    "mocs/English MOC.md",
-    "index.md",
     "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
     "Untitled.md",
     "attachments/prepositions-of-place.png",
     "attachments/prepositions-of-time.png",
-    "english-grammar/Conjunctions and clauses.md",
-    "english-grammar/Adjectives and adverbs.md",
-    "english-grammar/Participle Clauses.md",
-    "english-grammar/Discourse markers.md",
     "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",

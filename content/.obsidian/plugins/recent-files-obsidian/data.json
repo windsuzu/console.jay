@@ -5,8 +5,24 @@
       "path": "index.md"
     },
     {
-      "basename": "English Grammar List",
-      "path": "english-grammar/English Grammar List.md"
+      "basename": "Resume, Cover Letter",
+      "path": "mocs/Resume, Cover Letter.md"
+    },
+    {
+      "basename": "English Grammar",
+      "path": "english-grammar/English Grammar.md"
+    },
+    {
+      "basename": "English Pronunciation",
+      "path": "english-pronunciation/English Pronunciation.md"
+    },
+    {
+      "basename": "hasOwnProperty",
+      "path": "javascript/hasOwnProperty.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
     },
     {
       "basename": "Word order",
@@ -75,10 +91,6 @@
     {
       "basename": "Defining relative clauses",
       "path": "english-grammar/Defining relative clauses.md"
-    },
-    {
-      "basename": "English MOC",
-      "path": "mocs/English MOC.md"
     },
     {
       "basename": "Relative Clauses and Pronouns Common Mistakes",
@@ -187,18 +199,6 @@
     {
       "basename": "Article, Nouns, Pronouns, Determiners Common Mistakes",
       "path": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
-    },
-    {
-      "basename": "Compound Nouns",
-      "path": "english-grammar/Compound Nouns.md"
-    },
-    {
-      "basename": "All and both in mid position",
-      "path": "english-grammar/All and both in mid position.md"
-    },
-    {
-      "basename": "Use no article",
-      "path": "english-grammar/Use no article.md"
     }
   ],
   "omittedPaths": [],
