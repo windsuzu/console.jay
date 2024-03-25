@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Measurable metrics on resume",
+      "path": "mocs/Measurable metrics on resume.md"
+    },
+    {
       "basename": "Resume, Cover Letter",
       "path": "mocs/Resume, Cover Letter.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Articles, nouns, pronouns, and determiners",
       "path": "english-grammar/Articles, nouns, pronouns, and determiners.md"
-    },
-    {
-      "basename": "Another vs Other",
-      "path": "english-grammar/Another vs Other.md"
     }
   ],
   "omittedPaths": [],
