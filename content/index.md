@@ -7,7 +7,7 @@ tags:
   - home
 --- 
 
-
+![[avatar-jay.jpeg|320]]
 
 **Greetings!** I'm Jay, a passionate software engineer hailing from Taiwan. My journey in the realm of technology has led me through diverse terrains, from **mobile development** and **artificial intelligence** to **web development**. This journey is fueled by an unyielding commitment to **continuous learning**, as I strive to enhance my skills and stay at the forefront of emerging technologies. Beyond the realm of code, I am also a dedicated **language enthusiast**. Fluent in my native language, Chinese, I am currently on a linguistic journey, mastering both **Japanese** and **English** with the aim of making them as natural to me as my mother tongue.
 
@@ -20,7 +20,6 @@ If you're interested in software development and computer science, check out the
 - [[CSS MOC]]
 - [[React MOC]]
 - [[Web-Dev MOC]]
-
 
 If you're curious about my language journey, step into the world of linguistics:
 - [[English Grammar]]

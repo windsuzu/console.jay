@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Resume, Cover Letter",
+      "path": "mocs/Resume, Cover Letter.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "Resume, Cover Letter",
-      "path": "mocs/Resume, Cover Letter.md"
+      "basename": "avatar-jay",
+      "path": "attachments/avatar-jay.jpeg"
     },
     {
       "basename": "English Grammar",
@@ -195,10 +199,6 @@
     {
       "basename": "'s and of",
       "path": "english-grammar/'s and of.md"
-    },
-    {
-      "basename": "Article, Nouns, Pronouns, Determiners Common Mistakes",
-      "path": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
     }
   ],
   "omittedPaths": [],

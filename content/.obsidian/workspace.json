@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Resume, Cover Letter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "mocs/Resume, Cover Letter.md"
               }
             }
           },
@@ -205,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "mocs/Resume, Cover Letter.md"
               }
             }
           },
@@ -215,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Resume, Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Resume, Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,11 +259,12 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "076735c26d771707",
+  "active": "87f3bc682732fe51",
   "lastOpenFiles": [
+    "index.md",
+    "attachments/avatar-jay.jpeg",
     "mocs/Resume, Cover Letter.md",
     "english-grammar/English Grammar.md",
-    "index.md",
     "english-pronunciation/English Pronunciation.md",
     "javascript/hasOwnProperty.md",
     "mocs/JavaScript MOC.md",
@@ -285,7 +287,6 @@
     "english-grammar/Non-defining relative clauses.md",
     "english-grammar/Defining relative clauses.md",
     "english-grammar/Relative Clauses and Pronouns Common Mistakes.md",
-    "Untitled.md",
     "attachments/prepositions-of-place.png",
     "attachments/prepositions-of-time.png",
     "Some",
@@ -296,7 +297,6 @@
     "attachments/trunk-based-development2.png",
     "attachments/quantity-query-1.png",
     "attachments/min-height-container-issue.png",
-    "attachments/chart-js-example.png",
     "react",
     "workflow",
     "javascript",
