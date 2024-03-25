@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Keywords on resume",
+      "path": "mocs/Keywords on resume.md"
+    },
+    {
       "basename": "Resume, Cover Letter",
       "path": "mocs/Resume, Cover Letter.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Another vs Other",
       "path": "english-grammar/Another vs Other.md"
-    },
-    {
-      "basename": "'s and of",
-      "path": "english-grammar/'s and of.md"
     }
   ],
   "omittedPaths": [],

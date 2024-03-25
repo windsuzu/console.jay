@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "687d0552007e364c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b801be6b331c17a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/Resume, Cover Letter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6085aa6eb1c2979d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/Keywords on resume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Resume, Cover Letter.md",
+                "file": "mocs/Keywords on resume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Resume, Cover Letter.md"
+                "file": "mocs/Keywords on resume.md"
               }
             }
           },
@@ -206,7 +242,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Resume, Cover Letter.md"
+                "file": "mocs/Keywords on resume.md"
               }
             }
           },
@@ -216,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Resume, Cover Letter.md",
+                "file": "mocs/Keywords on resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Resume, Cover Letter.md",
+                "file": "mocs/Keywords on resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,11 +295,12 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "87f3bc682732fe51",
+  "active": "6085aa6eb1c2979d",
   "lastOpenFiles": [
-    "index.md",
-    "attachments/avatar-jay.jpeg",
     "mocs/Resume, Cover Letter.md",
+    "index.md",
+    "mocs/Keywords on resume.md",
+    "attachments/avatar-jay.jpeg",
     "english-grammar/English Grammar.md",
     "english-pronunciation/English Pronunciation.md",
     "javascript/hasOwnProperty.md",
