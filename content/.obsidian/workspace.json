@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Keywords on resume.md",
+                "file": "mocs/Resume, Cover Letter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Keywords on resume.md"
+                "file": "mocs/Resume, Cover Letter.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Keywords on resume.md"
+                "file": "mocs/Resume, Cover Letter.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Keywords on resume.md",
+                "file": "mocs/Resume, Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Keywords on resume.md",
+                "file": "mocs/Resume, Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,11 +295,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "6085aa6eb1c2979d",
+  "active": "b801be6b331c17a6",
   "lastOpenFiles": [
+    "mocs/Keywords on resume.md",
     "mocs/Resume, Cover Letter.md",
     "index.md",
-    "mocs/Keywords on resume.md",
     "attachments/avatar-jay.jpeg",
     "english-grammar/English Grammar.md",
     "english-pronunciation/English Pronunciation.md",
