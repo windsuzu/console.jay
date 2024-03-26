@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Measurable metrics on resume",
-      "path": "mocs/Measurable metrics on resume.md"
+      "basename": "Avoid Cliches and Buzzwords on resume",
+      "path": "resume/Avoid Cliches and Buzzwords on resume.md"
     },
     {
       "basename": "Resume, Cover Letter",
-      "path": "mocs/Resume, Cover Letter.md"
+      "path": "resume/Resume, Cover Letter.md"
+    },
+    {
+      "basename": "Best length for a resume",
+      "path": "resume/Best length for a resume.md"
+    },
+    {
+      "basename": "Measurable metrics on resume",
+      "path": "resume/Measurable metrics on resume.md"
     },
     {
       "basename": "Keywords on resume",
-      "path": "mocs/Keywords on resume.md"
+      "path": "resume/Keywords on resume.md"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "There and it",
       "path": "english-grammar/There and it.md"
-    },
-    {
-      "basename": "There and It Common Mistakes",
-      "path": "english-grammar/There and It Common Mistakes.md"
-    },
-    {
-      "basename": "Articles, nouns, pronouns, and determiners",
-      "path": "english-grammar/Articles, nouns, pronouns, and determiners.md"
     }
   ],
   "omittedPaths": [],
