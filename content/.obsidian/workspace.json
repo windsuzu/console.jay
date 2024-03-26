@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "098293115be09537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6085aa6eb1c2979d",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Resume, Cover Letter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md"
+                "file": "resume/Resume, Cover Letter.md"
               }
             }
           },
@@ -266,7 +254,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md"
+                "file": "resume/Resume, Cover Letter.md"
               }
             }
           },
@@ -276,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Resume, Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Resume, Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,10 +307,10 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "098293115be09537",
+  "active": "2defd70c65809db0",
   "lastOpenFiles": [
-    "resume/Resume, Cover Letter.md",
     "resume/Avoid Cliches and Buzzwords on resume.md",
+    "resume/Resume, Cover Letter.md",
     "resume",
     "resume/Best length for a resume.md",
     "resume/Measurable metrics on resume.md",
