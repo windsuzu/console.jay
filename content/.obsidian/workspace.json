@@ -49,9 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/Resume, Cover Letter.md",
+                "file": "resume/Keywords on resume.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6d0348c055544a34",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           },
@@ -61,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/Resume, Cover Letter.md",
+                "file": "resume/Measurable metrics on resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "resume/Resume, Cover Letter.md",
+                "file": "resume/Keywords on resume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume/Resume, Cover Letter.md"
+                "file": "resume/Keywords on resume.md"
               }
             }
           },
@@ -254,7 +264,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "resume/Resume, Cover Letter.md"
+                "file": "resume/Keywords on resume.md"
               }
             }
           },
@@ -264,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Resume, Cover Letter.md",
+                "file": "resume/Keywords on resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume/Resume, Cover Letter.md",
+                "file": "resume/Keywords on resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,14 +317,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "2defd70c65809db0",
+  "active": "6d0348c055544a34",
   "lastOpenFiles": [
-    "resume/Avoid Cliches and Buzzwords on resume.md",
     "resume/Resume, Cover Letter.md",
-    "resume",
+    "resume/Avoid Cliches and Buzzwords on resume.md",
     "resume/Best length for a resume.md",
     "resume/Measurable metrics on resume.md",
     "resume/Keywords on resume.md",
+    "resume",
     "index.md",
     "attachments/avatar-jay.jpeg",
     "english-grammar/English Grammar.md",
