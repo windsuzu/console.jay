@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 23:20
+date: 2024-05-04 21:29
 tags:
   - english
   - grammar
@@ -31,7 +31,6 @@ tags:
 >- They are said to **have been** in Las Vegas. (to + have participle)
 
 Find more details about [[Reporting Verbs with Subject|reporting verbs with subject here]].
-
 
 > [!info] References
 > - https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs

@@ -13,84 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87f3bc682732fe51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/Resume, Cover Letter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "687d0552007e364c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b801be6b331c17a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/Keywords on resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d0348c055544a34",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
-          },
-          {
-            "id": "2defd70c65809db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/Measurable metrics on resume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6085aa6eb1c2979d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.0707092497453012,
+                  "scale": 0.7514342322277584,
                   "close": true
                 }
               }
@@ -223,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume/Keywords on resume.md"
+                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
               }
             }
           },
@@ -264,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "resume/Keywords on resume.md"
+                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
               }
             }
           },
@@ -274,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,36 +246,36 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "6d0348c055544a34",
+  "active": "076735c26d771707",
   "lastOpenFiles": [
-    "resume/Resume, Cover Letter.md",
-    "resume/Avoid Cliches and Buzzwords on resume.md",
-    "resume/Best length for a resume.md",
-    "resume/Measurable metrics on resume.md",
-    "resume/Keywords on resume.md",
-    "resume",
-    "index.md",
-    "attachments/avatar-jay.jpeg",
+    "english-grammar/Articles, nouns, pronouns, and determiners.md",
+    "english-grammar/Compound Nouns.md",
+    "english-grammar/Another vs Other.md",
+    "english-grammar/All and both in mid position.md",
+    "english-grammar/Use no article.md",
+    "english-grammar/The.md",
+    "english-grammar/'s and of.md",
+    "english-grammar/Some, Any.md",
     "english-grammar/English Grammar.md",
-    "english-pronunciation/English Pronunciation.md",
-    "javascript/hasOwnProperty.md",
-    "mocs/JavaScript MOC.md",
-    "mocs/English MOC.md",
-    "english-grammar/Word order.md",
-    "english-grammar/Word order Common Mistakes.md",
-    "english-grammar/Prepositions.md",
-    "english-grammar/Questions.md",
-    "english-grammar/Indirect questions.md",
-    "english-grammar/Prepositions Common Mistakes.md",
-    "english-grammar/Since vs From.md",
-    "english-grammar/On time vs In time.md",
-    "english-grammar/Prepositions of place.md",
-    "english-grammar/Prepositions of time.md",
-    "_templates/default-note.md",
-    "_templates/example callout.md",
-    "_templates/question callout.md",
-    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
-    "english-grammar/Prepositions in relative clauses.md",
+    "english-grammar/-ing and the infinitive.md",
+    "english-grammar/Ing and infinitive common mistakes.md",
+    "english-grammar/Recommend, Advise.md",
+    "english-grammar/Verbs that take gerund or infinitive.md",
+    "english-grammar/Gerund.md",
+    "english-grammar/Expressing purpose with to and for.md",
+    "english-grammar/Reported Speech.md",
+    "english-grammar/Indirect Speech.md",
+    "index.md",
+    "english-grammar/Passive.md",
+    "english-grammar/Passive Common Mistakes.md",
+    "english-grammar/Passive Verbs with Two Objects.md",
+    "english-grammar/Seem, Appear.md",
+    "english-grammar/Get something done, Get someone to do.md",
+    "english-grammar/Have something done, Have someone do.md",
+    "english-grammar/Reporting Verbs.md",
+    "english-grammar/Conditionals.md",
+    "resume",
+    "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",
     "attachments/prepositions-of-time.png",
     "Some",

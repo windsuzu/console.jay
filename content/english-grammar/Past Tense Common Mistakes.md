@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-17 00:28
+date: 2024-05-04 20:51
 tags:
   - english
   - grammar
@@ -34,7 +34,7 @@ tags:
 
 > [!question]- When I turned around, the bike \____ (disappear).
 > ✅ had disappeared ❌ disappeared
-> we use the **past perfect** to talk about events that happened **earlier in the past**.
+> - we use the **past perfect** to talk about events that happened **earlier in the past**.
 
 >[!question]- The two robbers \____ (leave) the building quickly yesterday.
 >✅ left ❌ leaved

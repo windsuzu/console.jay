@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:26
+date: 2024-05-04 20:49
 tags:
   - english
   - grammar
@@ -18,7 +18,7 @@ tags:
 (own, belong)
 - This is where I **belong**.
 ## 4. Others
-(agree, be, depend, need, mean, remember, realise, recognise, seem, want)
+(agree, be, depend, need, mean, remember, realize, recognize, seem, want)
 - Please, give me my money; I **need** it now.
 
 But there are some verbs that have both **dynamic** and **stative** meaning. For example, **have**, **think**, or **see**.

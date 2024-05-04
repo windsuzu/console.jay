@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 19:42
+date: 2024-05-04 21:25
 tags:
   - english
   - grammar
@@ -8,22 +8,23 @@ tags:
 
 "Would rather" and "would sooner," **followed by an infinitive**, express clear preferences. Combine with "than" to compare options or "or" to list alternatives.
 
-- **I'd rather/sooner have** tea, please. 
-- **I'd rather/sooner have** tea **than** coffee.
-- **Would you rather/sooner have** tea **or** coffee?
-
+>[!example]
+>- **I'd rather/sooner have** tea, please. 
+>- **I'd rather/sooner have** tea **than** coffee.
+>- **Would you rather/sooner have** tea **or** coffee?
 ### Different Subject + Past Simple
 When using "would rather/sooner" followed by another person/thing, the verb tense should shift to [[past simple]] to express a **present or future** preference about their action.
 
-- We'd rather/sooner **she was/were** with us now.
-- She'd rather/sooner **I picked her up** after lunch. 
-- Would you rather/sooner **we went** by bus or by train?
-
+>[!example]
+>- We'd rather/sooner **she was/were** with us now.
+>- She'd rather/sooner **I picked her up** after lunch. 
+>- Would you rather/sooner **we went** by bus or by train?
 ### Different Subject + Past Perfect
 When using "would rather/sooner" followed by another person/thing, the verb tense should shift to [[past perfect]] to express a **past** preference about their action.
 
-- I'd rather/sooner **you hadn’t spoken** to her like that.
-- I'd rather/sooner **you had called** me before.
+>[!example]
+>- I'd rather/sooner **you hadn’t spoken** to her like that.
+>- I'd rather/sooner **you had called** me before.
 
 
 > [!info] References

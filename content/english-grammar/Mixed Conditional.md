@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 18:36
+date: 2024-05-04 21:22
 tags:
   - english
   - grammar
@@ -19,9 +19,6 @@ If I had won the lottery, I would be rich.
 I might have a better job now if I hadn't dropped out of school.
 ^result (2nd)                    ^condition (3rd)
 ```
-
-
-
 ## Mixed second/third conditional
 We use this combination to talk about a hypothetical condition happening in the present (second conditional) with a past result (third conditional).
 

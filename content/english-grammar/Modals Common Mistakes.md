@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 17:37
+date: 2024-05-04 20:57
 tags:
   - english
   - grammar
@@ -8,11 +8,11 @@ tags:
 
 > [!question]- We would like to go \____ (safari) in Tanzania next summer.
 > ✅ go on a safari ❌ go safari
-> We use **go on a** before nouns related to holidays, trips or similar, such as **holiday, trip, journey, excursion, tour, cruise, etc**.
+> - We use **go on a** before nouns related to holidays, trips or similar, such as **holiday, trip, journey, excursion, tour, cruise, etc**.
 
 > [!question]- After trying to rob a bank, he went \____ (prison) for 5 years.
 > ✅ to prison ❌ prison
-> We say **go to prison** (WITHOUT **the**) when someone is taken there as a prisoner.
+> - We say **go to prison** (WITHOUT **the**) when someone is taken there as a prisoner.
 
 > [!question]- We \____ (get) London at 5 in the evening.
 > ✅ got to ❌ got

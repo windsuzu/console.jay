@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:33
+date: 2024-05-04 20:52
 tags:
   - english
   - grammar
@@ -21,6 +21,6 @@ tags:
 
 > [!question]- If they keep playing like this, how many matches do you think they \____ (win) by the end of the season?
 > ✅ will have won ❌ will win
-> we use the **future perfect** to talk about an action that will be **finished or completed** at a certain time in the future.
+> - we use the **future perfect** to talk about an action that will be **finished or completed** at a certain time in the future.
 
 

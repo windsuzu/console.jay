@@ -1,13 +1,12 @@
 ---
 draft: false
-date: 2024-02-21 23:38
+date: 2024-05-04 21:34
 tags:
   - english
   - grammar
 ---
 
 Like [[reporting verbs]], 'seem' and 'appear' distance us from the information.
-
 ## It + seems/appear + that + clause
 
 This is the most common construction, simply stating the perceived situation.

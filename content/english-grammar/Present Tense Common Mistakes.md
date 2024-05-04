@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-21 10:52
+date: 2024-05-04 20:49
 tags:
   - grammar
   - english
@@ -12,7 +12,7 @@ tags:
 
 >[!question]- John \____ very strangely these days. (behave)
 >✅ **is behaving** ❌ has behaved
-> we use the **present continuous** to talk about **temporary situations** or actions in progress now.
+> - we use the **present continuous** to talk about **temporary situations** or actions in progress now.
 
 >[!question]- Why \____ (drink) tea today? You \____ (never/drink) tea.
 >✅ are you drinking / never drink ❌ did you drink / have never drunk

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-01 11:17
+date: 2024-05-04 21:51
 tags:
   - english
   - grammar
@@ -22,9 +22,9 @@ We can use `some` or `any` with both `countable plural nouns` or `uncountable si
 
 >[!tip] Some
 >We use **some** in questions when we are **asking for something**, or we are **offering something**.
->- **Can** I have **any** tea? (unusual)
+>- **Can** I have **any** tea? (🟨unusual)
 >- **Can** I have **some** tea? ✅
->- **Can** you give me **any** advice (unusual)
+>- **Can** you give me **any** advice (🟨unusual)
 >- **Can** you give me **some** advice ✅
 
 If we use `some` or `any` before a countable noun, the noun must be in the **plural form**.

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:30
+date: 2024-05-04 20:50
 tags:
   - english
   - grammar
@@ -22,7 +22,7 @@ We can also use **present perfect continuous** to talk about **repeated** or **c
 
 ---
 ## To express duration
-We can use **present perfect continuous** with some **duration words (for, since, how long, lately, all day, etc)** to talk about how long a situation has been happening.
+We can use **present perfect continuous** with some **duration words (for, since, how long, lately, all day, etc.)** to talk about how long a situation has been happening.
 - **He’s been annoying** us all evening.
 - **She’s been studying** very hard for weeks.
 - **I haven’t been feeling** well lately.

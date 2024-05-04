@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-01-05 21:33
+date: 2024-05-04 20:51
 tags:
   - english
   - grammar
@@ -16,11 +16,11 @@ For example:
 - The conference starts in 10 minutes. We **are going to be** late. 
 	- (=I can **see** that we cannot be at the conference in 10 minutes)
 
-### Intetions or Decisions
+### Intentions or Decisions
 We use **"will"** for immediate intentions or decisions, typically in the moment of speaking without prior planning. On the other hand, we use **"be going to"** when we've already made a decision in our mind or when there is a pre-existing plan or intention.
 
 For example:
-- ‘Sarah said she needs to talk to you.’ ‘Oh, I didn’t know. I’**ll call her** in a minute.’
+- ‘Sarah said she needs to talk to you.’ ‘Oh, I didn’t know. **I’ll call her** in a minute.’
 	- (=The decision was taken **while** having this conversation)
 - ‘Sarah said she needs to talk to you.’ ‘Yes, I know. I’**m going to call her** in a minute.‘
 	- (=The decision was taken **before** having this conversation)

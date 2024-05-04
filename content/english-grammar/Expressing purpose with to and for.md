@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2024-02-29 09:54
+date: 2024-05-04 21:41
 tags:
   - english
   - grammar
 ---
 
-## Don't use `for` to explain why
+## Use `to` to explain why
 
 We **don’t use** `for -ing` to explain the reason or cause behind something.
 
@@ -15,7 +15,7 @@ We **don’t use** `for -ing` to explain the reason or cause behind something.
 >- I work hard **to improve** my English. ✅
 >- Turn the TV on ~~for watching~~ the news. ❌
 >- Turn the TV on **to watch** the news. ✅
-## Use `for` to show purpose or function
+## Use `to` and `for` to show purpose or function
 
 Both `to + infinitive` and `for -ing` describe an object's function (the purpose or intended use of an object).
 

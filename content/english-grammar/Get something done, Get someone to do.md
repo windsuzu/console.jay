@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 23:18
+date: 2024-05-04 21:33
 tags:
   - tbd
 ---
@@ -22,7 +22,7 @@ We get the house cleaned every Friday.
 
 ## Get someone to do
 
-The construction `get + person + to + infinitive` allows us to ==specify who performs an action for us==, often because we have convined them to do so.
+The construction `get + person + to + infinitive` allows us to ==specify who performs an action for us==, often because we have convinced them to do so.
 
 >[!example]
 >- I **got a mechanic to take** a look at the car.

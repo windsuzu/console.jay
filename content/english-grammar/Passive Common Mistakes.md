@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-20 19:37
+date: 2024-05-04 21:37
 tags:
   - english
   - grammar
@@ -19,14 +19,9 @@ tags:
 > ✅ were stolen ❌ was stolen
 > - It's passive because we are saying what happened to the subject (_almost 500,000 dollars_).
 
->[!question]- Wine \____ (reach) the Balkans by c. 4500 BC.
-> ✅ had reached ❌ reached
-> - We can use the past perfect with **by + time expression** (=before) to talk about events that had happened before that moment in the past.
-> - It's in the active voice because we are saying what the subject (wine) had done (had reached).
-
 >[!question]- We could \____ no-one to fix it.
 > ✅ get ❌ have
-> We can use the structures **get + someone + to do something** or **have + someone + do something** to talk about someone doing something for us.
+> - We can use the structures **get + someone + to do something** or **have + someone + do something** to talk about someone doing something for us.
 
 >[!question]- You should have \____ (your car repaired) a long time ago.
 >✅ had your car repaired ❌your car repaired

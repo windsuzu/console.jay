@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-02-21 17:19
+date: 2024-05-04 20:53
 tags:
   - english
   - grammar
@@ -12,7 +12,7 @@ When we use a to-infinitive, **we are talking about the right time to do somethi
 - **It’s time to go** to bed. (This is the right time for me to go to bed.)
 - **It’s time for you to do** your homework. (This is the right time for you to do your homework.)
 ## It's time + past simple
-When we use a past simple verb, **we are talking about something that should be done now or in the future**, ==**but it is already a bit late or urgent**==. 
+When we use a past simple verb, **we are talking about something that should be done now or in the future**, ==but it is already a bit late or urgent==. 
 
 We often use **It’s high time** or **It’s about time** to emphasize. For example:
 - **It’s time we left**. (We should leave now, or we should have left earlier.)
