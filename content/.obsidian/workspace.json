@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277584,
+                  "scale": 0.535979599622594,
                   "close": true
                 }
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
+                "file": "english-grammar/Relative clauses, relative pronouns and adverbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +246,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "076735c26d771707",
+  "active": "3d50214808998e0a",
   "lastOpenFiles": [
+    "english-grammar/English Grammar.md",
+    "english-grammar/-ing and the infinitive.md",
+    "english-grammar/Ing and infinitive common mistakes.md",
+    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
     "english-grammar/Articles, nouns, pronouns, and determiners.md",
+    "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md",
     "english-grammar/Compound Nouns.md",
     "english-grammar/Another vs Other.md",
     "english-grammar/All and both in mid position.md",
@@ -256,9 +261,6 @@
     "english-grammar/The.md",
     "english-grammar/'s and of.md",
     "english-grammar/Some, Any.md",
-    "english-grammar/English Grammar.md",
-    "english-grammar/-ing and the infinitive.md",
-    "english-grammar/Ing and infinitive common mistakes.md",
     "english-grammar/Recommend, Advise.md",
     "english-grammar/Verbs that take gerund or infinitive.md",
     "english-grammar/Gerund.md",
@@ -272,8 +274,6 @@
     "english-grammar/Seem, Appear.md",
     "english-grammar/Get something done, Get someone to do.md",
     "english-grammar/Have something done, Have someone do.md",
-    "english-grammar/Reporting Verbs.md",
-    "english-grammar/Conditionals.md",
     "resume",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",
