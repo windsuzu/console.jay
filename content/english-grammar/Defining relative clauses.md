@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-03-13 00:04
+date: 2024-05-07 22:44
 tags:
   - english
   - grammar
@@ -21,8 +21,8 @@ In defining relative clauses, we can use **that** instead of **which** or *
 When a clause follows a `subject-verb` structure, the relative pronoun (`who/which/that`) can be omitted.
 
 >[!example]
->Can you pass me the box (which/that) **I keep in the top drawer**?
->You are not the man (who/that) **I thought you were**. 
+>- Can you pass me the box (which/that) **I keep in the top drawer**?
+>- You are not the man (who/that) **I thought you were**. 
 
 > [!info] References
 > - [Defining and non-defining relative clauses - Test-English](https://test-english.com/grammar-points/b1/defining-and-non-defining-relative-clauses/)
