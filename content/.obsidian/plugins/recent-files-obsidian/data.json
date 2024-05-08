@@ -5,12 +5,12 @@
       "path": "fish-shell/Fish Shell.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Dev Environment MOC",
       "path": "mocs/Dev Environment MOC.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "CSS MOC",
