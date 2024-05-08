@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
     {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
+      "basename": "Dev Environment MOC",
+      "path": "mocs/Dev Environment MOC.md"
     },
     {
       "basename": "CSS MOC",
       "path": "mocs/CSS MOC.md"
+    },
+    {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
     },
     {
       "basename": "JavaScript MOC",
@@ -187,18 +199,6 @@
     {
       "basename": "Use no article",
       "path": "english-grammar/Use no article.md"
-    },
-    {
-      "basename": "The",
-      "path": "english-grammar/The.md"
-    },
-    {
-      "basename": "'s and of",
-      "path": "english-grammar/'s and of.md"
-    },
-    {
-      "basename": "Some, Any",
-      "path": "english-grammar/Some, Any.md"
     }
   ],
   "omittedPaths": [],
