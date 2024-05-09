@@ -9,6 +9,10 @@
       "path": "mocs/Dev Environment MOC.md"
     },
     {
+      "basename": "Install Fish Shell",
+      "path": "fish-shell/Install Fish Shell.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "All and both in mid position",
       "path": "english-grammar/All and both in mid position.md"
-    },
-    {
-      "basename": "Use no article",
-      "path": "english-grammar/Use no article.md"
     }
   ],
   "omittedPaths": [],
