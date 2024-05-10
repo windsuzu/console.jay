@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-09 17:21
+date: 2024-05-10 19:12
 tags:
   - dev-environment
 ---
@@ -8,4 +8,12 @@ tags:
 ## Shell
 - [[Fish Shell]]
 	- [[Install Fish Shell|Installation]]
-	- 
+	- Plugins
+		- [[fisher]] - plugin manager
+		- [[z for fish]] - jumping around directory
+		- [[fzf.fish]] - fzf (fuzzy finder) for fish
+		- [[nvm.fish]] - [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager) for fish
+		- [done](https://github.com/franciscolourenco/done)- getting notification when process done
+		- [autopair.fish](https://github.com/jorgebucaran/autopair.fish) - matching pairs `(),{},[],"",''` auto-completion
+
+

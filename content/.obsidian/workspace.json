@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "076735c26d771707",
+            "id": "30b03782ad2407bf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "00a2b598198da8bc",
+            "id": "101015697127e363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fish-shell/Fish Shell.md",
+                "file": "fish-shell/fzf.fish.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "english list",
+                "query": "file:the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fish-shell/Fish Shell.md",
+                "file": "fish-shell/fzf.fish.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fish-shell/Fish Shell.md"
+                "file": "fish-shell/fzf.fish.md"
               }
             }
           },
@@ -206,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "fish-shell/Fish Shell.md"
+                "file": "fish-shell/fzf.fish.md"
               }
             }
           },
@@ -216,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fish-shell/Fish Shell.md",
+                "file": "fish-shell/fzf.fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,9 +235,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fish-shell/Fish Shell.md",
+                "file": "fish-shell/fzf.fish.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -259,12 +261,17 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "00a2b598198da8bc",
+  "active": "101015697127e363",
   "lastOpenFiles": [
     "mocs/Dev Environment MOC.md",
-    "fish-shell/Install Fish Shell.md",
+    "fish-shell/fzf.fish.md",
     "fish-shell/Fish Shell.md",
+    "fish-shell/z for fish.md",
     "index.md",
+    "fish-shell/nvm.fish.md",
+    "fish-shell/Install Fish Shell.md",
+    "fish-shell/fisher.md",
+    "english-grammar/The - definite article.md",
     "mocs/Installation.md",
     "mocs/CSS MOC.md",
     "mocs/React MOC.md",
@@ -283,11 +290,6 @@
     "english-grammar/Word order Common Mistakes.md",
     "english-grammar/Questions.md",
     "english-grammar/Indirect questions.md",
-    "english-grammar/Conjunctions and clauses.md",
-    "english-grammar/Participle Clauses.md",
-    "english-grammar/Discourse markers.md",
-    "english-grammar/Clauses of result.md",
-    "english-grammar/Clauses of reason.md",
     "resume",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",

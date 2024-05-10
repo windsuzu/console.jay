@@ -9,7 +9,7 @@ tags:
 ## Notes
 - 📝 [[Some, Any]]
 - 📝 [['s and of]]
-- 📝 [[The]]
+- 📝 [[The - definite article]]
 - 📝 [[Use no article]]
 - 📝 [[All and both in mid position]]
 - 📝 [[Another vs Other]]

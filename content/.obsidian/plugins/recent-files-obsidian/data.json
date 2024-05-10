@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Fish Shell",
-      "path": "fish-shell/Fish Shell.md"
+      "basename": "fzf.fish",
+      "path": "fish-shell/fzf.fish.md"
     },
     {
       "basename": "Dev Environment MOC",
       "path": "mocs/Dev Environment MOC.md"
     },
     {
-      "basename": "Install Fish Shell",
-      "path": "fish-shell/Install Fish Shell.md"
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
+    },
+    {
+      "basename": "z for fish",
+      "path": "fish-shell/z for fish.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "nvm.fish",
+      "path": "fish-shell/nvm.fish.md"
+    },
+    {
+      "basename": "Install Fish Shell",
+      "path": "fish-shell/Install Fish Shell.md"
+    },
+    {
+      "basename": "fisher",
+      "path": "fish-shell/fisher.md"
+    },
+    {
+      "basename": "The - definite article",
+      "path": "english-grammar/The - definite article.md"
     },
     {
       "basename": "CSS MOC",
@@ -179,26 +199,6 @@
     {
       "basename": "Ing and infinitive common mistakes",
       "path": "english-grammar/Ing and infinitive common mistakes.md"
-    },
-    {
-      "basename": "Articles, nouns, pronouns, and determiners",
-      "path": "english-grammar/Articles, nouns, pronouns, and determiners.md"
-    },
-    {
-      "basename": "Article, Nouns, Pronouns, Determiners Common Mistakes",
-      "path": "english-grammar/Article, Nouns, Pronouns, Determiners Common Mistakes.md"
-    },
-    {
-      "basename": "Compound Nouns",
-      "path": "english-grammar/Compound Nouns.md"
-    },
-    {
-      "basename": "Another vs Other",
-      "path": "english-grammar/Another vs Other.md"
-    },
-    {
-      "basename": "All and both in mid position",
-      "path": "english-grammar/All and both in mid position.md"
     }
   ],
   "omittedPaths": [],
