@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-11 18:19
+date: 2024-05-11 18:59
 tags:
   - dev-environment
 ---
@@ -15,5 +15,3 @@ tags:
 		- [[nvm.fish]] - [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager) for fish
 		- [done](https://github.com/franciscolourenco/done)- getting notification when process done
 		- [autopair.fish](https://github.com/jorgebucaran/autopair.fish) - matching pairs `(),{},[],"",''` auto-completion
-
-## WSL 2
