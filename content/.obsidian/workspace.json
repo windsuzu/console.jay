@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "mocs/Dev Environment MOC.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "mocs/Dev Environment MOC.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,15 +246,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "e4f857c12bc33e53",
+  "active": "c54cf8dd370d449b",
   "lastOpenFiles": [
+    "fish-shell/Install Fish Shell.md",
     "mocs/Dev Environment MOC.md",
+    "index.md",
     "fish-shell/fzf.fish.md",
     "fish-shell/nvm.fish.md",
     "fish-shell/Fish Shell.md",
     "fish-shell/z for fish.md",
-    "index.md",
-    "fish-shell/Install Fish Shell.md",
     "fish-shell/fisher.md",
     "english-grammar/The - definite article.md",
     "mocs/Installation.md",

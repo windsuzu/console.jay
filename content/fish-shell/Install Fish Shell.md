@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-09 18:10
+date: 2024-05-11 23:09
 tags:
   - fish-shell
 ---

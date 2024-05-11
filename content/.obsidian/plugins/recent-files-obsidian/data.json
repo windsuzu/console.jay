@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "Dev Environment MOC",
       "path": "mocs/Dev Environment MOC.md"
+    },
+    {
+      "basename": "Install Fish Shell",
+      "path": "fish-shell/Install Fish Shell.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "fzf.fish",
@@ -23,10 +27,6 @@
     {
       "basename": "z for fish",
       "path": "fish-shell/z for fish.md"
-    },
-    {
-      "basename": "Install Fish Shell",
-      "path": "fish-shell/Install Fish Shell.md"
     },
     {
       "basename": "fisher",
