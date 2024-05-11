@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Dev Environment MOC",
+      "path": "mocs/Dev Environment MOC.md"
+    },
+    {
       "basename": "fzf.fish",
       "path": "fish-shell/fzf.fish.md"
     },
     {
-      "basename": "Dev Environment MOC",
-      "path": "mocs/Dev Environment MOC.md"
+      "basename": "nvm.fish",
+      "path": "fish-shell/nvm.fish.md"
     },
     {
       "basename": "Fish Shell",
@@ -19,10 +23,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "nvm.fish",
-      "path": "fish-shell/nvm.fish.md"
     },
     {
       "basename": "Install Fish Shell",

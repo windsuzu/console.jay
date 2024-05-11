@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "101015697127e363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fish-shell/fzf.fish.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fish-shell/fzf.fish.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +127,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.535979599622594,
+                  "scale": 0.38230109687699715,
                   "close": true
                 }
               }
@@ -167,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fish-shell/fzf.fish.md"
+                "file": "mocs/Dev Environment MOC.md"
               }
             }
           },
@@ -208,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "fish-shell/fzf.fish.md"
+                "file": "mocs/Dev Environment MOC.md"
               }
             }
           },
@@ -218,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fish-shell/fzf.fish.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fish-shell/fzf.fish.md",
+                "file": "mocs/Dev Environment MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,14 +248,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "101015697127e363",
+  "active": "3d50214808998e0a",
   "lastOpenFiles": [
-    "mocs/Dev Environment MOC.md",
     "fish-shell/fzf.fish.md",
+    "mocs/Dev Environment MOC.md",
+    "fish-shell/nvm.fish.md",
     "fish-shell/Fish Shell.md",
     "fish-shell/z for fish.md",
     "index.md",
-    "fish-shell/nvm.fish.md",
     "fish-shell/Install Fish Shell.md",
     "fish-shell/fisher.md",
     "english-grammar/The - definite article.md",

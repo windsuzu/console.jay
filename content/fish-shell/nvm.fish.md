@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-10 18:28
+date: 2024-05-11 17:12
 tags:
   - fish-shell
 ---
@@ -50,6 +50,16 @@ Activate any version of Node.js by typing `nvm use`.
 
 ```bash
 nvm use v20.13.1
+```
+
+Lastly, if you want to set the specific node version as the default, use `set --universal nvm_default_version version`.
+
+```bash
+# set lts as default version
+set --universal nvm_default_version lts
+
+# set 18.4.0 as default version
+set --universal nvm_default_version v18.4.0
 ```
 
 > [!info] References

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-10 19:12
+date: 2024-05-11 18:19
 tags:
   - dev-environment
 ---
@@ -16,4 +16,4 @@ tags:
 		- [done](https://github.com/franciscolourenco/done)- getting notification when process done
 		- [autopair.fish](https://github.com/jorgebucaran/autopair.fish) - matching pairs `(),{},[],"",''` auto-completion
 
-
+## WSL 2
