@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "postgresql/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "postgresql/Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "postgresql/Basics.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "postgresql/Basics.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "postgresql/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "postgresql/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,12 +246,14 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "e4f857c12bc33e53",
+  "active": "f5e84def38e52a2a",
   "lastOpenFiles": [
+    "index.md",
+    "postgresql/Basics.md",
+    "postgresql",
     "prisma",
     "mocs/Dev Environment MOC.md",
     "fish-shell/Install Fish Shell.md",
-    "index.md",
     "fish-shell/fzf.fish.md",
     "fish-shell/nvm.fish.md",
     "fish-shell/Fish Shell.md",
@@ -292,8 +294,6 @@
     "javascript",
     "mocs",
     "css",
-    "english-grammar",
-    "english-pronunciation",
     "Untitled.canvas"
   ]
 }

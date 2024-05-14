@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Basics",
+      "path": "postgresql/Basics.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "-ing and the infinitive",
       "path": "english-grammar/-ing and the infinitive.md"
-    },
-    {
-      "basename": "Ing and infinitive common mistakes",
-      "path": "english-grammar/Ing and infinitive common mistakes.md"
     }
   ],
   "omittedPaths": [],
