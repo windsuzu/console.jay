@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf586ebee856d8ba",
+        "id": "49b6712343817619",
         "type": "tabs",
         "children": [
           {
-            "id": "c54cf8dd370d449b",
+            "id": "f5e84def38e52a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/Dev Environment MOC.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Dev Environment MOC.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Dev Environment MOC.md"
+                "file": "index.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Dev Environment MOC.md"
+                "file": "index.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Dev Environment MOC.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Dev Environment MOC.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,10 +246,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "c54cf8dd370d449b",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
-    "fish-shell/Install Fish Shell.md",
+    "prisma",
     "mocs/Dev Environment MOC.md",
+    "fish-shell/Install Fish Shell.md",
     "index.md",
     "fish-shell/fzf.fish.md",
     "fish-shell/nvm.fish.md",
@@ -274,7 +275,6 @@
     "english-grammar/Word order.md",
     "english-grammar/Word order Common Mistakes.md",
     "english-grammar/Questions.md",
-    "english-grammar/Indirect questions.md",
     "resume",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",
