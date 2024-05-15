@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5e84def38e52a2a",
+            "id": "09dd403f5501ccb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgresql/Basics.md",
+                "file": "postgresql/PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ef31e4588d35e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL Select.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/Basics.md",
+                "file": "postgresql/PostgreSQL Select.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/Basics.md"
+                "file": "postgresql/PostgreSQL Select.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/Basics.md"
+                "file": "postgresql/PostgreSQL Select.md"
               }
             }
           },
@@ -203,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/Basics.md",
+                "file": "postgresql/PostgreSQL Select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/Basics.md",
+                "file": "postgresql/PostgreSQL Select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,10 +259,16 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "f5e84def38e52a2a",
+  "active": "5ef31e4588d35e14",
   "lastOpenFiles": [
+    "postgresql/PostgreSQL.md",
+    "postgresql/PostgreSQL Select.md",
+    "postgresql/PostgreSQL Insert and Import.md",
+    "postgresql/PostgreSQL Databases.md",
+    "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
+    "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",
+    "postgresql/PostgreSQL Tables.md",
     "index.md",
-    "postgresql/Basics.md",
     "postgresql",
     "prisma",
     "mocs/Dev Environment MOC.md",
@@ -271,12 +290,6 @@
     "english-grammar/Prepositions.md",
     "english-grammar/Prepositions Common Mistakes.md",
     "english-grammar/Since vs From.md",
-    "english-grammar/On time vs In time.md",
-    "english-grammar/Prepositions of place.md",
-    "english-grammar/Prepositions of time.md",
-    "english-grammar/Word order.md",
-    "english-grammar/Word order Common Mistakes.md",
-    "english-grammar/Questions.md",
     "resume",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",

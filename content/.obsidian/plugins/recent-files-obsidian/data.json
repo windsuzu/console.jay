@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Basics",
-      "path": "postgresql/Basics.md"
+      "basename": "PostgreSQL Select",
+      "path": "postgresql/PostgreSQL Select.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "postgresql/PostgreSQL.md"
+    },
+    {
+      "basename": "PostgreSQL Insert and Import",
+      "path": "postgresql/PostgreSQL Insert and Import.md"
+    },
+    {
+      "basename": "PostgreSQL Databases",
+      "path": "postgresql/PostgreSQL Databases.md"
+    },
+    {
+      "basename": "Connect PostgreSQL on WSL 2 (Ubuntu)",
+      "path": "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md"
+    },
+    {
+      "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
+      "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
+    },
+    {
+      "basename": "PostgreSQL Tables",
+      "path": "postgresql/PostgreSQL Tables.md"
     },
     {
       "basename": "index",
@@ -175,30 +199,6 @@
     {
       "basename": "There and it",
       "path": "english-grammar/There and it.md"
-    },
-    {
-      "basename": "There and It Common Mistakes",
-      "path": "english-grammar/There and It Common Mistakes.md"
-    },
-    {
-      "basename": "Relative Clauses and Pronouns Common Mistakes",
-      "path": "english-grammar/Relative Clauses and Pronouns Common Mistakes.md"
-    },
-    {
-      "basename": "Prepositions in relative clauses",
-      "path": "english-grammar/Prepositions in relative clauses.md"
-    },
-    {
-      "basename": "Non-defining relative clauses",
-      "path": "english-grammar/Non-defining relative clauses.md"
-    },
-    {
-      "basename": "Defining relative clauses",
-      "path": "english-grammar/Defining relative clauses.md"
-    },
-    {
-      "basename": "-ing and the infinitive",
-      "path": "english-grammar/-ing and the infinitive.md"
     }
   ],
   "omittedPaths": [],
