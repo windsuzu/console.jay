@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 00:49
+date: 2024-05-16 14:48
 tags:
   - postgres
 ---
@@ -28,6 +28,7 @@ Use `WHERE` with or without the following keywords or operators to select rows w
 - Use `BETWEEN AND` to select values between a range
 - Use `LIKE` to find values with a certain pattern (Both `%` and `_` denote placeholder)
 - Use `ILIKE` to get the effect of `LIKE` but without the case sensitivity
+- Use `IS NULL` to find values that are null.
 
 ```sql
 SELECT * FROM person WHERE gender = 'Agender';
@@ -37,6 +38,7 @@ SELECT * FROM person WHERE gender IN ('Male', 'Female', 'Agender');
 SELECT * FROM person WHERE id BETWEEN 50 AND 55;
 SELECT * FROM person WHERE last_name LIKE '%han';
 SELECT * FROM person WHERE last_name ILIKE '____lan';
+SELECT * FROM person WHERE email IS NULL;
 ```
 
 Use `LIMIT` to show a certain number of rows. Then use `OFFSET` to skip the first N rows. 

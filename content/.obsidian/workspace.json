@@ -250,8 +250,8 @@
   "lastOpenFiles": [
     "postgresql/PostgreSQL Select.md",
     "postgresql/PostgreSQL.md",
-    "postgresql/PostgreSQL Insert and Import.md",
     "postgresql/PostgreSQL Tables.md",
+    "postgresql/PostgreSQL Insert and Import.md",
     "postgresql/PostgreSQL Databases.md",
     "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
     "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",

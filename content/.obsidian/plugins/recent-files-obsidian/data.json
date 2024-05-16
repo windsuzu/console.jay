@@ -9,12 +9,12 @@
       "path": "postgresql/PostgreSQL Select.md"
     },
     {
-      "basename": "PostgreSQL Insert and Import",
-      "path": "postgresql/PostgreSQL Insert and Import.md"
-    },
-    {
       "basename": "PostgreSQL Tables",
       "path": "postgresql/PostgreSQL Tables.md"
+    },
+    {
+      "basename": "PostgreSQL Insert and Import",
+      "path": "postgresql/PostgreSQL Insert and Import.md"
     },
     {
       "basename": "PostgreSQL Databases",
