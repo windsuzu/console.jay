@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09dd403f5501ccb2",
+            "id": "89b49aba37ae8848",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96a9372e3b208e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL Constraint and Key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "479dfa44c76beee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/PostgreSQL.md"
+                "file": "postgresql/PostgreSQL Table.md"
               }
             }
           },
@@ -193,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/PostgreSQL.md"
+                "file": "postgresql/PostgreSQL Table.md"
               }
             }
           },
@@ -203,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -246,13 +271,18 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "09dd403f5501ccb2",
+  "active": "479dfa44c76beee2",
   "lastOpenFiles": [
-    "postgresql/PostgreSQL Select.md",
+    "postgresql/PostgreSQL Constraint and Key.md",
     "postgresql/PostgreSQL.md",
-    "postgresql/PostgreSQL Tables.md",
+    "postgresql/PostgreSQL Table.md",
+    "postgresql/PostgreSQL Delete.md",
+    "postgresql/PostgreSQL Join.md",
+    "postgresql/PostgreSQL Update.md",
+    "postgresql/PostgreSQL Sequence and UUID.md",
+    "postgresql/PostgreSQL Database.md",
     "postgresql/PostgreSQL Insert and Import.md",
-    "postgresql/PostgreSQL Databases.md",
+    "postgresql/PostgreSQL Select.md",
     "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
     "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",
     "index.md",
@@ -272,11 +302,6 @@
     "mocs/Web-Dev MOC.md",
     "mocs/JavaScript MOC.md",
     "fish-shell",
-    "english-grammar/English Grammar.md",
-    "english-grammar/Relative clauses, relative pronouns and adverbs.md",
-    "english-grammar/Prepositions.md",
-    "english-grammar/Prepositions Common Mistakes.md",
-    "english-grammar/Since vs From.md",
     "resume",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 11:49
+date: 2024-05-16 17:20
 tags:
   - postgres
 ---
@@ -83,9 +83,32 @@ And use `\d table_name` to see the details of the specified table.
 #     "person_pkey" PRIMARY KEY, btree (id)
 ```
 
+### Update a table
+
+To update a table, use `ALTER`. For example, you can update the column name by using `ALTER TABLE` with `RENAME TO`:
+
+```sql
+ALTER TABLE table_name RENAME column_name TO column_new_name;
+
+ALTER TABLE person RENAME id TO person_uid;
+ALTER TABLE person RENAME gender TO sex;
+```
+
+Additionally, you can update the column type by using `ALTER TABLE` with `ALTER COLUMN` and `TYPE`:
+
+```sql
+ALTER TABLE table_name ALTER COLUMN column_name TYPE type_name;
+
+ALTER TABLE person ALTER COLUMN email TYPE varchar(300);
+ALTER TABLE person ALTER COLUMN age TYPE int;
+```
 ### Remove a table
 
-To remove a table, simply use `DROP TABLE table_name`.
+To remove a table, use `DROP` to do so.
+
+```sql
+DROP TABLE table_name;
+```
 
 > [!info] References
 > - [Learn PostgreSQL Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)

@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "PostgreSQL Table",
+      "path": "postgresql/PostgreSQL Table.md"
+    },
+    {
+      "basename": "PostgreSQL Constraint and Key",
+      "path": "postgresql/PostgreSQL Constraint and Key.md"
+    },
+    {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
     },
     {
-      "basename": "PostgreSQL Select",
-      "path": "postgresql/PostgreSQL Select.md"
+      "basename": "PostgreSQL Delete",
+      "path": "postgresql/PostgreSQL Delete.md"
     },
     {
-      "basename": "PostgreSQL Tables",
-      "path": "postgresql/PostgreSQL Tables.md"
+      "basename": "PostgreSQL Join",
+      "path": "postgresql/PostgreSQL Join.md"
+    },
+    {
+      "basename": "PostgreSQL Update",
+      "path": "postgresql/PostgreSQL Update.md"
+    },
+    {
+      "basename": "PostgreSQL Sequence and UUID",
+      "path": "postgresql/PostgreSQL Sequence and UUID.md"
+    },
+    {
+      "basename": "PostgreSQL Database",
+      "path": "postgresql/PostgreSQL Database.md"
     },
     {
       "basename": "PostgreSQL Insert and Import",
       "path": "postgresql/PostgreSQL Insert and Import.md"
     },
     {
-      "basename": "PostgreSQL Databases",
-      "path": "postgresql/PostgreSQL Databases.md"
+      "basename": "PostgreSQL Select",
+      "path": "postgresql/PostgreSQL Select.md"
     },
     {
       "basename": "Connect PostgreSQL on WSL 2 (Ubuntu)",
@@ -179,26 +199,6 @@
     {
       "basename": "Anymore vs Any more",
       "path": "english-grammar/Anymore vs Any more.md"
-    },
-    {
-      "basename": "Auxiliary verbs",
-      "path": "english-grammar/Auxiliary verbs.md"
-    },
-    {
-      "basename": "Auxiliary verbs Common Mistakes",
-      "path": "english-grammar/Auxiliary verbs Common Mistakes.md"
-    },
-    {
-      "basename": "Substitution",
-      "path": "english-grammar/Substitution.md"
-    },
-    {
-      "basename": "Ellipsis",
-      "path": "english-grammar/Ellipsis.md"
-    },
-    {
-      "basename": "There and it",
-      "path": "english-grammar/There and it.md"
     }
   ],
   "omittedPaths": [],
