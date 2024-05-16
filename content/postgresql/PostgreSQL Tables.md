@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-15 18:01
+date: 2024-05-16 11:49
 tags:
   - postgres
 ---
@@ -42,7 +42,7 @@ CREATE TABLE person (
 
 Use `\d` to display all relations (tables and sequences) in the current database.
 
-```sql
+```bash
 \d
 
 #              List of relations
@@ -54,7 +54,7 @@ Use `\d` to display all relations (tables and sequences) in the current database
 
 Use `\dt` to display all relations that are table type.
 
-```sql
+```bash
 \dt
 
 #          List of relations
@@ -66,7 +66,7 @@ Use `\dt` to display all relations that are table type.
 
 And use `\d table_name` to see the details of the specified table.
 
-```sql
+```bash
 \d person
 
 #                                        Table "public.person"

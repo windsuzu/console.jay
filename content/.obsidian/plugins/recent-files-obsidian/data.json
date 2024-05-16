@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
-      "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
-    },
-    {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
     },
@@ -27,6 +23,10 @@
     {
       "basename": "Connect PostgreSQL on WSL 2 (Ubuntu)",
       "path": "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md"
+    },
+    {
+      "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
+      "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
     },
     {
       "basename": "index",

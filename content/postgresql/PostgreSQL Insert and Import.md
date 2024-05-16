@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 00:50
+date: 2024-05-16 11:49
 tags:
   - postgres
 ---
@@ -35,7 +35,7 @@ insert into person (first_name, last_name, email, gender, date_of_birth) values 
 
 You need to first get the relative path of the SQL file, then paste it into `psql`.
 
-```sql
+```bash
 pwd
 # /mnt/c/Users/winds/Desktop
 

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-15 16:44
+date: 2024-05-16 11:48
 tags:
   - postgres
 ---
@@ -16,7 +16,7 @@ CREATE DATABASE name_of_db;
 
 ### List all DBs
 
-```sql
+```bash
 \l
 
 #                               List of databases
@@ -29,7 +29,7 @@ CREATE DATABASE name_of_db;
 ```
 ### Go to a DB
 
-```sql
+```bash
 \c name_of_db
 
 postgres=# \c test
