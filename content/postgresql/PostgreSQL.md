@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 14:46
+date: 2024-05-16 15:51
 tags:
   - postgres
 ---
@@ -91,5 +91,11 @@ JOIN car ON person.car_id = car.id
 SELECT person.first_name, car.make, car.price
 FROM person
 LEFT JOIN car ON person.car_id = car.id
+```
+
+### ALTER SEQUENCE
+
+```sql
+ALTER SEQUENCE person_id_seq RESTART WITH 0;
 ```
 
