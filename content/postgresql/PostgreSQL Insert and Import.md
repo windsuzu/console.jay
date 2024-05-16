@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-15 18:06
+date: 2024-05-16 00:50
 tags:
   - postgres
 ---
@@ -56,8 +56,6 @@ SELECT * FROM person
 #    6 | Emili       | Barnby               | Female      | 2024-02-09    | ebarnby5@netscape.com
 # ...
 ```
-
-
 
 > [!info] References
 > - [Learn PostgreSQL Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)

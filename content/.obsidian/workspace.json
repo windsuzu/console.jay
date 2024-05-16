@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ef31e4588d35e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/PostgreSQL Select.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/PostgreSQL Select.md",
+                "file": "postgresql/PostgreSQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/PostgreSQL Select.md"
+                "file": "postgresql/PostgreSQL.md"
               }
             }
           },
@@ -206,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/PostgreSQL Select.md"
+                "file": "postgresql/PostgreSQL.md"
               }
             }
           },
@@ -216,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/PostgreSQL Select.md",
+                "file": "postgresql/PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/PostgreSQL Select.md",
+                "file": "postgresql/PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -259,15 +246,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "5ef31e4588d35e14",
+  "active": "09dd403f5501ccb2",
   "lastOpenFiles": [
-    "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Select.md",
+    "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Insert and Import.md",
+    "postgresql/PostgreSQL Tables.md",
     "postgresql/PostgreSQL Databases.md",
     "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
     "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",
-    "postgresql/PostgreSQL Tables.md",
     "index.md",
     "postgresql",
     "prisma",

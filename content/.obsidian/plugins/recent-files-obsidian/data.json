@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL Select",
-      "path": "postgresql/PostgreSQL Select.md"
+      "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
+      "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
     },
     {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
     },
     {
+      "basename": "PostgreSQL Select",
+      "path": "postgresql/PostgreSQL Select.md"
+    },
+    {
       "basename": "PostgreSQL Insert and Import",
       "path": "postgresql/PostgreSQL Insert and Import.md"
+    },
+    {
+      "basename": "PostgreSQL Tables",
+      "path": "postgresql/PostgreSQL Tables.md"
     },
     {
       "basename": "PostgreSQL Databases",
@@ -19,14 +27,6 @@
     {
       "basename": "Connect PostgreSQL on WSL 2 (Ubuntu)",
       "path": "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md"
-    },
-    {
-      "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
-      "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
-    },
-    {
-      "basename": "PostgreSQL Tables",
-      "path": "postgresql/PostgreSQL Tables.md"
     },
     {
       "basename": "index",
