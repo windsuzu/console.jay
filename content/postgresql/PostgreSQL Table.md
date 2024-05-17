@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 17:20
+date: 2024-05-17 21:54
 tags:
   - postgres
 ---
@@ -85,7 +85,10 @@ And use `\d table_name` to see the details of the specified table.
 
 ### Update a table
 
-To update a table, use `ALTER`. For example, you can update the column name by using `ALTER TABLE` with `RENAME TO`:
+To update a table, use `ALTER`. 
+#### Rename a column
+
+You can update the column name by using `ALTER TABLE` with `RENAME TO`:
 
 ```sql
 ALTER TABLE table_name RENAME column_name TO column_new_name;
@@ -93,6 +96,8 @@ ALTER TABLE table_name RENAME column_name TO column_new_name;
 ALTER TABLE person RENAME id TO person_uid;
 ALTER TABLE person RENAME gender TO sex;
 ```
+
+#### Update the data type
 
 Additionally, you can update the column type by using `ALTER TABLE` with `ALTER COLUMN` and `TYPE`:
 

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 18:18
+date: 2024-05-17 22:56
 tags:
   - postgres
 ---
@@ -14,7 +14,8 @@ tags:
 ## Table
 
 - [[PostgreSQL Table]]
-- [[PostgreSQL Constraint and Key]]
+- [[PostgreSQL Primary Key and Foreign Key]]
+- [[PostgreSQL Constraints]]
 - [[PostgreSQL Sequence and UUID]]
 
 ## Data Manipulation

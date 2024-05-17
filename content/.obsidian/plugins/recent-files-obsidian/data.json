@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "PostgreSQL Sequence and UUID",
+      "path": "postgresql/PostgreSQL Sequence and UUID.md"
+    },
+    {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
-    },
-    {
-      "basename": "PostgreSQL Constraint and Key",
-      "path": "postgresql/PostgreSQL Constraint and Key.md"
-    },
-    {
-      "basename": "PostgreSQL Table",
-      "path": "postgresql/PostgreSQL Table.md"
-    },
-    {
-      "basename": "PostgreSQL Delete",
-      "path": "postgresql/PostgreSQL Delete.md"
     },
     {
       "basename": "PostgreSQL Join",
       "path": "postgresql/PostgreSQL Join.md"
     },
     {
+      "basename": "PostgreSQL Delete",
+      "path": "postgresql/PostgreSQL Delete.md"
+    },
+    {
       "basename": "PostgreSQL Update",
       "path": "postgresql/PostgreSQL Update.md"
     },
     {
-      "basename": "PostgreSQL Sequence and UUID",
-      "path": "postgresql/PostgreSQL Sequence and UUID.md"
+      "basename": "PostgreSQL Constraints",
+      "path": "postgresql/PostgreSQL Constraints.md"
+    },
+    {
+      "basename": "PostgreSQL Primary Key and Foreign Key",
+      "path": "postgresql/PostgreSQL Primary Key and Foreign Key.md"
+    },
+    {
+      "basename": "PostgreSQL Table",
+      "path": "postgresql/PostgreSQL Table.md"
     },
     {
       "basename": "PostgreSQL Database",
@@ -195,10 +199,6 @@
     {
       "basename": "The most ... in or of",
       "path": "english-grammar/The most ... in or of.md"
-    },
-    {
-      "basename": "Anymore vs Any more",
-      "path": "english-grammar/Anymore vs Any more.md"
     }
   ],
   "omittedPaths": [],

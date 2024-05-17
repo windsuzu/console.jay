@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Sequence and UUID.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96a9372e3b208e7f",
+            "id": "fbaa50145f527248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgresql/PostgreSQL Constraint and Key.md",
+                "file": "postgresql/PostgreSQL Primary Key and Foreign Key.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "479dfa44c76beee2",
+            "id": "2592231430c39d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgresql/PostgreSQL Table.md",
+                "file": "postgresql/PostgreSQL Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Sequence and UUID.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/PostgreSQL.md"
+                "file": "postgresql/PostgreSQL Sequence and UUID.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/PostgreSQL.md"
+                "file": "postgresql/PostgreSQL Sequence and UUID.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Sequence and UUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/PostgreSQL.md",
+                "file": "postgresql/PostgreSQL Sequence and UUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,13 +272,14 @@
   },
   "active": "89b49aba37ae8848",
   "lastOpenFiles": [
-    "postgresql/PostgreSQL Constraint and Key.md",
-    "postgresql/PostgreSQL Table.md",
     "postgresql/PostgreSQL.md",
-    "postgresql/PostgreSQL Delete.md",
     "postgresql/PostgreSQL Join.md",
+    "postgresql/PostgreSQL Delete.md",
     "postgresql/PostgreSQL Update.md",
     "postgresql/PostgreSQL Sequence and UUID.md",
+    "postgresql/PostgreSQL Constraints.md",
+    "postgresql/PostgreSQL Primary Key and Foreign Key.md",
+    "postgresql/PostgreSQL Table.md",
     "postgresql/PostgreSQL Database.md",
     "postgresql/PostgreSQL Insert and Import.md",
     "postgresql/PostgreSQL Select.md",
@@ -299,7 +300,6 @@
     "mocs/CSS MOC.md",
     "mocs/React MOC.md",
     "mocs/Web-Dev MOC.md",
-    "mocs/JavaScript MOC.md",
     "fish-shell",
     "resume",
     "attachments/avatar-jay.jpeg",
