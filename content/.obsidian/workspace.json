@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/PostgreSQL Table.md",
+                "file": "postgresql/PostgreSQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/PostgreSQL Table.md"
+                "file": "postgresql/PostgreSQL.md"
               }
             }
           },
@@ -218,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/PostgreSQL Table.md"
+                "file": "postgresql/PostgreSQL.md"
               }
             }
           },
@@ -228,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/PostgreSQL Table.md",
+                "file": "postgresql/PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/PostgreSQL Table.md",
+                "file": "postgresql/PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,11 +270,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "479dfa44c76beee2",
+  "active": "89b49aba37ae8848",
   "lastOpenFiles": [
     "postgresql/PostgreSQL Constraint and Key.md",
-    "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Table.md",
+    "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Delete.md",
     "postgresql/PostgreSQL Join.md",
     "postgresql/PostgreSQL Update.md",

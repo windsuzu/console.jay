@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL Table",
-      "path": "postgresql/PostgreSQL Table.md"
+      "basename": "PostgreSQL",
+      "path": "postgresql/PostgreSQL.md"
     },
     {
       "basename": "PostgreSQL Constraint and Key",
       "path": "postgresql/PostgreSQL Constraint and Key.md"
     },
     {
-      "basename": "PostgreSQL",
-      "path": "postgresql/PostgreSQL.md"
+      "basename": "PostgreSQL Table",
+      "path": "postgresql/PostgreSQL Table.md"
     },
     {
       "basename": "PostgreSQL Delete",
