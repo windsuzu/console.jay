@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-17 22:56
+date: 2024-05-18 17:46
 tags:
   - postgres
 ---
@@ -24,6 +24,7 @@ tags:
 - [[PostgreSQL Select]]
 - [[PostgreSQL Update]]
 - [[PostgreSQL Delete]]
+- [[PostgreSQL Conflict]]
 - [[PostgreSQL Join]]
 
 > [!info] References

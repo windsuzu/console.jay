@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgresql/PostgreSQL Sequence and UUID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbaa50145f527248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/PostgreSQL Primary Key and Foreign Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2592231430c39d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/PostgreSQL Constraints.md",
+                "file": "postgresql/PostgreSQL Conflict.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/PostgreSQL Sequence and UUID.md",
+                "file": "postgresql/PostgreSQL Conflict.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/PostgreSQL Sequence and UUID.md"
+                "file": "postgresql/PostgreSQL Conflict.md"
               }
             }
           },
@@ -217,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/PostgreSQL Sequence and UUID.md"
+                "file": "postgresql/PostgreSQL Conflict.md"
               }
             }
           },
@@ -227,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/PostgreSQL Sequence and UUID.md",
+                "file": "postgresql/PostgreSQL Conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/PostgreSQL Sequence and UUID.md",
+                "file": "postgresql/PostgreSQL Conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -273,17 +249,19 @@
   "active": "89b49aba37ae8848",
   "lastOpenFiles": [
     "postgresql/PostgreSQL.md",
-    "postgresql/PostgreSQL Join.md",
     "postgresql/PostgreSQL Delete.md",
     "postgresql/PostgreSQL Update.md",
-    "postgresql/PostgreSQL Sequence and UUID.md",
+    "postgresql/PostgreSQL Conflict.md",
     "postgresql/PostgreSQL Constraints.md",
     "postgresql/PostgreSQL Primary Key and Foreign Key.md",
-    "postgresql/PostgreSQL Table.md",
-    "postgresql/PostgreSQL Database.md",
     "postgresql/PostgreSQL Insert and Import.md",
     "postgresql/PostgreSQL Select.md",
+    "postgresql/PostgreSQL Sequence and UUID.md",
     "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
+    "postgresql/PostgreSQL Database.md",
+    "postgresql/PostgreSQL Table.md",
+    "postgresql/().md",
+    "postgresql/PostgreSQL Join.md",
     "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",
     "index.md",
     "postgresql",
@@ -298,8 +276,6 @@
     "english-grammar/The - definite article.md",
     "mocs/Installation.md",
     "mocs/CSS MOC.md",
-    "mocs/React MOC.md",
-    "mocs/Web-Dev MOC.md",
     "fish-shell",
     "resume",
     "attachments/avatar-jay.jpeg",

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-16 11:49
+date: 2024-05-18 17:37
 tags:
   - postgres
 ---
@@ -25,7 +25,7 @@ INSERT INTO person (first_name, last_name, email, gender, date_of_birth) VALUES 
 Suppose you have a `.sql` file with 1000 insert statements, you can use `\i file_relative_path` to execute all the commands in the file.
 
 ```sql
-# /mnt/c/Users/winds/Desktop/person.sql
+-- /mnt/c/Users/winds/Desktop/person.sql
 
 insert into person (first_name, last_name, email, gender, date_of_birth) values ('Alvan', 'Fearnall', null, 'Male', '2024-05-12');
 insert into person (first_name, last_name, email, gender, date_of_birth) values ('Herbie', 'Tollit', null, 'Male', '2023-12-18');

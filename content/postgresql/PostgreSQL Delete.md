@@ -1,20 +1,21 @@
 ---
 draft: false
-date: 2024-05-16 18:17
+date: 2024-05-18 17:47
 tags:
   - postgres
 ---
 
+To delete all records in your table:
 
 ```sql
 DELETE FROM person;
 ```
 
+To delete one or more records using conditions:
+
 ```sql
 DELETE FROM person WHERE id = 1; 
 ```
-
-
 
 
 > [!info] References

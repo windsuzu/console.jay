@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-17 23:37
+date: 2024-05-18 17:23
 tags:
   - postgres
 ---
@@ -15,10 +15,33 @@ ALTER SEQUENCE person_id_seq RESTART WITH 1;
 
 ### UUID
 
+[UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier) stands for Universally Unique Identifier and is a data type designed to store unique identifiers. A UUID is globally unique, which means it is unique even across different systems.
 
+```sql
+CREATE TABLE example (
+    id UUID PRIMARY KEY,
+    name VARCHAR(100)
+);
+```
 
+Before inserting a record with a UUID, you have to install a UUID generator from `uuid-ossp`. You can install it with the following SQL command.
 
+```sql
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+```
 
+Now when you insert a record, you can call `uuid_generate_v4()` or [other versions can be found in the documentation](https://www.postgresql.org/docs/current/uuid-ossp.html) for your `id` field.
+
+```sql
+-- Inserting a single row with a generated UUID
+INSERT INTO example (id, name) VALUES (uuid_generate_v4(), 'John');
+
+-- Inserting multiple rows with generated UUIDs
+INSERT INTO example (id, name) 
+VALUES 
+    (uuid_generate_v4(), 'Alice'),
+    (uuid_generate_v4(), 'Bob');
+```
 
 
 > [!info] References

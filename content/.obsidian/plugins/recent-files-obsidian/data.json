@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL Sequence and UUID",
-      "path": "postgresql/PostgreSQL Sequence and UUID.md"
+      "basename": "PostgreSQL Conflict",
+      "path": "postgresql/PostgreSQL Conflict.md"
     },
     {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
-    },
-    {
-      "basename": "PostgreSQL Join",
-      "path": "postgresql/PostgreSQL Join.md"
     },
     {
       "basename": "PostgreSQL Delete",
@@ -29,14 +25,6 @@
       "path": "postgresql/PostgreSQL Primary Key and Foreign Key.md"
     },
     {
-      "basename": "PostgreSQL Table",
-      "path": "postgresql/PostgreSQL Table.md"
-    },
-    {
-      "basename": "PostgreSQL Database",
-      "path": "postgresql/PostgreSQL Database.md"
-    },
-    {
       "basename": "PostgreSQL Insert and Import",
       "path": "postgresql/PostgreSQL Insert and Import.md"
     },
@@ -45,8 +33,24 @@
       "path": "postgresql/PostgreSQL Select.md"
     },
     {
+      "basename": "PostgreSQL Sequence and UUID",
+      "path": "postgresql/PostgreSQL Sequence and UUID.md"
+    },
+    {
       "basename": "Connect PostgreSQL on WSL 2 (Ubuntu)",
       "path": "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md"
+    },
+    {
+      "basename": "PostgreSQL Database",
+      "path": "postgresql/PostgreSQL Database.md"
+    },
+    {
+      "basename": "PostgreSQL Table",
+      "path": "postgresql/PostgreSQL Table.md"
+    },
+    {
+      "basename": "PostgreSQL Join",
+      "path": "postgresql/PostgreSQL Join.md"
     },
     {
       "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
@@ -195,10 +199,6 @@
     {
       "basename": "Well-known groups of people",
       "path": "english-grammar/Well-known groups of people.md"
-    },
-    {
-      "basename": "The most ... in or of",
-      "path": "english-grammar/The most ... in or of.md"
     }
   ],
   "omittedPaths": [],
