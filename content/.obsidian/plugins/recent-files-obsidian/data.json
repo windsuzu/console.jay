@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL Conflict",
-      "path": "postgresql/PostgreSQL Conflict.md"
+      "basename": "PostgreSQL Join",
+      "path": "postgresql/PostgreSQL Join.md"
     },
     {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
     },
     {
+      "basename": "PostgreSQL Update",
+      "path": "postgresql/PostgreSQL Update.md"
+    },
+    {
       "basename": "PostgreSQL Delete",
       "path": "postgresql/PostgreSQL Delete.md"
     },
     {
-      "basename": "PostgreSQL Update",
-      "path": "postgresql/PostgreSQL Update.md"
+      "basename": "PostgreSQL Conflict",
+      "path": "postgresql/PostgreSQL Conflict.md"
     },
     {
       "basename": "PostgreSQL Constraints",
@@ -47,10 +51,6 @@
     {
       "basename": "PostgreSQL Table",
       "path": "postgresql/PostgreSQL Table.md"
-    },
-    {
-      "basename": "PostgreSQL Join",
-      "path": "postgresql/PostgreSQL Join.md"
     },
     {
       "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",

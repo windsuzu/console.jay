@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgresql/PostgreSQL Conflict.md",
+                "file": "postgresql/PostgreSQL Join.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postgresql/PostgreSQL Conflict.md",
+                "file": "postgresql/PostgreSQL Join.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgresql/PostgreSQL Conflict.md"
+                "file": "postgresql/PostgreSQL Join.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "postgresql/PostgreSQL Conflict.md"
+                "file": "postgresql/PostgreSQL Join.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgresql/PostgreSQL Conflict.md",
+                "file": "postgresql/PostgreSQL Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgresql/PostgreSQL Conflict.md",
+                "file": "postgresql/PostgreSQL Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,8 +249,9 @@
   "active": "89b49aba37ae8848",
   "lastOpenFiles": [
     "postgresql/PostgreSQL.md",
-    "postgresql/PostgreSQL Delete.md",
+    "postgresql/PostgreSQL Join.md",
     "postgresql/PostgreSQL Update.md",
+    "postgresql/PostgreSQL Delete.md",
     "postgresql/PostgreSQL Conflict.md",
     "postgresql/PostgreSQL Constraints.md",
     "postgresql/PostgreSQL Primary Key and Foreign Key.md",
@@ -261,7 +262,6 @@
     "postgresql/PostgreSQL Database.md",
     "postgresql/PostgreSQL Table.md",
     "postgresql/().md",
-    "postgresql/PostgreSQL Join.md",
     "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",
     "index.md",
     "postgresql",

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-18 22:17
+date: 2024-05-18 23:53
 tags:
   - postgres
 ---
@@ -25,9 +25,14 @@ ON CONFLICT (email) DO NOTHING;
 
 ### ON CONFLICT DO UPDATE
 
-On the other hand, you can update specific column
+On the other hand, you can update specific columns when the conflicts occur.
 
-
+```sql
+INSERT INTO example (email, name)
+VALUES ('john@example.com', 'John Doe')
+ON CONFLICT (email) DO UPDATE
+SET name = EXCLUDED.name;
+```
 
 
 > [!info] References

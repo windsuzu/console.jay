@@ -1,12 +1,12 @@
 ---
 draft: false
-date: 2024-05-16 18:17
+date: 2024-05-18 23:57
 tags:
   - postgres
 ---
 
 
-### JOIN
+
 
 ```sql
 JOIN car ON person.car_id = car.id;
