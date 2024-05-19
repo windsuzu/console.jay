@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL Join",
-      "path": "postgresql/PostgreSQL Join.md"
+      "basename": "Resume, Cover Letter",
+      "path": "resume/Resume, Cover Letter.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "English Grammar",
+      "path": "english-grammar/English Grammar.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
+    },
+    {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "Backend MOC",
+      "path": "mocs/Backend MOC.md"
+    },
+    {
+      "basename": "Dev Environment MOC",
+      "path": "mocs/Dev Environment MOC.md"
+    },
+    {
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
     },
     {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
+    },
+    {
+      "basename": "PostgreSQL Join",
+      "path": "postgresql/PostgreSQL Join.md"
     },
     {
       "basename": "PostgreSQL Update",
@@ -57,14 +97,6 @@
       "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Dev Environment MOC",
-      "path": "mocs/Dev Environment MOC.md"
-    },
-    {
       "basename": "Install Fish Shell",
       "path": "fish-shell/Install Fish Shell.md"
     },
@@ -77,10 +109,6 @@
       "path": "fish-shell/nvm.fish.md"
     },
     {
-      "basename": "Fish Shell",
-      "path": "fish-shell/Fish Shell.md"
-    },
-    {
       "basename": "z for fish",
       "path": "fish-shell/z for fish.md"
     },
@@ -91,26 +119,6 @@
     {
       "basename": "The - definite article",
       "path": "english-grammar/The - definite article.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
-    },
-    {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
-    },
-    {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
-    },
-    {
-      "basename": "English Grammar",
-      "path": "english-grammar/English Grammar.md"
     },
     {
       "basename": "Relative clauses, relative pronouns and adverbs",
@@ -191,14 +199,6 @@
     {
       "basename": "Adjectives and adverbs Common Mistakes",
       "path": "english-grammar/Adjectives and adverbs Common Mistakes.md"
-    },
-    {
-      "basename": "Nationalities",
-      "path": "english-grammar/Nationalities.md"
-    },
-    {
-      "basename": "Well-known groups of people",
-      "path": "english-grammar/Well-known groups of people.md"
     }
   ],
   "omittedPaths": [],

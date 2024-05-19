@@ -2,8 +2,7 @@
 draft: false
 date: 2024-05-19 16:29
 tags:
-  - dev-environment
+  - backend
 ---
 
-- [[Fish Shell]]
-
+- [[PostgreSQL]]
