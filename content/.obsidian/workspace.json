@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "resume/Measurable metrics on resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "resume/Measurable metrics on resume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "resume/Measurable metrics on resume.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "resume/Measurable metrics on resume.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "resume/Measurable metrics on resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "resume/Measurable metrics on resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,6 +261,8 @@
   "active": "330f59cfc220e1b2",
   "lastOpenFiles": [
     "resume/Resume, Cover Letter.md",
+    "resume/Best length for a resume.md",
+    "resume/Avoid Cliches and Buzzwords on resume.md",
     "index.md",
     "english-grammar/English Grammar.md",
     "mocs/JavaScript MOC.md",
@@ -284,10 +286,8 @@
     "postgresql/PostgreSQL Database.md",
     "postgresql/PostgreSQL Table.md",
     "postgresql/().md",
-    "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md",
     "postgresql",
     "prisma",
-    "fish-shell/Install Fish Shell.md",
     "fish-shell",
     "resume",
     "attachments/avatar-jay.jpeg",
