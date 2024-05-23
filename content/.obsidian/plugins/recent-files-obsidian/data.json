@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Prettier",
+      "path": "prettier/Prettier.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "Dev Environment MOC",
+      "path": "mocs/Dev Environment MOC.md"
+    },
+    {
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "example callout",
+      "path": "_templates/example callout.md"
+    },
+    {
       "basename": "Keywords on resume",
       "path": "resume/Keywords on resume.md"
     },
@@ -21,14 +45,6 @@
       "path": "resume/Avoid Cliches and Buzzwords on resume.md"
     },
     {
-      "basename": "Fish Shell",
-      "path": "fish-shell/Fish Shell.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "English Grammar",
       "path": "english-grammar/English Grammar.md"
     },
@@ -45,16 +61,8 @@
       "path": "mocs/React MOC.md"
     },
     {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
-    },
-    {
       "basename": "Backend MOC",
       "path": "mocs/Backend MOC.md"
-    },
-    {
-      "basename": "Dev Environment MOC",
-      "path": "mocs/Dev Environment MOC.md"
     },
     {
       "basename": "PostgreSQL",
@@ -191,14 +199,6 @@
     {
       "basename": "Discourse markers",
       "path": "english-grammar/Discourse markers.md"
-    },
-    {
-      "basename": "Clauses of result",
-      "path": "english-grammar/Clauses of result.md"
-    },
-    {
-      "basename": "Clauses of reason",
-      "path": "english-grammar/Clauses of reason.md"
     }
   ],
   "omittedPaths": [],

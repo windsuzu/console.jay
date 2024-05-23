@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd488d47dd877f1",
+        "id": "d6d7a404d188a430",
         "type": "tabs",
         "children": [
           {
-            "id": "330f59cfc220e1b2",
+            "id": "10a82c220b604f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "59f177170e57fae8",
+            "id": "392dc13ae3bfb241",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fish-shell/Fish Shell.md",
+                "file": "mocs/Dev Environment MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4175cf6b1ce92f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prettier/Prettier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "prettier/Prettier.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume/Keywords on resume.md"
+                "file": "prettier/Prettier.md"
               }
             }
           },
@@ -205,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "resume/Keywords on resume.md"
+                "file": "prettier/Prettier.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "prettier/Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume/Keywords on resume.md",
+                "file": "prettier/Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,22 +271,25 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "330f59cfc220e1b2",
+  "active": "4175cf6b1ce92f6f",
   "lastOpenFiles": [
-    "resume/Resume, Cover Letter.md",
-    "resume/Measurable metrics on resume.md",
-    "resume/Keywords on resume.md",
-    "resume/Best length for a resume.md",
-    "resume/Avoid Cliches and Buzzwords on resume.md",
+    "mocs/Web-Dev MOC.md",
+    "prettier",
+    "prettier/Prettier.md",
+    "mocs/Dev Environment MOC.md",
     "fish-shell/Fish Shell.md",
     "index.md",
+    "_templates/example callout.md",
+    "resume/Keywords on resume.md",
+    "resume/Resume, Cover Letter.md",
+    "resume/Measurable metrics on resume.md",
+    "resume/Best length for a resume.md",
+    "resume/Avoid Cliches and Buzzwords on resume.md",
     "english-grammar/English Grammar.md",
     "mocs/JavaScript MOC.md",
     "mocs/CSS MOC.md",
     "mocs/React MOC.md",
-    "mocs/Web-Dev MOC.md",
     "mocs/Backend MOC.md",
-    "mocs/Dev Environment MOC.md",
     "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Join.md",
     "postgresql/PostgreSQL Update.md",
@@ -283,9 +299,6 @@
     "postgresql/PostgreSQL Primary Key and Foreign Key.md",
     "postgresql/PostgreSQL Insert and Import.md",
     "postgresql/PostgreSQL Select.md",
-    "postgresql/PostgreSQL Sequence and UUID.md",
-    "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
-    "postgresql/PostgreSQL Database.md",
     "postgresql",
     "prisma",
     "fish-shell",
@@ -305,7 +318,6 @@
     "workflow",
     "javascript",
     "mocs",
-    "css",
     "Untitled.canvas"
   ]
 }
