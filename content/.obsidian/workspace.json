@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Keywords on resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Keywords on resume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md"
+                "file": "resume/Keywords on resume.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md"
+                "file": "resume/Keywords on resume.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Keywords on resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resume/Avoid Cliches and Buzzwords on resume.md",
+                "file": "resume/Keywords on resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -262,8 +262,10 @@
   "lastOpenFiles": [
     "resume/Resume, Cover Letter.md",
     "resume/Measurable metrics on resume.md",
+    "resume/Keywords on resume.md",
     "resume/Best length for a resume.md",
     "resume/Avoid Cliches and Buzzwords on resume.md",
+    "fish-shell/Fish Shell.md",
     "index.md",
     "english-grammar/English Grammar.md",
     "mocs/JavaScript MOC.md",
@@ -272,7 +274,6 @@
     "mocs/Web-Dev MOC.md",
     "mocs/Backend MOC.md",
     "mocs/Dev Environment MOC.md",
-    "fish-shell/Fish Shell.md",
     "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Join.md",
     "postgresql/PostgreSQL Update.md",
@@ -285,7 +286,6 @@
     "postgresql/PostgreSQL Sequence and UUID.md",
     "postgresql/Connect PostgreSQL on WSL 2 (Ubuntu).md",
     "postgresql/PostgreSQL Database.md",
-    "postgresql/PostgreSQL Table.md",
     "postgresql",
     "prisma",
     "fish-shell",

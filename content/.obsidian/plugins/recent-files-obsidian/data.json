@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Avoid Cliches and Buzzwords on resume",
-      "path": "resume/Avoid Cliches and Buzzwords on resume.md"
+      "basename": "Keywords on resume",
+      "path": "resume/Keywords on resume.md"
     },
     {
       "basename": "Resume, Cover Letter",
@@ -15,6 +15,14 @@
     {
       "basename": "Best length for a resume",
       "path": "resume/Best length for a resume.md"
+    },
+    {
+      "basename": "Avoid Cliches and Buzzwords on resume",
+      "path": "resume/Avoid Cliches and Buzzwords on resume.md"
+    },
+    {
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
     },
     {
       "basename": "index",
@@ -47,10 +55,6 @@
     {
       "basename": "Dev Environment MOC",
       "path": "mocs/Dev Environment MOC.md"
-    },
-    {
-      "basename": "Fish Shell",
-      "path": "fish-shell/Fish Shell.md"
     },
     {
       "basename": "PostgreSQL",
@@ -195,10 +199,6 @@
     {
       "basename": "Clauses of reason",
       "path": "english-grammar/Clauses of reason.md"
-    },
-    {
-      "basename": "Clauses of purpose",
-      "path": "english-grammar/Clauses of purpose.md"
     }
   ],
   "omittedPaths": [],
