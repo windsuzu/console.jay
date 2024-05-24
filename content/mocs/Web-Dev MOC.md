@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-11-29 15:41
+date: 2024-05-24 12:40
 tags:
   - web-dev
 ---
@@ -13,3 +13,6 @@ tags:
 ## Workflow
 - [[Trunk Based Development (TBD)]]
 - [[GitFlow]]
+
+### Browser
+- [[Event Delegation (event.target)]]

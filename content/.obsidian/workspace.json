@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "392dc13ae3bfb241",
+            "id": "046d5016c615eb9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/Dev Environment MOC.md",
+                "file": "mocs/Web-Dev MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4175cf6b1ce92f6f",
+            "id": "e8ca6cb8ddf051f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prettier/Prettier.md",
+                "file": "mocs/Event Delegation (event.target).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "392dc13ae3bfb241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/Dev Environment MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prettier/Prettier.md",
+                "file": "mocs/Event Delegation (event.target).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prettier/Prettier.md"
+                "file": "mocs/Event Delegation (event.target).md"
               }
             }
           },
@@ -218,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "prettier/Prettier.md"
+                "file": "mocs/Event Delegation (event.target).md"
               }
             }
           },
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prettier/Prettier.md",
+                "file": "mocs/Event Delegation (event.target).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prettier/Prettier.md",
+                "file": "mocs/Event Delegation (event.target).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -271,14 +283,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "4175cf6b1ce92f6f",
+  "active": "e8ca6cb8ddf051f2",
   "lastOpenFiles": [
     "mocs/Web-Dev MOC.md",
-    "prettier",
-    "prettier/Prettier.md",
-    "mocs/Dev Environment MOC.md",
-    "fish-shell/Fish Shell.md",
+    "mocs/Event Delegation (event.target).md",
     "index.md",
+    "mocs/Dev Environment MOC.md",
+    "prettier/Prettier.md",
+    "prettier",
+    "fish-shell/Fish Shell.md",
     "_templates/example callout.md",
     "resume/Keywords on resume.md",
     "resume/Resume, Cover Letter.md",

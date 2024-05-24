@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Prettier",
-      "path": "prettier/Prettier.md"
+      "basename": "Event Delegation (event.target)",
+      "path": "mocs/Event Delegation (event.target).md"
     },
     {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
     },
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Dev Environment MOC",
       "path": "mocs/Dev Environment MOC.md"
     },
     {
-      "basename": "Fish Shell",
-      "path": "fish-shell/Fish Shell.md"
+      "basename": "Prettier",
+      "path": "prettier/Prettier.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
     },
     {
       "basename": "example callout",
@@ -195,10 +199,6 @@
     {
       "basename": "Participle Clauses",
       "path": "english-grammar/Participle Clauses.md"
-    },
-    {
-      "basename": "Discourse markers",
-      "path": "english-grammar/Discourse markers.md"
     }
   ],
   "omittedPaths": [],
