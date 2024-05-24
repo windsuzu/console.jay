@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Event Delegation (event.target)",
-      "path": "mocs/Event Delegation (event.target).md"
-    },
-    {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
     },
@@ -15,6 +11,22 @@
     {
       "basename": "Dev Environment MOC",
       "path": "mocs/Dev Environment MOC.md"
+    },
+    {
+      "basename": "Event CurrentTarget and Target",
+      "path": "mocs/Event CurrentTarget and Target.md"
+    },
+    {
+      "basename": "Event Capturing and Bubbling",
+      "path": "mocs/Event Capturing and Bubbling.md"
+    },
+    {
+      "basename": "Event Delegation (event.target)",
+      "path": "mocs/Event Delegation (event.target).md"
+    },
+    {
+      "basename": "event-capturing-and-bubbling",
+      "path": "attachments/event-capturing-and-bubbling.png"
     },
     {
       "basename": "Prettier",
@@ -187,18 +199,6 @@
     {
       "basename": "Questions",
       "path": "english-grammar/Questions.md"
-    },
-    {
-      "basename": "Indirect questions",
-      "path": "english-grammar/Indirect questions.md"
-    },
-    {
-      "basename": "Conjunctions and clauses",
-      "path": "english-grammar/Conjunctions and clauses.md"
-    },
-    {
-      "basename": "Participle Clauses",
-      "path": "english-grammar/Participle Clauses.md"
     }
   ],
   "omittedPaths": [],

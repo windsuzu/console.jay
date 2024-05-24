@@ -1,8 +1,8 @@
 ---
 draft: false
-date: 2024-05-24 12:44
+date: 2024-05-24 15:21
 tags:
-  - event
+  - browser-event
   - web-dev
 ---
 

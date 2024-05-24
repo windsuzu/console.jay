@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "046d5016c615eb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "mocs/Web-Dev MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e8ca6cb8ddf051f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/Event Delegation (event.target).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "392dc13ae3bfb241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/Dev Environment MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Event Delegation (event.target).md",
+                "file": "mocs/Web-Dev MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Event Delegation (event.target).md"
+                "file": "mocs/Web-Dev MOC.md"
               }
             }
           },
@@ -230,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Event Delegation (event.target).md"
+                "file": "mocs/Web-Dev MOC.md"
               }
             }
           },
@@ -240,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Event Delegation (event.target).md",
+                "file": "mocs/Web-Dev MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Event Delegation (event.target).md",
+                "file": "mocs/Web-Dev MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -283,12 +246,16 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "e8ca6cb8ddf051f2",
+  "active": "10a82c220b604f75",
   "lastOpenFiles": [
-    "mocs/Web-Dev MOC.md",
-    "mocs/Event Delegation (event.target).md",
     "index.md",
     "mocs/Dev Environment MOC.md",
+    "mocs/Event CurrentTarget and Target.md",
+    "mocs/Event Capturing and Bubbling.md",
+    "mocs/Web-Dev MOC.md",
+    "mocs/Event Delegation (event.target).md",
+    "attachments/event-capturing-and-bubbling.png",
+    "attachments/Pasted image 20240524152334.png",
     "prettier/Prettier.md",
     "prettier",
     "fish-shell/Fish Shell.md",
@@ -310,8 +277,6 @@
     "postgresql/PostgreSQL Conflict.md",
     "postgresql/PostgreSQL Constraints.md",
     "postgresql/PostgreSQL Primary Key and Foreign Key.md",
-    "postgresql/PostgreSQL Insert and Import.md",
-    "postgresql/PostgreSQL Select.md",
     "postgresql",
     "prisma",
     "fish-shell",
@@ -325,8 +290,6 @@
     "attachments/reported-speech-expressions.png",
     "attachments/reported-speech-verb-forms.png",
     "attachments/trunk-based-development2.png",
-    "attachments/quantity-query-1.png",
-    "attachments/min-height-container-issue.png",
     "react",
     "workflow",
     "javascript",

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-24 12:40
+date: 2024-05-24 15:36
 tags:
   - web-dev
 ---
@@ -15,4 +15,7 @@ tags:
 - [[GitFlow]]
 
 ### Browser
+#### Event
+- [[Event Capturing and Bubbling]]
 - [[Event Delegation (event.target)]]
+- [[Event CurrentTarget and Target]]
