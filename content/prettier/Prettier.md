@@ -16,3 +16,4 @@ If you are using Tailwind, [prettier-plugin-tailwindcss](https://github.com/tail
 > [!info] References
 > - [Prettier · Opinionated Code Formatter](https://prettier.io/)
 > - https://github.com/prettier/prettier-vscode
+> - https://github.com/tailwindlabs/prettier-plugin-tailwindcss
