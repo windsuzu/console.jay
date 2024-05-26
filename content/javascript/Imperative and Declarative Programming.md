@@ -1,11 +1,11 @@
 ---
 draft: false
-date: 2023-11-25 22:52
+date: 2024-05-26 18:57
 tags:
   - javascript
 ---
 
-Imparative and declarative programming represent two distinct approaches to completing a function. These programming paradigms are ubiquitous in various languages, and in this note, I will illustrate the contrast between them using JavaScript and DOM manipulation.
+Imperative and declarative programming represent two distinct approaches to completing a function. These programming paradigms are ubiquitous in various languages, and in this note, I will illustrate the contrast between them using JavaScript and DOM manipulation.
 
 ## Imperative Programming
 

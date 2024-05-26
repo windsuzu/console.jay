@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/Web-Dev MOC.md",
+                "file": "mocs/React MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Web-Dev MOC.md",
+                "file": "mocs/React MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Web-Dev MOC.md"
+                "file": "mocs/React MOC.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Web-Dev MOC.md"
+                "file": "mocs/React MOC.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Web-Dev MOC.md",
+                "file": "mocs/React MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Web-Dev MOC.md",
+                "file": "mocs/React MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,10 +249,15 @@
   "active": "10a82c220b604f75",
   "lastOpenFiles": [
     "index.md",
+    "mocs/JavaScript MOC.md",
+    "javascript/Pattern Matching (ts-pattern).md",
+    "javascript/Imperative and Declarative Programming.md",
+    "react/Controlled Components.md",
+    "mocs/React MOC.md",
+    "mocs/Web-Dev MOC.md",
     "mocs/Dev Environment MOC.md",
     "mocs/Event CurrentTarget and Target.md",
     "mocs/Event Capturing and Bubbling.md",
-    "mocs/Web-Dev MOC.md",
     "mocs/Event Delegation (event.target).md",
     "attachments/event-capturing-and-bubbling.png",
     "attachments/Pasted image 20240524152334.png",
@@ -266,17 +271,12 @@
     "resume/Best length for a resume.md",
     "resume/Avoid Cliches and Buzzwords on resume.md",
     "english-grammar/English Grammar.md",
-    "mocs/JavaScript MOC.md",
     "mocs/CSS MOC.md",
-    "mocs/React MOC.md",
     "mocs/Backend MOC.md",
     "postgresql/PostgreSQL.md",
     "postgresql/PostgreSQL Join.md",
     "postgresql/PostgreSQL Update.md",
     "postgresql/PostgreSQL Delete.md",
-    "postgresql/PostgreSQL Conflict.md",
-    "postgresql/PostgreSQL Constraints.md",
-    "postgresql/PostgreSQL Primary Key and Foreign Key.md",
     "postgresql",
     "prisma",
     "fish-shell",

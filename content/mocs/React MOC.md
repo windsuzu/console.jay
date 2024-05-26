@@ -1,9 +1,16 @@
 ---
 draft: false
-date: 2023-12-04 11:12
+date: 2024-05-26 19:16
 tags:
   - react
 ---
+
+## Component Design
+- [[Controlled Components]]
+
+## Server Actions
+
+
 
 ## Chart.js
 - [[Chart.js]]
@@ -16,9 +23,6 @@ tags:
 
 ## Rendering
 - RSC, SSR, Hydration
-
-## Component Design
-- [[Controlled Components]]
 
 ---
 

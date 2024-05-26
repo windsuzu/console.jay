@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
     },
     {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "mocs/JavaScript MOC.md"
+    },
+    {
+      "basename": "Pattern Matching (ts-pattern)",
+      "path": "javascript/Pattern Matching (ts-pattern).md"
+    },
+    {
+      "basename": "Imperative and Declarative Programming",
+      "path": "javascript/Imperative and Declarative Programming.md"
+    },
+    {
+      "basename": "Controlled Components",
+      "path": "react/Controlled Components.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
     },
     {
       "basename": "Dev Environment MOC",
@@ -65,16 +85,8 @@
       "path": "english-grammar/English Grammar.md"
     },
     {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
-    },
-    {
       "basename": "CSS MOC",
       "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
     },
     {
       "basename": "Backend MOC",
@@ -187,18 +199,6 @@
     {
       "basename": "Prepositions of time",
       "path": "english-grammar/Prepositions of time.md"
-    },
-    {
-      "basename": "Word order",
-      "path": "english-grammar/Word order.md"
-    },
-    {
-      "basename": "Word order Common Mistakes",
-      "path": "english-grammar/Word order Common Mistakes.md"
-    },
-    {
-      "basename": "Questions",
-      "path": "english-grammar/Questions.md"
     }
   ],
   "omittedPaths": [],
