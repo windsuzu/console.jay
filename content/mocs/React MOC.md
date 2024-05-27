@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-05-26 22:56
+date: 2024-05-27 16:09
 tags:
   - react
 ---
@@ -10,9 +10,8 @@ tags:
 
 ## Server Actions
 - [[Server Action]]
-- [[useFormState]]
+- [[useActionState (useFormState)]]
 - [[useFormStatus]]
-- [[useOptimistic]]
 
 ## Chart.js
 - [[Chart.js]]
