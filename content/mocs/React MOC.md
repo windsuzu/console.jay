@@ -1,12 +1,17 @@
 ---
 draft: false
-date: 2024-05-31 17:04
+date: 2024-06-01 18:00
 tags:
   - react
 ---
 
 ## Component Design
 - [[Controlled Components]]
+
+
+## Cache
+- [[Request Memoization]]
+
 
 ## Server Actions
 - [[Server Action]]

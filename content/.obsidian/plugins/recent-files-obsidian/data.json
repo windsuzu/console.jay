@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Request Memoization",
+      "path": "mocs/Request Memoization.md"
+    },
+    {
       "basename": "React MOC",
       "path": "mocs/React MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prepositions Common Mistakes",
       "path": "english-grammar/Prepositions Common Mistakes.md"
-    },
-    {
-      "basename": "Since vs From",
-      "path": "english-grammar/Since vs From.md"
     }
   ],
   "omittedPaths": [],
