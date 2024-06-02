@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-02 19:33
+date: 2024-06-02 23:01
 tags:
   - react
   - nextjs
@@ -28,11 +28,11 @@ export default async function Page({ params }) {
 ```
 
 For example, the `guideData` will only be fetched from the API once and stored in the data cache. All users will get the data from the data cache instead of fetching it from the API.
-### Revalidation
+## Revalidation
 
 This cache is never cleared, even if you redeploy your application. The only way to update the cache is to explicitly tell Next.js to do so using **time-based revalidation** or **on-demand revalidation.**
 
-#### Time-based revalidation
+### Time-based revalidation
 
 We can tell Next.js to automatically revalidate the data in the data cache by declaring a time period. You can either declare the time as the second parameter (options) in the `fetch` function, or declare it as a config option of the page.
 
@@ -72,7 +72,7 @@ export default async function Page({ params }) {
 > [!important] 
 > The time period declared in the fetch function has higher priority than the one declared in the page when two methods are used at the same time.
 
-#### On-demand Revalidation
+### On-demand Revalidation
 
 
 
