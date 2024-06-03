@@ -5,6 +5,14 @@
       "path": "mocs/Full Route Cache.md"
     },
     {
+      "basename": "Router Cache",
+      "path": "mocs/Router Cache.md"
+    },
+    {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
+    },
+    {
       "basename": "next.cache.unstable_cache",
       "path": "react/next-cache/next.cache.unstable_cache.md"
     },
@@ -13,8 +21,8 @@
       "path": "react/next-cache/Data Cache.md"
     },
     {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
+      "basename": "full-route-cache",
+      "path": "attachments/full-route-cache.png"
     },
     {
       "basename": "Request Memoization",
@@ -191,14 +199,6 @@
     {
       "basename": "Install Fish Shell",
       "path": "fish-shell/Install Fish Shell.md"
-    },
-    {
-      "basename": "fzf.fish",
-      "path": "fish-shell/fzf.fish.md"
-    },
-    {
-      "basename": "nvm.fish",
-      "path": "fish-shell/nvm.fish.md"
     }
   ],
   "omittedPaths": [],

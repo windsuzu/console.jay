@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-03 16:57
+date: 2024-06-04 00:20
 tags:
   - react
 ---
@@ -13,6 +13,7 @@ tags:
 - [[Data Cache]]
 	- [[next.cache.unstable_cache]]
 - [[Full Route Cache]]
+- [[Router Cache]]
 
 ## Server Actions
 - [[Server Action]]
