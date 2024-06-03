@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Cache",
-      "path": "mocs/Data Cache.md"
+      "basename": "Full Route Cache",
+      "path": "mocs/Full Route Cache.md"
     },
     {
-      "basename": "Request Memoization",
-      "path": "mocs/Request Memoization.md"
+      "basename": "next.cache.unstable_cache",
+      "path": "react/next-cache/next.cache.unstable_cache.md"
+    },
+    {
+      "basename": "Data Cache",
+      "path": "react/next-cache/Data Cache.md"
     },
     {
       "basename": "React MOC",
       "path": "mocs/React MOC.md"
+    },
+    {
+      "basename": "Request Memoization",
+      "path": "react/next-cache/Request Memoization.md"
+    },
+    {
+      "basename": "react.cache",
+      "path": "react/next-cache/react.cache.md"
+    },
+    {
+      "basename": "data-cache",
+      "path": "attachments/data-cache.png"
+    },
+    {
+      "basename": "request-memoization",
+      "path": "attachments/request-memoization.png"
     },
     {
       "basename": "useActionState (useFormState)",
@@ -179,26 +199,6 @@
     {
       "basename": "nvm.fish",
       "path": "fish-shell/nvm.fish.md"
-    },
-    {
-      "basename": "z for fish",
-      "path": "fish-shell/z for fish.md"
-    },
-    {
-      "basename": "fisher",
-      "path": "fish-shell/fisher.md"
-    },
-    {
-      "basename": "The - definite article",
-      "path": "english-grammar/The - definite article.md"
-    },
-    {
-      "basename": "Relative clauses, relative pronouns and adverbs",
-      "path": "english-grammar/Relative clauses, relative pronouns and adverbs.md"
-    },
-    {
-      "basename": "Prepositions",
-      "path": "english-grammar/Prepositions.md"
     }
   ],
   "omittedPaths": [],

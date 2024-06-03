@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10a82c220b604f75",
+            "id": "c31d04c5ec4af6a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/Data Cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffb49d5cb96554c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/Request Memoization.md",
+                "file": "mocs/Full Route Cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
       {
         "id": "4954756cba5b7ade",
         "type": "tabs",
-        "dimension": 25.072604065827687,
+        "dimension": 23.71732817037754,
         "children": [
           {
             "id": "3d50214808998e0a",
@@ -114,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Data Cache.md",
+                "file": "mocs/Full Route Cache.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27268599173600716,
+                  "scale": 0.2726859917360076,
                   "close": true
                 }
               }
@@ -156,7 +144,7 @@
       {
         "id": "884ddd02c3319b96",
         "type": "tabs",
-        "dimension": 23.039690222652467,
+        "dimension": 19.36108422071636,
         "children": [
           {
             "id": "57f3938ebda4009b",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Data Cache.md"
+                "file": "mocs/Full Route Cache.md"
               }
             }
           },
@@ -205,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Data Cache.md"
+                "file": "mocs/Full Route Cache.md"
               }
             }
           }
@@ -214,7 +202,7 @@
       {
         "id": "664c38c8bd525c44",
         "type": "tabs",
-        "dimension": 19.36108422071636,
+        "dimension": 23.039690222652467,
         "children": [
           {
             "id": "94751ef195017213",
@@ -222,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Data Cache.md",
+                "file": "mocs/Full Route Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -233,7 +221,7 @@
       {
         "id": "ac5e343256989119",
         "type": "tabs",
-        "dimension": 32.526621490803485,
+        "dimension": 33.88189738625363,
         "children": [
           {
             "id": "d73c6d045a2bcd47",
@@ -241,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Data Cache.md",
+                "file": "mocs/Full Route Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,11 +259,19 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "57f3938ebda4009b",
+  "active": "c31d04c5ec4af6a6",
   "lastOpenFiles": [
-    "mocs/Data Cache.md",
-    "mocs/Request Memoization.md",
+    "react/next-cache/next.cache.unstable_cache.md",
+    "mocs/Full Route Cache.md",
+    "react/next-cache/Data Cache.md",
     "mocs/React MOC.md",
+    "react/next-cache/Request Memoization.md",
+    "react/next-cache/react.cache.md",
+    "react/next-cache",
+    "next/cache.unstable_cache.md",
+    "next",
+    "attachments/data-cache.png",
+    "attachments/request-memoization.png",
     "react/server-action/useActionState (useFormState).md",
     "react/server-action/Server Action.md",
     "react/server-action/useFormStatus.md",
@@ -302,23 +298,15 @@
     "resume/Keywords on resume.md",
     "resume/Resume, Cover Letter.md",
     "resume/Measurable metrics on resume.md",
-    "resume/Best length for a resume.md",
-    "resume/Avoid Cliches and Buzzwords on resume.md",
-    "english-grammar/English Grammar.md",
-    "mocs/CSS MOC.md",
     "postgresql",
     "prisma",
     "fish-shell",
-    "resume",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",
     "attachments/prepositions-of-time.png",
-    "Some",
     "attachments/reported-speech-imperatives.png",
     "attachments/reported-speech-questions.png",
     "attachments/reported-speech-expressions.png",
-    "attachments/reported-speech-verb-forms.png",
-    "attachments/trunk-based-development2.png",
     "Untitled.canvas"
   ]
 }

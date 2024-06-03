@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-02 17:53
+date: 2024-06-03 16:57
 tags:
   - react
 ---
@@ -9,8 +9,10 @@ tags:
 - [[Controlled Components]]
 ## Cache
 - [[Request Memoization]]
+	- [[react.cache]]
 - [[Data Cache]]
-
+	- [[next.cache.unstable_cache]]
+- [[Full Route Cache]]
 
 ## Server Actions
 - [[Server Action]]

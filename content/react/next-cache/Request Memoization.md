@@ -1,11 +1,14 @@
 ---
 draft: false
-date: 2024-06-02 17:53
+date: 2024-06-03 16:12
 tags:
   - react
   - nextjs
   - cache
 ---
+
+![[request-memoization.png]]
+> Source: [Finally Master Next.js's Most Complex Feature - Caching (webdevsimplified.com)](https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/)
 
 Request memoization is more of a React feature rather than a Next.js feature. It caches `fetch` results that are made in server components **in a single render cycle**. It will return results from the cache if there are second and more `fetch` requests with same parameters (URL and options).
 
@@ -35,21 +38,7 @@ For example, we have `Page` and `UserDetails` server components. When the `user`
 
 After that, the second `fetch` request in the `UserDetails` component will retrieve the stored data from the request memoization cache. The entire process happens in a single render cycle.
 
-### Caching Non-`fetch` Requests
-
-By default, React caches all `fetch` requests in request memoization. However, it also provides a `cache` function to wrap other non-`fetch` requests and make them behave like `fetch` requests.
-
-```tsx
-import { cache } from "react"
-import { queryDatabase } from "./databaseClient"
-
-export const fetchUserData = cache(userId => {
-  // Direct database query
-  return queryDatabase("SELECT * FROM users WHERE id = ?", [userId])
-})
-```
-
-### Opting Out
+## Opting Out
 
 If you don't want the request memoization to happen, you can pass a `signal` from the `AbortController` as a parameter to the `fetch` request. This prevents `fetch` result from being cached in the request memoization cache. However, it is not recommended to do this.
 
@@ -62,6 +51,11 @@ async function fetchUserData(userId) {
   return res.json()
 }
 ```
+
+## Caching Non-`fetch` Requests
+
+You can implement [[react.cache]] to cache requests other than `fetch`.
+
 
 > [!info] References
 > - [Finally Master Next.js's Most Complex Feature - Caching (webdevsimplified.com)](https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/)
