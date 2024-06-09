@@ -10,9 +10,9 @@ tags:
 ![[router-cache.png]]
 > Source: [Finally Master Next.js's Most Complex Feature - Caching (webdevsimplified.com)](https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/)
 
-Before we learn about the router cache, we should know that the [[full route cache]] stores both HTML and RSCP persistently on the server over multiple user requests. 
+Before we learn about the router cache, we should know that the [[Full Route Cache]] stores both HTML and RSCP persistently on the server over multiple user requests. 
 
-The router cache, on the other hand, ==only caches RSCP in the client browser for the duration of a user session==. Furthermore, while the [[full route cache]] caches only statically rendered routes, ==the router cache caches both statically and dynamically rendered routes.==
+The router cache, on the other hand, ==only caches RSCP in the client browser for the duration of a user session==. Furthermore, while the [[Full Route Cache]] caches only statically rendered routes, ==the router cache caches both statically and dynamically rendered routes.==
 
 The duration of the stored cache depends on the route type:
 

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
+      "basename": "Docker",
+      "path": "docker/Docker.md"
     },
     {
       "basename": "Full Route Cache",
-      "path": "mocs/Full Route Cache.md"
+      "path": "react/next-cache/Full Route Cache.md"
+    },
+    {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
     },
     {
       "basename": "Router Cache",
@@ -195,10 +199,6 @@
     {
       "basename": "PostgreSQL Table",
       "path": "postgresql/PostgreSQL Table.md"
-    },
-    {
-      "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
-      "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
     }
   ],
   "omittedPaths": [],
