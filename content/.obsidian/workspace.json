@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d6d7a404d188a430",
+        "id": "0b3140626212d02a",
         "type": "tabs",
         "children": [
           {
-            "id": "c31d04c5ec4af6a6",
+            "id": "94dafe9c731fce38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/React MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb0e3064a30d241a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/Full Route Cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb3978f424146bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocs/Router Cache.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Full Route Cache.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "mocs/Full Route Cache.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,9 +185,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "mocs/Full Route Cache.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -235,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Full Route Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +219,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Full Route Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,15 +248,16 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "eb0e3064a30d241a",
+  "active": "94dafe9c731fce38",
   "lastOpenFiles": [
-    "mocs/Router Cache.md",
-    "mocs/Full Route Cache.md",
     "mocs/React MOC.md",
-    "react/next-cache/next.cache.unstable_cache.md",
-    "react/next-cache/Data Cache.md",
-    "attachments/full-route-cache.png",
+    "mocs/Full Route Cache.md",
+    "react/next-cache/Router Cache.md",
     "react/next-cache/Request Memoization.md",
+    "react/next-cache/Data Cache.md",
+    "attachments/router-cache.png",
+    "react/next-cache/next.cache.unstable_cache.md",
+    "attachments/full-route-cache.png",
     "react/next-cache/react.cache.md",
     "react/next-cache",
     "next/cache.unstable_cache.md",
@@ -323,7 +288,6 @@
     "fish-shell/Fish Shell.md",
     "_templates/example callout.md",
     "resume/Keywords on resume.md",
-    "resume/Resume, Cover Letter.md",
     "postgresql",
     "prisma",
     "fish-shell",
@@ -331,7 +295,6 @@
     "attachments/prepositions-of-place.png",
     "attachments/prepositions-of-time.png",
     "attachments/reported-speech-imperatives.png",
-    "attachments/reported-speech-questions.png",
     "Untitled.canvas"
   ]
 }

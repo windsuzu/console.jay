@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "React MOC",
+      "path": "mocs/React MOC.md"
+    },
+    {
       "basename": "Full Route Cache",
       "path": "mocs/Full Route Cache.md"
     },
     {
       "basename": "Router Cache",
-      "path": "mocs/Router Cache.md"
+      "path": "react/next-cache/Router Cache.md"
     },
     {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
-    },
-    {
-      "basename": "next.cache.unstable_cache",
-      "path": "react/next-cache/next.cache.unstable_cache.md"
+      "basename": "Request Memoization",
+      "path": "react/next-cache/Request Memoization.md"
     },
     {
       "basename": "Data Cache",
       "path": "react/next-cache/Data Cache.md"
     },
     {
-      "basename": "full-route-cache",
-      "path": "attachments/full-route-cache.png"
+      "basename": "router-cache",
+      "path": "attachments/router-cache.png"
     },
     {
-      "basename": "Request Memoization",
-      "path": "react/next-cache/Request Memoization.md"
+      "basename": "next.cache.unstable_cache",
+      "path": "react/next-cache/next.cache.unstable_cache.md"
+    },
+    {
+      "basename": "full-route-cache",
+      "path": "attachments/full-route-cache.png"
     },
     {
       "basename": "react.cache",
@@ -195,10 +199,6 @@
     {
       "basename": "Install PostgreSQL on WSL 2 (Ubuntu)",
       "path": "postgresql/Install PostgreSQL on WSL 2 (Ubuntu).md"
-    },
-    {
-      "basename": "Install Fish Shell",
-      "path": "fish-shell/Install Fish Shell.md"
     }
   ],
   "omittedPaths": [],

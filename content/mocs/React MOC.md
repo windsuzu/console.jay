@@ -7,6 +7,7 @@ tags:
 
 ## Component Design
 - [[Controlled Components]]
+
 ## Cache
 - [[Request Memoization]]
 	- [[react.cache]]
