@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5c1bf6ef4b068091",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +259,7 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "5c1bf6ef4b068091",
+  "active": "94dafe9c731fce38",
   "lastOpenFiles": [
     "react/next-cache/Full Route Cache.md",
     "docker/Docker.md",
