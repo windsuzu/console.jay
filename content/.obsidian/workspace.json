@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker Container.md",
+                "file": "docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
       {
         "id": "4954756cba5b7ade",
         "type": "tabs",
-        "dimension": 23.71732817037754,
+        "dimension": 19.36108422071636,
         "children": [
           {
             "id": "3d50214808998e0a",
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Docker Container.md",
+                "file": "docker/Docker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker Container.md"
+                "file": "docker/Docker.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Docker Container.md"
+                "file": "docker/Docker.md"
               }
             }
           }
@@ -215,7 +215,7 @@
       {
         "id": "664c38c8bd525c44",
         "type": "tabs",
-        "dimension": 30.300096805421106,
+        "dimension": 19.36108422071636,
         "children": [
           {
             "id": "94751ef195017213",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker Container.md",
+                "file": "docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +234,7 @@
       {
         "id": "ac5e343256989119",
         "type": "tabs",
-        "dimension": 26.621490803484992,
+        "dimension": 41.91674733785092,
         "children": [
           {
             "id": "d73c6d045a2bcd47",
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker Container.md",
+                "file": "docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,10 +274,11 @@
   },
   "active": "51af5d0db36e132f",
   "lastOpenFiles": [
+    "docker/Install Docker on Windows WSL 2.md",
     "docker/Docker.md",
     "docker/Docker Container.md",
+    "attachments/docker-container.png",
     "attachments/how-docker-works.png",
-    "docker/Install Docker on Windows WSL 2.md",
     "react/next-cache/Full Route Cache.md",
     "docker",
     "mocs/React MOC.md",
@@ -313,13 +314,11 @@
     "attachments/Pasted image 20240524152334.png",
     "prettier/Prettier.md",
     "prettier",
-    "fish-shell/Fish Shell.md",
     "postgresql",
     "prisma",
     "fish-shell",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",
-    "attachments/prepositions-of-time.png",
     "Untitled.canvas"
   ]
 }

@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker Container",
-      "path": "docker/Docker Container.md"
-    },
-    {
       "basename": "Docker",
       "path": "docker/Docker.md"
     },
     {
-      "basename": "how-docker-works",
-      "path": "attachments/how-docker-works.png"
-    },
-    {
       "basename": "Install Docker on Windows WSL 2",
       "path": "docker/Install Docker on Windows WSL 2.md"
+    },
+    {
+      "basename": "Docker Container",
+      "path": "docker/Docker Container.md"
+    },
+    {
+      "basename": "docker-container",
+      "path": "attachments/docker-container.png"
+    },
+    {
+      "basename": "how-docker-works",
+      "path": "attachments/how-docker-works.png"
     },
     {
       "basename": "Full Route Cache",
@@ -195,10 +199,6 @@
     {
       "basename": "PostgreSQL Select",
       "path": "postgresql/PostgreSQL Select.md"
-    },
-    {
-      "basename": "PostgreSQL Sequence and UUID",
-      "path": "postgresql/PostgreSQL Sequence and UUID.md"
     }
   ],
   "omittedPaths": [],
