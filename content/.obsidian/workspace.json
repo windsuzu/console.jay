@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51af5d0db36e132f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/Docker Container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Container.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker.md"
+                "file": "docker/Docker Container.md"
               }
             }
           },
@@ -193,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Docker.md"
+                "file": "docker/Docker Container.md"
               }
             }
           }
@@ -202,7 +215,7 @@
       {
         "id": "664c38c8bd525c44",
         "type": "tabs",
-        "dimension": 23.039690222652467,
+        "dimension": 30.300096805421106,
         "children": [
           {
             "id": "94751ef195017213",
@@ -210,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Container.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +234,7 @@
       {
         "id": "ac5e343256989119",
         "type": "tabs",
-        "dimension": 33.88189738625363,
+        "dimension": 26.621490803484992,
         "children": [
           {
             "id": "d73c6d045a2bcd47",
@@ -229,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,10 +272,13 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "94dafe9c731fce38",
+  "active": "51af5d0db36e132f",
   "lastOpenFiles": [
-    "react/next-cache/Full Route Cache.md",
     "docker/Docker.md",
+    "docker/Docker Container.md",
+    "attachments/how-docker-works.png",
+    "docker/Install Docker on Windows WSL 2.md",
+    "react/next-cache/Full Route Cache.md",
     "docker",
     "mocs/React MOC.md",
     "react/next-cache/Router Cache.md",
@@ -298,15 +314,12 @@
     "prettier/Prettier.md",
     "prettier",
     "fish-shell/Fish Shell.md",
-    "_templates/example callout.md",
-    "resume/Keywords on resume.md",
     "postgresql",
     "prisma",
     "fish-shell",
     "attachments/avatar-jay.jpeg",
     "attachments/prepositions-of-place.png",
     "attachments/prepositions-of-time.png",
-    "attachments/reported-speech-imperatives.png",
     "Untitled.canvas"
   ]
 }
