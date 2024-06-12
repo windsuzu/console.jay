@@ -5,12 +5,12 @@
       "path": "docker/Docker.md"
     },
     {
-      "basename": "Install Docker on Windows WSL 2",
-      "path": "docker/Install Docker on Windows WSL 2.md"
-    },
-    {
       "basename": "Docker Container",
       "path": "docker/Docker Container.md"
+    },
+    {
+      "basename": "Install Docker on Windows WSL 2",
+      "path": "docker/Install Docker on Windows WSL 2.md"
     },
     {
       "basename": "docker-container",
