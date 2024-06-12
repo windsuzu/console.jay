@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker CLI Commands",
+      "path": "docker/Docker CLI Commands.md"
+    },
+    {
       "basename": "Docker",
       "path": "docker/Docker.md"
     },
     {
       "basename": "Docker Container",
       "path": "docker/Docker Container.md"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "docker-image",
+      "path": "attachments/docker-image.png"
     },
     {
       "basename": "Install Docker on Windows WSL 2",
@@ -187,18 +199,6 @@
     {
       "basename": "PostgreSQL Constraints",
       "path": "postgresql/PostgreSQL Constraints.md"
-    },
-    {
-      "basename": "PostgreSQL Primary Key and Foreign Key",
-      "path": "postgresql/PostgreSQL Primary Key and Foreign Key.md"
-    },
-    {
-      "basename": "PostgreSQL Insert and Import",
-      "path": "postgresql/PostgreSQL Insert and Import.md"
-    },
-    {
-      "basename": "PostgreSQL Select",
-      "path": "postgresql/PostgreSQL Select.md"
     }
   ],
   "omittedPaths": [],

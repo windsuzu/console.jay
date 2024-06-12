@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker CLI Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51af5d0db36e132f",
+            "id": "720ac84f203cc18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Image.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker CLI Commands.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker.md"
+                "file": "docker/Docker CLI Commands.md"
               }
             }
           },
@@ -206,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Docker.md"
+                "file": "docker/Docker CLI Commands.md"
               }
             }
           }
@@ -215,7 +214,7 @@
       {
         "id": "664c38c8bd525c44",
         "type": "tabs",
-        "dimension": 19.36108422071636,
+        "dimension": 39.8838334946757,
         "children": [
           {
             "id": "94751ef195017213",
@@ -223,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker CLI Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +233,7 @@
       {
         "id": "ac5e343256989119",
         "type": "tabs",
-        "dimension": 41.91674733785092,
+        "dimension": 21.39399806389158,
         "children": [
           {
             "id": "d73c6d045a2bcd47",
@@ -242,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker CLI Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,10 +271,13 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "51af5d0db36e132f",
+  "active": "94dafe9c731fce38",
   "lastOpenFiles": [
-    "docker/Docker Container.md",
     "docker/Docker.md",
+    "docker/Docker CLI Commands.md",
+    "docker/Docker Container.md",
+    "docker/Docker Image.md",
+    "attachments/docker-image.png",
     "docker/Install Docker on Windows WSL 2.md",
     "attachments/docker-container.png",
     "attachments/how-docker-works.png",
@@ -309,16 +311,13 @@
     "react/Controlled Components.md",
     "mocs/Web-Dev MOC.md",
     "mocs/Dev Environment MOC.md",
-    "browser-event/Event CurrentTarget and Target.md",
     "attachments/event-capturing-and-bubbling.png",
     "attachments/Pasted image 20240524152334.png",
-    "prettier/Prettier.md",
     "prettier",
     "postgresql",
     "prisma",
     "fish-shell",
     "attachments/avatar-jay.jpeg",
-    "attachments/prepositions-of-place.png",
     "Untitled.canvas"
   ]
 }
