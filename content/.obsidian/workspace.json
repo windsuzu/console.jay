@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6075dafee2bafd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/Docker IT flags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "720ac84f203cc18f",
             "type": "leaf",
             "state": {
@@ -273,10 +285,11 @@
   },
   "active": "94dafe9c731fce38",
   "lastOpenFiles": [
-    "docker/Docker.md",
+    "docker/Docker IT flags.md",
     "docker/Docker CLI Commands.md",
-    "docker/Docker Container.md",
+    "docker/Docker.md",
     "docker/Docker Image.md",
+    "docker/Docker Container.md",
     "attachments/docker-image.png",
     "docker/Install Docker on Windows WSL 2.md",
     "attachments/docker-container.png",

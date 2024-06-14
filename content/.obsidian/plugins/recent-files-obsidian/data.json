@@ -5,16 +5,20 @@
       "path": "docker/Docker CLI Commands.md"
     },
     {
+      "basename": "Docker IT flags",
+      "path": "docker/Docker IT flags.md"
+    },
+    {
       "basename": "Docker",
       "path": "docker/Docker.md"
     },
     {
-      "basename": "Docker Container",
-      "path": "docker/Docker Container.md"
-    },
-    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "Docker Container",
+      "path": "docker/Docker Container.md"
     },
     {
       "basename": "docker-image",
@@ -195,10 +199,6 @@
     {
       "basename": "PostgreSQL Conflict",
       "path": "postgresql/PostgreSQL Conflict.md"
-    },
-    {
-      "basename": "PostgreSQL Constraints",
-      "path": "postgresql/PostgreSQL Constraints.md"
     }
   ],
   "omittedPaths": [],
