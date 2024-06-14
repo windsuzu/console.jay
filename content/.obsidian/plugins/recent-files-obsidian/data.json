@@ -5,12 +5,16 @@
       "path": "docker/Docker CLI Commands.md"
     },
     {
-      "basename": "Docker IT flags",
-      "path": "docker/Docker IT flags.md"
-    },
-    {
       "basename": "Docker",
       "path": "docker/Docker.md"
+    },
+    {
+      "basename": "Install Docker on Windows WSL 2",
+      "path": "docker/Install Docker on Windows WSL 2.md"
+    },
+    {
+      "basename": "Docker IT flags",
+      "path": "docker/Docker IT flags.md"
     },
     {
       "basename": "Docker Image",
@@ -23,10 +27,6 @@
     {
       "basename": "docker-image",
       "path": "attachments/docker-image.png"
-    },
-    {
-      "basename": "Install Docker on Windows WSL 2",
-      "path": "docker/Install Docker on Windows WSL 2.md"
     },
     {
       "basename": "docker-container",

@@ -1,9 +1,11 @@
 ---
 draft: false
-date: 2024-06-13 00:01
+date: 2024-06-14 22:24
 tags:
   - docker
 ---
+
+
 
 ## run
 
@@ -24,7 +26,11 @@ docker run [options] image_name [command]
 
 ## create
 
+
 ## start
+
+
+
 ## exec
 ## stop and kill
 
