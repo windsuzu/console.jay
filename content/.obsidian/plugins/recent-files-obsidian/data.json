@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker Container Lifecycle",
-      "path": "docker/Docker Container Lifecycle.md"
+      "basename": "docker stop, kill",
+      "path": "docker/cli-commands/docker stop, kill.md"
     },
     {
-      "basename": "Docker CLI Commands",
-      "path": "docker/Docker CLI Commands.md"
+      "basename": "docker run, create, start",
+      "path": "docker/cli-commands/docker run, create, start.md"
+    },
+    {
+      "basename": "Docker Container Lifecycle",
+      "path": "docker/Docker Container Lifecycle.md"
     },
     {
       "basename": "Docker Container",
       "path": "docker/Docker Container.md"
     },
     {
-      "basename": "Docker Image",
-      "path": "docker/Docker Image.md"
+      "basename": "Docker CLI Commands",
+      "path": "docker/Docker CLI Commands.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "docker/Docker.md"
     },
     {
       "basename": "Docker IT flags",
       "path": "docker/Docker IT flags.md"
     },
     {
-      "basename": "Docker",
-      "path": "docker/Docker.md"
+      "basename": "docker-container-lifecycle",
+      "path": "attachments/docker-container-lifecycle.png"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/Docker Image.md"
     },
     {
       "basename": "Install Docker on Windows WSL 2",
@@ -187,18 +199,6 @@
     {
       "basename": "PostgreSQL",
       "path": "postgresql/PostgreSQL.md"
-    },
-    {
-      "basename": "PostgreSQL Join",
-      "path": "postgresql/PostgreSQL Join.md"
-    },
-    {
-      "basename": "PostgreSQL Update",
-      "path": "postgresql/PostgreSQL Update.md"
-    },
-    {
-      "basename": "PostgreSQL Delete",
-      "path": "postgresql/PostgreSQL Delete.md"
     }
   ],
   "omittedPaths": [],

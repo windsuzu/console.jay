@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker CLI Commands.md",
+                "file": "docker/cli-commands/docker stop, kill.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Docker Container Lifecycle.md",
+                "file": "docker/cli-commands/docker stop, kill.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker Container Lifecycle.md"
+                "file": "docker/cli-commands/docker stop, kill.md"
               }
             }
           },
@@ -206,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Docker Container Lifecycle.md"
+                "file": "docker/cli-commands/docker stop, kill.md"
               }
             }
           }
@@ -223,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker Container Lifecycle.md",
+                "file": "docker/cli-commands/docker stop, kill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker Container Lifecycle.md",
+                "file": "docker/cli-commands/docker stop, kill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,15 +271,18 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "720ac84f203cc18f",
+  "active": "94dafe9c731fce38",
   "lastOpenFiles": [
-    "docker/Docker CLI Commands.md",
+    "docker/cli-commands/docker run, create, start.md",
     "docker/Docker Container Lifecycle.md",
-    "docker/cli-commands",
+    "docker/cli-commands/docker stop, kill.md",
     "docker/Docker Container.md",
-    "docker/Docker Image.md",
-    "docker/Docker IT flags.md",
+    "docker/Docker CLI Commands.md",
     "docker/Docker.md",
+    "docker/Docker IT flags.md",
+    "attachments/docker-container-lifecycle.png",
+    "docker/cli-commands",
+    "docker/Docker Image.md",
     "docker/Install Docker on Windows WSL 2.md",
     "attachments/docker-image.png",
     "attachments/docker-container.png",
@@ -312,13 +314,11 @@
     "mocs/JavaScript MOC.md",
     "javascript/Pattern Matching (ts-pattern).md",
     "javascript/Imperative and Declarative Programming.md",
-    "react/Controlled Components.md",
     "attachments/event-capturing-and-bubbling.png",
     "attachments/Pasted image 20240524152334.png",
     "prettier",
     "postgresql",
     "prisma",
-    "attachments/avatar-jay.jpeg",
     "Untitled.canvas"
   ]
 }
