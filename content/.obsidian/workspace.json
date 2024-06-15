@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker Lifecycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6075dafee2bafd19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/Docker IT flags.md",
+                "file": "docker/Docker CLI Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker Image.md",
+                "file": "docker/Docker Container Lifecycle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Docker Lifecycle.md",
+                "file": "docker/Docker Container Lifecycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker Lifecycle.md"
+                "file": "docker/Docker Container Lifecycle.md"
               }
             }
           },
@@ -217,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Docker Lifecycle.md"
+                "file": "docker/Docker Container Lifecycle.md"
               }
             }
           }
@@ -234,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker Lifecycle.md",
+                "file": "docker/Docker Container Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker Lifecycle.md",
+                "file": "docker/Docker Container Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,15 +272,16 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "94dafe9c731fce38",
+  "active": "720ac84f203cc18f",
   "lastOpenFiles": [
+    "docker/Docker CLI Commands.md",
+    "docker/Docker Container Lifecycle.md",
+    "docker/cli-commands",
+    "docker/Docker Container.md",
     "docker/Docker Image.md",
     "docker/Docker IT flags.md",
-    "docker/Docker Lifecycle.md",
-    "docker/Docker CLI Commands.md",
     "docker/Docker.md",
     "docker/Install Docker on Windows WSL 2.md",
-    "docker/Docker Container.md",
     "attachments/docker-image.png",
     "attachments/docker-container.png",
     "attachments/how-docker-works.png",
@@ -323,13 +313,11 @@
     "javascript/Pattern Matching (ts-pattern).md",
     "javascript/Imperative and Declarative Programming.md",
     "react/Controlled Components.md",
-    "mocs/Web-Dev MOC.md",
     "attachments/event-capturing-and-bubbling.png",
     "attachments/Pasted image 20240524152334.png",
     "prettier",
     "postgresql",
     "prisma",
-    "fish-shell",
     "attachments/avatar-jay.jpeg",
     "Untitled.canvas"
   ]

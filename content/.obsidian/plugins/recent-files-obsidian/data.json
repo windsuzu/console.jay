@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker Lifecycle",
-      "path": "docker/Docker Lifecycle.md"
+      "basename": "Docker Container Lifecycle",
+      "path": "docker/Docker Container Lifecycle.md"
+    },
+    {
+      "basename": "Docker CLI Commands",
+      "path": "docker/Docker CLI Commands.md"
+    },
+    {
+      "basename": "Docker Container",
+      "path": "docker/Docker Container.md"
     },
     {
       "basename": "Docker Image",
@@ -13,20 +21,12 @@
       "path": "docker/Docker IT flags.md"
     },
     {
-      "basename": "Docker CLI Commands",
-      "path": "docker/Docker CLI Commands.md"
-    },
-    {
       "basename": "Docker",
       "path": "docker/Docker.md"
     },
     {
       "basename": "Install Docker on Windows WSL 2",
       "path": "docker/Install Docker on Windows WSL 2.md"
-    },
-    {
-      "basename": "Docker Container",
-      "path": "docker/Docker Container.md"
     },
     {
       "basename": "docker-image",
