@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker Lifecycle",
+      "path": "docker/Docker Lifecycle.md"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "Docker IT flags",
+      "path": "docker/Docker IT flags.md"
+    },
+    {
       "basename": "Docker CLI Commands",
       "path": "docker/Docker CLI Commands.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Install Docker on Windows WSL 2",
       "path": "docker/Install Docker on Windows WSL 2.md"
-    },
-    {
-      "basename": "Docker IT flags",
-      "path": "docker/Docker IT flags.md"
-    },
-    {
-      "basename": "Docker Image",
-      "path": "docker/Docker Image.md"
     },
     {
       "basename": "Docker Container",
@@ -195,10 +199,6 @@
     {
       "basename": "PostgreSQL Delete",
       "path": "postgresql/PostgreSQL Delete.md"
-    },
-    {
-      "basename": "PostgreSQL Conflict",
-      "path": "postgresql/PostgreSQL Conflict.md"
     }
   ],
   "omittedPaths": [],
