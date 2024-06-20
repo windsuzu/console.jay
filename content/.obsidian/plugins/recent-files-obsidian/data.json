@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "docker stop, kill",
+      "path": "docker/cli-commands/docker stop, kill.md"
+    },
+    {
       "basename": "Docker Container Lifecycle",
       "path": "docker/Docker Container Lifecycle.md"
     },
     {
       "basename": "Docker",
       "path": "docker/Docker.md"
-    },
-    {
-      "basename": "docker stop, kill",
-      "path": "docker/cli-commands/docker stop, kill.md"
     },
     {
       "basename": "docker run, create, start",
