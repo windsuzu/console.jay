@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-18 18:24
+date: 2024-06-20 18:32
 tags:
   - docker
 ---
@@ -13,12 +13,19 @@ When a [[Docker]] container is created with `docker create`, it can be started u
 >[!seealso] 
 >- [[docker run, create, start]]
 
-When the container is running, you can either stop it using `docker stop`, kill it using `docker kill`, or run additional commands inside the container's environment using `docker exec`, which is a way to interact with the container while it's running.
+When the container is running, you can either stop it using `docker stop`, kill it using `docker kill`, or run additional commands inside the container's environment using `docker exec`, which is a way to interact with the container while it's running. 
+
+You can use `docker ps` to display information about running containers. You can also use `docker logs` to display the output from the container's `STDOUT` and `STDERR`.
 
 >[!seealso] 
 >- [[docker stop, kill]]
+>- [[docker ps]]
+>- [[docker logs]]
 
 Once a container has completed its processes and stopped, you can restart it with `docker start`, as long as it hasn't been removed. If you want to remove the container from your machine, you can use `docker container prune` to remove all non-running containers.
+
+>[!seealso]
+>- [[docker container prune]]
 
 
 > [!info] References

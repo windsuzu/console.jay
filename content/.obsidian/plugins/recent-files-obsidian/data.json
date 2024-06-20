@@ -1,40 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "docker stop, kill",
-      "path": "docker/cli-commands/docker stop, kill.md"
-    },
-    {
       "basename": "Docker Container Lifecycle",
       "path": "docker/Docker Container Lifecycle.md"
     },
     {
-      "basename": "Docker",
-      "path": "docker/Docker.md"
+      "basename": "docker container prune",
+      "path": "docker/cli-commands/docker container prune.md"
+    },
+    {
+      "basename": "docker logs",
+      "path": "docker/cli-commands/docker logs.md"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "docker ps",
+      "path": "docker/cli-commands/docker ps.md"
+    },
+    {
+      "basename": "docker stop, kill",
+      "path": "docker/cli-commands/docker stop, kill.md"
     },
     {
       "basename": "docker run, create, start",
       "path": "docker/cli-commands/docker run, create, start.md"
     },
     {
-      "basename": "Docker CLI Commands",
-      "path": "docker/Docker CLI Commands.md"
+      "basename": "Docker IT flags",
+      "path": "docker/Docker IT flags.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "docker/Docker.md"
     },
     {
       "basename": "Docker Container",
       "path": "docker/Docker Container.md"
     },
     {
-      "basename": "Docker IT flags",
-      "path": "docker/Docker IT flags.md"
-    },
-    {
       "basename": "docker-container-lifecycle",
       "path": "attachments/docker-container-lifecycle.png"
-    },
-    {
-      "basename": "Docker Image",
-      "path": "docker/Docker Image.md"
     },
     {
       "basename": "Install Docker on Windows WSL 2",
@@ -191,14 +199,6 @@
     {
       "basename": "CSS MOC",
       "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "Backend MOC",
-      "path": "mocs/Backend MOC.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "postgresql/PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
