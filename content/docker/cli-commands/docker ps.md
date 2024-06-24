@@ -1,9 +1,11 @@
 ---
 draft: false
-date: 2024-06-20 18:05
+date: 2024-06-24 17:19
 tags:
   - docker
 ---
+
+The command is strongly associated with the [[Docker Container Lifecycle]].
 
 The `docker ps` (short for `docker container ls`) command allows you to check the `CONTAINER_ID`, `IMAGE_NAME`, `COMMAND`, `CREATED_TIME`, `STATUS`, `PORTS`, and `NAME` of the running container.
 

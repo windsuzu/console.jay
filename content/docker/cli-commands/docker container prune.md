@@ -1,9 +1,11 @@
 ---
 draft: false
-date: 2024-06-20 18:20
+date: 2024-06-24 17:19
 tags:
   - docker
 ---
+
+The command is strongly associated with the [[Docker Container Lifecycle]].
 
 The `docker container prune` will get your confirmation and remove all stopped containers from your local machine.
 

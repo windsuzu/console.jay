@@ -1,11 +1,11 @@
 ---
 draft: false
-date: 2024-06-12 18:33
+date: 2024-06-24 18:17
 tags:
   - docker
 ---
 
-Docker is an ecosystem comprising the [[Docker CLI Commands|Docker Client (CLI)]], Docker Daemon (Server), Docker Hub, [[Docker Image|Docker Images]], and Docker Compose, all working together to achieve ==containerization==. [[Docker Container|Containerization]] involves encapsulating the necessary steps, dependencies, and configurations for setting up software or executing an application into a single [[Docker Container|container]] instance.
+Docker is an ecosystem comprising the Docker Client (CLI), Docker Daemon (Server), Docker Hub, [[Docker Image|Docker Images]], and Docker Compose, all working together to achieve ==containerization==. [[Docker Container|Containerization]] involves encapsulating the necessary steps, dependencies, and configurations for setting up software or executing an application into a single [[Docker Container|container]] instance.
 
 ![[how-docker-works.png]]
 

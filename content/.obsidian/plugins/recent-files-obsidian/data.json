@@ -1,44 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker Container Lifecycle",
-      "path": "docker/Docker Container Lifecycle.md"
-    },
-    {
-      "basename": "docker logs",
-      "path": "docker/cli-commands/docker logs.md"
-    },
-    {
-      "basename": "docker container prune",
-      "path": "docker/cli-commands/docker container prune.md"
-    },
-    {
-      "basename": "Docker Image",
-      "path": "docker/Docker Image.md"
-    },
-    {
-      "basename": "docker ps",
-      "path": "docker/cli-commands/docker ps.md"
-    },
-    {
-      "basename": "docker stop, kill",
-      "path": "docker/cli-commands/docker stop, kill.md"
-    },
-    {
-      "basename": "docker run, create, start",
-      "path": "docker/cli-commands/docker run, create, start.md"
-    },
-    {
-      "basename": "Docker IT flags",
-      "path": "docker/Docker IT flags.md"
-    },
-    {
       "basename": "Docker",
       "path": "docker/Docker.md"
     },
     {
       "basename": "Docker Container",
       "path": "docker/Docker Container.md"
+    },
+    {
+      "basename": "Docker -it flags",
+      "path": "docker/cli-commands/Docker -it flags.md"
+    },
+    {
+      "basename": "docker container prune",
+      "path": "docker/cli-commands/docker container prune.md"
+    },
+    {
+      "basename": "Docker Container Lifecycle",
+      "path": "docker/Docker Container Lifecycle.md"
+    },
+    {
+      "basename": "continer-input-output",
+      "path": "attachments/continer-input-output.png"
+    },
+    {
+      "basename": "docker exec",
+      "path": "docker/cli-commands/docker exec.md"
+    },
+    {
+      "basename": "docker run, create, start",
+      "path": "docker/cli-commands/docker run, create, start.md"
+    },
+    {
+      "basename": "docker ps",
+      "path": "docker/cli-commands/docker ps.md"
+    },
+    {
+      "basename": "docker logs",
+      "path": "docker/cli-commands/docker logs.md"
+    },
+    {
+      "basename": "docker-exec-redis",
+      "path": "attachments/docker-exec-redis.png"
+    },
+    {
+      "basename": "docker stop, kill",
+      "path": "docker/cli-commands/docker stop, kill.md"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/Docker Image.md"
     },
     {
       "basename": "docker-container-lifecycle",
@@ -187,18 +199,6 @@
     {
       "basename": "Best length for a resume",
       "path": "resume/Best length for a resume.md"
-    },
-    {
-      "basename": "Avoid Cliches and Buzzwords on resume",
-      "path": "resume/Avoid Cliches and Buzzwords on resume.md"
-    },
-    {
-      "basename": "English Grammar",
-      "path": "english-grammar/English Grammar.md"
-    },
-    {
-      "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
     }
   ],
   "omittedPaths": [],

@@ -15,7 +15,7 @@ docker run [options] image_name [command]
 ```
 
 >[!example]
-> The following example pulls the `busybox` image from the [[Docker]] Hub, then creates and starts a container with it. It also specifies a shell to be started inside the container and the `-i` and `-t` [[Docker IT flags|flags]] to interact directly with the shell in the container.
+> The following example pulls the `busybox` image from the [[Docker]] Hub, then creates and starts a container with it. It also specifies a shell to be started inside the container and the `-i` and `-t` [[Docker -it flags|flags]] to interact directly with the shell in the container.
 > 
 >```bash
 >docker run -it busybox sh

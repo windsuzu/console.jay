@@ -1,9 +1,11 @@
 ---
 draft: false
-date: 2024-06-24 16:21
+date: 2024-06-24 17:19
 tags:
   - docker
 ---
+
+The command is strongly associated with the [[Docker Container Lifecycle]].
 
 The `docker logs` command allows you to read the output from `STDOUT` and `STDERR` of a  a [[docker container|container]] as a batch. You can add a `-f` or `--follow` flag to stream the output from the container in real time.
 
