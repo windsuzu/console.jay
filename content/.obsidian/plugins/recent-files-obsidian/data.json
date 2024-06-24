@@ -5,12 +5,12 @@
       "path": "docker/Docker Container Lifecycle.md"
     },
     {
-      "basename": "docker container prune",
-      "path": "docker/cli-commands/docker container prune.md"
-    },
-    {
       "basename": "docker logs",
       "path": "docker/cli-commands/docker logs.md"
+    },
+    {
+      "basename": "docker container prune",
+      "path": "docker/cli-commands/docker container prune.md"
     },
     {
       "basename": "Docker Image",

@@ -261,9 +261,9 @@
   },
   "active": "94dafe9c731fce38",
   "lastOpenFiles": [
-    "docker/cli-commands/docker container prune.md",
-    "docker/Docker Container Lifecycle.md",
     "docker/cli-commands/docker logs.md",
+    "docker/Docker Container Lifecycle.md",
+    "docker/cli-commands/docker container prune.md",
     "docker/Docker Image.md",
     "docker/cli-commands/docker ps.md",
     "docker/cli-commands/docker stop, kill.md",
