@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Image.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Docker.md"
+                "file": "docker/Docker Image.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Docker.md"
+                "file": "docker/Docker Image.md"
               }
             }
           }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Docker.md",
+                "file": "docker/Docker Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,8 +261,9 @@
   },
   "active": "94dafe9c731fce38",
   "lastOpenFiles": [
-    "docker/Docker Container.md",
     "docker/Docker.md",
+    "docker/Docker Image.md",
+    "docker/Docker Container.md",
     "docker/cli-commands/Docker -it flags.md",
     "docker/cli-commands/docker container prune.md",
     "docker/Docker Container Lifecycle.md",
@@ -273,7 +274,6 @@
     "docker/cli-commands/docker logs.md",
     "attachments/docker-exec-redis.png",
     "docker/cli-commands/docker stop, kill.md",
-    "docker/Docker Image.md",
     "docker/Docker CLI Commands.md",
     "attachments/docker-container-lifecycle.png",
     "docker/cli-commands",

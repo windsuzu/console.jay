@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-24 18:17
+date: 2024-06-24 23:33
 tags:
   - docker
 ---
@@ -9,7 +9,7 @@ Docker is an ecosystem comprising the Docker Client (CLI), Docker Daemon (Server
 
 ![[how-docker-works.png]]
 
-When you run `docker run hello-world` for the first time, the Docker Client asks the Docker Server to run this command. The Docker Server first looks for the `hello-world` [[Docker image|image]] in the **image cache** on your machine. If there's no such image on your machine, it then pulls it from the Docker Hub over the Internet and caches it. Finally, the Docker server takes the image, loads it into memory, creates a [[Docker Container|container]] from it, and runs the program inside it.
+When you run `docker run hello-world` for the first time, the Docker Client asks the Docker Server to run this command. The Docker Server first looks for the `hello-world` [[Docker Image|image]] in the **image cache** on your machine. If there's no such image on your machine, it then pulls it from the Docker Hub over the Internet and caches it. Finally, the Docker server takes the image, loads it into memory, creates a [[Docker Container|container]] from it, and runs the program inside it.
 
 
 > [!info] References
