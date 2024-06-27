@@ -5,6 +5,14 @@
       "path": "docker/Docker Image.md"
     },
     {
+      "basename": "Measurable metrics on resume",
+      "path": "resume/Measurable metrics on resume.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Docker",
       "path": "docker/Docker.md"
     },
@@ -137,10 +145,6 @@
       "path": "browser-event/Event Capturing and Bubbling.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
       "basename": "JavaScript MOC",
       "path": "mocs/JavaScript MOC.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "Resume, Cover Letter",
       "path": "resume/Resume, Cover Letter.md"
-    },
-    {
-      "basename": "Measurable metrics on resume",
-      "path": "resume/Measurable metrics on resume.md"
     },
     {
       "basename": "Best length for a resume",
