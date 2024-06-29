@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Dockerfile",
+      "path": "docker/Dockerfile.md"
+    },
+    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "docker build",
+      "path": "docker/cli-commands/docker build.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
+      "basename": "Get something done, Get someone to do",
+      "path": "english-grammar/Get something done, Get someone to do.md"
+    },
+    {
+      "basename": "Gerund",
+      "path": "english-grammar/Gerund.md"
+    },
+    {
+      "basename": "docker commit",
+      "path": "docker/cli-commands/docker commit.md"
     },
     {
       "basename": "Measurable metrics on resume",
@@ -175,30 +199,6 @@
     {
       "basename": "event-capturing-and-bubbling",
       "path": "attachments/event-capturing-and-bubbling.png"
-    },
-    {
-      "basename": "Prettier",
-      "path": "prettier/Prettier.md"
-    },
-    {
-      "basename": "Fish Shell",
-      "path": "fish-shell/Fish Shell.md"
-    },
-    {
-      "basename": "example callout",
-      "path": "_templates/example callout.md"
-    },
-    {
-      "basename": "Keywords on resume",
-      "path": "resume/Keywords on resume.md"
-    },
-    {
-      "basename": "Resume, Cover Letter",
-      "path": "resume/Resume, Cover Letter.md"
-    },
-    {
-      "basename": "Best length for a resume",
-      "path": "resume/Best length for a resume.md"
     }
   ],
   "omittedPaths": [],
