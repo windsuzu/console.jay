@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b06802fb9790f54e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,7 +270,7 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "e78b1e7ce4c7a6f7",
+  "active": "b06802fb9790f54e",
   "lastOpenFiles": [
     "resume/Measurable metrics on resume.md",
     "index.md",
