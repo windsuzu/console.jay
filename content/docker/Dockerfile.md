@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-02 20:06
+date: 2024-07-02 22:27
 tags:
   - _tbd
   - docker
@@ -48,9 +48,14 @@ docker run dee0eaed
 
 ## Build Process in Detail
 
+
+
 ```bash
 DOCKER_BUILDKIT=0 docker build .
 ```
+
+>[!note]
+ After version 18.09, we use `DOCKER_BUILDKIT=0` to temporarily disable [buildkit](https://github.com/moby/buildkit) to see more details during the build process.  
 
 ```bash {3,5,1516,18-21}
 # Sending build context to Docker daemon  2.048kB
