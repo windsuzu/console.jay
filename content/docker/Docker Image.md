@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-29 15:52
+date: 2024-07-02 17:16
 tags:
   - docker
   - tbd
@@ -11,6 +11,8 @@ A [[Docker]] Image can be thought of as a ==filesystem snapshot with a startup c
 This filesystem is not loaded entirely into memory but is mounted in a way that the container can access it. [[Docker]] then executes the startup command specified in the image within this filesystem and environment.
 
 ![[docker-image.png]]
+
+There are two ways to 
 
 Two ways to create an image:
 
