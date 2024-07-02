@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-24 17:08
+date: 2024-07-02 18:11
 tags:
   - docker
 ---
@@ -8,7 +8,7 @@ tags:
 ![[docker-container-lifecycle.png]]
 > Source: [Docker Container Lifecycle Management](https://k21academy.com/docker-kubernetes/docker-container-lifecycle-management/)
 
-When a [[Docker]] container is created with `docker create`, it can be started using `docker start` multiple times (you can also use the `docker run` command to create and start a container simultaneously).  The container may run and finish immediately or run for an extended duration, depending on the processes it executes. 
+When a [[Docker]] [[Docker Container|container]] is created with `docker create`, it can be started using `docker start` multiple times (you can also use the `docker run` command to create and start a container simultaneously).  The container may run and finish immediately or run for an extended duration, depending on the processes it executes. 
 
 >[!seealso] 
 >- [[docker run, create, start]]
