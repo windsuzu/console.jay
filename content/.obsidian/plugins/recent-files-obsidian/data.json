@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Dockerfile",
-      "path": "docker/Dockerfile.md"
-    },
-    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "Dockerfile",
+      "path": "docker/Dockerfile.md"
     },
     {
       "basename": "docker build",
