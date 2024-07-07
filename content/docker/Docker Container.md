@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-15 19:05
+date: 2024-07-07 16:34
 tags:
   - docker
 ---
@@ -11,8 +11,6 @@ A [[Docker]] container is a process or a set of processes with isolated resource
 
 - `namespacing` is an OS feature that segments hardware resources for specific processes. For example, creating separate segments on the hard drive for Python 2 and Python 3, and directing system calls to the appropriate segment based on which application is making the call.
 - `cgroups` (Control Groups) limit the amount of resources (CPU, memory, network bandwidth) a process can use.
-
-
 
 
 > [!info] References

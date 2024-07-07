@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Dockerfile",
-      "path": "docker/Dockerfile.md"
-    },
-    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
     },
     {
+      "basename": "Dockerfile",
+      "path": "docker/Dockerfile.md"
+    },
+    {
       "basename": "docker build",
       "path": "docker/cli-commands/docker build.md"
+    },
+    {
+      "basename": "Docker build process",
+      "path": "docker/Docker build process.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
+      "basename": "docker-build-process-cache",
+      "path": "attachments/docker-build-process-cache.png"
+    },
+    {
+      "basename": "docker-build-process-example",
+      "path": "attachments/docker-build-process-example.png"
+    },
+    {
+      "basename": "Docker Container",
+      "path": "docker/Docker Container.md"
+    },
+    {
+      "basename": "Docker Container Lifecycle",
+      "path": "docker/Docker Container Lifecycle.md"
     },
     {
       "basename": "docker commit",
@@ -25,14 +49,6 @@
       "path": "docker/Docker.md"
     },
     {
-      "basename": "Docker Container",
-      "path": "docker/Docker Container.md"
-    },
-    {
-      "basename": "Docker Container Lifecycle",
-      "path": "docker/Docker Container Lifecycle.md"
-    },
-    {
       "basename": "docker container prune",
       "path": "docker/cli-commands/docker container prune.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "docker exec",
       "path": "docker/cli-commands/docker exec.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "Get something done, Get someone to do",
@@ -187,18 +199,6 @@
     {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
-    },
-    {
-      "basename": "Dev Environment MOC",
-      "path": "mocs/Dev Environment MOC.md"
-    },
-    {
-      "basename": "Event CurrentTarget and Target",
-      "path": "browser-event/Event CurrentTarget and Target.md"
-    },
-    {
-      "basename": "event-capturing-and-bubbling",
-      "path": "attachments/event-capturing-and-bubbling.png"
     }
   ],
   "omittedPaths": [],

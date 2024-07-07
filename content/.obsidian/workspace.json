@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1e7c2b6da6ce4600",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/cli-commands/docker build.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14f2cf825ea05773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/Dockerfile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Dockerfile.md",
+                "file": "docker/Docker Image.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Dockerfile.md"
+                "file": "docker/Docker Image.md"
               }
             }
           },
@@ -221,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Dockerfile.md"
+                "file": "docker/Docker Image.md"
               }
             }
           }
@@ -239,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Dockerfile.md",
+                "file": "docker/Docker Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Dockerfile.md",
+                "file": "docker/Docker Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,20 +263,23 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "14f2cf825ea05773",
+  "active": "b7f8694dd415798e",
   "lastOpenFiles": [
-    "docker/Docker Image.md",
-    "docker/cli-commands/docker build.md",
     "docker/Dockerfile.md",
+    "docker/cli-commands/docker build.md",
+    "docker/Docker build process.md",
+    "_templates/default-note.md",
+    "attachments/docker-build-process-cache.png",
+    "attachments/docker-build-process-example.png",
+    "docker/Docker Image.md",
+    "docker/Docker Container.md",
+    "docker/Docker Container Lifecycle.md",
     "docker/cli-commands/docker commit.md",
     "docker/cli-commands/docker ps.md",
     "docker/Docker.md",
-    "docker/Docker Container.md",
-    "docker/Docker Container Lifecycle.md",
     "docker/cli-commands/docker container prune.md",
     "docker/cli-commands/docker logs.md",
     "docker/cli-commands/docker exec.md",
-    "_templates/default-note.md",
     "english-grammar/Get something done, Get someone to do.md",
     "english-grammar/Gerund.md",
     "resume/Measurable metrics on resume.md",
@@ -322,14 +300,10 @@
     "docker",
     "mocs/React MOC.md",
     "react/next-cache/Router Cache.md",
-    "react/next-cache/Request Memoization.md",
-    "react/next-cache/Data Cache.md",
     "attachments/router-cache.png",
     "attachments/full-route-cache.png",
     "react/next-cache",
     "next",
-    "attachments/data-cache.png",
-    "attachments/request-memoization.png",
     "web-dev",
     "react/server-action",
     "browser-event",
