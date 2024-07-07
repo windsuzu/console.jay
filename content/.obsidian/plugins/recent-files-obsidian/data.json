@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Alpine",
+      "path": "docker/Alpine.md"
+    },
+    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Controlled Components",
       "path": "react/Controlled Components.md"
-    },
-    {
-      "basename": "Web-Dev MOC",
-      "path": "mocs/Web-Dev MOC.md"
     }
   ],
   "omittedPaths": [],
