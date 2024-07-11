@@ -5,6 +5,10 @@
       "path": "docker/dockerfile/COPY in Dockerfile.md"
     },
     {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
+    },
+    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Docker build process",
       "path": "docker/Docker build process.md"
-    },
-    {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
     },
     {
       "basename": "docker-build-process-cache",

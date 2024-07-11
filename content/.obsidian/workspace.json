@@ -288,18 +288,18 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "7314f10a8b104326",
+  "active": "99215f4824c66492",
   "lastOpenFiles": [
+    "_templates/default-note.md",
+    "docker/dockerfile/COPY in Dockerfile.md",
     "docker/Docker Image.md",
     "docker/cli-commands/docker run, create, start.md",
     "docker/dockerfile/WORKDIR in Dockerfile.md",
-    "docker/dockerfile/COPY in Dockerfile.md",
     "docker/dockerfile",
     "docker/Alpine.md",
     "docker/dockerfile/Dockerfile.md",
     "docker/cli-commands/docker build.md",
     "docker/Docker build process.md",
-    "_templates/default-note.md",
     "attachments/docker-build-process-cache.png",
     "attachments/docker-build-process-example.png",
     "docker/Docker Container.md",
