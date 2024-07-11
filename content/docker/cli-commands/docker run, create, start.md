@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-06-18 18:24
+date: 2024-07-09 17:23
 tags:
   - docker
 ---
@@ -22,6 +22,20 @@ docker run [options] image_name [command]
 >```
 >
 >PS. `busybox` is a tiny (<5Mb) image that combines many common UNIX utilities into a single executable for crafting space-efficient distributions.
+
+### Port Mapping
+
+Sometimes the application in our container runs or listens on a specific port. If we want to access the app from our local network and browser, we need to explicitly redirect the incoming request from the local network to the port inside the container's network.
+
+To achieve such port mapping, we simply add a `-p` flag to the `docker run` command, specifying `local_port` : `container_port`. 
+
+```bash
+# redirect local 8080 port to container 8080 port
+docker run -p 8080:8080 windsuzu/simpleweb
+
+# redirect local 1234 port to container 8080 port
+docker run -p 1234:8080 windsuzu/simpleweb
+```
 
 ## docker create
 

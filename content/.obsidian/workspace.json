@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "bb2ef0c9a14b7fed",
+            "id": "10677d55188823ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Alpine.md",
+                "file": "docker/cli-commands/docker run, create, start.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a53b1f45005651e8",
+            "id": "7314f10a8b104326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Dockerfile.md",
+                "file": "docker/dockerfile/COPY in Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#_tbd",
+                "query": "tag:_tbd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "91d8045f3deba083",
@@ -129,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/Alpine.md",
+                "file": "docker/dockerfile/COPY in Dockerfile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/Alpine.md"
+                "file": "docker/dockerfile/COPY in Dockerfile.md"
               }
             }
           },
@@ -220,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/Alpine.md"
+                "file": "docker/dockerfile/COPY in Dockerfile.md"
               }
             }
           }
@@ -238,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/Alpine.md",
+                "file": "docker/dockerfile/COPY in Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/Alpine.md",
+                "file": "docker/dockerfile/COPY in Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,11 +288,15 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "bb2ef0c9a14b7fed",
+  "active": "7314f10a8b104326",
   "lastOpenFiles": [
-    "docker/Dockerfile.md",
     "docker/Docker Image.md",
+    "docker/cli-commands/docker run, create, start.md",
+    "docker/dockerfile/WORKDIR in Dockerfile.md",
+    "docker/dockerfile/COPY in Dockerfile.md",
+    "docker/dockerfile",
     "docker/Alpine.md",
+    "docker/dockerfile/Dockerfile.md",
     "docker/cli-commands/docker build.md",
     "docker/Docker build process.md",
     "_templates/default-note.md",
@@ -311,7 +316,6 @@
     "index.md",
     "docker/cli-commands/Docker -it flags.md",
     "attachments/continer-input-output.png",
-    "docker/cli-commands/docker run, create, start.md",
     "attachments/docker-exec-redis.png",
     "docker/cli-commands/docker stop, kill.md",
     "docker/Docker CLI Commands.md",
@@ -323,8 +327,6 @@
     "attachments/how-docker-works.png",
     "react/next-cache/Full Route Cache.md",
     "docker",
-    "mocs/React MOC.md",
-    "react/next-cache/Router Cache.md",
     "attachments/router-cache.png",
     "attachments/full-route-cache.png",
     "react/next-cache",
@@ -334,7 +336,6 @@
     "browser-event",
     "prettier",
     "postgresql",
-    "prisma",
     "Untitled.canvas"
   ]
 }

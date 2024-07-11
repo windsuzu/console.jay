@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "COPY in Dockerfile",
+      "path": "docker/dockerfile/COPY in Dockerfile.md"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "docker run, create, start",
+      "path": "docker/cli-commands/docker run, create, start.md"
+    },
+    {
+      "basename": "WORKDIR in Dockerfile",
+      "path": "docker/dockerfile/WORKDIR in Dockerfile.md"
+    },
+    {
       "basename": "Alpine",
       "path": "docker/Alpine.md"
     },
     {
       "basename": "Dockerfile",
-      "path": "docker/Dockerfile.md"
-    },
-    {
-      "basename": "Docker Image",
-      "path": "docker/Docker Image.md"
+      "path": "docker/dockerfile/Dockerfile.md"
     },
     {
       "basename": "docker build",
@@ -87,10 +99,6 @@
     {
       "basename": "continer-input-output",
       "path": "attachments/continer-input-output.png"
-    },
-    {
-      "basename": "docker run, create, start",
-      "path": "docker/cli-commands/docker run, create, start.md"
     },
     {
       "basename": "docker-exec-redis",
@@ -191,14 +199,6 @@
     {
       "basename": "Pattern Matching (ts-pattern)",
       "path": "javascript/Pattern Matching (ts-pattern).md"
-    },
-    {
-      "basename": "Imperative and Declarative Programming",
-      "path": "javascript/Imperative and Declarative Programming.md"
-    },
-    {
-      "basename": "Controlled Components",
-      "path": "react/Controlled Components.md"
     }
   ],
   "omittedPaths": [],
