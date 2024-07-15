@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "10677d55188823ee",
+            "id": "95017a766c5d9aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/cli-commands/docker run, create, start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7314f10a8b104326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/dockerfile/COPY in Dockerfile.md",
+                "file": "mocs/Docker MOC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:_tbd",
+                "query": "tag:#_tbd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "91d8045f3deba083",
@@ -130,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/dockerfile/COPY in Dockerfile.md",
+                "file": "mocs/Docker MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +140,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1945002269061603,
+                  "scale": 0.19450022690616045,
                   "close": true
                 }
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/dockerfile/COPY in Dockerfile.md"
+                "file": "mocs/Docker MOC.md"
               }
             }
           },
@@ -221,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/dockerfile/COPY in Dockerfile.md"
+                "file": "mocs/Docker MOC.md"
               }
             }
           }
@@ -239,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/dockerfile/COPY in Dockerfile.md",
+                "file": "mocs/Docker MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/dockerfile/COPY in Dockerfile.md",
+                "file": "mocs/Docker MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,32 +275,35 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "7314f10a8b104326",
+  "active": "95017a766c5d9aea",
   "lastOpenFiles": [
     "docker/Docker Image.md",
-    "_templates/default-note.md",
-    "docker/dockerfile/COPY in Dockerfile.md",
-    "docker/cli-commands/docker run, create, start.md",
-    "docker/dockerfile/WORKDIR in Dockerfile.md",
-    "docker/dockerfile",
+    "mocs/Docker MOC.md",
+    "docker/Docker.md",
+    "docker/Docker Container Lifecycle.md",
     "docker/Alpine.md",
+    "docker/Docker Container.md",
+    "index.md",
+    "docker/dockerfile/WORKDIR in Dockerfile.md",
     "docker/dockerfile/Dockerfile.md",
-    "docker/cli-commands/docker build.md",
+    "docker/dockerfile/COPY in Dockerfile.md",
     "docker/Docker build process.md",
+    "pwa/Create a PWA.md",
+    "docker/cli-commands/docker build.md",
+    "docker/cli-commands/docker run, create, start.md",
+    "attachments/docker-container-no-files.png",
+    "_templates/default-note.md",
+    "docker/dockerfile",
     "attachments/docker-build-process-cache.png",
     "attachments/docker-build-process-example.png",
-    "docker/Docker Container.md",
-    "docker/Docker Container Lifecycle.md",
     "docker/cli-commands/docker commit.md",
     "docker/cli-commands/docker ps.md",
-    "docker/Docker.md",
     "docker/cli-commands/docker container prune.md",
     "docker/cli-commands/docker logs.md",
     "docker/cli-commands/docker exec.md",
     "english-grammar/Get something done, Get someone to do.md",
     "english-grammar/Gerund.md",
     "resume/Measurable metrics on resume.md",
-    "index.md",
     "docker/cli-commands/Docker -it flags.md",
     "attachments/continer-input-output.png",
     "attachments/docker-exec-redis.png",
@@ -321,14 +311,11 @@
     "docker/Docker CLI Commands.md",
     "attachments/docker-container-lifecycle.png",
     "docker/cli-commands",
-    "docker/Install Docker on Windows WSL 2.md",
     "attachments/docker-image.png",
     "attachments/docker-container.png",
     "attachments/how-docker-works.png",
-    "react/next-cache/Full Route Cache.md",
     "docker",
     "attachments/router-cache.png",
-    "attachments/full-route-cache.png",
     "react/next-cache",
     "next",
     "web-dev",

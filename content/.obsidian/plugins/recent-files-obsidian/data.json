@@ -1,40 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "COPY in Dockerfile",
-      "path": "docker/dockerfile/COPY in Dockerfile.md"
+      "basename": "Docker MOC",
+      "path": "mocs/Docker MOC.md"
     },
     {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
     },
     {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
+      "basename": "Docker",
+      "path": "docker/Docker.md"
     },
     {
-      "basename": "docker run, create, start",
-      "path": "docker/cli-commands/docker run, create, start.md"
-    },
-    {
-      "basename": "WORKDIR in Dockerfile",
-      "path": "docker/dockerfile/WORKDIR in Dockerfile.md"
+      "basename": "Docker Container Lifecycle",
+      "path": "docker/Docker Container Lifecycle.md"
     },
     {
       "basename": "Alpine",
       "path": "docker/Alpine.md"
     },
     {
+      "basename": "Docker Container",
+      "path": "docker/Docker Container.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "WORKDIR in Dockerfile",
+      "path": "docker/dockerfile/WORKDIR in Dockerfile.md"
+    },
+    {
       "basename": "Dockerfile",
       "path": "docker/dockerfile/Dockerfile.md"
+    },
+    {
+      "basename": "COPY in Dockerfile",
+      "path": "docker/dockerfile/COPY in Dockerfile.md"
+    },
+    {
+      "basename": "Docker build process",
+      "path": "docker/Docker build process.md"
+    },
+    {
+      "basename": "Create a PWA",
+      "path": "pwa/Create a PWA.md"
     },
     {
       "basename": "docker build",
       "path": "docker/cli-commands/docker build.md"
     },
     {
-      "basename": "Docker build process",
-      "path": "docker/Docker build process.md"
+      "basename": "docker run, create, start",
+      "path": "docker/cli-commands/docker run, create, start.md"
+    },
+    {
+      "basename": "docker-container-no-files",
+      "path": "attachments/docker-container-no-files.png"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "docker-build-process-cache",
@@ -45,24 +73,12 @@
       "path": "attachments/docker-build-process-example.png"
     },
     {
-      "basename": "Docker Container",
-      "path": "docker/Docker Container.md"
-    },
-    {
-      "basename": "Docker Container Lifecycle",
-      "path": "docker/Docker Container Lifecycle.md"
-    },
-    {
       "basename": "docker commit",
       "path": "docker/cli-commands/docker commit.md"
     },
     {
       "basename": "docker ps",
       "path": "docker/cli-commands/docker ps.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "docker/Docker.md"
     },
     {
       "basename": "docker container prune",
@@ -87,10 +103,6 @@
     {
       "basename": "Measurable metrics on resume",
       "path": "resume/Measurable metrics on resume.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Docker -it flags",
@@ -187,18 +199,6 @@
     {
       "basename": "Event Delegation (event.target)",
       "path": "browser-event/Event Delegation (event.target).md"
-    },
-    {
-      "basename": "Event Capturing and Bubbling",
-      "path": "browser-event/Event Capturing and Bubbling.md"
-    },
-    {
-      "basename": "JavaScript MOC",
-      "path": "mocs/JavaScript MOC.md"
-    },
-    {
-      "basename": "Pattern Matching (ts-pattern)",
-      "path": "javascript/Pattern Matching (ts-pattern).md"
     }
   ],
   "omittedPaths": [],
