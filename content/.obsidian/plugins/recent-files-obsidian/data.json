@@ -5,12 +5,12 @@
       "path": "docker/dockerfile/COPY in Dockerfile.md"
     },
     {
-      "basename": "default-note",
-      "path": "_templates/default-note.md"
-    },
-    {
       "basename": "Docker Image",
       "path": "docker/Docker Image.md"
+    },
+    {
+      "basename": "default-note",
+      "path": "_templates/default-note.md"
     },
     {
       "basename": "docker run, create, start",

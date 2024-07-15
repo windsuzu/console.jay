@@ -288,11 +288,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "99215f4824c66492",
+  "active": "7314f10a8b104326",
   "lastOpenFiles": [
+    "docker/Docker Image.md",
     "_templates/default-note.md",
     "docker/dockerfile/COPY in Dockerfile.md",
-    "docker/Docker Image.md",
     "docker/cli-commands/docker run, create, start.md",
     "docker/dockerfile/WORKDIR in Dockerfile.md",
     "docker/dockerfile",
