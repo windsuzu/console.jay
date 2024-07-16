@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd18c9564cd403d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/Docker Compose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Docker MOC.md",
+                "file": "mocs/Docker Compose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Docker MOC.md"
+                "file": "mocs/Docker Compose.md"
               }
             }
           },
@@ -208,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Docker MOC.md"
+                "file": "mocs/Docker Compose.md"
               }
             }
           }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Docker MOC.md",
+                "file": "mocs/Docker Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Docker MOC.md",
+                "file": "mocs/Docker Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,10 +287,11 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "95017a766c5d9aea",
+  "active": "fd18c9564cd403d7",
   "lastOpenFiles": [
-    "docker/Docker Image.md",
     "mocs/Docker MOC.md",
+    "mocs/Docker Compose.md",
+    "docker/Docker Image.md",
     "docker/Docker.md",
     "docker/Docker Container Lifecycle.md",
     "docker/Alpine.md",
@@ -308,7 +321,6 @@
     "attachments/continer-input-output.png",
     "attachments/docker-exec-redis.png",
     "docker/cli-commands/docker stop, kill.md",
-    "docker/Docker CLI Commands.md",
     "attachments/docker-container-lifecycle.png",
     "docker/cli-commands",
     "attachments/docker-image.png",

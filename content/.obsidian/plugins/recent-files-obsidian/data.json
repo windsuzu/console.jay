@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker Compose",
+      "path": "mocs/Docker Compose.md"
+    },
+    {
       "basename": "Docker MOC",
       "path": "mocs/Docker MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "useFormStatus",
       "path": "react/server-action/useFormStatus.md"
-    },
-    {
-      "basename": "Event Delegation (event.target)",
-      "path": "browser-event/Event Delegation (event.target).md"
     }
   ],
   "omittedPaths": [],
