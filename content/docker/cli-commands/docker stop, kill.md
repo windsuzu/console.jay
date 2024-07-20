@@ -7,7 +7,7 @@ tags:
 
 These commands are strongly associated with the [[Docker Container Lifecycle]].
 
-It's recommended to use `docker stop` to stop a [[docker container|container]] first, instead of using `docker kill`. The `docker stop` command sends a `SIGTERM` signal to the container, allowing the container to terminate its processes gracefully and cleanly.
+It's recommended to use `docker stop` to stop a [[Docker Container|container]] first, instead of using `docker kill`. The `docker stop` command sends a `SIGTERM` signal to the container, allowing the container to terminate its processes gracefully and cleanly.
 
 ```bash
 docker stop container_id

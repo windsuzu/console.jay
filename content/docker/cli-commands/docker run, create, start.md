@@ -8,7 +8,7 @@ tags:
 These commands are strongly associated with the [[Docker Container Lifecycle]].
 ## docker run
 
-The `docker run` command asks the [[Docker]] server to "create" and "start" a container based on the given [[docker image|image]]. If the image is not found on the local machine, server will retrieve it from the [[Docker]] Hub first.
+The `docker run` command asks the [[Docker]] server to "create" and "start" a container based on the given [[Docker Image|image]]. If the image is not found on the local machine, server will retrieve it from the [[Docker]] Hub first.
 
 ```bash
 docker run [options] image_name [command]
@@ -39,7 +39,7 @@ docker run -p 1234:8080 windsuzu/simpleweb
 
 ## docker create
 
-The `docker create` command takes an [[docker image|image]] and creates a new [[docker container|container]] without running it. It then prints the `container_id` for further operations. You can specify a **startup command** for this container at the time of creation, which will be executed each time the container is started.
+The `docker create` command takes an [[Docker Image|image]] and creates a new [[Docker Container|container]] without running it. It then prints the `container_id` for further operations. You can specify a **startup command** for this container at the time of creation, which will be executed each time the container is started.
 
 ```bash
 docker create [options] image_name [command]
@@ -55,7 +55,7 @@ docker create [options] image_name [command]
 
 ## docker start
 
-The `docker start` simply starts the [[docker container|container]] we created with `docker create`, or restarts the [[docker container|container]] that was already finished and stopped.
+The `docker start` simply starts the [[Docker Container|container]] we created with `docker create`, or restarts the [[Docker Container|container]] that was already finished and stopped.
 
 ```
 docker start [options] container_id

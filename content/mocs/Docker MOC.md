@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-16 18:33
+date: 2024-07-20 18:17
 tags:
   - docker
 ---
@@ -38,7 +38,4 @@ tags:
 ## Docker Compose
 
 - [[Docker Compose]]
-- CLI Commands
-	- [[docker-compose up]]
-	- [[docker-compose down]]
-	- [[docker-compose ps]]
+- [[Docker Compose Commands]]

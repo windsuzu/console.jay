@@ -7,7 +7,7 @@ tags:
 
 The command is strongly associated with the [[Docker Container Lifecycle]].
 
-The `docker logs` command allows you to read the output from `STDOUT` and `STDERR` of a  a [[docker container|container]] as a batch. You can add a `-f` or `--follow` flag to stream the output from the container in real time.
+The `docker logs` command allows you to read the output from `STDOUT` and `STDERR` of a  a [[Docker Container|container]] as a batch. You can add a `-f` or `--follow` flag to stream the output from the container in real time.
 
 ```bash
 docker logs [options] container_id
@@ -15,7 +15,7 @@ docker logs [options] container_id
 
 >[!example]
 >
->The following example uses `docker logs` to retrieve the output of the container created with `hello-world` [[docker image|image]].
+>The following example uses `docker logs` to retrieve the output of the container created with `hello-world` [[Docker Image|image]].
 >
 >```bash
 >docker create hello-world

@@ -9,7 +9,7 @@ tags:
 COPY from_context_path to_container_path
 ```
 
-Although the [[Dockerfile]] is run and built on a given context path to build an [[docker image|image]], no files are mirrored to the corresponding [[docker container]] environment.
+Although the [[Dockerfile]] is run and built on a given context path to build an [[Docker Image|image]], no files are mirrored to the corresponding [[Docker Container]] environment.
 
 ![[docker-container-no-files.png]]
 

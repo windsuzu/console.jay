@@ -5,7 +5,7 @@ tags:
   - docker
 ---
 
-The `docker build` command takes a [[Dockerfile]] and a context (a set of files and directories located in a specific path) to build a [[docker image]].
+The `docker build` command takes a [[Dockerfile]] and a context (a set of files and directories located in a specific path) to build a [[Docker Image]].
 
 ```bash
 docker build [options] context_path

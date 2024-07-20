@@ -44,7 +44,7 @@ Below is the output of the build process when building a `Dockerfile` for the fi
 
 Each step or instruction of `Dockerfile`, such as `FROM`, `RUN`, `CMD`, is running in its own isolated environment, creating a new layer. 
 
-Except for `FROM`, when a step is executed, [[Docker]] creates a new [[docker container|container]] using the [[docker image|image]] from the previous layer. For example, step 2 created a temporary container `16c286ae3e39` from the previous layer's image `a606584aa9aa`. 
+Except for `FROM`, when a step is executed, [[Docker]] creates a new [[Docker Container|container]] using the [[Docker Image|image]] from the previous layer. For example, step 2 created a temporary container `16c286ae3e39` from the previous layer's image `a606584aa9aa`. 
 
 When the process was completed in one step, Docker removed the temporary container and saved the changes as a new layer in the new image. For example, `16c286ae3e39` is removed and `2348ec2e0d16` is created at the end of the step 2.
 

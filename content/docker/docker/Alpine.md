@@ -5,7 +5,7 @@ tags:
   - docker
 ---
 
-Alpine in [[Docker]] refers to any [[docker image|image]] is built on top of a small (around 5 MB), lightweight, and security-oriented Linux distribution called [Alpine Linux](https://alpinelinux.org/).
+Alpine in [[Docker]] refers to any [[Docker Image|image]] is built on top of a small (around 5 MB), lightweight, and security-oriented Linux distribution called [Alpine Linux](https://alpinelinux.org/).
 
 ## Alpine Linux Image
 

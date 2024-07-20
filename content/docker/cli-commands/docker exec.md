@@ -7,14 +7,14 @@ tags:
 
 The command is strongly associated with the [[Docker Container Lifecycle]].
 
-The `docker exec` command allows you to interact with a running [[docker container|container]] or enter its shell. It is commonly used with the `-it` [[Docker -it flags|flags]] to enable interaction with the container's input and output streams.
+The `docker exec` command allows you to interact with a running [[Docker Container|container]] or enter its shell. It is commonly used with the `-it` [[Docker -it flags|flags]] to enable interaction with the container's input and output streams.
 
 ```bash
 docker exec [options] container_id command
 ```
 
 >[!example]
->In the following example, we will start by running a container with the `redis` [[docker image|image]]. This will create a container that will initially run `redis-server`.
+>In the following example, we will start by running a container with the `redis` [[Docker Image|image]]. This will create a container that will initially run `redis-server`.
 >
 >```bash title=terminal 1
 >docker run redis

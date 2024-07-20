@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker Compose",
-      "path": "mocs/Docker Compose.md"
-    },
-    {
       "basename": "Docker MOC",
       "path": "mocs/Docker MOC.md"
     },
     {
-      "basename": "Docker Image",
-      "path": "docker/Docker Image.md"
+      "basename": "Docker Compose Commands",
+      "path": "docker/docker-compose/Docker Compose Commands.md"
+    },
+    {
+      "basename": "Docker Compose",
+      "path": "docker/docker-compose/Docker Compose.md"
     },
     {
       "basename": "Docker",
-      "path": "docker/Docker.md"
-    },
-    {
-      "basename": "Docker Container Lifecycle",
-      "path": "docker/Docker Container Lifecycle.md"
+      "path": "docker/docker/Docker.md"
     },
     {
       "basename": "Alpine",
-      "path": "docker/Alpine.md"
+      "path": "docker/docker/Alpine.md"
+    },
+    {
+      "basename": "docker run, create, start",
+      "path": "docker/cli-commands/docker run, create, start.md"
+    },
+    {
+      "basename": "Docker Image",
+      "path": "docker/docker/Docker Image.md"
+    },
+    {
+      "basename": "Docker Container Lifecycle",
+      "path": "docker/docker/Docker Container Lifecycle.md"
     },
     {
       "basename": "Docker Container",
-      "path": "docker/Docker Container.md"
+      "path": "docker/docker/Docker Container.md"
     },
     {
       "basename": "index",
@@ -46,7 +54,7 @@
     },
     {
       "basename": "Docker build process",
-      "path": "docker/Docker build process.md"
+      "path": "docker/docker/Docker build process.md"
     },
     {
       "basename": "Create a PWA",
@@ -55,10 +63,6 @@
     {
       "basename": "docker build",
       "path": "docker/cli-commands/docker build.md"
-    },
-    {
-      "basename": "docker run, create, start",
-      "path": "docker/cli-commands/docker run, create, start.md"
     },
     {
       "basename": "docker-container-no-files",
@@ -130,7 +134,7 @@
     },
     {
       "basename": "Install Docker on Windows WSL 2",
-      "path": "docker/Install Docker on Windows WSL 2.md"
+      "path": "docker/docker/Install Docker on Windows WSL 2.md"
     },
     {
       "basename": "docker-image",
@@ -195,10 +199,6 @@
     {
       "basename": "Server Action",
       "path": "react/server-action/Server Action.md"
-    },
-    {
-      "basename": "useFormStatus",
-      "path": "react/server-action/useFormStatus.md"
     }
   ],
   "omittedPaths": [],

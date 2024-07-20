@@ -16,7 +16,7 @@ WORKDIR working_directory_path_in_container
 
 For example, the [[Dockerfile]] below sets `WORKDIR` to `/usr/app` relative to the root of the container. So the `package.json` is copied from the local machine context to `/usr/app`, and `npm install` is run in `/usr/app`.
 
-Finally, all files are copied to `/usr/app`, and the [[docker container|container]] will run `node index.js` by default in `/usr/app` when it is built from the [[docker image|image]].
+Finally, all files are copied to `/usr/app`, and the [[Docker Container|container]] will run `node index.js` by default in `/usr/app` when it is built from the [[Docker Image|image]].
 
 ```dockerfile {3}
 FROM node:alpine
