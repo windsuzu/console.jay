@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "911784bd1d2ef869",
+            "id": "271eaf04d74719b3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "docker/cli-commands/docker build.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mocs/Docker MOC.md",
+                "file": "docker/cli-commands/docker build.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocs/Docker MOC.md"
+                "file": "docker/cli-commands/docker build.md"
               }
             }
           },
@@ -216,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Docker MOC.md"
+                "file": "docker/cli-commands/docker build.md"
               }
             }
           }
@@ -234,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Docker MOC.md",
+                "file": "docker/cli-commands/docker build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -253,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Docker MOC.md",
+                "file": "docker/cli-commands/docker build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,10 +285,12 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "911784bd1d2ef869",
+  "active": "271eaf04d74719b3",
   "lastOpenFiles": [
-    "docker/docker-compose/Docker Compose Commands.md",
+    "docker/docker/Docker build process.md",
+    "docker/cli-commands/docker build.md",
     "mocs/Docker MOC.md",
+    "docker/docker-compose/Docker Compose Commands.md",
     "docker/docker-compose/Docker Compose.md",
     "docker/docker/Docker.md",
     "docker/docker/Alpine.md",
@@ -300,9 +304,7 @@
     "docker/dockerfile/WORKDIR in Dockerfile.md",
     "docker/dockerfile/Dockerfile.md",
     "docker/dockerfile/COPY in Dockerfile.md",
-    "docker/docker/Docker build process.md",
     "pwa/Create a PWA.md",
-    "docker/cli-commands/docker build.md",
     "attachments/docker-container-no-files.png",
     "_templates/default-note.md",
     "docker/dockerfile",

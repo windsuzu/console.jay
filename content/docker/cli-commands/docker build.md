@@ -1,9 +1,12 @@
 ---
 draft: false
-date: 2024-07-07 18:14
+date: 2024-07-22 17:18
 tags:
   - docker
 ---
+
+> [!tip]
+> You can visit [[Docker build process]] to learn the details of the Docker build and caching mechanism.
 
 The `docker build` command takes a [[Dockerfile]] and a context (a set of files and directories located in a specific path) to build a [[Docker Image]].
 
@@ -22,7 +25,7 @@ docker run windsuzu/project-name
 
 The `-t` flag is the most commonly used option for the `docker build`, which is used to tag the image with a repository name and a tag, for example, `user/project:2.0` or `organization/project:latest`.
 
-You can visit [[Docker build process]] to learn the details of the Docker build and caching mechanism.
+The `-f` flag can be used to 
 
 
 > [!info] References

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "docker build",
+      "path": "docker/cli-commands/docker build.md"
+    },
+    {
+      "basename": "Docker build process",
+      "path": "docker/docker/Docker build process.md"
+    },
+    {
       "basename": "Docker MOC",
       "path": "mocs/Docker MOC.md"
     },
@@ -53,16 +61,8 @@
       "path": "docker/dockerfile/COPY in Dockerfile.md"
     },
     {
-      "basename": "Docker build process",
-      "path": "docker/docker/Docker build process.md"
-    },
-    {
       "basename": "Create a PWA",
       "path": "pwa/Create a PWA.md"
-    },
-    {
-      "basename": "docker build",
-      "path": "docker/cli-commands/docker build.md"
     },
     {
       "basename": "docker-container-no-files",
