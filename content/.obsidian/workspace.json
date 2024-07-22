@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "911784bd1d2ef869",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -273,7 +283,7 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "1ebd9f986fcb315f",
+  "active": "911784bd1d2ef869",
   "lastOpenFiles": [
     "docker/docker-compose/Docker Compose Commands.md",
     "mocs/Docker MOC.md",
