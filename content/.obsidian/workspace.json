@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/cli-commands/docker build.md",
+                "file": "mocs/Docker MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ad0837982646a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocs/Docker Volumes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "docker/cli-commands/docker build.md",
+                "file": "mocs/Docker Volumes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/cli-commands/docker build.md"
+                "file": "mocs/Docker Volumes.md"
               }
             }
           },
@@ -194,12 +207,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "docker/cli-commands/docker build.md"
+                "file": "mocs/Docker Volumes.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "664c38c8bd525c44",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/cli-commands/docker build.md",
+                "file": "mocs/Docker Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/cli-commands/docker build.md",
+                "file": "mocs/Docker Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,14 +274,16 @@
       "cmdr:Obsidian Git: Create backup": false
     }
   },
-  "active": "95017a766c5d9aea",
+  "active": "23ad0837982646a2",
   "lastOpenFiles": [
+    "docker/docker-compose/Docker Compose.md",
+    "mocs/Docker Volumes.md",
+    "attachments/docker-volumes.png",
     "mocs/Docker MOC.md",
     "docker/cli-commands/docker run, create, start.md",
-    "docker/docker-compose/Docker Compose.md",
+    "docker/docker-compose/Docker Compose Commands.md",
     "docker/cli-commands/docker build.md",
     "docker/docker/Docker build process.md",
-    "docker/docker-compose/Docker Compose Commands.md",
     "docker/docker/Docker.md",
     "docker/docker/Alpine.md",
     "docker/docker",
@@ -293,7 +308,6 @@
     "docker/cli-commands/docker exec.md",
     "english-grammar/Get something done, Get someone to do.md",
     "english-grammar/Gerund.md",
-    "resume/Measurable metrics on resume.md",
     "attachments/continer-input-output.png",
     "attachments/docker-exec-redis.png",
     "attachments/docker-container-lifecycle.png",
@@ -302,7 +316,6 @@
     "attachments/docker-container.png",
     "attachments/how-docker-works.png",
     "docker",
-    "attachments/router-cache.png",
     "react/next-cache",
     "next",
     "web-dev",

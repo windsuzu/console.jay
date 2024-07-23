@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-23 19:24
+date: 2024-07-23 22:57
 tags:
   - docker
 ---
@@ -16,6 +16,8 @@ docker build [options] context_path
 
 In the build process, you can reference any file in the context. For example, the `COPY` instruction in the [[Dockerfile]] can reference a file in the context.
 
+The `-t` flag is the most commonly used option for the `docker build`, which is used to tag the image with a repository name and a tag, for example, `user/project:2.0` or `organization/project:latest`.
+
 ```bash
 docker build -t windsuzu/project-name:latest .
 
@@ -23,9 +25,11 @@ docker build -t windsuzu/project-name:latest .
 docker run windsuzu/project-name
 ```
 
-The `-t` flag is the most commonly used option for the `docker build`, which is used to tag the image with a repository name and a tag, for example, `user/project:2.0` or `organization/project:latest`.
+The `-f` flag can be used to specify the [[Dockerfile]] you want to use to build the image. For example, sometimes you have a Dockerfile, but it is named `Dockerfile.dev` for development. If you want to build an image from that file, you can use the `-f` flag like this:
 
-The `-f` flag can be used to 
+```bash
+docker build -f Dockerfile.dev .
+```
 
 
 > [!info] References
