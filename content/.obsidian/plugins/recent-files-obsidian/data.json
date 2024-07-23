@@ -5,20 +5,24 @@
       "path": "docker/cli-commands/docker build.md"
     },
     {
-      "basename": "Docker build process",
-      "path": "docker/docker/Docker build process.md"
-    },
-    {
       "basename": "Docker MOC",
       "path": "mocs/Docker MOC.md"
     },
     {
-      "basename": "Docker Compose Commands",
-      "path": "docker/docker-compose/Docker Compose Commands.md"
+      "basename": "docker run, create, start",
+      "path": "docker/cli-commands/docker run, create, start.md"
     },
     {
       "basename": "Docker Compose",
       "path": "docker/docker-compose/Docker Compose.md"
+    },
+    {
+      "basename": "Docker build process",
+      "path": "docker/docker/Docker build process.md"
+    },
+    {
+      "basename": "Docker Compose Commands",
+      "path": "docker/docker-compose/Docker Compose Commands.md"
     },
     {
       "basename": "Docker",
@@ -27,10 +31,6 @@
     {
       "basename": "Alpine",
       "path": "docker/docker/Alpine.md"
-    },
-    {
-      "basename": "docker run, create, start",
-      "path": "docker/cli-commands/docker run, create, start.md"
     },
     {
       "basename": "Docker Image",
