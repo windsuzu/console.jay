@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-24 00:55
+date: 2024-07-24 17:30
 tags:
   - _tbd
   - docker
@@ -28,7 +28,7 @@ docker run -p 3000:3000 -v $(pwd):/app wind/vite
 
 ## Docker compose
 
-Another way to use volumes is through [[docker compose]]. 
+Another way to use volumes is through [[docker compose]]. By specifying the `volumes` keyword under the service, you can easily assign volumes to the service.
 
 ```yml
 services:
@@ -42,10 +42,9 @@ services:
       - .:/app
 ```
 
+For example, we specify `.:/app` in the volumes, which acts like `-v $(pwd):/app` in the `docker run` , mapping all the files to the `/app` folder in the container. 
 
-
-
-
+On the right side of the colon `:`,  the `.` denotes the relative path of the host machine. On the left side, the `/app` denotes the `/app` folder in the container.
 
 > [!info] References
 > - [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)

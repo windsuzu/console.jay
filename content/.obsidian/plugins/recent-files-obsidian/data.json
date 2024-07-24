@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker MOC",
+      "path": "mocs/Docker MOC.md"
+    },
+    {
       "basename": "Docker Volumes",
       "path": "mocs/Docker Volumes.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "docker-volumes",
       "path": "attachments/docker-volumes.png"
-    },
-    {
-      "basename": "Docker MOC",
-      "path": "mocs/Docker MOC.md"
     },
     {
       "basename": "docker run, create, start",
