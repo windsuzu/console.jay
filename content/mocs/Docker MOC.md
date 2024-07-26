@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-24 18:52
+date: 2024-07-26 23:10
 tags:
   - docker
 ---
@@ -34,7 +34,7 @@ tags:
 - [[Dockerfile]]
 	- [[COPY in Dockerfile]]
 	- [[WORKDIR in Dockerfile]]
-	- 
+	- [[Multi-Step Builds in Dockerfile]]
 
 ## Docker Compose
 

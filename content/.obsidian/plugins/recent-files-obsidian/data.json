@@ -5,12 +5,16 @@
       "path": "mocs/Docker MOC.md"
     },
     {
-      "basename": "Docker Volumes",
-      "path": "mocs/Docker Volumes.md"
+      "basename": "Multi-Step Builds in Dockerfile",
+      "path": "mocs/Multi-Step Builds in Dockerfile.md"
     },
     {
       "basename": "Docker Compose",
       "path": "docker/docker-compose/Docker Compose.md"
+    },
+    {
+      "basename": "Docker Volumes",
+      "path": "mocs/Docker Volumes.md"
     },
     {
       "basename": "docker-volumes",
@@ -195,10 +199,6 @@
     {
       "basename": "data-cache",
       "path": "attachments/data-cache.png"
-    },
-    {
-      "basename": "request-memoization",
-      "path": "attachments/request-memoization.png"
     }
   ],
   "omittedPaths": [],

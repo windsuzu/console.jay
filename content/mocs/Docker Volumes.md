@@ -1,8 +1,7 @@
 ---
 draft: false
-date: 2024-07-24 17:30
+date: 2024-07-26 23:10
 tags:
-  - _tbd
   - docker
 ---
 
