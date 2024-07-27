@@ -5,12 +5,12 @@
       "path": "mocs/Docker MOC.md"
     },
     {
-      "basename": "Multi-Step Builds in Dockerfile",
-      "path": "mocs/Multi-Step Builds in Dockerfile.md"
-    },
-    {
       "basename": "Docker Compose",
       "path": "docker/docker-compose/Docker Compose.md"
+    },
+    {
+      "basename": "Multi-Step Builds in Dockerfile",
+      "path": "mocs/Multi-Step Builds in Dockerfile.md"
     },
     {
       "basename": "Docker Volumes",

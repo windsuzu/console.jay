@@ -263,9 +263,9 @@
   },
   "active": "95017a766c5d9aea",
   "lastOpenFiles": [
-    "mocs/Multi-Step Builds in Dockerfile.md",
-    "mocs/Docker MOC.md",
     "docker/docker-compose/Docker Compose.md",
+    "mocs/Docker MOC.md",
+    "mocs/Multi-Step Builds in Dockerfile.md",
     "mocs/Docker Volumes.md",
     "attachments/docker-volumes.png",
     "docker/cli-commands/docker run, create, start.md",

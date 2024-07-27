@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-26 23:10
+date: 2024-07-27 23:25
 tags:
   - docker
 ---
@@ -40,6 +40,8 @@ tags:
 
 - [[Docker Compose]]
 - [[Docker Compose Commands]]
+- Restart in Docker Compose
+- Environment in Docker Compose
 
 ## Volumes
 
