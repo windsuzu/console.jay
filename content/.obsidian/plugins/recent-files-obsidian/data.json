@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Controlled Components",
+      "path": "react/Controlled Components.md"
+    },
+    {
       "basename": "Docker MOC",
       "path": "mocs/Docker MOC.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Docker Container",
       "path": "docker/docker/Docker Container.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "WORKDIR in Dockerfile",
@@ -195,13 +199,11 @@
     {
       "basename": "react.cache",
       "path": "react/next-cache/react.cache.md"
-    },
-    {
-      "basename": "data-cache",
-      "path": "attachments/data-cache.png"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
