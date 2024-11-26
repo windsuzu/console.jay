@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux MOC",
+      "path": "mocs/Linux MOC.md"
+    },
+    {
+      "basename": "CSS MOC",
+      "path": "mocs/CSS MOC.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "next.cache.unstable_cache",
       "path": "react/next-cache/next.cache.unstable_cache.md"
-    },
-    {
-      "basename": "full-route-cache",
-      "path": "attachments/full-route-cache.png"
-    },
-    {
-      "basename": "react.cache",
-      "path": "react/next-cache/react.cache.md"
     }
   ],
   "omittedPaths": [],

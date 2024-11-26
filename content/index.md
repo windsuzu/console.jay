@@ -1,4 +1,7 @@
 ---
+date: 2024-11-26 21:26
+---
+---
 title: console.jay()
 draft: false
 date: 2023-10-01 16:19
@@ -23,6 +26,7 @@ If you're interested in software development and computer science, check out the
 - [[Web-Dev MOC]]
 - [[Backend MOC]]
 - [[Dev Environment MOC]]
+- [[Linux MOC]]
 
 If you're curious about my language journey, step into the world of linguistics:
 - [[English Grammar]]

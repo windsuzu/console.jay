@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Linux MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Linux MOC"
             }
           }
         ]
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Linux MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Linux MOC"
             }
           },
           {
@@ -176,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "mocs/Linux MOC.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Linux MOC"
             }
           },
           {
@@ -225,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "mocs/Linux MOC.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for Linux MOC"
             }
           }
         ],
@@ -245,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Linux MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Linux MOC"
             }
           }
         ]
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "mocs/Linux MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Linux MOC"
             }
           }
         ]
@@ -299,8 +299,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95017a766c5d9aea",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
+    "linux",
+    "mocs/CSS MOC.md",
+    "mocs/Linux MOC.md",
+    "index.md",
     "react/Controlled Components.md",
     "mocs/Docker MOC.md",
     "docker/docker-compose/Docker Compose.md",
@@ -318,7 +322,6 @@
     "docker/docker/Docker Image.md",
     "docker/docker/Docker Container Lifecycle.md",
     "docker/docker/Docker Container.md",
-    "index.md",
     "docker/dockerfile/WORKDIR in Dockerfile.md",
     "docker/dockerfile/Dockerfile.md",
     "docker/dockerfile/COPY in Dockerfile.md",
@@ -331,9 +334,6 @@
     "docker/cli-commands/docker commit.md",
     "docker/cli-commands/docker ps.md",
     "docker/cli-commands/docker container prune.md",
-    "docker/cli-commands/docker logs.md",
-    "docker/cli-commands/docker exec.md",
-    "english-grammar/Get something done, Get someone to do.md",
     "attachments/continer-input-output.png",
     "attachments/docker-exec-redis.png",
     "attachments/docker-container-lifecycle.png",
