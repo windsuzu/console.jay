@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux basic commands",
+      "path": "linux/Linux basic commands.md"
+    },
+    {
       "basename": "Linux MOC",
       "path": "mocs/Linux MOC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "router-cache",
       "path": "attachments/router-cache.png"
-    },
-    {
-      "basename": "next.cache.unstable_cache",
-      "path": "react/next-cache/next.cache.unstable_cache.md"
     }
   ],
   "omittedPaths": [],

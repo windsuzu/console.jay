@@ -5,4 +5,4 @@ tags:
   - linux
 ---
 
-- [[Linux basic commands]]
+

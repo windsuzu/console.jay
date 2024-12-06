@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "ef5c4af74e265fa0",
+            "id": "593383131a74fa81",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "linux/Linux basic commands.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Linux basic commands"
             }
           }
         ],
@@ -135,6 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "linux/Linux basic commands.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Linux basic commands"
             }
           },
           {
@@ -236,9 +239,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "linux/Linux basic commands.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Linux basic commands"
             }
           }
         ],
@@ -255,11 +260,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/Linux basic commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Linux basic commands"
             }
           }
         ]
@@ -275,6 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/Linux basic commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +291,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Linux basic commands"
             }
           }
         ]
@@ -307,11 +314,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5c4af74e265fa0",
+  "active": "593383131a74fa81",
   "lastOpenFiles": [
+    "mocs/Linux MOC.md",
+    "linux/Linux basic commands.md",
+    "linux/Untitled.md",
     "linux",
     "mocs/CSS MOC.md",
-    "mocs/Linux MOC.md",
     "index.md",
     "react/Controlled Components.md",
     "mocs/Docker MOC.md",
@@ -341,7 +350,6 @@
     "attachments/docker-build-process-example.png",
     "docker/cli-commands/docker commit.md",
     "docker/cli-commands/docker ps.md",
-    "docker/cli-commands/docker container prune.md",
     "attachments/continer-input-output.png",
     "attachments/docker-exec-redis.png",
     "attachments/docker-container-lifecycle.png",
@@ -354,7 +362,6 @@
     "next",
     "web-dev",
     "react/server-action",
-    "browser-event",
     "Untitled.canvas"
   ]
 }
