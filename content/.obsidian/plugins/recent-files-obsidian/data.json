@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux basic commands",
-      "path": "linux/Linux basic commands.md"
+      "basename": "Linux User and Permission Management",
+      "path": "mocs/Linux User and Permission Management.md"
     },
     {
       "basename": "Linux MOC",
       "path": "mocs/Linux MOC.md"
+    },
+    {
+      "basename": "Linux File Operations",
+      "path": "linux/Linux File Operations.md"
+    },
+    {
+      "basename": "Linux basic commands",
+      "path": "linux/Linux basic commands.md"
     },
     {
       "basename": "CSS MOC",
@@ -191,14 +199,6 @@
     {
       "basename": "Request Memoization",
       "path": "react/next-cache/Request Memoization.md"
-    },
-    {
-      "basename": "Data Cache",
-      "path": "react/next-cache/Data Cache.md"
-    },
-    {
-      "basename": "router-cache",
-      "path": "attachments/router-cache.png"
     }
   ],
   "omittedPaths": [],
