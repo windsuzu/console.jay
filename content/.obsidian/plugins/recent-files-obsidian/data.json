@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux User and Permission Management",
-      "path": "mocs/Linux User and Permission Management.md"
-    },
-    {
       "basename": "Linux MOC",
       "path": "mocs/Linux MOC.md"
     },
     {
       "basename": "Linux File Operations",
       "path": "linux/Linux File Operations.md"
+    },
+    {
+      "basename": "Linux User and Permission Management",
+      "path": "mocs/Linux User and Permission Management.md"
     },
     {
       "basename": "Linux basic commands",

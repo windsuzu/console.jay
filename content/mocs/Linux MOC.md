@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-12-06 21:46
+date: 2024-12-08 23:13
 tags:
   - linux
 ---
@@ -8,3 +8,4 @@ tags:
 - [[Linux basic commands]]
 - [[Linux File Operations]]
 - [[Linux User and Permission Management]]
+- 

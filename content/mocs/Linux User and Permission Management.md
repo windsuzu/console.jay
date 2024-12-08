@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-12-08 20:24
+date: 2024-12-08 23:13
 tags:
   - linux
 ---
@@ -19,36 +19,37 @@ tags:
 
 ### **Create New Users and Understand Primary Groups**
 
-| Command                 | Description                                                   |
-| ----------------------- | ------------------------------------------------------------- |
-| `sudo adduser username` | creates a new user with a home directory and default settings |
-| `sudo useradd username` | creates a new user (minimal configuration)                    |
-| `id username`           | displays the UID, GID, and groups of a specific user          |
-| `sudo passwd username`  | Sets or changes a user's password.                            |
+| Command                                                       | Description                                                   |
+| ------------------------------------------------------------- | ------------------------------------------------------------- |
+| `id <username>`                                               | displays the UID, GID, and groups of a specific user          |
+| `sudo adduser <username>`                                     | creates a new user with a home directory and default settings |
+| `sudo adduser --home <homepath> --gid <groupname> <username>` | creates a new user with arguments                             |
+| `sudo passwd <username>`                                      | Sets or changes a user's password.                            |
 > **Note:** A user's primary group is automatically created with the same name as the user by default.
 
 ---
 
 ### **Explore and Modify User Groups**
 
-| Command                               | Description                                                         |
-| ------------------------------------- | ------------------------------------------------------------------- |
-| `groups username`                     | lists all groups a user belongs to                                  |
-| `sudo groupadd groupname`             | creates a new group                                                 |
-| `sudo usermod -aG groupname username` | adds a user to an additional group without removing existing groups |
-| `sudo usermod -G groupname username`  | assigns a user to a group, replacing all existing group memberships |
-| `sudo deluser username groupname`     | removes a user from a specific group                                |
+| Command                                   | Description                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------- |
+| `groups username`                         | lists all groups a user belongs to                                  |
+| `getent group <groupname>`                | get gid from a group name                                           |
+| `sudo groupadd <groupname>`               | creates a new group                                                 |
+| `sudo usermod -aG <groupname> <username>` | adds a user to an additional group without removing existing groups |
+| `sudo usermod -G <groupname> <username>`  | assigns a user to a group, replacing all existing group memberships |
+| `sudo deluser <username> <groupname>`     | removes a user from a specific group                                |
 
 
 ---
 
 ### **Grant Sudo Privileges to Users**
 
-| Command                          | Description                                             |
-| -------------------------------- | ------------------------------------------------------- |
-| `sudo usermod -aG sudo username` | adds a user to the `sudo` group (Debian/Ubuntu systems) |
-| `sudo visudo`                    | opens the sudoers file for editing                      |
-| `%groupname ALL=(ALL:ALL) ALL`   | grants sudo privileges to all users in a group          |
+| Command                            | Description                                             |
+| ---------------------------------- | ------------------------------------------------------- |
+| `sudo usermod -aG sudo <username>` | adds a user to the `sudo` group (Debian/Ubuntu systems) |
+| `sudo visudo`                      | opens the sudoers file for editing                      |
+| `%groupname ALL=(ALL:ALL) ALL`     | grants sudo privileges to all users in a group          |
 
 ---
 
@@ -72,11 +73,11 @@ tags:
 
 `chown`: Changes the ownership of files or directories.
 
-|Command|Description|
-|---|---|
-|`sudo chown user file.txt`|changes the owner of `file.txt` to `user`|
-|`sudo chown user:group file.txt`|changes both the owner and group of `file.txt`|
-|`sudo chown -R user directory/`|recursively changes ownership for a directory|
+| Command                          | Description                                    |
+| -------------------------------- | ---------------------------------------------- |
+| `sudo chown user file.txt`       | changes the owner of `file.txt` to `user`      |
+| `sudo chown user:group file.txt` | changes both the owner and group of `file.txt` |
+| `sudo chown -R user directory/`  | recursively changes ownership for a directory  |
 
 ---
 
