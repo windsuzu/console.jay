@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-12-08 17:06
+date: 2024-12-08 18:18
 tags:
   - linux
 ---
@@ -14,7 +14,6 @@ tags:
 | `who`    | lists all users currently logged into the system           |
 | `users`  | lists logged-in users in a single line                     |
 | `last`   | Shows the login history of users.                          |
-|          |                                                            |
 
 ---
 
@@ -26,7 +25,6 @@ tags:
 | `sudo useradd username` | creates a new user (minimal configuration)                    |
 | `id username`           | displays the UID, GID, and groups of a specific user          |
 | `sudo passwd username`  | Sets or changes a user's password.                            |
-|                         |                                                               |
 > **Note:** A user's primary group is automatically created with the same name as the user by default.
 
 ---
@@ -36,29 +34,20 @@ tags:
 | Command                               | Description                                                         |
 | ------------------------------------- | ------------------------------------------------------------------- |
 | `groups username`                     | lists all groups a user belongs to                                  |
+| `sudo groupadd groupname`             | creates a new group                                                 |
 | `sudo usermod -aG groupname username` | adds a user to an additional group without removing existing groups |
+| `sudo usermod -G groupname username`  | assigns a user to a group, replacing all existing group memberships |
 | `sudo deluser username groupname`     | removes a user from a specific group                                |
-|                                       |                                                                     |
+
 
 ---
-
-### **Create New Groups and Add Users to Them**
-
-| Command                              | Description                                                         |
-| ------------------------------------ | ------------------------------------------------------------------- |
-| `sudo groupadd groupname`            | creates a new group                                                 |
-| `sudo usermod -G groupname username` | assigns a user to a group, replacing all existing group memberships |
-| `sudo gpasswd -a username groupname` | adds a user to a group using group administrator tools              |
-
----
-
 ### **Grant Sudo Privileges to Users**
 
-|Command|Description|
-|---|---|
-|`sudo usermod -aG sudo username`|adds a user to the `sudo` group (Debian/Ubuntu systems)|
-|`sudo visudo`|opens the sudoers file for editing|
-|`%groupname ALL=(ALL:ALL) ALL`|grants sudo privileges to all users in a group|
+| Command                          | Description                                             |
+| -------------------------------- | ------------------------------------------------------- |
+| `sudo usermod -aG sudo username` | adds a user to the `sudo` group (Debian/Ubuntu systems) |
+| `sudo visudo`                    | opens the sudoers file for editing                      |
+| `%groupname ALL=(ALL:ALL) ALL`   | grants sudo privileges to all users in a group          |
 
 ---
 
