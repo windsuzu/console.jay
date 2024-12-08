@@ -1,50 +1,54 @@
 ---
 draft: false
-date: 2024-12-07 14:21
+date: 2024-12-08 17:06
 tags:
   - linux
 ---
 
 ### **View User Information**
 
-|Command|Description|
-|---|---|
-|`whoami`|displays the current logged-in user|
-|`id`|shows user ID (UID), group ID (GID), and group memberships|
-|`who`|lists all users currently logged into the system|
-|`users`|lists logged-in users in a single line|
+| Command  | Description                                                |
+| -------- | ---------------------------------------------------------- |
+| `whoami` | displays the current logged-in user                        |
+| `id`     | shows user ID (UID), group ID (GID), and group memberships |
+| `who`    | lists all users currently logged into the system           |
+| `users`  | lists logged-in users in a single line                     |
+| `last`   | Shows the login history of users.                          |
+|          |                                                            |
 
 ---
 
 ### **Create New Users and Understand Primary Groups**
 
-|Command|Description|
-|---|---|
-|`sudo adduser username`|creates a new user with a home directory and default settings|
-|`sudo useradd username`|creates a new user (minimal configuration)|
-|`id username`|displays the UID, GID, and groups of a specific user|
-
+| Command                 | Description                                                   |
+| ----------------------- | ------------------------------------------------------------- |
+| `sudo adduser username` | creates a new user with a home directory and default settings |
+| `sudo useradd username` | creates a new user (minimal configuration)                    |
+| `id username`           | displays the UID, GID, and groups of a specific user          |
+| `sudo passwd username`  | Sets or changes a user's password.                            |
+|                         |                                                               |
 > **Note:** A user's primary group is automatically created with the same name as the user by default.
 
 ---
 
 ### **Explore and Modify User Groups**
 
-|Command|Description|
-|---|---|
-|`groups username`|lists all groups a user belongs to|
-|`sudo usermod -aG groupname username`|adds a user to an additional group without removing existing groups|
-|`sudo deluser username groupname`|removes a user from a specific group|
+| Command                               | Description                                                         |
+| ------------------------------------- | ------------------------------------------------------------------- |
+| `groups username`                     | lists all groups a user belongs to                                  |
+| `sudo usermod -aG groupname username` | adds a user to an additional group without removing existing groups |
+| `sudo deluser username groupname`     | removes a user from a specific group                                |
+|                                       |                                                                     |
 
 ---
 
 ### **Create New Groups and Add Users to Them**
 
-|Command|Description|
-|---|---|
-|`sudo groupadd groupname`|creates a new group|
-|`sudo usermod -G groupname username`|assigns a user to a group, replacing all existing group memberships|
-|`sudo gpasswd -a username groupname`|adds a user to a group using group administrator tools|
+| Command                              | Description                                                         |
+| ------------------------------------ | ------------------------------------------------------------------- |
+| `sudo groupadd groupname`            | creates a new group                                                 |
+| `sudo usermod -G groupname username` | assigns a user to a group, replacing all existing group memberships |
+| `sudo gpasswd -a username groupname` | adds a user to a group using group administrator tools              |
 
 ---
 
