@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-12-08 18:18
+date: 2024-12-08 20:24
 tags:
   - linux
 ---
@@ -41,6 +41,7 @@ tags:
 
 
 ---
+
 ### **Grant Sudo Privileges to Users**
 
 | Command                          | Description                                             |
@@ -83,11 +84,11 @@ tags:
 
 `chmod`: Changes file permissions.
 
-|Command|Description|
-|---|---|
-|`chmod 644 file.txt`|sets permissions to read/write for owner, read-only for group and others|
-|`chmod u+x file.sh`|adds execute permission for the owner|
-|`chmod -R 755 folder/`|recursively sets permissions for a directory|
+| Command                | Description                                                              |
+| ---------------------- | ------------------------------------------------------------------------ |
+| `chmod 644 file.txt`   | sets permissions to read/write for owner, read-only for group and others |
+| `chmod u+x file.sh`    | adds execute permission for the owner                                    |
+| `chmod -R 755 folder/` | recursively sets permissions for a directory                             |
 
 **Common Numeric Permissions:**
 
