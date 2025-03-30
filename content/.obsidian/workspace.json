@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Spring Boot MOC"
             }
+          },
+          {
+            "id": "c89b7f568b47a105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring-boot/Spring Boot Quick Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot Quick Start"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,10 +256,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md"
+                "file": "spring-boot/Spring Boot Quick Start.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Spring Boot MOC"
+              "title": "File properties for Spring Boot Quick Start"
             }
           }
         ],
@@ -262,12 +276,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md",
+                "file": "spring-boot/Spring Boot Quick Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spring Boot MOC"
+              "title": "Outgoing links from Spring Boot Quick Start"
             }
           }
         ]
@@ -283,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md",
+                "file": "spring-boot/Spring Boot Quick Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +307,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spring Boot MOC"
+              "title": "Backlinks for Spring Boot Quick Start"
             }
           }
         ]
@@ -316,10 +330,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5571a490858c91e",
+  "active": "c89b7f568b47a105",
   "lastOpenFiles": [
-    "Homepage.md",
+    "spring-boot/Spring Boot Quick Start.md",
     "spring-boot/Spring Boot MOC.md",
+    "Homepage.md",
     "mocs/Web-Dev MOC.md",
     "pwa/PWA (Progressive Web Apps).md",
     "javascript/JavaScript MOC.md",
@@ -346,7 +361,6 @@
     "docker/docker-compose/Docker Compose.md",
     "attachments/docker-volumes.png",
     "docker/cli-commands/docker run, create, start.md",
-    "docker/docker-compose/Docker Compose Commands.md",
     "docker/docker",
     "docker/docker-compose",
     "attachments/docker-container-no-files.png",
