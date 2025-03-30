@@ -1,13 +1,6 @@
 ---
 date: 2024-11-26 21:26
 ---
----
-title: console.jay()
-draft: false
-date: 2023-10-01 16:19
-showToc: false
-tags:
-  - home
 --- 
 
 ![[avatar-jay.jpeg|320]]
