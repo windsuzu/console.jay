@@ -1,29 +1,15 @@
 ---
-date: 2024-11-26 21:26
+date: 2025-03-30 17:31
 ---
 --- 
 
-![[avatar-jay.jpeg|320]]
+Hi! I'm Jay, a software engineer from Taiwan with a passion for **mobile development**, **AI**, and **web development**. I thrive on **continuous learning** and am also a **language enthusiast**, working to master **Japanese** and **English** alongside my native **Chinese**.  
 
-**Greetings!** I'm Jay, a passionate software engineer hailing from Taiwan. My journey in the realm of technology has led me through diverse terrains, from **mobile development** and **artificial intelligence** to **web development**. This journey is fueled by an unyielding commitment to **continuous learning**, as I strive to enhance my skills and stay at the forefront of emerging technologies. Beyond the realm of code, I am also a dedicated **language enthusiast**. Fluent in my native language, Chinese, I am currently on a linguistic journey, mastering both **Japanese** and **English** with the aim of making them as natural to me as my mother tongue.
+Welcome to my **digital garden**, where I share my notes, thoughts, and blogs. I embrace **"imperfectism"**—prioritizing growth and iteration over perfection. Dive in and explore my journey of learning and creativity!  
 
-So, welcome to my **digital garden**, a curated space where I nurture and cultivate my brainchildren, notes, and blogs. At its core, this garden abides by the principle of **"imperfectism."** While I once adhered to the pursuit of perfection in coding, article editing, and various endeavors, I've come to appreciate the beauty in embracing imperfection. Here, you'll find notes and blogs that may not always boast a flawless structure or impeccable rhetoric. Instead, the focus is on the journey of creation, the iterative process of building, and the acceptance of imperfections as integral to the creative journey. It's a testament to the belief that continuous creation and building, without the constraints of perfection, pave the way for remarkable results over time.
+If you're interested in any of my topics, check out these MOCs:
 
-Ready to explore? Dive into my digital garden and join me on this dynamic journey of continuous learning and creative exploration.
-
-If you're interested in software development and computer science, check out these MOCs:
-- [[Docker MOC]]
-- [[JavaScript MOC]]
-- [[CSS MOC]]
-- [[React MOC]]
-- [[Web-Dev MOC]]
-- [[Backend MOC]]
-- [[Dev Environment MOC]]
-- [[Linux MOC]]
-
-If you're curious about my language journey, step into the world of linguistics:
-- [[English Grammar]]
-- [[English Pronunciation]]
-
-Others:
-- [[Resume, Cover Letter]]
+| [[Docker MOC]]  | [[JavaScript MOC]] | [[CSS MOC]]       | [[React MOC]]        |
+|-----------------|-------------------|-------------------|----------------------|
+| [[Web-Dev MOC]] | [[Backend MOC]]   | [[Linux MOC]]     | [[Dev Environment MOC]] |
+| [[English Grammar]] | [[English Pronunciation]] | [[Resume, Cover Letter]] |   |
