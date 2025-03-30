@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Spring Boot MOC",
+      "path": "spring-boot/Spring Boot MOC.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "Web-Dev MOC",
+      "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "PWA (Progressive Web Apps)",
+      "path": "pwa/PWA (Progressive Web Apps).md"
+    },
+    {
+      "basename": "JavaScript MOC",
+      "path": "javascript/JavaScript MOC.md"
+    },
+    {
+      "basename": "Event Capturing and Bubbling",
+      "path": "javascript/browser-event/Event Capturing and Bubbling.md"
+    },
+    {
+      "basename": "Event CurrentTarget and Target",
+      "path": "javascript/browser-event/Event CurrentTarget and Target.md"
+    },
+    {
+      "basename": "React MOC",
+      "path": "react/React MOC.md"
+    },
+    {
+      "basename": "Multi-Step Builds in Dockerfile",
+      "path": "docker/Multi-Step Builds in Dockerfile.md"
+    },
+    {
+      "basename": "Linux User and Permission Management",
+      "path": "linux/Linux User and Permission Management.md"
     },
     {
       "basename": "Linux MOC",
-      "path": "mocs/Linux MOC.md"
+      "path": "linux/Linux MOC.md"
+    },
+    {
+      "basename": "Docker Volumes",
+      "path": "docker/Docker Volumes.md"
+    },
+    {
+      "basename": "Dev Env MOC",
+      "path": "mocs/Dev Env MOC.md"
+    },
+    {
+      "basename": "Docker MOC",
+      "path": "docker/Docker MOC.md"
+    },
+    {
+      "basename": "Fish Shell",
+      "path": "fish-shell/Fish Shell.md"
+    },
+    {
+      "basename": "PostgreSQL MOC",
+      "path": "postgresql/PostgreSQL MOC.md"
+    },
+    {
+      "basename": "Resume MOC",
+      "path": "resume/Resume MOC.md"
     },
     {
       "basename": "Linux File Operations",
       "path": "linux/Linux File Operations.md"
-    },
-    {
-      "basename": "Linux User and Permission Management",
-      "path": "mocs/Linux User and Permission Management.md"
     },
     {
       "basename": "Linux basic commands",
@@ -22,27 +78,15 @@
     },
     {
       "basename": "CSS MOC",
-      "path": "mocs/CSS MOC.md"
+      "path": "css/CSS MOC.md"
     },
     {
       "basename": "Controlled Components",
       "path": "react/Controlled Components.md"
     },
     {
-      "basename": "Docker MOC",
-      "path": "mocs/Docker MOC.md"
-    },
-    {
       "basename": "Docker Compose",
       "path": "docker/docker-compose/Docker Compose.md"
-    },
-    {
-      "basename": "Multi-Step Builds in Dockerfile",
-      "path": "mocs/Multi-Step Builds in Dockerfile.md"
-    },
-    {
-      "basename": "Docker Volumes",
-      "path": "mocs/Docker Volumes.md"
     },
     {
       "basename": "docker-volumes",
@@ -155,50 +199,6 @@
     {
       "basename": "continer-input-output",
       "path": "attachments/continer-input-output.png"
-    },
-    {
-      "basename": "docker-exec-redis",
-      "path": "attachments/docker-exec-redis.png"
-    },
-    {
-      "basename": "docker stop, kill",
-      "path": "docker/cli-commands/docker stop, kill.md"
-    },
-    {
-      "basename": "docker-container-lifecycle",
-      "path": "attachments/docker-container-lifecycle.png"
-    },
-    {
-      "basename": "Install Docker on Windows WSL 2",
-      "path": "docker/docker/Install Docker on Windows WSL 2.md"
-    },
-    {
-      "basename": "docker-image",
-      "path": "attachments/docker-image.png"
-    },
-    {
-      "basename": "docker-container",
-      "path": "attachments/docker-container.png"
-    },
-    {
-      "basename": "how-docker-works",
-      "path": "attachments/how-docker-works.png"
-    },
-    {
-      "basename": "Full Route Cache",
-      "path": "react/next-cache/Full Route Cache.md"
-    },
-    {
-      "basename": "React MOC",
-      "path": "mocs/React MOC.md"
-    },
-    {
-      "basename": "Router Cache",
-      "path": "react/next-cache/Router Cache.md"
-    },
-    {
-      "basename": "Request Memoization",
-      "path": "react/next-cache/Request Memoization.md"
     }
   ],
   "omittedPaths": [],

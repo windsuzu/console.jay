@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-31 19:59
+date: 2025-03-30 17:59
 tags:
   - javascript
 ---
@@ -16,6 +16,11 @@ tags:
 ## Programming Paradigm
 - [[Imperative and Declarative Programming]]
 - [[Pattern Matching (ts-pattern)]]
+
+## Browser Event
+- [[Event Capturing and Bubbling]]
+- [[Event Delegation (event.target)]]
+- [[Event CurrentTarget and Target]]
 
 ---
 ## Great Articles
