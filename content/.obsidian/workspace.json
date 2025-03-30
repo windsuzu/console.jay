@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocs/Linux MOC.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux MOC"
+              "title": "index"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,8 +81,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -226,10 +227,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mocs/Linux MOC.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Linux MOC"
+              "title": "File properties for index"
             }
           }
         ],
@@ -246,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocs/Linux MOC.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linux MOC"
+              "title": "Outgoing links from index"
             }
           }
         ]
@@ -267,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocs/Linux MOC.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linux MOC"
+              "title": "Backlinks for index"
             }
           }
         ]
@@ -293,17 +294,17 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "cmdr:QuickAdd: Add new note ⚡": false,
       "cmdr:Obsidian Git: Create backup": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "95017a766c5d9aea",
   "lastOpenFiles": [
-    "linux/Linux File Operations.md",
     "mocs/Linux MOC.md",
+    "linux/Linux File Operations.md",
     "mocs/Linux User and Permission Management.md",
     "linux/Linux basic commands.md",
     "linux/Untitled.md",

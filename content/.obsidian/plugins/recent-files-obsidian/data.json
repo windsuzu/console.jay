@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Linux MOC",
       "path": "mocs/Linux MOC.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "CSS MOC",
       "path": "mocs/CSS MOC.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Controlled Components",
