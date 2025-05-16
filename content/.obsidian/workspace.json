@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Spring Boot MOC"
             }
-          },
-          {
-            "id": "993f5ffb7f907edb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,9 +241,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "spring-boot/Spring Boot MOC.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Spring Boot MOC"
             }
           }
         ],
@@ -272,11 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "spring-boot/Spring Boot MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Spring Boot MOC"
             }
           }
         ]
@@ -292,6 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "spring-boot/Spring Boot MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +293,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Spring Boot MOC"
             }
           }
         ]
@@ -324,7 +316,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "993f5ffb7f907edb",
+  "active": "d5571a490858c91e",
   "lastOpenFiles": [
     "spring-boot/@Value.md",
     "spring-boot/Spring Boot MOC.md",
