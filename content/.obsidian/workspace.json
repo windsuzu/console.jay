@@ -36,17 +36,15 @@
             }
           },
           {
-            "id": "c89b7f568b47a105",
+            "id": "993f5ffb7f907edb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "spring-boot/Spring Boot Quick Start.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "Spring Boot Quick Start"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
@@ -255,11 +253,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "spring-boot/Spring Boot Quick Start.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Spring Boot Quick Start"
+              "title": "File properties"
             }
           }
         ],
@@ -276,12 +272,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring-boot/Spring Boot Quick Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spring Boot Quick Start"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -297,7 +292,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring-boot/Spring Boot Quick Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +301,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spring Boot Quick Start"
+              "title": "Backlinks"
             }
           }
         ]
@@ -330,12 +324,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c89b7f568b47a105",
+  "active": "993f5ffb7f907edb",
   "lastOpenFiles": [
-    "spring-boot/Spring Boot Quick Start.md",
+    "spring-boot/@Value.md",
     "spring-boot/Spring Boot MOC.md",
+    "spring-boot/@ComponentScan.md",
+    "spring-boot/Setter Injection.md",
+    "spring-boot/Dependency Injection.md",
+    "spring-boot/Field Injection (Not Recommend).md",
+    "spring-boot/Constructor Injection.md",
+    "spring-boot/Spring Boot Quick Start.md",
+    "spring-boot/Inversion of control (IoC).md",
     "Homepage.md",
     "mocs/Web-Dev MOC.md",
+    "mocs/Dev Env MOC.md",
     "pwa/PWA (Progressive Web Apps).md",
     "javascript/JavaScript MOC.md",
     "javascript/browser-event/Event Capturing and Bubbling.md",
@@ -345,22 +347,14 @@
     "linux/Linux User and Permission Management.md",
     "linux/Linux MOC.md",
     "docker/Docker Volumes.md",
-    "mocs/Dev Env MOC.md",
     "docker/Docker MOC.md",
     "fish-shell/Fish Shell.md",
     "spring-boot",
     "postgresql/PostgreSQL MOC.md",
     "resume/Resume MOC.md",
     "mocs/Backend MOC.md",
-    "linux/Linux File Operations.md",
-    "linux/Linux basic commands.md",
-    "linux/Untitled.md",
     "linux",
-    "css/CSS MOC.md",
-    "react/Controlled Components.md",
-    "docker/docker-compose/Docker Compose.md",
     "attachments/docker-volumes.png",
-    "docker/cli-commands/docker run, create, start.md",
     "docker/docker",
     "docker/docker-compose",
     "attachments/docker-container-no-files.png",

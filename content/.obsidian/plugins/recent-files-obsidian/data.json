@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring Boot Quick Start",
-      "path": "spring-boot/Spring Boot Quick Start.md"
-    },
-    {
       "basename": "Spring Boot MOC",
       "path": "spring-boot/Spring Boot MOC.md"
+    },
+    {
+      "basename": "@Value",
+      "path": "spring-boot/@Value.md"
+    },
+    {
+      "basename": "@ComponentScan",
+      "path": "spring-boot/@ComponentScan.md"
+    },
+    {
+      "basename": "Setter Injection",
+      "path": "spring-boot/Setter Injection.md"
+    },
+    {
+      "basename": "Dependency Injection",
+      "path": "spring-boot/Dependency Injection.md"
+    },
+    {
+      "basename": "Field Injection (Not Recommend)",
+      "path": "spring-boot/Field Injection (Not Recommend).md"
+    },
+    {
+      "basename": "Constructor Injection",
+      "path": "spring-boot/Constructor Injection.md"
+    },
+    {
+      "basename": "Inversion of control (IoC)",
+      "path": "spring-boot/Inversion of control (IoC).md"
     },
     {
       "basename": "Homepage",
@@ -15,6 +39,10 @@
     {
       "basename": "Web-Dev MOC",
       "path": "mocs/Web-Dev MOC.md"
+    },
+    {
+      "basename": "Dev Env MOC",
+      "path": "mocs/Dev Env MOC.md"
     },
     {
       "basename": "PWA (Progressive Web Apps)",
@@ -51,10 +79,6 @@
     {
       "basename": "Docker Volumes",
       "path": "docker/Docker Volumes.md"
-    },
-    {
-      "basename": "Dev Env MOC",
-      "path": "mocs/Dev Env MOC.md"
     },
     {
       "basename": "Docker MOC",
@@ -175,30 +199,6 @@
     {
       "basename": "docker container prune",
       "path": "docker/cli-commands/docker container prune.md"
-    },
-    {
-      "basename": "docker logs",
-      "path": "docker/cli-commands/docker logs.md"
-    },
-    {
-      "basename": "docker exec",
-      "path": "docker/cli-commands/docker exec.md"
-    },
-    {
-      "basename": "Get something done, Get someone to do",
-      "path": "english-grammar/Get something done, Get someone to do.md"
-    },
-    {
-      "basename": "Gerund",
-      "path": "english-grammar/Gerund.md"
-    },
-    {
-      "basename": "Measurable metrics on resume",
-      "path": "resume/Measurable metrics on resume.md"
-    },
-    {
-      "basename": "Docker -it flags",
-      "path": "docker/cli-commands/Docker -it flags.md"
     }
   ],
   "omittedPaths": [],
