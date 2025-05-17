@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Spring Boot MOC",
       "path": "spring-boot/Spring Boot MOC.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Inversion of control (IoC)",
       "path": "spring-boot/Inversion of control (IoC).md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "Web-Dev MOC",

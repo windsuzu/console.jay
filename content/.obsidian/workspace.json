@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Boot MOC"
+              "title": "index"
             }
           }
         ],
@@ -242,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md"
+                "file": "index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Spring Boot MOC"
+              "title": "File properties for index"
             }
           }
         ],
@@ -262,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spring Boot MOC"
+              "title": "Outgoing links from index"
             }
           }
         ]
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring-boot/Spring Boot MOC.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +293,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spring Boot MOC"
+              "title": "Backlinks for index"
             }
           }
         ]
@@ -316,10 +316,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5571a490858c91e",
+  "active": "e4f857c12bc33e53",
   "lastOpenFiles": [
-    "spring-boot/@Value.md",
     "spring-boot/Spring Boot MOC.md",
+    "spring-boot/@Value.md",
     "spring-boot/@ComponentScan.md",
     "spring-boot/Setter Injection.md",
     "spring-boot/Dependency Injection.md",
@@ -327,7 +327,7 @@
     "spring-boot/Constructor Injection.md",
     "spring-boot/Spring Boot Quick Start.md",
     "spring-boot/Inversion of control (IoC).md",
-    "Homepage.md",
+    "index.md",
     "mocs/Web-Dev MOC.md",
     "mocs/Dev Env MOC.md",
     "pwa/PWA (Progressive Web Apps).md",
